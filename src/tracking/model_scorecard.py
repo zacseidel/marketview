@@ -59,7 +59,7 @@ def _load_model_evals(model: str) -> list[tuple[str, list[dict]]]:
     if not _MODELS_DIR.exists():
         return []
     result: list[tuple[str, list[dict]]] = []
-    for d in sorted(d for d in _MODELS_DIR.iterdir() if d.is_dir()):
+    for d in sorted(d for d in _MODELS_DIR.iterdir() if d.is_dir() and d.name[0].isdigit()):
         path = d / f"{model}.json"
         if path.exists():
             with open(path) as f:

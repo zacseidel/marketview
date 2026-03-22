@@ -6,9 +6,29 @@ Automated stock analysis and paper trading platform. Runs entirely on GitHub Act
 
 ---
 
+## Local Workflow (Console)
+
+Three scripts cover the full Mon/Thu → Tue/Fri cycle from the terminal:
+
+```bash
+# 1. Monday/Thursday evening — download prices, run models, generate decision file
+python action.py
+
+# 2. Review recommendations interactively — walk through each model, research stocks,
+#    select buys, then commit and push the updated decision file
+python review.py
+
+# 3. Tuesday/Friday after fills — process decisions, record fills, update P&L, dashboard
+python finish.py
+```
+
+`review.py` walks through each model's picks one by one, lets you type `?TICKER` for a full detail view (company description, fundamentals, GBM features), and updates the markdown checkboxes when you confirm. Commit and push the result to trigger execution.
+
+---
+
 ## What It Does
 
-Models evaluate the S&P 500 + 400 universe twice a week and produce a markdown checklist of buy/hold/sell recommendations. You review on your phone via the GitHub mobile app, check/uncheck items, and commit. The next trading day, approved trades execute at the OHLC average price. Everything is paper-traded and tracked across three performance layers.
+Models evaluate the S&P 500 + 400 universe twice a week and produce a markdown checklist of buy/hold/sell recommendations. You review on your phone via the GitHub mobile app or locally via `review.py`, check/uncheck items, and commit. The next trading day, approved trades execute at the OHLC average price. Everything is paper-traded and tracked across three performance layers.
 
 **Evaluation cadence:** Models run Monday/Thursday evenings → decision file generated → you review → executes Tuesday/Friday.
 
@@ -64,12 +84,14 @@ Models are registered in `config/models.yaml`. Enable/disable without touching w
 
 | Model | Signal | Status |
 |---|---|---|
-| **momentum** | Price vs. SMA50/200, rate-of-change over 1/3/6 months, relative strength vs. SPY | Enabled |
-| **buyback** | 2+ consecutive quarters of declining share count (≥1%/quarter) | Enabled |
+| **momentum** | Top 10 S&P 500 by trailing 12-month return, rank-stability filter | Enabled |
+| **munger** | Top 100 by market cap; buy on dip to SMA200, above EMA15 | Enabled |
+| **repurchase** | Top 5 by trailing 12-month share buyback %; above 21d EMA | Enabled |
+| **quant_gbm** | LightGBM on 15 technical factors; predicts 20d forward return. Val Sharpe: 0.794 | Enabled |
+| **quant_knn** | KNN (K=50) analog matching on same 15 factors. Val Sharpe: 0.373 | Enabled |
 | **watchlist** | User-curated tickers from `config/watchlist.yaml` | Enabled |
 | **composite** | Meta-model: tickers where 2+ models agree, conviction-weighted | Enabled |
-| **earnings** | YoY/QoQ net income growth, revenue growth, consecutive profitable quarters | Disabled — needs fundamentals data |
-| **quant** | Factor-based screening | Stub |
+| **earnings** | YoY/QoQ net income growth, revenue growth, consecutive profitable quarters | Disabled — needs fundamentals bulk fetch |
 | **thirteen_f** | SEC 13F institutional position tracking | Stub |
 
 All models implement the same interface: `run(config, dal) -> list[HoldingRecord]`. Adding a model = write a Python file + add a config entry.
@@ -165,8 +187,16 @@ Required secret in GitHub repository settings: `POLYGON_API_KEY`.
 ## Running Locally
 
 ```bash
-python -m src.collection.process_queue      # clear work queue
+# Full cycle (see Local Workflow section at top)
+python action.py                            # prices + models + decision file
+python review.py                            # interactive review + approve decisions
+python finish.py                            # fills + P&L + dashboard
+
+# One-time setup
+python -m src.selection.quant --backfill    # download extended price history for quant models
 python -m src.collection.fundamentals       # bulk fetch fundamentals (~3 hrs, resumable)
+
+# Individual steps
 python -m src.selection.runner              # run all enabled models
 python -m src.tracking.pnl                  # mark positions to market
 python -m src.tracking.model_scorecard      # update scorecards
