@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# Environment variables
+.env.local
+.env.*.local
+
+# Data files (keep .gitkeep, ignore actual data)
+data/**/*.json
+data/**/*.csv
+!data/**/.gitkeep
+
+# Quant research data (large files — parquet, model artifacts)
+data/quant/
+
+# Decisions pending (committed by bot, not ignored)
+# decisions/pending/*.md are intentionally tracked
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Logs
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints/

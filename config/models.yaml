@@ -1,0 +1,97 @@
+# Market Tracker — Model Registry
+# Each model must implement src/selection/base.py's SelectionModel interface.
+# Set enabled: false to skip a model on evaluation runs.
+
+models:
+  momentum:
+    enabled: true
+    module: "src.selection.momentum"
+    class: "MomentumModel"
+    description: "Top 10 S&P 500 tickers by trailing 12-month return (252 trading days), with rank-stability filter (rank must not drop week-over-week)"
+    params:
+      max_holdings: 10
+
+  munger:
+    enabled: true
+    module: "src.selection.munger"
+    class: "MungerModel"
+    description: "Top 100 S&P 500 by market cap; buy if price touched SMA200 in last 21 days and is currently above EMA15; sell if price drops below EMA15"
+    params:
+      universe_size: 100
+      sma_long: 200
+      ema_short: 15
+      dip_lookback: 21
+      max_holdings: 20
+
+  repurchase:
+    enabled: true
+    module: "src.selection.repurchase"
+    class: "RepurchaseModel"
+    description: "Top 5 by trailing-12-month share buyback % (shares repurchased / shares outstanding); must be above 21-day EMA. Sell if drops out of top 5 or below EMA. NOTE: currently runs on S&P 400 universe — will expand to S&P 500 once fundamentals bulk fetch is run."
+    params:
+      max_holdings: 5
+
+  buyback:
+    enabled: false
+    module: "src.selection.buyback"
+    class: "BuybackModel"
+    description: "Flags tickers with 2+ consecutive quarters of declining share count (>=1%/quarter)"
+    params:
+      min_consecutive_quarters: 2
+      min_quarterly_reduction_pct: 0.01
+      min_conviction: 0.50
+      max_holdings: 30
+
+  watchlist:
+    enabled: true
+    module: "src.selection.watchlist"
+    class: "WatchlistModel"
+    description: "Reads config/watchlist.yaml; produces holdings from user-curated tickers"
+    params:
+      watchlist_path: "config/watchlist.yaml"
+
+  composite:
+    enabled: true
+    module: "src.selection.composite"
+    class: "CompositeModel"
+    description: "Meta-model: flags tickers where 2+ enabled models agree, weighted by conviction"
+    params:
+      min_models_agreeing: 2
+      conviction_weights:
+        momentum: 1.0
+        watchlist: 0.5
+
+  quant_gbm:
+    enabled: true
+    module: "src.selection.quant"
+    class: "QuantModel"
+    description: "LightGBM regression on 15 technical factors; trained on 10yr SP500/400 history; predicts 20d forward log return. Val Sharpe: 0.794, excess return +1.46%/period vs SPY."
+    params:
+      model: "gbm"
+      max_holdings: 20
+
+  quant_knn:
+    enabled: true
+    module: "src.selection.quant"
+    class: "QuantModel"
+    description: "KNN analog matching (K=50, BallTree) on 15 technical factors; trained on 10yr SP500/400 history; predicts 20d forward log return. Val Sharpe: 0.373, excess return +0.64%/period vs SPY."
+    params:
+      model: "knn"
+      max_holdings: 20
+
+  thirteen_f:
+    enabled: false
+    module: "src.selection.thirteen_f"
+    class: "ThirteenFModel"
+    description: "Placeholder — SEC EDGAR 13F institutional position tracking (Phase 5)"
+    params: {}
+
+  earnings:
+    enabled: false
+    module: "src.selection.earnings"
+    class: "EarningsModel"
+    description: "Earnings momentum: YoY/QoQ net income growth, revenue growth, consecutive profitable quarters"
+    params:
+      min_conviction: 0.50
+      max_holdings: 30
+      min_quarters: 4

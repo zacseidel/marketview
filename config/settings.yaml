@@ -1,0 +1,50 @@
+# Market Tracker — Settings
+# All secrets are referenced as environment variables, never hardcoded.
+
+api:
+  polygon_api_key: "${POLYGON_API_KEY}"
+  polygon_base_url: "https://api.polygon.io"
+  rate_limit_calls_per_minute: 5
+
+paths:
+  data_root: "data"
+  universe: "data/universe"
+  prices: "data/prices"
+  fundamentals: "data/fundamentals"
+  options: "data/options"
+  queue: "data/queue"
+  models: "data/models"
+  decisions: "data/decisions"
+  positions: "data/positions"
+  splits: "data/splits"
+  decisions_pending: "decisions/pending"
+  dashboard_output: "docs"
+
+universe:
+  # Minimum fields required to admit a ticker into the broad universe
+  require_company_description: true
+  require_ticker_details: true
+  # Price anomaly threshold for split detection (fractional move)
+  split_detection_threshold: 0.40
+  # Number of years of price history to backfill on init
+  price_backfill_years: 2
+
+strategy:
+  # Default days-to-expiration ranges for options strategies
+  covered_call_dte_min: 21
+  covered_call_dte_max: 45
+  leap_dte_min: 180
+  leap_dte_max: 730
+  diagonal_short_dte_min: 21
+  diagonal_short_dte_max: 45
+  csp_dte_min: 21
+  csp_dte_max: 45
+  # Target delta for short options legs
+  covered_call_target_delta: 0.30
+  csp_target_delta: 0.30
+
+evaluation:
+  # Days of week models run (0=Monday, 3=Thursday)
+  model_run_days: [0, 3]
+  # Days of week decisions execute (1=Tuesday, 4=Friday)
+  execution_days: [1, 4]

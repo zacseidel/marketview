@@ -1,0 +1,9 @@
+# Market Tracker — Manual Watchlist
+# Tickers listed here are fed into the WatchlistModel (src/selection/watchlist.py).
+# conviction: 0.0–1.0  (your personal confidence level)
+# notes: free-form thesis or context
+
+watchlist:
+  - ticker: "AAPL"
+    conviction: 0.75
+    notes: "Example entry — replace with your own tickers and thesis"

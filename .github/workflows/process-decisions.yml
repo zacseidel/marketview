@@ -1,0 +1,35 @@
+name: Process Decisions
+
+on:
+  push:
+    paths:
+      - "decisions/pending/**"
+  workflow_dispatch:
+
+jobs:
+  process-decisions:
+    runs-on: ubuntu-latest
+    # Prevent self-triggering when the bot commits processed decision records
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Parse and process decision file
+        env:
+          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
+        run: python -m src.decisions.process
+
+      - name: Commit processed records
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/decisions/ data/queue/
+          git diff --staged --quiet || git commit -m "chore: process decisions $(date -u +%Y-%m-%d) [skip ci]"
+          git push

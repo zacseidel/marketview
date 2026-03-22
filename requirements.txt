@@ -1,0 +1,15 @@
+requests
+pyyaml
+pandas
+numpy
+jinja2
+click
+python-dateutil
+structlog
+beautifulsoup4
+lxml
+python-dotenv
+yfinance
+scikit-learn
+lightgbm
+pyarrow

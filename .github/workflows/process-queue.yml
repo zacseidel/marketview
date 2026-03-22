@@ -1,0 +1,32 @@
+name: Process Queue
+
+on:
+  schedule:
+    - cron: "0 23 * * 1-5"  # Weekdays 7:00 PM ET (UTC-4)
+  workflow_dispatch:
+
+jobs:
+  process-queue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Process pending queue tasks
+        env:
+          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
+        run: python -m src.collection.process_queue
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/queue/ data/options/ data/universe/ data/splits/
+          git diff --staged --quiet || git commit -m "chore: process queue $(date -u +%Y-%m-%d) [skip ci]"
+          git push

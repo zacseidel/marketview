@@ -1,0 +1,30 @@
+name: Update Positions
+
+on:
+  schedule:
+    - cron: "30 0 * * 2-6"  # Weekdays 8:30 PM ET (UTC-4), runs Tue–Sat UTC
+  workflow_dispatch:
+
+jobs:
+  update-positions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Mark positions to market and compute P&L
+        run: python -m src.tracking.pnl
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/positions/
+          git diff --staged --quiet || git commit -m "chore: update positions $(date -u +%Y-%m-%d) [skip ci]"
+          git push

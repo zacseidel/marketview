@@ -1,0 +1,32 @@
+name: Record Executions
+
+on:
+  schedule:
+    - cron: "0 23 * * 2,5"  # Tue/Fri 7:00 PM ET (UTC-4)
+  workflow_dispatch:
+
+jobs:
+  record-executions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Record execution prices and update positions
+        env:
+          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
+        run: python -m src.decisions.execute
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/decisions/ data/positions/ data/queue/
+          git diff --staged --quiet || git commit -m "chore: record executions $(date -u +%Y-%m-%d) [skip ci]"
+          git push
