@@ -7,9 +7,9 @@ models:
     enabled: true
     module: "src.selection.momentum"
     class: "MomentumModel"
-    description: "Top 10 S&P 500 tickers by trailing 12-month return (252 trading days), with rank-stability filter (rank must not drop week-over-week)"
+    description: "Top 5 S&P 500 tickers by trailing 12-month return (252 trading days), with rank-stability filter (rank must not drop week-over-week)"
     params:
-      max_holdings: 10
+      max_holdings: 5
 
   munger:
     enabled: true
@@ -21,7 +21,7 @@ models:
       sma_long: 200
       ema_short: 15
       dip_lookback: 21
-      max_holdings: 20
+      max_holdings: 5
 
   repurchase:
     enabled: true
@@ -51,13 +51,13 @@ models:
       watchlist_path: "config/watchlist.yaml"
 
   quant_gbm:
-    enabled: false
+    enabled: true
     module: "src.selection.quant"
     class: "QuantModel"
-    description: "LightGBM regression on 15 technical factors; trained on 10yr SP500/400 history; predicts 20d forward log return. Val Sharpe: 0.794, excess return +1.46%/period vs SPY. Superseded by quant_gbm_v2/v3."
+    description: "LightGBM regression on 15 pure technical factors; trained on 10yr SP500/400 history; predicts 20d forward log return. Val Sharpe: 0.794, excess return +1.46%/period vs SPY."
     params:
       model: "gbm"
-      max_holdings: 20
+      max_holdings: 5
 
   quant_knn:
     enabled: false
@@ -74,15 +74,15 @@ models:
     class: "QuantModelV3"
     description: "LightGBM v3: 28 technical (incl. log_ret_756d) + buyback + earnings + SPY market state + sector features; 10d forward log return target; trained on 10yr history. Val Sharpe: 1.125, excess return +0.84%/period vs SPY."
     params:
-      max_holdings: 20
+      max_holdings: 5
 
   quant_gbm_v2:
-    enabled: true
+    enabled: false
     module: "src.selection.quant_v2"
     class: "QuantModelV2"
-    description: "LightGBM v2: 27 technical + buyback + earnings + SPY market state + sector features; 10d forward log return target; trained on full 10yr history. Val Sharpe: 0.973, excess return +0.79%/period vs SPY."
+    description: "LightGBM v2: 27 technical + buyback + earnings + SPY market state + sector features; 10d forward log return target; trained on full 10yr history. Val Sharpe: 0.973, excess return +0.79%/period vs SPY. Superseded by quant_gbm_v3."
     params:
-      max_holdings: 20
+      max_holdings: 5
 
   thirteen_f:
     enabled: false

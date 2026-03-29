@@ -39,7 +39,7 @@ _MODEL_DESCRIPTIONS = {
     "momentum":     "Top 10 S&P 500 by trailing 12-month return, rank-stable. Pure price momentum.",
     "munger":       "Top 100 by market cap; buy when price dips to SMA200 then recovers above EMA15. Quality on dips.",
     "repurchase":   "Top 5 by trailing 12-month share buyback %; above 21d EMA. Aggressive capital return.",
-    "quant_gbm_v2": "LightGBM v2: 27 features + SPY market state + sector + earnings/buyback; predicts 10d forward return. Val Sharpe: 0.973.",
+    "quant_gbm":    "LightGBM v1: 15 pure technical features; predicts 20d forward return. Val Sharpe: 0.794.",
     "quant_gbm_v3": "LightGBM v3: 28 features (incl. log_ret_756d) + sector + earnings; predicts 10d forward return. Val Sharpe: 1.125.",
     "watchlist":    "User-curated tickers.",
 }

@@ -513,12 +513,12 @@ def _render_quant_scorecard(metrics: dict) -> str:
         return ""
 
     _MODEL_LABELS = {
-        "gbm_v2": ("quant_gbm_v2", "27 features + SPY/earnings/buyback/sector, 10d target"),
+        "gbm":    ("quant_gbm",    "15 pure technical features, 20d target"),
         "gbm_v3": ("quant_gbm_v3", "28 features + log_ret_756d + sector/earnings, 10d target"),
     }
 
     rows = ""
-    for key in ("gbm_v2", "gbm_v3"):
+    for key in ("gbm", "gbm_v3"):
         m = metrics.get(key)
         if not m or "error" in m:
             continue
