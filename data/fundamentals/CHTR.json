@@ -1,0 +1,524 @@
+[
+  {
+    "ticker": "CHTR",
+    "period": "TTM 2025",
+    "filing_date": "2026-01-30",
+    "shares_outstanding": 137743676.0,
+    "revenue": 54774000000.0,
+    "net_income": 5766000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2025",
+    "filing_date": "2026-01-30",
+    "shares_outstanding": 137743676.0,
+    "revenue": 54774000000.0,
+    "net_income": 5766000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 136395133.0,
+    "revenue": 13672000000.0,
+    "net_income": 1316000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-25",
+    "shares_outstanding": 141684415.0,
+    "revenue": 13766000000.0,
+    "net_income": 1495000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-25",
+    "shares_outstanding": 144574684.0,
+    "revenue": 13735000000.0,
+    "net_income": 1409000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2024",
+    "filing_date": "2025-01-31",
+    "shares_outstanding": 145363771.0,
+    "revenue": 55085000000.0,
+    "net_income": 5853000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 146643199.0,
+    "revenue": 13679000000.0,
+    "net_income": 1280000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-02",
+    "shares_outstanding": 151966313.0,
+    "revenue": 54607000000.0,
+    "net_income": 5261000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 152019159.0,
+    "revenue": 13584000000.0,
+    "net_income": 1436000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 151975698.0,
+    "revenue": 13659000000.0,
+    "net_income": 1413000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 153538359.0,
+    "revenue": 13653000000.0,
+    "net_income": 1183000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2022",
+    "filing_date": "2023-01-27",
+    "shares_outstanding": 164433596.0,
+    "revenue": 54022000000.0,
+    "net_income": 5849000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 160638186.0,
+    "revenue": 13550000000.0,
+    "net_income": 1367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 167090925.0,
+    "revenue": 13598000000.0,
+    "net_income": 1708000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 174500472.0,
+    "revenue": 13200000000.0,
+    "net_income": 1389000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2021",
+    "filing_date": "2022-01-28",
+    "shares_outstanding": 193042948.0,
+    "revenue": 51682000000.0,
+    "net_income": 5320000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 187166071.0,
+    "revenue": 13146000000.0,
+    "net_income": 1407000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 199077390.0,
+    "revenue": 12802000000.0,
+    "net_income": 1158000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 205872536.0,
+    "revenue": 12522000000.0,
+    "net_income": 921000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2020",
+    "filing_date": "2021-01-29",
+    "shares_outstanding": 209273247.0,
+    "revenue": 48097000000.0,
+    "net_income": 3676000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 208722129.0,
+    "revenue": 12039000000.0,
+    "net_income": 932000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 210906946.0,
+    "revenue": 11696000000.0,
+    "net_income": 876000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 212810613.0,
+    "revenue": 11738000000.0,
+    "net_income": 467000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2019",
+    "filing_date": "2020-01-31",
+    "shares_outstanding": 223786380.0,
+    "revenue": 45764000000.0,
+    "net_income": 1992000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 222355867.0,
+    "revenue": 11450000000.0,
+    "net_income": 467000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-26",
+    "shares_outstanding": 225942172.0,
+    "revenue": 11347000000.0,
+    "net_income": 386000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 227595365.0,
+    "revenue": 11206000000.0,
+    "net_income": 317000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2018",
+    "filing_date": "2019-01-31",
+    "shares_outstanding": 235525226.0,
+    "revenue": 43634000000.0,
+    "net_income": 1506000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-26",
+    "shares_outstanding": 233607414.0,
+    "revenue": 10892000000.0,
+    "net_income": 584000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-31",
+    "shares_outstanding": 237073566.0,
+    "revenue": 10854000000.0,
+    "net_income": 339000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 241420722.0,
+    "revenue": 10657000000.0,
+    "net_income": 223000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-02",
+    "shares_outstanding": 296703956.0,
+    "revenue": 41581000000.0,
+    "net_income": 10115000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 258341851.0,
+    "revenue": 10458000000.0,
+    "net_income": 92000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 267309261.0,
+    "revenue": 10357000000.0,
+    "net_income": 195000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 273199509.0,
+    "revenue": 10164000000.0,
+    "net_income": 211000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-16",
+    "shares_outstanding": 234791439.0,
+    "revenue": 29003000000.0,
+    "net_income": 3745000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 275373202.0,
+    "revenue": 10037000000.0,
+    "net_income": 250000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 205214266.0,
+    "revenue": 6161000000.0,
+    "net_income": 3114000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 101552093.0,
+    "revenue": 2530000000.0,
+    "net_income": -188000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-10",
+    "shares_outstanding": 448885261.0,
+    "revenue": 9754000000.0,
+    "net_income": -271000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 113339885.0,
+    "revenue": 2450000000.0,
+    "net_income": 54000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 111783504.0,
+    "revenue": 2430000000.0,
+    "net_income": -122000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 111655617.0,
+    "revenue": 2362000000.0,
+    "net_income": -81000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 146000000.0,
+    "revenue": 9108000000.0,
+    "net_income": -183000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 97000000.0,
+    "revenue": 2287000000.0,
+    "net_income": -53000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 119000000.0,
+    "revenue": 2259000000.0,
+    "net_income": -45000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 127000000.0,
+    "revenue": 2202000000.0,
+    "net_income": -37000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 151000000.0,
+    "revenue": 8155000000.0,
+    "net_income": -169000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 61000000.0,
+    "revenue": 2118000000.0,
+    "net_income": -70000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 61000000.0,
+    "revenue": 1972000000.0,
+    "net_income": -96000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 129000000.0,
+    "revenue": 1917000000.0,
+    "net_income": -42000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 149000000.0,
+    "revenue": 7504000000.0,
+    "net_income": -304000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 173000000.0,
+    "revenue": 1880000000.0,
+    "net_income": -87000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 244000000.0,
+    "revenue": 1884000000.0,
+    "net_income": -83000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 326000000.0,
+    "revenue": 1827000000.0,
+    "net_income": -94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-01",
+    "shares_outstanding": 864000000.0,
+    "revenue": 1809000000.0,
+    "net_income": -85000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-02",
+    "shares_outstanding": null,
+    "revenue": 1791000000.0,
+    "net_income": -107000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHTR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": 113224303.0,
+    "revenue": 1770000000.0,
+    "net_income": -110000000.0,
+    "market_cap": null
+  }
+]

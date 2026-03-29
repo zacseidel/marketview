@@ -1,0 +1,335 @@
+[
+  {
+    "ticker": "APP",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 341970000.0,
+    "revenue": 5480717000.0,
+    "net_income": 3333751000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 341970000.0,
+    "revenue": 5480717000.0,
+    "net_income": 3333751000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 340974000.0,
+    "revenue": 1405045000.0,
+    "net_income": 835545000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 342194433.0,
+    "revenue": 1258754000.0,
+    "net_income": 819531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 344877542.0,
+    "revenue": 1484021000.0,
+    "net_income": 576419000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 348225463.0,
+    "revenue": 1198235000.0,
+    "net_income": 434420000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 347964201.0,
+    "revenue": 1080119000.0,
+    "net_income": 309969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 348596295.0,
+    "revenue": 1058115000.0,
+    "net_income": 236183000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "FY 2023",
+    "filing_date": "2024-02-26",
+    "shares_outstanding": 362589246.0,
+    "revenue": 3283087000.0,
+    "net_income": 356711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 356906222.0,
+    "revenue": 864256000.0,
+    "net_income": 108639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 366340275.0,
+    "revenue": 750165000.0,
+    "net_income": 80357000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-10",
+    "shares_outstanding": 373160029.0,
+    "revenue": 715405000.0,
+    "net_income": -4518000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 371568011.0,
+    "revenue": 2817058000.0,
+    "net_income": -192947000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-10",
+    "shares_outstanding": 378462207.0,
+    "revenue": 713099000.0,
+    "net_income": 23662000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-12",
+    "shares_outstanding": 373912724.0,
+    "revenue": 776231000.0,
+    "net_income": -21799000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-13",
+    "shares_outstanding": 371967881.0,
+    "revenue": 625421000.0,
+    "net_income": -115298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "FY 2021",
+    "filing_date": "2022-03-11",
+    "shares_outstanding": 342763632.0,
+    "revenue": 2793104000.0,
+    "net_income": 35338000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-12",
+    "shares_outstanding": 384324785.0,
+    "revenue": 726951000.0,
+    "net_income": 142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-13",
+    "shares_outstanding": 353857814.0,
+    "revenue": 668806000.0,
+    "net_income": 14364000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q3 2015",
+    "filing_date": "2016-02-01",
+    "shares_outstanding": -187676000.0,
+    "revenue": 126052000.0,
+    "net_income": -25560000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-17",
+    "shares_outstanding": -161043000.0,
+    "revenue": 134394000.0,
+    "net_income": -19350000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-11",
+    "shares_outstanding": -144306000.0,
+    "revenue": 124263000.0,
+    "net_income": -26424000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "FY 2014",
+    "filing_date": "2015-03-25",
+    "shares_outstanding": -115516000.0,
+    "revenue": 608891000.0,
+    "net_income": -68817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": -87591000.0,
+    "revenue": 155869000.0,
+    "net_income": -19184000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-18",
+    "shares_outstanding": -67602000.0,
+    "revenue": 162397000.0,
+    "net_income": -16205000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-12",
+    "shares_outstanding": -53672000.0,
+    "revenue": 137096000.0,
+    "net_income": -5466000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "FY 2013",
+    "filing_date": "2014-04-01",
+    "shares_outstanding": -77404000.0,
+    "revenue": 633941000.0,
+    "net_income": -106298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-14",
+    "shares_outstanding": -56191000.0,
+    "revenue": 164543000.0,
+    "net_income": -1513000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-12",
+    "shares_outstanding": null,
+    "revenue": 162236000.0,
+    "net_income": -37504000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": null,
+    "revenue": 138060000.0,
+    "net_income": -46511000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "FY 2012",
+    "filing_date": "2013-03-05",
+    "shares_outstanding": 22084000.0,
+    "revenue": 617310000.0,
+    "net_income": -37272000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-14",
+    "shares_outstanding": null,
+    "revenue": 162160000.0,
+    "net_income": -19012000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-14",
+    "shares_outstanding": null,
+    "revenue": 149462000.0,
+    "net_income": -15272000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-15",
+    "shares_outstanding": null,
+    "revenue": 132660000.0,
+    "net_income": -7891000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "FY 2011",
+    "filing_date": "2012-03-14",
+    "shares_outstanding": 92599000.0,
+    "revenue": 547336000.0,
+    "net_income": -39314000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": null,
+    "revenue": 140889000.0,
+    "net_income": -7194000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APP",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": null,
+    "revenue": 132804000.0,
+    "net_income": -213000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "DRI",
+    "period": "Q2 2026",
+    "filing_date": "2025-12-30",
+    "shares_outstanding": 116700000.0,
+    "revenue": 3102100000.0,
+    "net_income": 237200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2026",
+    "filing_date": "2025-09-26",
+    "shares_outstanding": 117600000.0,
+    "revenue": 3044700000.0,
+    "net_income": 257800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2025",
+    "filing_date": "2025-07-18",
+    "shares_outstanding": 118400000.0,
+    "revenue": 12076700000.0,
+    "net_income": 1049600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2025",
+    "filing_date": "2025-04-01",
+    "shares_outstanding": 118000000.0,
+    "revenue": 3158000000.0,
+    "net_income": 323400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2025",
+    "filing_date": "2025-01-02",
+    "shares_outstanding": 118300000.0,
+    "revenue": 2890000000.0,
+    "net_income": 215100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2025",
+    "filing_date": "2024-09-27",
+    "shares_outstanding": 119200000.0,
+    "revenue": 2757000000.0,
+    "net_income": 207200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2024",
+    "filing_date": "2024-07-19",
+    "shares_outstanding": 120800000.0,
+    "revenue": 11390000000.0,
+    "net_income": 1027600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2024",
+    "filing_date": "2024-04-02",
+    "shares_outstanding": 120400000.0,
+    "revenue": 2974800000.0,
+    "net_income": 312900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2024",
+    "filing_date": "2024-01-03",
+    "shares_outstanding": 120800000.0,
+    "revenue": 2727300000.0,
+    "net_income": 212100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2024",
+    "filing_date": "2023-09-29",
+    "shares_outstanding": 122000000.0,
+    "revenue": 2730600000.0,
+    "net_income": 194500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2023",
+    "filing_date": "2023-07-21",
+    "shares_outstanding": 122900000.0,
+    "revenue": 10487800000.0,
+    "net_income": 981900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2023",
+    "filing_date": "2023-04-04",
+    "shares_outstanding": 122500000.0,
+    "revenue": 2786200000.0,
+    "net_income": 286600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2023",
+    "filing_date": "2023-01-04",
+    "shares_outstanding": 123100000.0,
+    "revenue": 2486500000.0,
+    "net_income": 187200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2023",
+    "filing_date": "2022-10-04",
+    "shares_outstanding": 123900000.0,
+    "revenue": 2446100000.0,
+    "net_income": 193000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2022",
+    "filing_date": "2022-07-22",
+    "shares_outstanding": 129000000.0,
+    "revenue": 9630000000.0,
+    "net_income": 952800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2022",
+    "filing_date": "2022-04-05",
+    "shares_outstanding": 128200000.0,
+    "revenue": 2448900000.0,
+    "net_income": 247000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2022",
+    "filing_date": "2022-01-05",
+    "shares_outstanding": 130500000.0,
+    "revenue": 2272200000.0,
+    "net_income": 193200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2022",
+    "filing_date": "2021-10-05",
+    "shares_outstanding": 131700000.0,
+    "revenue": 2306000000.0,
+    "net_income": 230900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2021",
+    "filing_date": "2021-07-23",
+    "shares_outstanding": 131800000.0,
+    "revenue": 7196100000.0,
+    "net_income": 629300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2021",
+    "filing_date": "2021-04-06",
+    "shares_outstanding": 132000000.0,
+    "revenue": 1733000000.0,
+    "net_income": 128700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2021",
+    "filing_date": "2021-01-06",
+    "shares_outstanding": 131500000.0,
+    "revenue": 1656500000.0,
+    "net_income": 96000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2021",
+    "filing_date": "2020-10-06",
+    "shares_outstanding": 130900000.0,
+    "revenue": 1527400000.0,
+    "net_income": 36100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2020",
+    "filing_date": "2020-07-24",
+    "shares_outstanding": 122700000.0,
+    "revenue": 7806900000.0,
+    "net_income": -52400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2020",
+    "filing_date": "2020-03-31",
+    "shares_outstanding": 122800000.0,
+    "revenue": 2346500000.0,
+    "net_income": 232300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2020",
+    "filing_date": "2020-01-02",
+    "shares_outstanding": 123700000.0,
+    "revenue": 2056400000.0,
+    "net_income": 24700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2020",
+    "filing_date": "2019-10-01",
+    "shares_outstanding": 124600000.0,
+    "revenue": 2133900000.0,
+    "net_income": 170600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2019",
+    "filing_date": "2019-07-19",
+    "shares_outstanding": 125400000.0,
+    "revenue": 8510400000.0,
+    "net_income": 713400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2019",
+    "filing_date": "2019-04-02",
+    "shares_outstanding": 125000000.0,
+    "revenue": 2246500000.0,
+    "net_income": 223600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2019",
+    "filing_date": "2019-01-02",
+    "shares_outstanding": 125800000.0,
+    "revenue": 1973400000.0,
+    "net_income": 115600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2019",
+    "filing_date": "2018-10-02",
+    "shares_outstanding": 125800000.0,
+    "revenue": 2061400000.0,
+    "net_income": 166200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2018",
+    "filing_date": "2018-07-20",
+    "shares_outstanding": 126000000.0,
+    "revenue": 8080100000.0,
+    "net_income": 596000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2018",
+    "filing_date": "2018-04-03",
+    "shares_outstanding": 125700000.0,
+    "revenue": 2128400000.0,
+    "net_income": 217800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2018",
+    "filing_date": "2018-01-03",
+    "shares_outstanding": 125500000.0,
+    "revenue": 1881500000.0,
+    "net_income": 84700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2018",
+    "filing_date": "2017-10-03",
+    "shares_outstanding": 127300000.0,
+    "revenue": 1936100000.0,
+    "net_income": 119000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2017",
+    "filing_date": "2017-07-21",
+    "shares_outstanding": 126000000.0,
+    "revenue": 7170200000.0,
+    "net_income": 479100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2017",
+    "filing_date": "2017-04-04",
+    "shares_outstanding": 125900000.0,
+    "revenue": 1878700000.0,
+    "net_income": 165600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2017",
+    "filing_date": "2017-01-04",
+    "shares_outstanding": 124900000.0,
+    "revenue": 1642500000.0,
+    "net_income": 79500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2017",
+    "filing_date": "2016-10-05",
+    "shares_outstanding": 126700000.0,
+    "revenue": 1714400000.0,
+    "net_income": 110200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2016",
+    "filing_date": "2016-07-25",
+    "shares_outstanding": 129300000.0,
+    "revenue": 6933500000.0,
+    "net_income": 375000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2016",
+    "filing_date": "2016-04-06",
+    "shares_outstanding": 129400000.0,
+    "revenue": 1847500000.0,
+    "net_income": 105800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2016",
+    "filing_date": "2016-01-06",
+    "shares_outstanding": 129900000.0,
+    "revenue": 1608800000.0,
+    "net_income": 43200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2016",
+    "filing_date": "2015-10-02",
+    "shares_outstanding": 129300000.0,
+    "revenue": 1687000000.0,
+    "net_income": 86400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2015",
+    "filing_date": "2015-07-24",
+    "shares_outstanding": 129700000.0,
+    "revenue": 6764000000.0,
+    "net_income": 709500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2015",
+    "filing_date": "2015-03-30",
+    "shares_outstanding": 126900000.0,
+    "revenue": 1730900000.0,
+    "net_income": 133800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2015",
+    "filing_date": "2014-12-31",
+    "shares_outstanding": 127700000.0,
+    "revenue": 1559000000.0,
+    "net_income": -32800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2015",
+    "filing_date": "2014-10-03",
+    "shares_outstanding": 132200000.0,
+    "revenue": 1595800000.0,
+    "net_income": 503200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2014",
+    "filing_date": "2014-07-18",
+    "shares_outstanding": 133200000.0,
+    "revenue": 6285600000.0,
+    "net_income": 286200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2014",
+    "filing_date": "2014-03-31",
+    "shares_outstanding": 133400000.0,
+    "revenue": 1618500000.0,
+    "net_income": 109700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2014",
+    "filing_date": "2014-01-02",
+    "shares_outstanding": 132800000.0,
+    "revenue": 1485600000.0,
+    "net_income": 19800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2014",
+    "filing_date": "2013-09-30",
+    "shares_outstanding": 132600000.0,
+    "revenue": 1531500000.0,
+    "net_income": 70200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2013",
+    "filing_date": "2013-07-19",
+    "shares_outstanding": 131600000.0,
+    "revenue": 8551900000.0,
+    "net_income": 411900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2013",
+    "filing_date": "2013-04-01",
+    "shares_outstanding": 131500000.0,
+    "revenue": 2258200000.0,
+    "net_income": 134400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2013",
+    "filing_date": "2013-01-02",
+    "shares_outstanding": 131700000.0,
+    "revenue": 1960000000.0,
+    "net_income": 33600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2013",
+    "filing_date": "2012-09-28",
+    "shares_outstanding": 131000000.0,
+    "revenue": 2034800000.0,
+    "net_income": 110800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2012",
+    "filing_date": "2012-07-20",
+    "shares_outstanding": 133200000.0,
+    "revenue": 7998700000.0,
+    "net_income": 475500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2012",
+    "filing_date": "2012-04-02",
+    "shares_outstanding": 130900000.0,
+    "revenue": 2159700000.0,
+    "net_income": 164100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2012",
+    "filing_date": "2012-01-03",
+    "shares_outstanding": 133200000.0,
+    "revenue": 1831500000.0,
+    "net_income": 53700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2012",
+    "filing_date": "2011-09-30",
+    "shares_outstanding": 137200000.0,
+    "revenue": 1942000000.0,
+    "net_income": 106600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2011",
+    "filing_date": "2011-07-22",
+    "shares_outstanding": 140300000.0,
+    "revenue": 7500200000.0,
+    "net_income": 476300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2011",
+    "filing_date": "2011-04-04",
+    "shares_outstanding": 140000000.0,
+    "revenue": 1976800000.0,
+    "net_income": 151200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q2 2011",
+    "filing_date": "2011-01-05",
+    "shares_outstanding": 141200000.0,
+    "revenue": 1726200000.0,
+    "net_income": 74500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q1 2011",
+    "filing_date": "2010-10-05",
+    "shares_outstanding": 141700000.0,
+    "revenue": 1806700000.0,
+    "net_income": 113100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "FY 2010",
+    "filing_date": "2010-07-23",
+    "shares_outstanding": 142400000.0,
+    "revenue": 7113100000.0,
+    "net_income": 404500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
+    "period": "Q3 2010",
+    "filing_date": "2010-04-02",
+    "shares_outstanding": 142300000.0,
+    "revenue": 1874000000.0,
+    "net_income": 134300000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "MU",
+    "period": "Q2 2026",
+    "filing_date": "2026-03-19",
+    "shares_outstanding": 1142000000.0,
+    "revenue": 23860000000.0,
+    "net_income": 13785000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2026",
+    "filing_date": "2025-12-18",
+    "shares_outstanding": 1138000000.0,
+    "revenue": 13643000000.0,
+    "net_income": 5240000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2025",
+    "filing_date": "2025-10-03",
+    "shares_outstanding": 1125000000.0,
+    "revenue": 37378000000.0,
+    "net_income": 8539000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2025",
+    "filing_date": "2025-06-26",
+    "shares_outstanding": 1125000000.0,
+    "revenue": 9301000000.0,
+    "net_income": 1885000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2025",
+    "filing_date": "2025-03-21",
+    "shares_outstanding": 1123000000.0,
+    "revenue": 8053000000.0,
+    "net_income": 1583000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2025",
+    "filing_date": "2024-12-19",
+    "shares_outstanding": 1122000000.0,
+    "revenue": 8709000000.0,
+    "net_income": 1870000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2024",
+    "filing_date": "2024-10-04",
+    "shares_outstanding": 1118000000.0,
+    "revenue": 25111000000.0,
+    "net_income": 778000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2024",
+    "filing_date": "2024-06-27",
+    "shares_outstanding": 1123000000.0,
+    "revenue": 6811000000.0,
+    "net_income": 332000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2024",
+    "filing_date": "2024-03-21",
+    "shares_outstanding": 1114000000.0,
+    "revenue": 5824000000.0,
+    "net_income": 793000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2024",
+    "filing_date": "2023-12-21",
+    "shares_outstanding": 1100000000.0,
+    "revenue": 4726000000.0,
+    "net_income": -1234000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2023",
+    "filing_date": "2023-10-06",
+    "shares_outstanding": 1093000000.0,
+    "revenue": 15540000000.0,
+    "net_income": -5833000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2023",
+    "filing_date": "2023-06-29",
+    "shares_outstanding": 1094000000.0,
+    "revenue": 3752000000.0,
+    "net_income": -1896000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2023",
+    "filing_date": "2023-03-29",
+    "shares_outstanding": 1091000000.0,
+    "revenue": 3693000000.0,
+    "net_income": -2312000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2023",
+    "filing_date": "2022-12-22",
+    "shares_outstanding": 1090000000.0,
+    "revenue": 4085000000.0,
+    "net_income": -195000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2022",
+    "filing_date": "2022-10-07",
+    "shares_outstanding": 1122000000.0,
+    "revenue": 30758000000.0,
+    "net_income": 8687000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2022",
+    "filing_date": "2022-07-01",
+    "shares_outstanding": 1121000000.0,
+    "revenue": 8642000000.0,
+    "net_income": 2626000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2022",
+    "filing_date": "2022-03-30",
+    "shares_outstanding": 1130000000.0,
+    "revenue": 7786000000.0,
+    "net_income": 2263000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2022",
+    "filing_date": "2022-01-06",
+    "shares_outstanding": 1130000000.0,
+    "revenue": 7687000000.0,
+    "net_income": 2306000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2021",
+    "filing_date": "2021-10-08",
+    "shares_outstanding": 1141000000.0,
+    "revenue": 27705000000.0,
+    "net_income": 5861000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2021",
+    "filing_date": "2021-07-01",
+    "shares_outstanding": 1145000000.0,
+    "revenue": 7422000000.0,
+    "net_income": 1735000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2021",
+    "filing_date": "2021-04-01",
+    "shares_outstanding": 1144000000.0,
+    "revenue": 6236000000.0,
+    "net_income": 603000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2021",
+    "filing_date": "2021-01-08",
+    "shares_outstanding": 1135000000.0,
+    "revenue": 5773000000.0,
+    "net_income": 803000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2020",
+    "filing_date": "2020-10-19",
+    "shares_outstanding": 1131000000.0,
+    "revenue": 21435000000.0,
+    "net_income": 2710000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2020",
+    "filing_date": "2020-06-29",
+    "shares_outstanding": 1129000000.0,
+    "revenue": 5438000000.0,
+    "net_income": 805000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2020",
+    "filing_date": "2020-03-26",
+    "shares_outstanding": 1133000000.0,
+    "revenue": 4797000000.0,
+    "net_income": 407000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2020",
+    "filing_date": "2019-12-20",
+    "shares_outstanding": 1129000000.0,
+    "revenue": 5144000000.0,
+    "net_income": 508000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2019",
+    "filing_date": "2019-10-17",
+    "shares_outstanding": 1143000000.0,
+    "revenue": 23406000000.0,
+    "net_income": 6358000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2019",
+    "filing_date": "2019-06-26",
+    "shares_outstanding": 1129000000.0,
+    "revenue": 4788000000.0,
+    "net_income": 851000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2019",
+    "filing_date": "2019-03-21",
+    "shares_outstanding": 1141000000.0,
+    "revenue": 5835000000.0,
+    "net_income": 1625000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2019",
+    "filing_date": "2018-12-19",
+    "shares_outstanding": 1174000000.0,
+    "revenue": 7913000000.0,
+    "net_income": 3296000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2018",
+    "filing_date": "2018-10-15",
+    "shares_outstanding": 1229000000.0,
+    "revenue": 30391000000.0,
+    "net_income": 14138000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2018",
+    "filing_date": "2018-06-22",
+    "shares_outstanding": 1235000000.0,
+    "revenue": 7797000000.0,
+    "net_income": 3823000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2018",
+    "filing_date": "2018-03-23",
+    "shares_outstanding": 1238000000.0,
+    "revenue": 7351000000.0,
+    "net_income": 3311000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2018",
+    "filing_date": "2017-12-20",
+    "shares_outstanding": 1225000000.0,
+    "revenue": 6803000000.0,
+    "net_income": 2678000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 1154000000.0,
+    "revenue": 20322000000.0,
+    "net_income": 5090000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2017",
+    "filing_date": "2017-06-30",
+    "shares_outstanding": 1177000000.0,
+    "revenue": 5566000000.0,
+    "net_income": 1647000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2017",
+    "filing_date": "2017-03-28",
+    "shares_outstanding": 1160000000.0,
+    "revenue": 4648000000.0,
+    "net_income": 894000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2017",
+    "filing_date": "2017-01-09",
+    "shares_outstanding": 1091000000.0,
+    "revenue": 3970000000.0,
+    "net_income": 180000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 1036000000.0,
+    "revenue": 12399000000.0,
+    "net_income": -275000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2016",
+    "filing_date": "2016-07-06",
+    "shares_outstanding": 1036000000.0,
+    "revenue": 2898000000.0,
+    "net_income": -215000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2016",
+    "filing_date": "2016-04-08",
+    "shares_outstanding": 1036000000.0,
+    "revenue": 2934000000.0,
+    "net_income": -96000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2016",
+    "filing_date": "2016-01-08",
+    "shares_outstanding": 1085000000.0,
+    "revenue": 3350000000.0,
+    "net_income": 206000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2015",
+    "filing_date": "2015-10-27",
+    "shares_outstanding": 1170000000.0,
+    "revenue": 16192000000.0,
+    "net_income": 2899000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2015",
+    "filing_date": "2015-07-10",
+    "shares_outstanding": 1170000000.0,
+    "revenue": 3853000000.0,
+    "net_income": 491000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2015",
+    "filing_date": "2015-04-10",
+    "shares_outstanding": 1190000000.0,
+    "revenue": 4166000000.0,
+    "net_income": 935000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2015",
+    "filing_date": "2015-01-09",
+    "shares_outstanding": 1195000000.0,
+    "revenue": 4573000000.0,
+    "net_income": 1002000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2014",
+    "filing_date": "2014-10-27",
+    "shares_outstanding": 1198000000.0,
+    "revenue": 16358000000.0,
+    "net_income": 3079000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2014",
+    "filing_date": "2014-07-03",
+    "shares_outstanding": 1190000000.0,
+    "revenue": 3982000000.0,
+    "net_income": 806000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2014",
+    "filing_date": "2014-04-07",
+    "shares_outstanding": 1201000000.0,
+    "revenue": 4107000000.0,
+    "net_income": 741000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2014",
+    "filing_date": "2014-01-07",
+    "shares_outstanding": 1196000000.0,
+    "revenue": 4042000000.0,
+    "net_income": 381000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2013",
+    "filing_date": "2013-10-28",
+    "shares_outstanding": 1056300000.0,
+    "revenue": 9073000000.0,
+    "net_income": 1194000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2013",
+    "filing_date": "2013-07-08",
+    "shares_outstanding": 1046600000.0,
+    "revenue": 2318000000.0,
+    "net_income": 43000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2013",
+    "filing_date": "2013-04-08",
+    "shares_outstanding": 1016000000.0,
+    "revenue": 2078000000.0,
+    "net_income": -284000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2013",
+    "filing_date": "2013-01-07",
+    "shares_outstanding": 1013700000.0,
+    "revenue": 1834000000.0,
+    "net_income": -275000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2012",
+    "filing_date": "2012-10-29",
+    "shares_outstanding": 991200000.0,
+    "revenue": 8234000000.0,
+    "net_income": -1031000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2012",
+    "filing_date": "2012-07-09",
+    "shares_outstanding": 987300000.0,
+    "revenue": 2172000000.0,
+    "net_income": -320000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2012",
+    "filing_date": "2012-04-09",
+    "shares_outstanding": 982800000.0,
+    "revenue": 2009000000.0,
+    "net_income": -282000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q1 2012",
+    "filing_date": "2012-01-10",
+    "shares_outstanding": 981400000.0,
+    "revenue": 2090000000.0,
+    "net_income": -187000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "FY 2011",
+    "filing_date": "2011-10-25",
+    "shares_outstanding": 1007500000.0,
+    "revenue": 8788000000.0,
+    "net_income": 190000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q3 2011",
+    "filing_date": "2011-07-12",
+    "shares_outstanding": 1041700000.0,
+    "revenue": 2139000000.0,
+    "net_income": 77000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MU",
+    "period": "Q2 2011",
+    "filing_date": "2011-04-12",
+    "shares_outstanding": 1037300000.0,
+    "revenue": 2257000000.0,
+    "net_income": 75000000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "ticker": "DAR",
+    "period": "FY 2025",
+    "filing_date": "2026-03-03",
+    "shares_outstanding": 160157000.0,
+    "revenue": 6135877000.0,
+    "net_income": 70385000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2026",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 159947000.0,
+    "revenue": 1563966000.0,
+    "net_income": 21055000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2026",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 159734000.0,
+    "revenue": 1481518000.0,
+    "net_income": 14265000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q4 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 158677000.0,
+    "revenue": 1380594000.0,
+    "net_income": -23814000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 161418000.0,
+    "revenue": 5715175000.0,
+    "net_income": 285845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 160991000.0,
+    "revenue": 1421891000.0,
+    "net_income": 19115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 161705000.0,
+    "revenue": 1455292000.0,
+    "net_income": 81365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 161905000.0,
+    "revenue": 1420299000.0,
+    "net_income": 81588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 162387000.0,
+    "revenue": 6788080000.0,
+    "net_income": 660389000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 162425000.0,
+    "revenue": 1625204000.0,
+    "net_income": 128081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 162370000.0,
+    "revenue": 1757621000.0,
+    "net_income": 255197000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 162817000.0,
+    "revenue": 1791172000.0,
+    "net_income": 189855000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 164121000.0,
+    "revenue": 6532204000.0,
+    "net_income": 747092000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 163635000.0,
+    "revenue": 1747599000.0,
+    "net_income": 192301000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 164745000.0,
+    "revenue": 1650188000.0,
+    "net_income": 204829000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 164601000.0,
+    "revenue": 1366334000.0,
+    "net_income": 190731000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2020",
+    "filing_date": "2021-03-02",
+    "shares_outstanding": 167208000.0,
+    "revenue": 3571923000.0,
+    "net_income": 300330000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2021",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 166997000.0,
+    "revenue": 850569000.0,
+    "net_income": 101605000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2021",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 165999000.0,
+    "revenue": 848673000.0,
+    "net_income": 66495000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q4 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 167927000.0,
+    "revenue": 852842000.0,
+    "net_income": 86091000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 168378000.0,
+    "revenue": 3363905000.0,
+    "net_income": 320967000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 168266000.0,
+    "revenue": 842049000.0,
+    "net_income": 26837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 168432000.0,
+    "revenue": 827324000.0,
+    "net_income": 31044000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 168660000.0,
+    "revenue": 835104000.0,
+    "net_income": 19640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 167910000.0,
+    "revenue": 3387726000.0,
+    "net_income": 105944000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 164656000.0,
+    "revenue": 812576000.0,
+    "net_income": -5137000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 164651000.0,
+    "revenue": 846646000.0,
+    "net_income": -29138000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 167742000.0,
+    "revenue": 875374000.0,
+    "net_income": 98075000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 166730000.0,
+    "revenue": 3662251000.0,
+    "net_income": 133354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 167181000.0,
+    "revenue": 936262000.0,
+    "net_income": 8684000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 166831000.0,
+    "revenue": 894930000.0,
+    "net_income": 10328000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-11",
+    "shares_outstanding": 165864000.0,
+    "revenue": 878510000.0,
+    "net_income": 7398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 165212000.0,
+    "revenue": 3398115000.0,
+    "net_income": 107224000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-10",
+    "shares_outstanding": 165436000.0,
+    "revenue": 853856000.0,
+    "net_income": 28890000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-11",
+    "shares_outstanding": 165474000.0,
+    "revenue": 877341000.0,
+    "net_income": 33991000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-12",
+    "shares_outstanding": 164553000.0,
+    "revenue": 779641000.0,
+    "net_income": 2663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2014",
+    "filing_date": "2015-03-04",
+    "shares_outstanding": 165059000.0,
+    "revenue": 3956443000.0,
+    "net_income": 68311000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2015",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 164957000.0,
+    "revenue": 955800000.0,
+    "net_income": 15954000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2015",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 165097000.0,
+    "revenue": 1006959000.0,
+    "net_income": 34575000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q4 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 164386000.0,
+    "revenue": 946292000.0,
+    "net_income": -51006000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 119924000.0,
+    "revenue": 1723550000.0,
+    "net_income": 108967000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 118480000.0,
+    "revenue": 425786000.0,
+    "net_income": 27651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 118588000.0,
+    "revenue": 423593000.0,
+    "net_income": 26418000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 118293000.0,
+    "revenue": 445422000.0,
+    "net_income": 32405000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 118089000.0,
+    "revenue": 1701429000.0,
+    "net_income": 130770000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 118174000.0,
+    "revenue": 452732000.0,
+    "net_income": 37172000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 118141000.0,
+    "revenue": 436674000.0,
+    "net_income": 36225000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 117830000.0,
+    "revenue": 387108000.0,
+    "net_income": 28571000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 115525000.0,
+    "revenue": 1797249000.0,
+    "net_income": 169418000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-10",
+    "shares_outstanding": 117655000.0,
+    "revenue": 455875000.0,
+    "net_income": 41132000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-11",
+    "shares_outstanding": 117672000.0,
+    "revenue": 470610000.0,
+    "net_income": 52227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DAR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-12",
+    "shares_outstanding": -4272000.0,
+    "revenue": 439898000.0,
+    "net_income": 46562000.0,
+    "market_cap": null
+  }
+]

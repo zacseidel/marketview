@@ -1,0 +1,173 @@
+[
+  {
+    "ticker": "DTM",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 102500000.0,
+    "revenue": 1243000000.0,
+    "net_income": 454000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 102500000.0,
+    "revenue": 1243000000.0,
+    "net_income": 454000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 102500000.0,
+    "revenue": 314000000.0,
+    "net_income": 118000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 102500000.0,
+    "revenue": 309000000.0,
+    "net_income": 111000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 102500000.0,
+    "revenue": 303000000.0,
+    "net_income": 111000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 98400000.0,
+    "revenue": 981000000.0,
+    "net_income": 367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 98000000.0,
+    "revenue": 248000000.0,
+    "net_income": 91000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 97900000.0,
+    "revenue": 244000000.0,
+    "net_income": 100000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 97700000.0,
+    "revenue": 240000000.0,
+    "net_income": 100000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 97500000.0,
+    "revenue": 922000000.0,
+    "net_income": 396000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 97500000.0,
+    "revenue": 234000000.0,
+    "net_income": 94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 97400000.0,
+    "revenue": 224000000.0,
+    "net_income": 94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 97400000.0,
+    "revenue": 220000000.0,
+    "net_income": 84000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 97200000.0,
+    "revenue": 920000000.0,
+    "net_income": 382000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 97000000.0,
+    "revenue": 235000000.0,
+    "net_income": 116000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 97100000.0,
+    "revenue": 227000000.0,
+    "net_income": 94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 97000000.0,
+    "revenue": 215000000.0,
+    "net_income": 84000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 96900000.0,
+    "revenue": 840000000.0,
+    "net_income": 318000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DTM",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 96900000.0,
+    "revenue": 212000000.0,
+    "net_income": 77000000.0,
+    "market_cap": null
+  }
+]

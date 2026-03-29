@@ -1,0 +1,587 @@
+[
+  {
+    "ticker": "SHW",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 250400000.0,
+    "revenue": 23574300000.0,
+    "net_income": 2568500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 250400000.0,
+    "revenue": 23574300000.0,
+    "net_income": 2568500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 249000000.0,
+    "revenue": 6358200000.0,
+    "net_income": 833100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 251300000.0,
+    "revenue": 6314500000.0,
+    "net_income": 754700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 252500000.0,
+    "revenue": 5305700000.0,
+    "net_income": 503900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 254100000.0,
+    "revenue": 23098500000.0,
+    "net_income": 2681400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-22",
+    "shares_outstanding": 253900000.0,
+    "revenue": 6162500000.0,
+    "net_income": 806200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-23",
+    "shares_outstanding": 254200000.0,
+    "revenue": 6271500000.0,
+    "net_income": 889900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 255800000.0,
+    "revenue": 5367300000.0,
+    "net_income": 505200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 258300000.0,
+    "revenue": 23051900000.0,
+    "net_income": 2388800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-24",
+    "shares_outstanding": 258400000.0,
+    "revenue": 6116700000.0,
+    "net_income": 761500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-25",
+    "shares_outstanding": 258900000.0,
+    "revenue": 6240600000.0,
+    "net_income": 793700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-25",
+    "shares_outstanding": 259700000.0,
+    "revenue": 5442400000.0,
+    "net_income": 477400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 261800000.0,
+    "revenue": 22148900000.0,
+    "net_income": 2020100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-25",
+    "shares_outstanding": 261100000.0,
+    "revenue": 6047400000.0,
+    "net_income": 685100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 261800000.0,
+    "revenue": 5872300000.0,
+    "net_income": 577900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-26",
+    "shares_outstanding": 263100000.0,
+    "revenue": 4998700000.0,
+    "net_income": 370800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 267100000.0,
+    "revenue": 19944600000.0,
+    "net_income": 1864400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-26",
+    "shares_outstanding": 266600000.0,
+    "revenue": 5146700000.0,
+    "net_income": 502200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-27",
+    "shares_outstanding": 267800000.0,
+    "revenue": 5379800000.0,
+    "net_income": 648600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 270600000.0,
+    "revenue": 4656000000.0,
+    "net_income": 409600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 91942623.0,
+    "revenue": 18361700000.0,
+    "net_income": 2030400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-27",
+    "shares_outstanding": 92110229.0,
+    "revenue": 5122200000.0,
+    "net_income": 705800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-28",
+    "shares_outstanding": 91952798.0,
+    "revenue": 4604000000.0,
+    "net_income": 595900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 92859944.0,
+    "revenue": 4146700000.0,
+    "net_income": 321700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 93446842.0,
+    "revenue": 17900800000.0,
+    "net_income": 1541300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-22",
+    "shares_outstanding": 93604260.0,
+    "revenue": 4867700000.0,
+    "net_income": 576500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-24",
+    "shares_outstanding": 93561725.0,
+    "revenue": 4877800000.0,
+    "net_income": 471000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 93668728.0,
+    "revenue": 4040900000.0,
+    "net_income": 245200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 94988070.0,
+    "revenue": 17534493000.0,
+    "net_income": 1108746000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 95135257.0,
+    "revenue": 4731470000.0,
+    "net_income": 354027000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-25",
+    "shares_outstanding": 94884187.0,
+    "revenue": 4773796000.0,
+    "net_income": 403604000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 95546152.0,
+    "revenue": 3965006000.0,
+    "net_income": 250127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 94927213.0,
+    "revenue": 14984000000.0,
+    "net_income": 1772262000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-25",
+    "shares_outstanding": 95207884.0,
+    "revenue": 4507020000.0,
+    "net_income": 316606000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-26",
+    "shares_outstanding": 94968636.0,
+    "revenue": 3735817000.0,
+    "net_income": 319111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-21",
+    "shares_outstanding": 94541859.0,
+    "revenue": 2761387000.0,
+    "net_income": 239152000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2016",
+    "filing_date": "2017-02-22",
+    "shares_outstanding": 94488086.0,
+    "revenue": 11856000000.0,
+    "net_income": 1132703000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-26",
+    "shares_outstanding": 94771807.0,
+    "revenue": 3279462000.0,
+    "net_income": 386733000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-27",
+    "shares_outstanding": 94669751.0,
+    "revenue": 3219525000.0,
+    "net_income": 378064000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 93548234.0,
+    "revenue": 2574024000.0,
+    "net_income": 164876000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 94024092.0,
+    "revenue": 11339000000.0,
+    "net_income": 1053849000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 93894872.0,
+    "revenue": 3152285000.0,
+    "net_income": 374491000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-22",
+    "shares_outstanding": 94124695.0,
+    "revenue": 3132139000.0,
+    "net_income": 349937000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-22",
+    "shares_outstanding": 94745129.0,
+    "revenue": 2450284000.0,
+    "net_income": 131404000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 98075435.0,
+    "revenue": 11130000000.0,
+    "net_income": 865887000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 96714043.0,
+    "revenue": 3150570000.0,
+    "net_income": 326240000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-24",
+    "shares_outstanding": 98541909.0,
+    "revenue": 3042995000.0,
+    "net_income": 291447000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-23",
+    "shares_outstanding": 100858881.0,
+    "revenue": 2366556000.0,
+    "net_income": 115457000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 103048871.0,
+    "revenue": 10186000000.0,
+    "net_income": 752561000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 102622514.0,
+    "revenue": 2847417000.0,
+    "net_income": 262966000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-24",
+    "shares_outstanding": 103896780.0,
+    "revenue": 2713889000.0,
+    "net_income": 257287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-24",
+    "shares_outstanding": 104256263.0,
+    "revenue": 2167168000.0,
+    "net_income": 116185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 103930429.0,
+    "revenue": 9534462000.0,
+    "net_income": 631034000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 104019320.0,
+    "revenue": 2603226000.0,
+    "net_income": 234953000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-25",
+    "shares_outstanding": 104003128.0,
+    "revenue": 2573022000.0,
+    "net_income": 227813000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-25",
+    "shares_outstanding": 104458088.0,
+    "revenue": 2136344000.0,
+    "net_income": 100216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 105671973.0,
+    "revenue": 8765699000.0,
+    "net_income": 441860000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 104123272.0,
+    "revenue": 2484920000.0,
+    "net_income": 179877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-27",
+    "shares_outstanding": 106876461.0,
+    "revenue": 2354751000.0,
+    "net_income": 179115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-26",
+    "shares_outstanding": 107362669.0,
+    "revenue": 1855586000.0,
+    "net_income": 68316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "FY 2010",
+    "filing_date": "2011-02-23",
+    "shares_outstanding": 108785517.0,
+    "revenue": 7776424000.0,
+    "net_income": 462485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-28",
+    "shares_outstanding": 108397737.0,
+    "revenue": 2172259000.0,
+    "net_income": 175258000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-27",
+    "shares_outstanding": 109832652.0,
+    "revenue": 2143064000.0,
+    "net_income": 181706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SHW",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-31",
+    "shares_outstanding": 117294437.0,
+    "revenue": 1947827000.0,
+    "net_income": 158023000.0,
+    "market_cap": null
+  }
+]

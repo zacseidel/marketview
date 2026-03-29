@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "JPM",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 2781500000.0,
+    "revenue": 182447000000.0,
+    "net_income": 57048000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 2781500000.0,
+    "revenue": 182447000000.0,
+    "net_income": 57048000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 2767600000.0,
+    "revenue": 46427000000.0,
+    "net_income": 14393000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 2793700000.0,
+    "revenue": 44912000000.0,
+    "net_income": 14987000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 2824300000.0,
+    "revenue": 45310000000.0,
+    "net_income": 14643000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 2865900000.0,
+    "revenue": 42654000000.0,
+    "net_income": 12898000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 2894900000.0,
+    "revenue": 50200000000.0,
+    "net_income": 18149000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 2912800000.0,
+    "revenue": 41934000000.0,
+    "net_income": 13419000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 2943100000.0,
+    "revenue": 158104000000.0,
+    "net_income": 49552000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 2932100000.0,
+    "revenue": 39874000000.0,
+    "net_income": 13151000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 2948300000.0,
+    "revenue": 41307000000.0,
+    "net_income": 14472000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 2972700000.0,
+    "revenue": 38349000000.0,
+    "net_income": 12622000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2022",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 2970000000.0,
+    "revenue": 128695000000.0,
+    "net_income": 37676000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 2965400000.0,
+    "revenue": 32716000000.0,
+    "net_income": 9737000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 2966300000.0,
+    "revenue": 30715000000.0,
+    "net_income": 8649000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 2981000000.0,
+    "revenue": 30717000000.0,
+    "net_income": 8282000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 3026600000.0,
+    "revenue": 121649000000.0,
+    "net_income": 48334000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 3005100000.0,
+    "revenue": 29647000000.0,
+    "net_income": 11687000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-02",
+    "shares_outstanding": 3041900000.0,
+    "revenue": 30479000000.0,
+    "net_income": 11948000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 3078900000.0,
+    "revenue": 32266000000.0,
+    "net_income": 14300000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 3087400000.0,
+    "revenue": 119543000000.0,
+    "net_income": 29131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 3082800000.0,
+    "revenue": 29147000000.0,
+    "net_income": 9443000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-03",
+    "shares_outstanding": 3081000000.0,
+    "revenue": 32980000000.0,
+    "net_income": 4687000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 3100700000.0,
+    "revenue": 28251000000.0,
+    "net_income": 2865000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 3230400000.0,
+    "revenue": 115627000000.0,
+    "net_income": 36431000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-04",
+    "shares_outstanding": 3207200000.0,
+    "revenue": 29341000000.0,
+    "net_income": 9080000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 3259700000.0,
+    "revenue": 28832000000.0,
+    "net_income": 9652000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 3308200000.0,
+    "revenue": 29123000000.0,
+    "net_income": 9179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 3414000000.0,
+    "revenue": 109029000000.0,
+    "net_income": 32474000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 3394300000.0,
+    "revenue": 27260000000.0,
+    "net_income": 8380000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 3434700000.0,
+    "revenue": 27753000000.0,
+    "net_income": 8316000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 3479500000.0,
+    "revenue": 27907000000.0,
+    "net_income": 8712000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 3576800000.0,
+    "revenue": 99624000000.0,
+    "net_income": 24441000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 3559600000.0,
+    "revenue": 25326000000.0,
+    "net_income": 6732000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 3599000000.0,
+    "revenue": 25470000000.0,
+    "net_income": 7029000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 3630400000.0,
+    "revenue": 24675000000.0,
+    "net_income": 6448000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 3649800000.0,
+    "revenue": 95668000000.0,
+    "net_income": 24733000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 3629600000.0,
+    "revenue": 24673000000.0,
+    "net_income": 6286000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 3666500000.0,
+    "revenue": 24380000000.0,
+    "net_income": 6200000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 3696900000.0,
+    "revenue": 23239000000.0,
+    "net_income": 5520000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2015",
+    "filing_date": "2016-02-23",
+    "shares_outstanding": 3732800000.0,
+    "revenue": 93543000000.0,
+    "net_income": 24442000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-02",
+    "shares_outstanding": 3725600000.0,
+    "revenue": 22780000000.0,
+    "net_income": 6804000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-03",
+    "shares_outstanding": 3743600000.0,
+    "revenue": 23812000000.0,
+    "net_income": 6290000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 3757500000.0,
+    "revenue": 24066000000.0,
+    "net_income": 5914000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 3797500000.0,
+    "revenue": 94205000000.0,
+    "net_income": 21762000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-03",
+    "shares_outstanding": 3788700000.0,
+    "revenue": 24246000000.0,
+    "net_income": 5572000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-04",
+    "shares_outstanding": 3812500000.0,
+    "revenue": 24454000000.0,
+    "net_income": 5985000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 3823600000.0,
+    "revenue": 22993000000.0,
+    "net_income": 5274000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2013",
+    "filing_date": "2014-02-20",
+    "shares_outstanding": 3814900000.0,
+    "revenue": 96606000000.0,
+    "net_income": 17923000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 3767000000.0,
+    "revenue": 23117000000.0,
+    "net_income": -380000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 3814300000.0,
+    "revenue": 25211000000.0,
+    "net_income": 6496000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 3847000000.0,
+    "revenue": 25122000000.0,
+    "net_income": 6529000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 3822200000.0,
+    "revenue": 97031000000.0,
+    "net_income": 21284000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 3813900000.0,
+    "revenue": 25146000000.0,
+    "net_income": 5708000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 3820500000.0,
+    "revenue": 22180000000.0,
+    "net_income": 4960000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 3833400000.0,
+    "revenue": 26712000000.0,
+    "net_income": 5383000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 3920300000.0,
+    "revenue": 97234000000.0,
+    "net_income": 18976000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 3872200000.0,
+    "revenue": 23763000000.0,
+    "net_income": 4262000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 3983200000.0,
+    "revenue": 26779000000.0,
+    "net_income": 5431000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 4014100000.0,
+    "revenue": 25221000000.0,
+    "net_income": 5555000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-09",
+    "shares_outstanding": 3971900000.0,
+    "revenue": 23824000000.0,
+    "net_income": 4418000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 4005600000.0,
+    "revenue": 25101000000.0,
+    "net_income": 4795000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-10",
+    "shares_outstanding": 3994700000.0,
+    "revenue": 27671000000.0,
+    "net_income": 3326000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "FY 2009",
+    "filing_date": "2010-02-24",
+    "shares_outstanding": 3880000000.0,
+    "revenue": 100434000000.0,
+    "net_income": 11728000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-09",
+    "shares_outstanding": 3962000000.0,
+    "revenue": 26622000000.0,
+    "net_income": 3588000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JPM",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-10",
+    "shares_outstanding": 3824100000.0,
+    "revenue": 25623000000.0,
+    "net_income": 2721000000.0,
+    "market_cap": null
+  }
+]

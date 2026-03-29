@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "BG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 166466940.0,
+    "revenue": 70329000000.0,
+    "net_income": 843000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 166466940.0,
+    "revenue": 70329000000.0,
+    "net_income": 843000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 198477018.0,
+    "revenue": 22155000000.0,
+    "net_income": 181000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 135599243.0,
+    "revenue": 12769000000.0,
+    "net_income": 370000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 135407823.0,
+    "revenue": 11643000000.0,
+    "net_income": 204000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 142223221.0,
+    "revenue": 53108000000.0,
+    "net_income": 1188000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 142145601.0,
+    "revenue": 12908000000.0,
+    "net_income": 233000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 143185150.0,
+    "revenue": 13241000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 145414139.0,
+    "revenue": 13417000000.0,
+    "net_income": 252000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 150787917.0,
+    "revenue": 59540000000.0,
+    "net_income": 2337000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 151216856.0,
+    "revenue": 14227000000.0,
+    "net_income": 389000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 152179404.0,
+    "revenue": 15049000000.0,
+    "net_income": 629000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 152263992.0,
+    "revenue": 15328000000.0,
+    "net_income": 659000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 153134754.0,
+    "revenue": 67232000000.0,
+    "net_income": 1678000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 152420293.0,
+    "revenue": 16759000000.0,
+    "net_income": 383000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 154072714.0,
+    "revenue": 17933000000.0,
+    "net_income": 225000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 153620928.0,
+    "revenue": 15880000000.0,
+    "net_income": 696000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 152366712.0,
+    "revenue": 59152000000.0,
+    "net_income": 2167000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 152538592.0,
+    "revenue": 14117000000.0,
+    "net_income": 649000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 152679954.0,
+    "revenue": 15391000000.0,
+    "net_income": 369000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 150612122.0,
+    "revenue": 12961000000.0,
+    "net_income": 917000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 149689816.0,
+    "revenue": 41404000000.0,
+    "net_income": 1165000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 148549984.0,
+    "revenue": 10159000000.0,
+    "net_income": 267000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 150203077.0,
+    "revenue": 9462000000.0,
+    "net_income": 522000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 141899104.0,
+    "revenue": 9173000000.0,
+    "net_income": -193000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 141492289.0,
+    "revenue": 41140000000.0,
+    "net_income": -1291000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 141562431.0,
+    "revenue": 10323000000.0,
+    "net_income": -1482000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 150136640.0,
+    "revenue": 10096000000.0,
+    "net_income": 212000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 141558770.0,
+    "revenue": 9938000000.0,
+    "net_income": 50000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 141703783.0,
+    "revenue": 45743000000.0,
+    "net_income": 287000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 149905174.0,
+    "revenue": 11412000000.0,
+    "net_income": 374000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 140959421.0,
+    "revenue": 12147000000.0,
+    "net_income": -10000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 140736907.0,
+    "revenue": 10641000000.0,
+    "net_income": -19000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 141265077.0,
+    "revenue": 45794000000.0,
+    "net_income": 174000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 141556299.0,
+    "revenue": 11423000000.0,
+    "net_income": 92000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 141398804.0,
+    "revenue": 11645000000.0,
+    "net_income": 87000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 140897156.0,
+    "revenue": 11121000000.0,
+    "net_income": 48000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 148226475.0,
+    "revenue": 42679000000.0,
+    "net_income": 767000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 139927845.0,
+    "revenue": 11423000000.0,
+    "net_income": 130000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 139764877.0,
+    "revenue": 10541000000.0,
+    "net_income": 120000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 149213091.0,
+    "revenue": 8916000000.0,
+    "net_income": 232000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 152238967.0,
+    "revenue": 43455000000.0,
+    "net_income": 790000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 151794399.0,
+    "revenue": 10762000000.0,
+    "net_income": 234000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 144626753.0,
+    "revenue": 10782000000.0,
+    "net_income": 93000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 153817713.0,
+    "revenue": 10806000000.0,
+    "net_income": 260000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 147230778.0,
+    "revenue": 57161000000.0,
+    "net_income": 517000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 154189825.0,
+    "revenue": 13676000000.0,
+    "net_income": 304000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 155039427.0,
+    "revenue": 16793000000.0,
+    "net_income": 277000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-06",
+    "shares_outstanding": 147497638.0,
+    "revenue": 13461000000.0,
+    "net_income": -19000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 148257309.0,
+    "revenue": 61347000000.0,
+    "net_income": 207000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 147349175.0,
+    "revenue": 14701000000.0,
+    "net_income": -193000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-05",
+    "shares_outstanding": 147873841.0,
+    "revenue": 15491000000.0,
+    "net_income": 122000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 147867817.0,
+    "revenue": 14785000000.0,
+    "net_income": 148000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 147135486.0,
+    "revenue": 60991000000.0,
+    "net_income": 36000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 154645337.0,
+    "revenue": 16543000000.0,
+    "net_income": 301000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 154475872.0,
+    "revenue": 14499000000.0,
+    "net_income": 266000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 146582899.0,
+    "revenue": 12909000000.0,
+    "net_income": 89000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 155209045.0,
+    "revenue": 58743000000.0,
+    "net_income": 940000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 147631723.0,
+    "revenue": 15616000000.0,
+    "net_income": 133000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 156176828.0,
+    "revenue": 14488000000.0,
+    "net_income": 312000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 155647491.0,
+    "revenue": 12194000000.0,
+    "net_income": 235000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-09",
+    "shares_outstanding": 10393000000.0,
+    "revenue": 11298000000.0,
+    "net_income": 197000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BG",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-10",
+    "shares_outstanding": 8910000000.0,
+    "revenue": 10994000000.0,
+    "net_income": 322000000.0,
+    "market_cap": null
+  }
+]

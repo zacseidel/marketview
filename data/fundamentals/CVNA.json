@@ -1,0 +1,308 @@
+[
+  {
+    "ticker": "CVNA",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 224277000.0,
+    "revenue": 20322000000.0,
+    "net_income": 1895000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 224277000.0,
+    "revenue": 20322000000.0,
+    "net_income": 1895000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 2117000000.0,
+    "revenue": 4840000000.0,
+    "net_income": 308000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 1773000000.0,
+    "revenue": 4232000000.0,
+    "net_income": 373000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 286000000.0,
+    "revenue": 3655000000.0,
+    "net_income": 148000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 115000000.0,
+    "revenue": 3410000000.0,
+    "net_income": 48000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": -311000000.0,
+    "revenue": 3061000000.0,
+    "net_income": 49000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 200578000.0,
+    "revenue": 10771000000.0,
+    "net_income": 150000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": -202000000.0,
+    "revenue": 2773000000.0,
+    "net_income": 741000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-19",
+    "shares_outstanding": 106222000.0,
+    "revenue": 2968000000.0,
+    "net_income": -105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": -105000.0,
+    "revenue": 2606000000.0,
+    "net_income": -286000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 100828000.0,
+    "revenue": 13604000000.0,
+    "net_income": -2894000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 105857000.0,
+    "revenue": 3386000000.0,
+    "net_income": -508000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 864000000.0,
+    "revenue": 3884000000.0,
+    "net_income": -439000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 52000000.0,
+    "revenue": 3497000000.0,
+    "net_income": -506000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 82805000.0,
+    "revenue": 12814000000.0,
+    "net_income": -287000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 1676000.0,
+    "revenue": 3480000000.0,
+    "net_income": -68000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 770000000.0,
+    "revenue": 3336000000.0,
+    "net_income": 45000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 721000000.0,
+    "revenue": 2245000000.0,
+    "net_income": -82000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 801503000.0,
+    "revenue": 5586565000.0,
+    "net_income": -462222000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 961576000.0,
+    "revenue": 1543609000.0,
+    "net_income": -17720000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 973081000.0,
+    "revenue": 1118334000.0,
+    "net_income": -106326000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 13226000.0,
+    "revenue": 1098216000.0,
+    "net_income": -183557000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 191939000.0,
+    "revenue": 3939896000.0,
+    "net_income": -364639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 311178000.0,
+    "revenue": 1094854000.0,
+    "net_income": -92244000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 393817000.0,
+    "revenue": 986221000.0,
+    "net_income": -64059000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 152847000.0,
+    "revenue": 755234000.0,
+    "net_income": -82596000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 227428000.0,
+    "revenue": 1955467000.0,
+    "net_income": -254745000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 306768000.0,
+    "revenue": 534922000.0,
+    "net_income": -64420000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 359109000.0,
+    "revenue": 475286000.0,
+    "net_income": -51250000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 226940000.0,
+    "revenue": 360422000.0,
+    "net_income": -52672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "FY 2017",
+    "filing_date": "2018-03-06",
+    "shares_outstanding": 279544000.0,
+    "revenue": 858870000.0,
+    "net_income": -164316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 227476000.0,
+    "revenue": 225379000.0,
+    "net_income": -39769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CVNA",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 265430000.0,
+    "revenue": 209365000.0,
+    "net_income": -38870000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2026",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 190762000.0,
+    "revenue": 2408798000.0,
+    "net_income": 64716000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2025",
+    "filing_date": "2025-12-22",
+    "shares_outstanding": 165656000.0,
+    "revenue": 7054178000.0,
+    "net_income": 1333251000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2025",
+    "filing_date": "2025-09-09",
+    "shares_outstanding": 161682000.0,
+    "revenue": 1739737000.0,
+    "net_income": 242277000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2025",
+    "filing_date": "2025-05-28",
+    "shares_outstanding": 156088000.0,
+    "revenue": 1604266000.0,
+    "net_income": 345110000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2025",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 156189000.0,
+    "revenue": 1455315000.0,
+    "net_income": 297411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2024",
+    "filing_date": "2024-12-19",
+    "shares_outstanding": 155944000.0,
+    "revenue": 6127436000.0,
+    "net_income": 2235810000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2024",
+    "filing_date": "2024-08-23",
+    "shares_outstanding": 156131000.0,
+    "revenue": 1525749000.0,
+    "net_income": 404894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2024",
+    "filing_date": "2024-05-24",
+    "shares_outstanding": 155770000.0,
+    "revenue": 1454712000.0,
+    "net_income": 289089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2024",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 155334000.0,
+    "revenue": 1649230000.0,
+    "net_income": 446207000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2023",
+    "filing_date": "2023-12-12",
+    "shares_outstanding": 155195000.0,
+    "revenue": 5842619000.0,
+    "net_income": 1218125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2023",
+    "filing_date": "2023-08-18",
+    "shares_outstanding": 154947000.0,
+    "revenue": 1487288000.0,
+    "net_income": 333055000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-19",
+    "shares_outstanding": 154730000.0,
+    "revenue": 1394863000.0,
+    "net_income": 269948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2023",
+    "filing_date": "2023-02-17",
+    "shares_outstanding": 155076000.0,
+    "revenue": 1361340000.0,
+    "net_income": 268627000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2022",
+    "filing_date": "2022-12-12",
+    "shares_outstanding": 156485000.0,
+    "revenue": 5081542000.0,
+    "net_income": 978436000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2022",
+    "filing_date": "2022-08-19",
+    "shares_outstanding": 155806000.0,
+    "revenue": 1247766000.0,
+    "net_income": 219646000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2022",
+    "filing_date": "2022-05-20",
+    "shares_outstanding": 156167000.0,
+    "revenue": 1279229000.0,
+    "net_income": 293892000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2022",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 157273000.0,
+    "revenue": 1270255000.0,
+    "net_income": 313341000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2021",
+    "filing_date": "2021-12-13",
+    "shares_outstanding": 157340000.0,
+    "revenue": 4204193000.0,
+    "net_income": 756359000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2021",
+    "filing_date": "2021-08-20",
+    "shares_outstanding": 156907000.0,
+    "revenue": 1057130000.0,
+    "net_income": 198392000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2021",
+    "filing_date": "2021-05-21",
+    "shares_outstanding": 157077000.0,
+    "revenue": 1024323000.0,
+    "net_income": 194802000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2021",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 157277000.0,
+    "revenue": 970321000.0,
+    "net_income": 162028000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2020",
+    "filing_date": "2020-12-15",
+    "shares_outstanding": 155706000.0,
+    "revenue": 3685281000.0,
+    "net_income": 663447000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2020",
+    "filing_date": "2020-08-21",
+    "shares_outstanding": 155973000.0,
+    "revenue": 964134000.0,
+    "net_income": 252440000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2020",
+    "filing_date": "2020-05-22",
+    "shares_outstanding": 154379000.0,
+    "revenue": 861327000.0,
+    "net_income": 109920000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2020",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 154504000.0,
+    "revenue": 834381000.0,
+    "net_income": 104061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2019",
+    "filing_date": "2019-12-20",
+    "shares_outstanding": 154190000.0,
+    "revenue": 3360694000.0,
+    "net_income": 532367000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2019",
+    "filing_date": "2019-08-26",
+    "shares_outstanding": 154600000.0,
+    "revenue": 852970000.0,
+    "net_income": 99929000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2019",
+    "filing_date": "2019-05-24",
+    "shares_outstanding": 153904000.0,
+    "revenue": 836242000.0,
+    "net_income": 118210000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2019",
+    "filing_date": "2019-02-25",
+    "shares_outstanding": 152661000.0,
+    "revenue": 820401000.0,
+    "net_income": 153514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2018",
+    "filing_date": "2018-12-17",
+    "shares_outstanding": 153393000.0,
+    "revenue": 3121058000.0,
+    "net_income": 432518000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2018",
+    "filing_date": "2018-08-24",
+    "shares_outstanding": 152614000.0,
+    "revenue": 779714000.0,
+    "net_income": 79409000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2018",
+    "filing_date": "2018-05-25",
+    "shares_outstanding": 153167000.0,
+    "revenue": 776836000.0,
+    "net_income": 102472000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2018",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 149441000.0,
+    "revenue": 769426000.0,
+    "net_income": -3691000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2017",
+    "filing_date": "2017-12-14",
+    "shares_outstanding": 154874000.0,
+    "revenue": 2724880000.0,
+    "net_income": 136563000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2017",
+    "filing_date": "2017-08-18",
+    "shares_outstanding": 154683000.0,
+    "revenue": 695381000.0,
+    "net_income": 116751000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2017",
+    "filing_date": "2017-05-19",
+    "shares_outstanding": 154861000.0,
+    "revenue": 680069000.0,
+    "net_income": 53306000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2017",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 154433000.0,
+    "revenue": 652786000.0,
+    "net_income": 86588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2016",
+    "filing_date": "2016-12-12",
+    "shares_outstanding": 154721000.0,
+    "revenue": 2422532000.0,
+    "net_income": 266826000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2016",
+    "filing_date": "2016-08-22",
+    "shares_outstanding": 153890000.0,
+    "revenue": 615204000.0,
+    "net_income": 64718000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2016",
+    "filing_date": "2016-05-24",
+    "shares_outstanding": 154536000.0,
+    "revenue": 605005000.0,
+    "net_income": 69376000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2016",
+    "filing_date": "2016-02-22",
+    "shares_outstanding": 155283000.0,
+    "revenue": 568604000.0,
+    "net_income": 60035000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2015",
+    "filing_date": "2015-12-14",
+    "shares_outstanding": 158065000.0,
+    "revenue": 2242211000.0,
+    "net_income": 225934000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2015",
+    "filing_date": "2015-08-24",
+    "shares_outstanding": 158584000.0,
+    "revenue": 555805000.0,
+    "net_income": 55387000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2015",
+    "filing_date": "2015-05-22",
+    "shares_outstanding": 157483000.0,
+    "revenue": 557204000.0,
+    "net_income": 55596000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2015",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 157206000.0,
+    "revenue": 542043000.0,
+    "net_income": 65189000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2014",
+    "filing_date": "2014-12-15",
+    "shares_outstanding": 157710000.0,
+    "revenue": 2057472000.0,
+    "net_income": 259124000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2014",
+    "filing_date": "2014-08-26",
+    "shares_outstanding": 157622000.0,
+    "revenue": 521812000.0,
+    "net_income": 65656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2014",
+    "filing_date": "2014-05-28",
+    "shares_outstanding": 157082000.0,
+    "revenue": 517697000.0,
+    "net_income": 63317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2014",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 156756000.0,
+    "revenue": 478951000.0,
+    "net_income": 67696000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2013",
+    "filing_date": "2013-12-20",
+    "shares_outstanding": 156601000.0,
+    "revenue": 1962214000.0,
+    "net_income": 247800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2013",
+    "filing_date": "2013-08-30",
+    "shares_outstanding": 157056000.0,
+    "revenue": 482945000.0,
+    "net_income": 52297000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2013",
+    "filing_date": "2013-05-31",
+    "shares_outstanding": 156606000.0,
+    "revenue": 499257000.0,
+    "net_income": 68691000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2013",
+    "filing_date": "2013-03-04",
+    "shares_outstanding": 154531000.0,
+    "revenue": 475137000.0,
+    "net_income": 69922000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2012",
+    "filing_date": "2012-12-20",
+    "shares_outstanding": 150280000.0,
+    "revenue": 1756017000.0,
+    "net_income": 182402000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2012",
+    "filing_date": "2012-08-31",
+    "shares_outstanding": 150644000.0,
+    "revenue": 443747000.0,
+    "net_income": 75656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2012",
+    "filing_date": "2012-06-04",
+    "shares_outstanding": 149297000.0,
+    "revenue": 432561000.0,
+    "net_income": 20971000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2012",
+    "filing_date": "2012-03-06",
+    "shares_outstanding": 147113000.0,
+    "revenue": 425496000.0,
+    "net_income": 56694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "FY 2011",
+    "filing_date": "2011-12-16",
+    "shares_outstanding": 150367000.0,
+    "revenue": 1535643000.0,
+    "net_income": 221364000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2011",
+    "filing_date": "2011-09-02",
+    "shares_outstanding": 148045000.0,
+    "revenue": 386795000.0,
+    "net_income": 52082000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q2 2011",
+    "filing_date": "2011-05-27",
+    "shares_outstanding": 152593000.0,
+    "revenue": 393670000.0,
+    "net_income": 81114000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q1 2011",
+    "filing_date": "2011-03-02",
+    "shares_outstanding": 153640000.0,
+    "revenue": 364644000.0,
+    "net_income": 48226000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNPS",
+    "period": "Q3 2010",
+    "filing_date": "2010-09-08",
+    "shares_outstanding": 151106000.0,
+    "revenue": 336929000.0,
+    "net_income": 39327000.0,
+    "market_cap": null
+  }
+]

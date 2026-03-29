@@ -1,0 +1,506 @@
+[
+  {
+    "ticker": "FISV",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 549000000.0,
+    "revenue": 21193000000.0,
+    "net_income": 3490000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 549000000.0,
+    "revenue": 21193000000.0,
+    "net_income": 3490000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 631300000.0,
+    "revenue": 4547000000.0,
+    "net_income": 576000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 647900000.0,
+    "revenue": 17737000000.0,
+    "net_income": 2582000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 645000000.0,
+    "revenue": 4518000000.0,
+    "net_income": 493000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 650800000.0,
+    "revenue": 4450000000.0,
+    "net_income": 609000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 657200000.0,
+    "revenue": 4138000000.0,
+    "net_income": 682000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 671600000.0,
+    "revenue": 16226000000.0,
+    "net_income": 1403000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 669700000.0,
+    "revenue": 4163000000.0,
+    "net_income": 446000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 672700000.0,
+    "revenue": 4051000000.0,
+    "net_income": 284000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 679900000.0,
+    "revenue": 3755000000.0,
+    "net_income": 318000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 683400000.0,
+    "revenue": 14852000000.0,
+    "net_income": 975000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 680300000.0,
+    "revenue": 3786000000.0,
+    "net_income": 276000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 680800000.0,
+    "revenue": 3465000000.0,
+    "net_income": 9000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 691200000.0,
+    "revenue": 3769000000.0,
+    "net_income": 377000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 522600000.0,
+    "revenue": 10187000000.0,
+    "net_income": 914000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 596900000.0,
+    "revenue": 3128000000.0,
+    "net_income": 225000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-26",
+    "shares_outstanding": 399600000.0,
+    "revenue": 1512000000.0,
+    "net_income": 223000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 399100000.0,
+    "revenue": 1502000000.0,
+    "net_income": 225000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 413700000.0,
+    "revenue": 5823000000.0,
+    "net_income": 1187000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 412000000.0,
+    "revenue": 1412000000.0,
+    "net_income": 227000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 416400000.0,
+    "revenue": 1420000000.0,
+    "net_income": 251000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 421600000.0,
+    "revenue": 1440000000.0,
+    "net_income": 423000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 215600000.0,
+    "revenue": 5696000000.0,
+    "net_income": 1246000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 214500000.0,
+    "revenue": 1400000000.0,
+    "net_income": 232000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 216300000.0,
+    "revenue": 1386000000.0,
+    "net_income": 221000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 219200000.0,
+    "revenue": 1394000000.0,
+    "net_income": 247000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 223900000.0,
+    "revenue": 5505000000.0,
+    "net_income": 930000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 222700000.0,
+    "revenue": 1380000000.0,
+    "net_income": 214000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 225600000.0,
+    "revenue": 1363000000.0,
+    "net_income": 212000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 227300000.0,
+    "revenue": 1331000000.0,
+    "net_income": 289000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2015",
+    "filing_date": "2016-02-19",
+    "shares_outstanding": 238000000.0,
+    "revenue": 5254000000.0,
+    "net_income": 712000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-28",
+    "shares_outstanding": 237000000.0,
+    "revenue": 1313000000.0,
+    "net_income": 218000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 240400000.0,
+    "revenue": 1298000000.0,
+    "net_income": 127000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 243000000.0,
+    "revenue": 1275000000.0,
+    "net_income": 178000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2014",
+    "filing_date": "2015-02-20",
+    "shares_outstanding": 252700000.0,
+    "revenue": 5066000000.0,
+    "net_income": 754000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 251800000.0,
+    "revenue": 1263000000.0,
+    "net_income": 239000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 253400000.0,
+    "revenue": 1253000000.0,
+    "net_income": 166000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 258600000.0,
+    "revenue": 1234000000.0,
+    "net_income": 168000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2013",
+    "filing_date": "2014-02-20",
+    "shares_outstanding": 266100000.0,
+    "revenue": 4814000000.0,
+    "net_income": 648000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 131900000.0,
+    "revenue": 1201000000.0,
+    "net_income": 159000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 134300000.0,
+    "revenue": 1198000000.0,
+    "net_income": 151000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 135100000.0,
+    "revenue": 1152000000.0,
+    "net_income": 117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 137500000.0,
+    "revenue": 4482000000.0,
+    "net_income": 611000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 136600000.0,
+    "revenue": 1118000000.0,
+    "net_income": 139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-31",
+    "shares_outstanding": 137800000.0,
+    "revenue": 1100000000.0,
+    "net_income": 161000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-02",
+    "shares_outstanding": 140500000.0,
+    "revenue": 1108000000.0,
+    "net_income": 132000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 144200000.0,
+    "revenue": 4337000000.0,
+    "net_income": 472000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 142600000.0,
+    "revenue": 1063000000.0,
+    "net_income": 127000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-02",
+    "shares_outstanding": 144200000.0,
+    "revenue": 1065000000.0,
+    "net_income": 90000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-04",
+    "shares_outstanding": 147700000.0,
+    "revenue": 1048000000.0,
+    "net_income": 112000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 150900000.0,
+    "revenue": 1025000000.0,
+    "net_income": 132000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 152600000.0,
+    "revenue": 1022000000.0,
+    "net_income": 127000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 155400000.0,
+    "revenue": 4077000000.0,
+    "net_income": 476000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-06",
+    "shares_outstanding": 155200000.0,
+    "revenue": 992000000.0,
+    "net_income": 115000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FISV",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-06",
+    "shares_outstanding": 155800000.0,
+    "revenue": 1032000000.0,
+    "net_income": 140000000.0,
+    "market_cap": null
+  }
+]

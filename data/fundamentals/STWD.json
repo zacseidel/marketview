@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "STWD",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 349991000.0,
+    "revenue": 1844289000.0,
+    "net_income": 443093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 349991000.0,
+    "revenue": 1844289000.0,
+    "net_income": 443093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-10",
+    "shares_outstanding": 360394000.0,
+    "revenue": 488878000.0,
+    "net_income": 79930000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 337145000.0,
+    "revenue": 444283000.0,
+    "net_income": 134696000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 335456000.0,
+    "revenue": 418180000.0,
+    "net_income": 116101000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 319779000.0,
+    "revenue": 479540000.0,
+    "net_income": 72170000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 313614000.0,
+    "revenue": 489826000.0,
+    "net_income": 77725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 330840000.0,
+    "revenue": 523088000.0,
+    "net_income": 159860000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 310507000.0,
+    "revenue": 2049908000.0,
+    "net_income": 418157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 310566000.0,
+    "revenue": 521547000.0,
+    "net_income": 51377000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 310055000.0,
+    "revenue": 515669000.0,
+    "net_income": 222379000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 308996000.0,
+    "revenue": 490414000.0,
+    "net_income": 59761000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 315728000.0,
+    "revenue": 1464716000.0,
+    "net_income": 1059061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 316575000.0,
+    "revenue": 390541000.0,
+    "net_income": 223838000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 314962000.0,
+    "revenue": 325586000.0,
+    "net_income": 281705000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 313329000.0,
+    "revenue": 293992000.0,
+    "net_income": 384314000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 296826000.0,
+    "revenue": 1170088000.0,
+    "net_income": 492426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-09",
+    "shares_outstanding": 295448000.0,
+    "revenue": 302286000.0,
+    "net_income": 140487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 294571000.0,
+    "revenue": 290867000.0,
+    "net_income": 126384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 293231000.0,
+    "revenue": 287230000.0,
+    "net_income": 122526000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 282483000.0,
+    "revenue": 1136155000.0,
+    "net_income": 366081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 292458000.0,
+    "revenue": 267427000.0,
+    "net_income": 164734000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 291293000.0,
+    "revenue": 265606000.0,
+    "net_income": 152961000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-04",
+    "shares_outstanding": 280990000.0,
+    "revenue": 312560000.0,
+    "net_income": -66269000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 289712000.0,
+    "revenue": 1196419000.0,
+    "net_income": 536935000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 289912000.0,
+    "revenue": 288330000.0,
+    "net_income": 150001000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 289072000.0,
+    "revenue": 311181000.0,
+    "net_income": 132446000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 277698000.0,
+    "revenue": 310480000.0,
+    "net_income": 76508000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 288484000.0,
+    "revenue": 1109280000.0,
+    "net_income": 411197000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-09",
+    "shares_outstanding": 265456000.0,
+    "revenue": 285719000.0,
+    "net_income": 89381000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 288310000.0,
+    "revenue": 269556000.0,
+    "net_income": 117090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 262124000.0,
+    "revenue": 260587000.0,
+    "net_income": 104794000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 262079000.0,
+    "revenue": 879888000.0,
+    "net_income": 412767000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 262437000.0,
+    "revenue": 226767000.0,
+    "net_income": 92799000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 262851000.0,
+    "revenue": 211569000.0,
+    "net_income": 123233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 262441000.0,
+    "revenue": 198720000.0,
+    "net_income": 102854000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 241794000.0,
+    "revenue": 784667000.0,
+    "net_income": 367651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 241091000.0,
+    "revenue": 204705000.0,
+    "net_income": 105813000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 237597000.0,
+    "revenue": 199992000.0,
+    "net_income": 112071000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 236759000.0,
+    "revenue": 195493000.0,
+    "net_income": 27046000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 234142000.0,
+    "revenue": 735877000.0,
+    "net_income": 452183000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 237925000.0,
+    "revenue": 192145000.0,
+    "net_income": 117116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 235831000.0,
+    "revenue": 178660000.0,
+    "net_income": 117640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 229032000.0,
+    "revenue": 178849000.0,
+    "net_income": 120779000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 218781000.0,
+    "revenue": 702875000.0,
+    "net_income": 500538000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 223543000.0,
+    "revenue": 181368000.0,
+    "net_income": 167390000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 222892000.0,
+    "revenue": 170750000.0,
+    "net_income": 120382000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-06",
+    "shares_outstanding": 198876000.0,
+    "revenue": 171979000.0,
+    "net_income": 120881000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 167322602.0,
+    "revenue": 565695000.0,
+    "net_income": 310330000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 172394882.0,
+    "revenue": 155536000.0,
+    "net_income": 89246000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 163489322.0,
+    "revenue": 137037000.0,
+    "net_income": 61511000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 136674212.0,
+    "revenue": 85173000.0,
+    "net_income": 63424000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 114633183.0,
+    "revenue": 259855000.0,
+    "net_income": 203682000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 117381559.0,
+    "revenue": 60816000.0,
+    "net_income": 50342000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 112183695.0,
+    "revenue": 58421000.0,
+    "net_income": 44619000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 94227928.0,
+    "revenue": 65900000.0,
+    "net_income": 50288000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 86409327.0,
+    "revenue": 176191000.0,
+    "net_income": 120608000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 94596978.0,
+    "revenue": 50753000.0,
+    "net_income": 14503000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 83639365.0,
+    "revenue": 41127000.0,
+    "net_income": 33312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STWD",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 72743362.0,
+    "revenue": 31433000.0,
+    "net_income": 31725000.0,
+    "market_cap": null
+  }
+]

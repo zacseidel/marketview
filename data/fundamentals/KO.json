@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "KO",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 4313000000.0,
+    "revenue": 47941000000.0,
+    "net_income": 13137000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 4313000000.0,
+    "revenue": 47941000000.0,
+    "net_income": 13137000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 4315000000.0,
+    "revenue": 12535000000.0,
+    "net_income": 3803000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 4313000000.0,
+    "revenue": 11129000000.0,
+    "net_income": 3335000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 4320000000.0,
+    "revenue": 47061000000.0,
+    "net_income": 10649000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 4323000000.0,
+    "revenue": 11854000000.0,
+    "net_income": 2850000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-29",
+    "shares_outstanding": 4319000000.0,
+    "revenue": 12363000000.0,
+    "net_income": 2401000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 4322000000.0,
+    "revenue": 11300000000.0,
+    "net_income": 3185000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 4339000000.0,
+    "revenue": 45754000000.0,
+    "net_income": 10703000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-24",
+    "shares_outstanding": 4339000000.0,
+    "revenue": 11953000000.0,
+    "net_income": 3083000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 4341000000.0,
+    "revenue": 11972000000.0,
+    "net_income": 2521000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 4345000000.0,
+    "revenue": 10980000000.0,
+    "net_income": 3113000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2022",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 4350000000.0,
+    "revenue": 43004000000.0,
+    "net_income": 9571000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 4346000000.0,
+    "revenue": 11063000000.0,
+    "net_income": 2822000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 4353000000.0,
+    "revenue": 11325000000.0,
+    "net_income": 1900000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 4357000000.0,
+    "revenue": 10491000000.0,
+    "net_income": 2793000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 4340000000.0,
+    "revenue": 38655000000.0,
+    "net_income": 9804000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 4344000000.0,
+    "revenue": 10042000000.0,
+    "net_income": 2475000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-26",
+    "shares_outstanding": 4338000000.0,
+    "revenue": 10129000000.0,
+    "net_income": 2624000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-27",
+    "shares_outstanding": 4330000000.0,
+    "revenue": 9020000000.0,
+    "net_income": 2255000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 4323000000.0,
+    "revenue": 33014000000.0,
+    "net_income": 7768000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 4321000000.0,
+    "revenue": 8652000000.0,
+    "net_income": 1740000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-22",
+    "shares_outstanding": 4316000000.0,
+    "revenue": 7150000000.0,
+    "net_income": 1759000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-24",
+    "shares_outstanding": 4325000000.0,
+    "revenue": 8601000000.0,
+    "net_income": 2795000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 4314000000.0,
+    "revenue": 37266000000.0,
+    "net_income": 8985000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 4321000000.0,
+    "revenue": 9507000000.0,
+    "net_income": 2589000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 4305000000.0,
+    "revenue": 9997000000.0,
+    "net_income": 2628000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 4306.0,
+    "revenue": 8020000000.0,
+    "net_income": 1703000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 4299000000.0,
+    "revenue": 31856000000.0,
+    "net_income": 6476000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 4295.0,
+    "revenue": 8245000000.0,
+    "net_income": 1818000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 4290.0,
+    "revenue": 8927000000.0,
+    "net_income": 2331000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-01",
+    "shares_outstanding": 4306.0,
+    "revenue": 7626000000.0,
+    "net_income": 1400000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 4324000000.0,
+    "revenue": 35410000000.0,
+    "net_income": 1283000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 4320000000.0,
+    "revenue": 9078000000.0,
+    "net_income": 1444000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 4327000000.0,
+    "revenue": 9702000000.0,
+    "net_income": 1372000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 4334000000.0,
+    "revenue": 9118000000.0,
+    "net_income": 1184000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 4367000000.0,
+    "revenue": 41863000000.0,
+    "net_income": 6550000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 4364000000.0,
+    "revenue": 10633000000.0,
+    "net_income": 1050000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 4377000000.0,
+    "revenue": 11539000000.0,
+    "net_income": 3460000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 4382000000.0,
+    "revenue": 10282000000.0,
+    "net_income": 1493000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 4405000000.0,
+    "revenue": 44294000000.0,
+    "net_income": 7366000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-28",
+    "shares_outstanding": 4399000000.0,
+    "revenue": 11427000000.0,
+    "net_income": 1453000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-29",
+    "shares_outstanding": 4408000000.0,
+    "revenue": 12156000000.0,
+    "net_income": 3111000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 4422000000.0,
+    "revenue": 10711000000.0,
+    "net_income": 1566000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 4450000000.0,
+    "revenue": 45998000000.0,
+    "net_income": 7124000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 4445000000.0,
+    "revenue": 11976000000.0,
+    "net_income": 2122000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 4454000000.0,
+    "revenue": 12574000000.0,
+    "net_income": 2605000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-24",
+    "shares_outstanding": 4464000000.0,
+    "revenue": 10576000000.0,
+    "net_income": 1626000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 4509000000.0,
+    "revenue": 46854000000.0,
+    "net_income": 8626000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 4498000000.0,
+    "revenue": 12030000000.0,
+    "net_income": 2455000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 4527000000.0,
+    "revenue": 12749000000.0,
+    "net_income": 2694000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 4530000000.0,
+    "revenue": 11035000000.0,
+    "net_income": 1769000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 4584000000.0,
+    "revenue": 48017000000.0,
+    "net_income": 9086000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-25",
+    "shares_outstanding": 4587000000.0,
+    "revenue": 12340000000.0,
+    "net_income": 2329000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-26",
+    "shares_outstanding": 2296000000.0,
+    "revenue": 13085000000.0,
+    "net_income": 2800000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 2301000000.0,
+    "revenue": 11137000000.0,
+    "net_income": 2067000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 2323000000.0,
+    "revenue": 46542000000.0,
+    "net_income": 8634000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 2326000000.0,
+    "revenue": 12248000000.0,
+    "net_income": 2243000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-01",
+    "shares_outstanding": 2330000000.0,
+    "revenue": 12737000000.0,
+    "net_income": 2804000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-02",
+    "shares_outstanding": 2331000000.0,
+    "revenue": 10517000000.0,
+    "net_income": 1913000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KO",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-30",
+    "shares_outstanding": 2323000000.0,
+    "revenue": 8267000000.0,
+    "net_income": 2049000000.0,
+    "market_cap": null
+  }
+]

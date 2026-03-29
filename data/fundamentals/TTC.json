@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "TTC",
+    "period": "Q1 2026",
+    "filing_date": "2026-03-05",
+    "shares_outstanding": 98300000.0,
+    "revenue": 1036300000.0,
+    "net_income": 67900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2025",
+    "filing_date": "2025-12-17",
+    "shares_outstanding": 99800000.0,
+    "revenue": 4510400000.0,
+    "net_income": 316100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2025",
+    "filing_date": "2025-09-04",
+    "shares_outstanding": 99000000.0,
+    "revenue": 1131300000.0,
+    "net_income": 53500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2025",
+    "filing_date": "2025-06-05",
+    "shares_outstanding": 100100000.0,
+    "revenue": 1317900000.0,
+    "net_income": 136800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2025",
+    "filing_date": "2025-03-06",
+    "shares_outstanding": 101700000.0,
+    "revenue": 995000000.0,
+    "net_income": 52800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2024",
+    "filing_date": "2024-12-18",
+    "shares_outstanding": 104400000.0,
+    "revenue": 4583800000.0,
+    "net_income": 418900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2024",
+    "filing_date": "2024-09-05",
+    "shares_outstanding": 104500000.0,
+    "revenue": 1156900000.0,
+    "net_income": 119300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2024",
+    "filing_date": "2024-06-06",
+    "shares_outstanding": 104900000.0,
+    "revenue": 1349000000.0,
+    "net_income": 144800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2024",
+    "filing_date": "2024-03-07",
+    "shares_outstanding": 104700000.0,
+    "revenue": 1001900000.0,
+    "net_income": 64900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2023",
+    "filing_date": "2023-12-20",
+    "shares_outstanding": 105300000.0,
+    "revenue": 4553200000.0,
+    "net_income": 329700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2023",
+    "filing_date": "2023-09-07",
+    "shares_outstanding": 104286000.0,
+    "revenue": 1081784000.0,
+    "net_income": -14963000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2023",
+    "filing_date": "2023-06-08",
+    "shares_outstanding": 105571000.0,
+    "revenue": 1339326000.0,
+    "net_income": 167465000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2023",
+    "filing_date": "2023-03-09",
+    "shares_outstanding": 105577000.0,
+    "revenue": 1148840000.0,
+    "net_income": 106860000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2022",
+    "filing_date": "2022-12-22",
+    "shares_outstanding": 105649000.0,
+    "revenue": 4514662000.0,
+    "net_income": 443342000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2022",
+    "filing_date": "2022-09-01",
+    "shares_outstanding": 105448000.0,
+    "revenue": 1160550000.0,
+    "net_income": 125150000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2022",
+    "filing_date": "2022-06-02",
+    "shares_outstanding": 105746000.0,
+    "revenue": 1249478000.0,
+    "net_income": 131125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2022",
+    "filing_date": "2022-03-03",
+    "shares_outstanding": 106048000.0,
+    "revenue": 932650000.0,
+    "net_income": 69510000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2021",
+    "filing_date": "2021-12-17",
+    "shares_outstanding": 108473000.0,
+    "revenue": 3959584000.0,
+    "net_income": 409880000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2021",
+    "filing_date": "2021-09-02",
+    "shares_outstanding": 108363000.0,
+    "revenue": 976836000.0,
+    "net_income": 96320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2021",
+    "filing_date": "2021-06-03",
+    "shares_outstanding": 108898000.0,
+    "revenue": 1149107000.0,
+    "net_income": 142171000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2021",
+    "filing_date": "2021-03-04",
+    "shares_outstanding": 109194000.0,
+    "revenue": 872986000.0,
+    "net_income": 111281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2020",
+    "filing_date": "2020-12-18",
+    "shares_outstanding": 108663000.0,
+    "revenue": 3378810000.0,
+    "net_income": 329701000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2020",
+    "filing_date": "2020-09-03",
+    "shares_outstanding": 108543000.0,
+    "revenue": 840972000.0,
+    "net_income": 88968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2020",
+    "filing_date": "2020-06-04",
+    "shares_outstanding": 108500000.0,
+    "revenue": 929398000.0,
+    "net_income": 98446000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2020",
+    "filing_date": "2020-03-05",
+    "shares_outstanding": 108655000.0,
+    "revenue": 767483000.0,
+    "net_income": 70091000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2019",
+    "filing_date": "2019-12-20",
+    "shares_outstanding": 108090000.0,
+    "revenue": 3138084000.0,
+    "net_income": 273983000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2019",
+    "filing_date": "2019-09-05",
+    "shares_outstanding": 108253000.0,
+    "revenue": 838713000.0,
+    "net_income": 60607000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2019",
+    "filing_date": "2019-06-05",
+    "shares_outstanding": 108007000.0,
+    "revenue": 962036000.0,
+    "net_income": 115570000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2019",
+    "filing_date": "2019-03-06",
+    "shares_outstanding": 107781000.0,
+    "revenue": 602956000.0,
+    "net_income": 59540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2018",
+    "filing_date": "2018-12-21",
+    "shares_outstanding": 108657000.0,
+    "revenue": 2618650000.0,
+    "net_income": 271939000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2018",
+    "filing_date": "2018-09-05",
+    "shares_outstanding": 108070000.0,
+    "revenue": 655821000.0,
+    "net_income": 79009000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2018",
+    "filing_date": "2018-06-06",
+    "shares_outstanding": 108835000.0,
+    "revenue": 875280000.0,
+    "net_income": 131289000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2018",
+    "filing_date": "2018-03-07",
+    "shares_outstanding": 109855000.0,
+    "revenue": 548246000.0,
+    "net_income": 22604000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2017",
+    "filing_date": "2017-12-22",
+    "shares_outstanding": 111252000.0,
+    "revenue": 2505176000.0,
+    "net_income": 267717000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2017",
+    "filing_date": "2017-09-08",
+    "shares_outstanding": 111457000.0,
+    "revenue": 627943000.0,
+    "net_income": 68404000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2017",
+    "filing_date": "2017-06-07",
+    "shares_outstanding": 111138000.0,
+    "revenue": 872767000.0,
+    "net_income": 120475000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2017",
+    "filing_date": "2017-03-08",
+    "shares_outstanding": 110774000.0,
+    "revenue": 515839000.0,
+    "net_income": 44990000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2016",
+    "filing_date": "2016-12-22",
+    "shares_outstanding": 111987000.0,
+    "revenue": 2392175000.0,
+    "net_income": 230994000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2016",
+    "filing_date": "2016-08-31",
+    "shares_outstanding": 56056000.0,
+    "revenue": 600980000.0,
+    "net_income": 55822000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2016",
+    "filing_date": "2016-06-02",
+    "shares_outstanding": 55986000.0,
+    "revenue": 836441000.0,
+    "net_income": 105681000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2016",
+    "filing_date": "2016-03-02",
+    "shares_outstanding": 56163000.0,
+    "revenue": 486398000.0,
+    "net_income": 39261000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2015",
+    "filing_date": "2015-12-23",
+    "shares_outstanding": 56757000.0,
+    "revenue": 2390875000.0,
+    "net_income": 201591000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2015",
+    "filing_date": "2015-09-02",
+    "shares_outstanding": 56552000.0,
+    "revenue": 609615000.0,
+    "net_income": 53324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2015",
+    "filing_date": "2015-06-03",
+    "shares_outstanding": 57073000.0,
+    "revenue": 826242000.0,
+    "net_income": 93763000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2015",
+    "filing_date": "2015-03-04",
+    "shares_outstanding": 57242000.0,
+    "revenue": 474211000.0,
+    "net_income": 30950000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2014",
+    "filing_date": "2014-12-22",
+    "shares_outstanding": 57628000.0,
+    "revenue": 2172691000.0,
+    "net_income": 173870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2014",
+    "filing_date": "2014-09-04",
+    "shares_outstanding": 57320000.0,
+    "revenue": 567540000.0,
+    "net_income": 50013000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2014",
+    "filing_date": "2014-06-04",
+    "shares_outstanding": 57773000.0,
+    "revenue": 745030000.0,
+    "net_income": 87086000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2014",
+    "filing_date": "2014-03-05",
+    "shares_outstanding": 58306000.0,
+    "revenue": 445981000.0,
+    "net_income": 25869000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2013",
+    "filing_date": "2013-12-20",
+    "shares_outstanding": 59105000.0,
+    "revenue": 2041431000.0,
+    "net_income": 154845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2013",
+    "filing_date": "2013-09-04",
+    "shares_outstanding": 58913000.0,
+    "revenue": 509918000.0,
+    "net_income": 40097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2013",
+    "filing_date": "2013-06-05",
+    "shares_outstanding": 59257000.0,
+    "revenue": 704486000.0,
+    "net_income": 78402000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2013",
+    "filing_date": "2013-03-06",
+    "shares_outstanding": 59628000.0,
+    "revenue": 444661000.0,
+    "net_income": 31396000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2012",
+    "filing_date": "2012-12-21",
+    "shares_outstanding": 60618000.0,
+    "revenue": 1958690000.0,
+    "net_income": 129541000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2012",
+    "filing_date": "2012-09-05",
+    "shares_outstanding": 60336000.0,
+    "revenue": 504076000.0,
+    "net_income": 40549000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2012",
+    "filing_date": "2012-06-08",
+    "shares_outstanding": 30480000.0,
+    "revenue": 691485000.0,
+    "net_income": 68818000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2012",
+    "filing_date": "2012-03-09",
+    "shares_outstanding": 30473000.0,
+    "revenue": 423835000.0,
+    "net_income": 19923000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "FY 2011",
+    "filing_date": "2011-12-21",
+    "shares_outstanding": 31797000.0,
+    "revenue": 1883953000.0,
+    "net_income": 117658000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2011",
+    "filing_date": "2011-09-01",
+    "shares_outstanding": 31739000.0,
+    "revenue": 501045000.0,
+    "net_income": 35091000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q2 2011",
+    "filing_date": "2011-06-03",
+    "shares_outstanding": 32020000.0,
+    "revenue": 631601000.0,
+    "net_income": 60250000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q1 2011",
+    "filing_date": "2011-03-04",
+    "shares_outstanding": 32443000.0,
+    "revenue": 383213000.0,
+    "net_income": 17282000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTC",
+    "period": "Q3 2010",
+    "filing_date": "2010-09-02",
+    "shares_outstanding": 32972000.0,
+    "revenue": 458890000.0,
+    "net_income": 33414000.0,
+    "market_cap": null
+  }
+]

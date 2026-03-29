@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "COLB",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 239121000.0,
+    "revenue": 177000000.0,
+    "net_income": 550000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 239121000.0,
+    "revenue": 177000000.0,
+    "net_income": 550000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 238925000.0,
+    "revenue": 740000000.0,
+    "net_income": 96000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 209975000.0,
+    "revenue": 670689000.0,
+    "net_income": 152000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 210023000.0,
+    "revenue": 647243000.0,
+    "net_income": 87000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 209337000.0,
+    "revenue": 148814000.0,
+    "net_income": 533675000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 209454000.0,
+    "revenue": 698896000.0,
+    "net_income": 146182000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 209011000.0,
+    "revenue": 695536000.0,
+    "net_income": 120144000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 208956000.0,
+    "revenue": 684225000.0,
+    "net_income": 124080000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 195871000.0,
+    "revenue": 134259000.0,
+    "net_income": 348715000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 208645000.0,
+    "revenue": 696013000.0,
+    "net_income": 135845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 208545000.0,
+    "revenue": 675729000.0,
+    "net_income": 133377000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 156383000.0,
+    "revenue": 475951000.0,
+    "net_income": -14038000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 78193000.0,
+    "revenue": 646481000.0,
+    "net_income": 250178000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 78233000.0,
+    "revenue": 167748000.0,
+    "net_income": 64942000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 78114000.0,
+    "revenue": 150313000.0,
+    "net_income": 58808000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 78083000.0,
+    "revenue": 148285000.0,
+    "net_income": 57522000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 72873000.0,
+    "revenue": 536065000.0,
+    "net_income": 202820000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 71186000.0,
+    "revenue": 134540000.0,
+    "net_income": 53017000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 71164000.0,
+    "revenue": 127447000.0,
+    "net_income": 55039000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 71109000.0,
+    "revenue": 126042000.0,
+    "net_income": 51853000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 70880000.0,
+    "revenue": 517809000.0,
+    "net_income": 154244000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 70762000.0,
+    "revenue": 127384000.0,
+    "net_income": 44734000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 70711000.0,
+    "revenue": 126232000.0,
+    "net_income": 36582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 71264000.0,
+    "revenue": 130897000.0,
+    "net_income": 14628000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 72032000.0,
+    "revenue": 529952000.0,
+    "net_income": 194451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 71803000.0,
+    "revenue": 132533000.0,
+    "net_income": 50727000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 72451000.0,
+    "revenue": 135422000.0,
+    "net_income": 51724000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 72524000.0,
+    "revenue": 128888000.0,
+    "net_income": 45871000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 72390000.0,
+    "revenue": 497069000.0,
+    "net_income": 172882000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 72432000.0,
+    "revenue": 127575000.0,
+    "net_income": 46415000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 72390000.0,
+    "revenue": 120549000.0,
+    "net_income": 41749000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 72305000.0,
+    "revenue": 119144000.0,
+    "net_income": 39970000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 59888000.0,
+    "revenue": 374746000.0,
+    "net_income": 112828000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 57571000.0,
+    "revenue": 90303000.0,
+    "net_income": 40769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 57525000.0,
+    "revenue": 87786000.0,
+    "net_income": 27132000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 57394000.0,
+    "revenue": 87816000.0,
+    "net_income": 29199000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 57193000.0,
+    "revenue": 337969000.0,
+    "net_income": 104866000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 57225000.0,
+    "revenue": 86758000.0,
+    "net_income": 27484000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 57195000.0,
+    "revenue": 83303000.0,
+    "net_income": 25405000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 57125000.0,
+    "revenue": 81174000.0,
+    "net_income": 21259000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 57032000.0,
+    "revenue": 328891000.0,
+    "net_income": 98827000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 57064000.0,
+    "revenue": 82665000.0,
+    "net_income": 25780000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 57069000.0,
+    "revenue": 82040000.0,
+    "net_income": 21946000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 56978000.0,
+    "revenue": 81417000.0,
+    "net_income": 24361000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 53183000.0,
+    "revenue": 308042000.0,
+    "net_income": 81574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 52516000.0,
+    "revenue": 77133000.0,
+    "net_income": 21583000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 52494000.0,
+    "revenue": 76087000.0,
+    "net_income": 21227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-09",
+    "shares_outstanding": 52433000.0,
+    "revenue": 74925000.0,
+    "net_income": 19844000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 49051000.0,
+    "revenue": 296935000.0,
+    "net_income": 60016000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-04",
+    "shares_outstanding": 52297000.0,
+    "revenue": 81599000.0,
+    "net_income": 13276000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 52125000.0,
+    "revenue": 82268000.0,
+    "net_income": 14591000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 39351000.0,
+    "revenue": 54761000.0,
+    "net_income": 12176000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 39263000.0,
+    "revenue": 248504000.0,
+    "net_income": 46143000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 39291000.0,
+    "revenue": 59469000.0,
+    "net_income": 11880000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 39308000.0,
+    "revenue": 62114000.0,
+    "net_income": 11899000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 39298000.0,
+    "revenue": 69712000.0,
+    "net_income": 8902000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 39180000.0,
+    "revenue": 251271000.0,
+    "net_income": 48037000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 39192000.0,
+    "revenue": 68432000.0,
+    "net_income": 18872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 39166000.0,
+    "revenue": 53309000.0,
+    "net_income": 8632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COLB",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 39156000.0,
+    "revenue": 54611000.0,
+    "net_income": 5779000.0,
+    "market_cap": null
+  }
+]

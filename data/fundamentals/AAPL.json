@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2026",
+    "filing_date": "2026-01-30",
+    "shares_outstanding": 14810356000.0,
+    "revenue": 143756000000.0,
+    "net_income": 42097000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 15004697000.0,
+    "revenue": 416161000000.0,
+    "net_income": 112010000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 14948179000.0,
+    "revenue": 94036000000.0,
+    "net_income": 23434000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 15056133000.0,
+    "revenue": 95359000000.0,
+    "net_income": 24780000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2025",
+    "filing_date": "2025-01-31",
+    "shares_outstanding": 15150865000.0,
+    "revenue": 124300000000.0,
+    "net_income": 36330000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 15408095000.0,
+    "revenue": 391035000000.0,
+    "net_income": 93736000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 15348175000.0,
+    "revenue": 85777000000.0,
+    "net_income": 21448000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 15464709000.0,
+    "revenue": 90753000000.0,
+    "net_income": 23636000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2024",
+    "filing_date": "2024-02-02",
+    "shares_outstanding": 15576641000.0,
+    "revenue": 119575000000.0,
+    "net_income": 33916000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 15812547000.0,
+    "revenue": 383285000000.0,
+    "net_income": 96995000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 15775021000.0,
+    "revenue": 81797000000.0,
+    "net_income": 19881000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 15847050000.0,
+    "revenue": 94836000000.0,
+    "net_income": 24160000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2023",
+    "filing_date": "2023-02-03",
+    "shares_outstanding": 15955718000.0,
+    "revenue": 117154000000.0,
+    "net_income": 29998000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 16325819000.0,
+    "revenue": 394328000000.0,
+    "net_income": 99803000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 16262203000.0,
+    "revenue": 82959000000.0,
+    "net_income": 19442000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 16403316000.0,
+    "revenue": 97278000000.0,
+    "net_income": 25010000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2022",
+    "filing_date": "2022-01-28",
+    "shares_outstanding": 16519291000.0,
+    "revenue": 123945000000.0,
+    "net_income": 34630000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 16864919000.0,
+    "revenue": 365817000000.0,
+    "net_income": 94680000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 16781735000.0,
+    "revenue": 81434000000.0,
+    "net_income": 21744000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 16929157000.0,
+    "revenue": 89584000000.0,
+    "net_income": 23630000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2021",
+    "filing_date": "2021-01-28",
+    "shares_outstanding": 17113688000.0,
+    "revenue": 111439000000.0,
+    "net_income": 28755000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 17528214000.0,
+    "revenue": 274515000000.0,
+    "net_income": 57411000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 4354788000.0,
+    "revenue": 59685000000.0,
+    "net_income": 11253000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 4404691000.0,
+    "revenue": 58313000000.0,
+    "net_income": 11249000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2020",
+    "filing_date": "2020-01-29",
+    "shares_outstanding": 4454604000.0,
+    "revenue": 91819000000.0,
+    "net_income": 22236000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 4648913000.0,
+    "revenue": 260174000000.0,
+    "net_income": 55256000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 4601380000.0,
+    "revenue": 53809000000.0,
+    "net_income": 10044000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 4700646000.0,
+    "revenue": 58015000000.0,
+    "net_income": 11561000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2019",
+    "filing_date": "2019-01-30",
+    "shares_outstanding": 4773252000.0,
+    "revenue": 84310000000.0,
+    "net_income": 19965000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 5000109000.0,
+    "revenue": 265595000000.0,
+    "net_income": 59531000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 4926609000.0,
+    "revenue": 53265000000.0,
+    "net_income": 11519000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 5068493000.0,
+    "revenue": 61137000000.0,
+    "net_income": 13822000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2018",
+    "filing_date": "2018-02-02",
+    "shares_outstanding": 5157787000.0,
+    "revenue": 88293000000.0,
+    "net_income": 20065000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 5251692000.0,
+    "revenue": 229234000000.0,
+    "net_income": 48351000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 5233499000.0,
+    "revenue": 45408000000.0,
+    "net_income": 8717000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 5261688000.0,
+    "revenue": 52896000000.0,
+    "net_income": 11029000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2017",
+    "filing_date": "2017-02-01",
+    "shares_outstanding": 5327995000.0,
+    "revenue": 78351000000.0,
+    "net_income": 17891000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2016",
+    "filing_date": "2016-10-26",
+    "shares_outstanding": 5500281000.0,
+    "revenue": 215639000000.0,
+    "net_income": 45687000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2016",
+    "filing_date": "2016-07-27",
+    "shares_outstanding": 5472781000.0,
+    "revenue": 42358000000.0,
+    "net_income": 7796000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 5540886000.0,
+    "revenue": 50557000000.0,
+    "net_income": 10516000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2016",
+    "filing_date": "2016-01-27",
+    "shares_outstanding": 5594127000.0,
+    "revenue": 75872000000.0,
+    "net_income": 18361000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2015",
+    "filing_date": "2015-10-28",
+    "shares_outstanding": 5793069000.0,
+    "revenue": 233715000000.0,
+    "net_income": 53394000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2015",
+    "filing_date": "2015-07-22",
+    "shares_outstanding": 5773099000.0,
+    "revenue": 49605000000.0,
+    "net_income": 10677000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2015",
+    "filing_date": "2015-04-28",
+    "shares_outstanding": 5834858000.0,
+    "revenue": 58010000000.0,
+    "net_income": 13569000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2015",
+    "filing_date": "2015-01-28",
+    "shares_outstanding": 5881803000.0,
+    "revenue": 74599000000.0,
+    "net_income": 18024000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2014",
+    "filing_date": "2014-10-27",
+    "shares_outstanding": 6122663000.0,
+    "revenue": 182795000000.0,
+    "net_income": 39510000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2014",
+    "filing_date": "2014-07-23",
+    "shares_outstanding": 6051711000.0,
+    "revenue": 37432000000.0,
+    "net_income": 7748000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2014",
+    "filing_date": "2014-04-24",
+    "shares_outstanding": 879528000.0,
+    "revenue": 45646000000.0,
+    "net_income": 10223000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2014",
+    "filing_date": "2014-01-28",
+    "shares_outstanding": 901452000.0,
+    "revenue": 57594000000.0,
+    "net_income": 13072000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 931662000.0,
+    "revenue": 170910000000.0,
+    "net_income": 37037000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2013",
+    "filing_date": "2013-07-24",
+    "shares_outstanding": 924265000.0,
+    "revenue": 35323000000.0,
+    "net_income": 6900000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2013",
+    "filing_date": "2013-04-24",
+    "shares_outstanding": 946035000.0,
+    "revenue": 43603000000.0,
+    "net_income": 9547000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2013",
+    "filing_date": "2013-01-24",
+    "shares_outstanding": 947217000.0,
+    "revenue": 54512000000.0,
+    "net_income": 13078000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 945355000.0,
+    "revenue": 156508000000.0,
+    "net_income": 41733000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2012",
+    "filing_date": "2012-07-25",
+    "shares_outstanding": 947059000.0,
+    "revenue": 35023000000.0,
+    "net_income": 8824000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2012",
+    "filing_date": "2012-04-25",
+    "shares_outstanding": 944893000.0,
+    "revenue": 39186000000.0,
+    "net_income": 11622000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2012",
+    "filing_date": "2012-01-25",
+    "shares_outstanding": 941572000.0,
+    "revenue": 46333000000.0,
+    "net_income": 13064000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2011",
+    "filing_date": "2011-10-26",
+    "shares_outstanding": 936645000.0,
+    "revenue": 108249000000.0,
+    "net_income": 25922000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2011",
+    "filing_date": "2011-07-20",
+    "shares_outstanding": 937810000.0,
+    "revenue": 28571000000.0,
+    "net_income": 7308000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2011",
+    "filing_date": "2011-04-21",
+    "shares_outstanding": 935944000.0,
+    "revenue": 24667000000.0,
+    "net_income": 5987000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2011",
+    "filing_date": "2011-01-19",
+    "shares_outstanding": 933154000.0,
+    "revenue": 26741000000.0,
+    "net_income": 6004000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2010",
+    "filing_date": "2010-10-27",
+    "shares_outstanding": 924712000.0,
+    "revenue": 65225000000.0,
+    "net_income": 14013000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2010",
+    "filing_date": "2010-07-21",
+    "shares_outstanding": 927361000.0,
+    "revenue": 15700000000.0,
+    "net_income": 3253000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q2 2010",
+    "filing_date": "2010-04-21",
+    "shares_outstanding": 922878000.0,
+    "revenue": 13499000000.0,
+    "net_income": 3074000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q1 2010",
+    "filing_date": "2010-01-25",
+    "shares_outstanding": 919783000.0,
+    "revenue": 15683000000.0,
+    "net_income": 3378000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "FY 2009",
+    "filing_date": "2009-10-27",
+    "shares_outstanding": 907005000.0,
+    "revenue": 36537000000.0,
+    "net_income": 5704000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AAPL",
+    "period": "Q3 2009",
+    "filing_date": "2009-07-22",
+    "shares_outstanding": 909160000.0,
+    "revenue": 8337000000.0,
+    "net_income": 1229000000.0,
+    "market_cap": null
+  }
+]

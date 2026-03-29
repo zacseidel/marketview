@@ -1,0 +1,614 @@
+[
+  {
+    "ticker": "GPC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 139250000.0,
+    "revenue": 24300141000.0,
+    "net_income": 65945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 139250000.0,
+    "revenue": 24300141000.0,
+    "net_income": 65945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-21",
+    "shares_outstanding": 139406000.0,
+    "revenue": 6260232000.0,
+    "net_income": 226171000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-22",
+    "shares_outstanding": 139244000.0,
+    "revenue": 6164425000.0,
+    "net_income": 254880000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-22",
+    "shares_outstanding": 139200000.0,
+    "revenue": 5866069000.0,
+    "net_income": 194392000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 139670000.0,
+    "revenue": 23486569000.0,
+    "net_income": 904076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-22",
+    "shares_outstanding": 139599000.0,
+    "revenue": 5970198000.0,
+    "net_income": 226582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-23",
+    "shares_outstanding": 139829000.0,
+    "revenue": 5962567000.0,
+    "net_income": 295544000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-18",
+    "shares_outstanding": 140096000.0,
+    "revenue": 5783631000.0,
+    "net_income": 248894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 141034000.0,
+    "revenue": 23090610000.0,
+    "net_income": 1316524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-19",
+    "shares_outstanding": 140934000.0,
+    "revenue": 5824602000.0,
+    "net_income": 351198000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-20",
+    "shares_outstanding": 141247000.0,
+    "revenue": 5915006000.0,
+    "net_income": 344494000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-20",
+    "shares_outstanding": 141725000.0,
+    "revenue": 5765118000.0,
+    "net_income": 303957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 142322000.0,
+    "revenue": 22095973000.0,
+    "net_income": 1182701000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-20",
+    "shares_outstanding": 142109000.0,
+    "revenue": 5675274000.0,
+    "net_income": 312358000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 142304000.0,
+    "revenue": 5602414000.0,
+    "net_income": 372529000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-21",
+    "shares_outstanding": 142842000.0,
+    "revenue": 5294635000.0,
+    "net_income": 245838000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 144221000.0,
+    "revenue": 18870510000.0,
+    "net_income": 898790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-21",
+    "shares_outstanding": 143589000.0,
+    "revenue": 4818849000.0,
+    "net_income": 228585000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-22",
+    "shares_outstanding": 144983000.0,
+    "revenue": 4783738000.0,
+    "net_income": 196496000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-22",
+    "shares_outstanding": 145300000.0,
+    "revenue": 4464714000.0,
+    "net_income": 217710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 145115000.0,
+    "revenue": 16537433000.0,
+    "net_income": -29102000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 145035000.0,
+    "revenue": 4370086000.0,
+    "net_income": 227531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 144262000.0,
+    "revenue": 3823227000.0,
+    "net_income": -564372000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 145623000.0,
+    "revenue": 4092526000.0,
+    "net_income": 136535000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 146417000.0,
+    "revenue": 19392305000.0,
+    "net_income": 621085000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-18",
+    "shares_outstanding": 146189000.0,
+    "revenue": 5015023000.0,
+    "net_income": 227487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-19",
+    "shares_outstanding": 146736000.0,
+    "revenue": 4934260000.0,
+    "net_income": 224430000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-19",
+    "shares_outstanding": 146694000.0,
+    "revenue": 4736833000.0,
+    "net_income": 160250000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2018",
+    "filing_date": "2019-02-25",
+    "shares_outstanding": 147241000.0,
+    "revenue": 18735073000.0,
+    "net_income": 810474000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-22",
+    "shares_outstanding": 147453000.0,
+    "revenue": 4722922000.0,
+    "net_income": 220227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-25",
+    "shares_outstanding": 147260000.0,
+    "revenue": 4822065000.0,
+    "net_income": 226972000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 147322000.0,
+    "revenue": 4586294000.0,
+    "net_income": 176576000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 147701000.0,
+    "revenue": 16308801000.0,
+    "net_income": 616757000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 147222000.0,
+    "revenue": 4095906000.0,
+    "net_income": 158442000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 147650000.0,
+    "revenue": 4100178000.0,
+    "net_income": 189972000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-25",
+    "shares_outstanding": 148788000.0,
+    "revenue": 3905641000.0,
+    "net_income": 160160000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 149804000.0,
+    "revenue": 15339713000.0,
+    "net_income": 687240000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 149727000.0,
+    "revenue": 3941743000.0,
+    "net_income": 185326000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 150029000.0,
+    "revenue": 3899638000.0,
+    "net_income": 191369000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 150342000.0,
+    "revenue": 3718267000.0,
+    "net_income": 158025000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 152496000.0,
+    "revenue": 15280044000.0,
+    "net_income": 705672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 152143000.0,
+    "revenue": 3921802000.0,
+    "net_income": 188016000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 152989000.0,
+    "revenue": 3940401000.0,
+    "net_income": 195373000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 153574000.0,
+    "revenue": 3736051000.0,
+    "net_income": 161010000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 154375000.0,
+    "revenue": 15341647000.0,
+    "net_income": 711286000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 154098000.0,
+    "revenue": 3985909000.0,
+    "net_income": 190516000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 154532000.0,
+    "revenue": 3908387000.0,
+    "net_income": 197727000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 154796000.0,
+    "revenue": 3624897000.0,
+    "net_income": 157484000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 155714000.0,
+    "revenue": 14077843000.0,
+    "net_income": 684959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 155663000.0,
+    "revenue": 3685243000.0,
+    "net_income": 173746000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 156144000.0,
+    "revenue": 3675997000.0,
+    "net_income": 216357000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 155931.0,
+    "revenue": 3198802000.0,
+    "net_income": 144389000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 156420.0,
+    "revenue": 13013868000.0,
+    "net_income": 648041000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 156135.0,
+    "revenue": 3375778000.0,
+    "net_income": 172943000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 156772000.0,
+    "revenue": 3337836000.0,
+    "net_income": 168618000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 156949000.0,
+    "revenue": 3181288000.0,
+    "net_income": 146255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 157660000.0,
+    "revenue": 12458877000.0,
+    "net_income": 565116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 157148000.0,
+    "revenue": 3285560000.0,
+    "net_income": 151832000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 158243000.0,
+    "revenue": 3184984000.0,
+    "net_income": 151812000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 158656000.0,
+    "revenue": 2974198000.0,
+    "net_income": 126515000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2010",
+    "filing_date": "2011-02-25",
+    "shares_outstanding": 158461000.0,
+    "revenue": 11207589000.0,
+    "net_income": 475511000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-04",
+    "shares_outstanding": 157980000.0,
+    "revenue": 2950560000.0,
+    "net_income": 131785000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 158662000.0,
+    "revenue": 2847186000.0,
+    "net_income": 124467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-06",
+    "shares_outstanding": 159179000.0,
+    "revenue": 2602115000.0,
+    "net_income": 100609000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 159707000.0,
+    "revenue": 10057512000.0,
+    "net_income": 399575000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-05",
+    "shares_outstanding": 159876000.0,
+    "revenue": 2606757000.0,
+    "net_income": 107639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GPC",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-06",
+    "shares_outstanding": 159766000.0,
+    "revenue": 2535045000.0,
+    "net_income": 103610000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ticker": "FLG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 415327556.0,
+    "revenue": 4466000000.0,
+    "net_income": -177000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 415327556.0,
+    "revenue": 4466000000.0,
+    "net_income": -177000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLG",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 415563380.0,
+    "revenue": 1101000000.0,
+    "net_income": -36000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLG",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 415125228.0,
+    "revenue": 1143000000.0,
+    "net_income": -70000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLG",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 414824158.0,
+    "revenue": 1164000000.0,
+    "net_income": -100000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLG",
+    "period": "FY 2024",
+    "filing_date": "2025-03-04",
+    "shares_outstanding": 330713517.0,
+    "revenue": 5953000000.0,
+    "net_income": -1118000000.0,
+    "market_cap": null
+  }
+]

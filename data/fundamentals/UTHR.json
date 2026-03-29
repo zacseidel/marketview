@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "UTHR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 47900000.0,
+    "revenue": 3182700000.0,
+    "net_income": 1334700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 47900000.0,
+    "revenue": 3182700000.0,
+    "net_income": 1334700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 48300000.0,
+    "revenue": 798600000.0,
+    "net_income": 309500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 48600000.0,
+    "revenue": 794400000.0,
+    "net_income": 322200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 48500000.0,
+    "revenue": 2877400000.0,
+    "net_income": 1195100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 48400000.0,
+    "revenue": 748900000.0,
+    "net_income": 309100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 47500000.0,
+    "revenue": 714900000.0,
+    "net_income": 278100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 49700000.0,
+    "revenue": 677700000.0,
+    "net_income": 306600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 49700000.0,
+    "revenue": 2327500000.0,
+    "net_income": 984800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 49700000.0,
+    "revenue": 609400000.0,
+    "net_income": 267600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 49500000.0,
+    "revenue": 596500000.0,
+    "net_income": 259200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 49600000.0,
+    "revenue": 506900000.0,
+    "net_income": 240900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 48500000.0,
+    "revenue": 1936300000.0,
+    "net_income": 727300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 48700000.0,
+    "revenue": 516000000.0,
+    "net_income": 239300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 48100000.0,
+    "revenue": 466900000.0,
+    "net_income": 116000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 47700000.0,
+    "revenue": 461900000.0,
+    "net_income": 239900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 47300000.0,
+    "revenue": 1685500000.0,
+    "net_income": 475800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 47600000.0,
+    "revenue": 444700000.0,
+    "net_income": 162700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 47300000.0,
+    "revenue": 446500000.0,
+    "net_income": 172600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 46400000.0,
+    "revenue": 379100000.0,
+    "net_income": 28300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 44600000.0,
+    "revenue": 1483300000.0,
+    "net_income": 514800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 44600000.0,
+    "revenue": 380100000.0,
+    "net_income": 171200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 44400000.0,
+    "revenue": 362000000.0,
+    "net_income": 107100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 44100000.0,
+    "revenue": 356300000.0,
+    "net_income": 137700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 43800000.0,
+    "revenue": 1448800000.0,
+    "net_income": -104500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 44000000.0,
+    "revenue": 401500000.0,
+    "net_income": 132400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 44000000.0,
+    "revenue": 373600000.0,
+    "net_income": 205100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 43700000.0,
+    "revenue": 362600000.0,
+    "net_income": -494600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 44000000.0,
+    "revenue": 1627800000.0,
+    "net_income": 589200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 44000000.0,
+    "revenue": 412700000.0,
+    "net_income": 106500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 43400000.0,
+    "revenue": 444500000.0,
+    "net_income": 172900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 43900000.0,
+    "revenue": 389200000.0,
+    "net_income": 244500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-21",
+    "shares_outstanding": 44900000.0,
+    "revenue": 1725300000.0,
+    "net_income": 417900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-25",
+    "shares_outstanding": 44100000.0,
+    "revenue": 445500000.0,
+    "net_income": 276300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 44900000.0,
+    "revenue": 444600000.0,
+    "net_income": -56000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-26",
+    "shares_outstanding": 45900000.0,
+    "revenue": 370500000.0,
+    "net_income": 178600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-22",
+    "shares_outstanding": 46800000.0,
+    "revenue": 1598800000.0,
+    "net_income": 713700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 46200000.0,
+    "revenue": 408200000.0,
+    "net_income": 161800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 46900000.0,
+    "revenue": 412600000.0,
+    "net_income": 206100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 48700000.0,
+    "revenue": 369000000.0,
+    "net_income": 235500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 51221000.0,
+    "revenue": 1465761000.0,
+    "net_income": 651639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-27",
+    "shares_outstanding": 50239000.0,
+    "revenue": 386221000.0,
+    "net_income": 464425000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-28",
+    "shares_outstanding": 51905000.0,
+    "revenue": 347161000.0,
+    "net_income": 99211000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-28",
+    "shares_outstanding": 46707000.0,
+    "revenue": 327504000.0,
+    "net_income": -16641000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 54155000.0,
+    "revenue": 1288519000.0,
+    "net_income": 340074000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-28",
+    "shares_outstanding": 47297000.0,
+    "revenue": 329950000.0,
+    "net_income": -25237000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-29",
+    "shares_outstanding": 53252000.0,
+    "revenue": 322802000.0,
+    "net_income": 111852000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-29",
+    "shares_outstanding": 56657000.0,
+    "revenue": 289403000.0,
+    "net_income": 137524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 53231000.0,
+    "revenue": 1116984000.0,
+    "net_income": 174560000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-29",
+    "shares_outstanding": 53688000.0,
+    "revenue": 302225000.0,
+    "net_income": 62685000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 52648000.0,
+    "revenue": 280606000.0,
+    "net_income": 79864000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 52376000.0,
+    "revenue": 245136000.0,
+    "net_income": 62325000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 53280000.0,
+    "revenue": 916076000.0,
+    "net_income": 304442000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 53590000.0,
+    "revenue": 242468000.0,
+    "net_income": 78111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-26",
+    "shares_outstanding": 53942000.0,
+    "revenue": 225577000.0,
+    "net_income": 72316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 55009000.0,
+    "revenue": 204214000.0,
+    "net_income": 70760000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 59395000.0,
+    "revenue": 743183000.0,
+    "net_income": 217868000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 61210000.0,
+    "revenue": 201742000.0,
+    "net_income": 84398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 62756000.0,
+    "revenue": 183751000.0,
+    "net_income": 73891000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-28",
+    "shares_outstanding": 62623000.0,
+    "revenue": 162512000.0,
+    "net_income": 16390000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UTHR",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-28",
+    "shares_outstanding": 60216000.0,
+    "revenue": 170983000.0,
+    "net_income": 39736000.0,
+    "market_cap": null
+  }
+]

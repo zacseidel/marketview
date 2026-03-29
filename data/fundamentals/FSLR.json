@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 107538000.0,
+    "revenue": 1594856000.0,
+    "net_income": 455943000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 107518000.0,
+    "revenue": 1097170000.0,
+    "net_income": 341868000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q4 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 107415000.0,
+    "revenue": 844568000.0,
+    "net_income": 209535000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 107525000.0,
+    "revenue": 4206289000.0,
+    "net_income": 1292044000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 107562000.0,
+    "revenue": 887668000.0,
+    "net_income": 312956000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 107525000.0,
+    "revenue": 1010482000.0,
+    "net_income": 349356000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 107407000.0,
+    "revenue": 794108000.0,
+    "net_income": 236616000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 107372000.0,
+    "revenue": 3318602000.0,
+    "net_income": 830777000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 107498000.0,
+    "revenue": 801090000.0,
+    "net_income": 268398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 107278000.0,
+    "revenue": 810673000.0,
+    "net_income": 170579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 107154000.0,
+    "revenue": 548286000.0,
+    "net_income": 42561000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 106551000.0,
+    "revenue": 2619319000.0,
+    "net_income": -44166000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 106596000.0,
+    "revenue": 628933000.0,
+    "net_income": -49168000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 107056000.0,
+    "revenue": 620955000.0,
+    "net_income": 55805000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 106412000.0,
+    "revenue": 367040000.0,
+    "net_income": -43255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 106924000.0,
+    "revenue": 2923377000.0,
+    "net_income": 468693000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 106899000.0,
+    "revenue": 583504000.0,
+    "net_income": 45203000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 106836000.0,
+    "revenue": 629180000.0,
+    "net_income": 82449000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 106890000.0,
+    "revenue": 803374000.0,
+    "net_income": 209671000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 106686000.0,
+    "revenue": 2711332000.0,
+    "net_income": 398355000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 106751000.0,
+    "revenue": 927565000.0,
+    "net_income": 155037000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 106473000.0,
+    "revenue": 642411000.0,
+    "net_income": 36911000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 106386000.0,
+    "revenue": 532124000.0,
+    "net_income": 90704000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 105310000.0,
+    "revenue": 3063117000.0,
+    "net_income": -114933000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 106227000.0,
+    "revenue": 546806000.0,
+    "net_income": 30622000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 105369000.0,
+    "revenue": 584956000.0,
+    "net_income": -18548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 105046000.0,
+    "revenue": 531978000.0,
+    "net_income": -67599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 106113000.0,
+    "revenue": 2244044000.0,
+    "net_income": 144326000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-26",
+    "shares_outstanding": 106163000.0,
+    "revenue": 676220000.0,
+    "net_income": 57750000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-27",
+    "shares_outstanding": 104776000.0,
+    "revenue": 309318000.0,
+    "net_income": -48491000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 106305000.0,
+    "revenue": 567265000.0,
+    "net_income": 82951000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 104328000.0,
+    "revenue": 2941324000.0,
+    "net_income": -165615000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-27",
+    "shares_outstanding": 105660000.0,
+    "revenue": 1087026000.0,
+    "net_income": 205747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 104611000.0,
+    "revenue": 623326000.0,
+    "net_income": 51963000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 104410000.0,
+    "revenue": 891791000.0,
+    "net_income": 9129000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-22",
+    "shares_outstanding": 102866000.0,
+    "revenue": 2951328000.0,
+    "net_income": -357964000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 103733000.0,
+    "revenue": 688029000.0,
+    "net_income": 154146000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 103875000.0,
+    "revenue": 934381000.0,
+    "net_income": 13408000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 102745000.0,
+    "revenue": 848484000.0,
+    "net_income": 170565000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 101815000.0,
+    "revenue": 3578995000.0,
+    "net_income": 546421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 102299000.0,
+    "revenue": 1271245000.0,
+    "net_income": 349318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 101607000.0,
+    "revenue": 896217000.0,
+    "net_income": 94490000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 100375000.0,
+    "revenue": 469209000.0,
+    "net_income": -62292000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 101643000.0,
+    "revenue": 3391814000.0,
+    "net_income": 396918000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 101415000.0,
+    "revenue": 889310000.0,
+    "net_income": 88424000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 101814000.0,
+    "revenue": 544353000.0,
+    "net_income": 4528000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 101822000.0,
+    "revenue": 950158000.0,
+    "net_income": 112007000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 95468000.0,
+    "revenue": 3308989000.0,
+    "net_income": 353038000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 100378000.0,
+    "revenue": 1265587000.0,
+    "net_income": 195038000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 91142000.0,
+    "revenue": 519760000.0,
+    "net_income": 33598000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 89377000.0,
+    "revenue": 755205000.0,
+    "net_income": 59142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 86860000.0,
+    "revenue": 3368545000.0,
+    "net_income": -96338000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 87765000.0,
+    "revenue": 839147000.0,
+    "net_income": 87917000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 87653000.0,
+    "revenue": 957332000.0,
+    "net_income": 110983000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 86507000.0,
+    "revenue": 497055000.0,
+    "net_income": -449416000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 86067000.0,
+    "revenue": 2766207000.0,
+    "net_income": -39493000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 87151000.0,
+    "revenue": 1005788000.0,
+    "net_income": 196514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 87126000.0,
+    "revenue": 532774000.0,
+    "net_income": 61138000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 87053000.0,
+    "revenue": 567293000.0,
+    "net_income": 115968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q1 2010",
+    "filing_date": "2010-04-29",
+    "shares_outstanding": 86092000.0,
+    "revenue": 567961000.0,
+    "net_income": 172345000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "FY 2009",
+    "filing_date": "2010-02-22",
+    "shares_outstanding": 85044000.0,
+    "revenue": 2066200000.0,
+    "net_income": 640138000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FSLR",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-03",
+    "shares_outstanding": 85668000.0,
+    "revenue": 525876000.0,
+    "net_income": 180579000.0,
+    "market_cap": null
+  }
+]

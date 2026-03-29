@@ -1,0 +1,425 @@
+[
+  {
+    "ticker": "MSA",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 39346000.0,
+    "revenue": 1874814000.0,
+    "net_income": 278924000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 39346000.0,
+    "revenue": 1874814000.0,
+    "net_income": 278924000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 39359000.0,
+    "revenue": 474116000.0,
+    "net_income": 62773000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 39501000.0,
+    "revenue": 421340000.0,
+    "net_income": 59605000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 39495000.0,
+    "revenue": 432679000.0,
+    "net_income": 66648000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 39541000.0,
+    "revenue": 462463000.0,
+    "net_income": 72234000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 39556000.0,
+    "revenue": 413302000.0,
+    "net_income": 58139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 39473000.0,
+    "revenue": 1787647000.0,
+    "net_income": 58583000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 39450000.0,
+    "revenue": 446728000.0,
+    "net_income": 65256000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 39409000.0,
+    "revenue": 447299000.0,
+    "net_income": 67090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 39224000.0,
+    "revenue": 398262000.0,
+    "net_income": -150173000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 39407000.0,
+    "revenue": 1527953000.0,
+    "net_income": 179630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 39299000.0,
+    "revenue": 381694000.0,
+    "net_income": 44906000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 39421000.0,
+    "revenue": 372313000.0,
+    "net_income": 47693000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 39523000.0,
+    "revenue": 330692000.0,
+    "net_income": 35542000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 39449000.0,
+    "revenue": 1400182000.0,
+    "net_income": 21788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 39430000.0,
+    "revenue": 340197000.0,
+    "net_income": 21180000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 39420000.0,
+    "revenue": 341289000.0,
+    "net_income": 25448000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 39420000.0,
+    "revenue": 308428000.0,
+    "net_income": 36636000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 39286000.0,
+    "revenue": 1348223000.0,
+    "net_income": 121162000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 39260000.0,
+    "revenue": 304392000.0,
+    "net_income": 28234000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 39195000.0,
+    "revenue": 314438000.0,
+    "net_income": 36406000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 39352000.0,
+    "revenue": 341145000.0,
+    "net_income": 43802000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 39189000.0,
+    "revenue": 1401981000.0,
+    "net_income": 137649000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 39144000.0,
+    "revenue": 351014000.0,
+    "net_income": 42611000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 39160000.0,
+    "revenue": 349675000.0,
+    "net_income": 40112000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 39084000.0,
+    "revenue": 326038000.0,
+    "net_income": 23376000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 38961000.0,
+    "revenue": 1358104000.0,
+    "net_income": 125115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 39036000.0,
+    "revenue": 331096000.0,
+    "net_income": 34063000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 38903000.0,
+    "revenue": 339331000.0,
+    "net_income": 33421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-24",
+    "shares_outstanding": 38778000.0,
+    "revenue": 325894000.0,
+    "net_income": 32489000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 38697000.0,
+    "revenue": 1196809000.0,
+    "net_income": 26956000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-20",
+    "shares_outstanding": 38702000.0,
+    "revenue": 296129000.0,
+    "net_income": 32226000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-07",
+    "shares_outstanding": 38780000.0,
+    "revenue": 288775000.0,
+    "net_income": 12614000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 38593000.0,
+    "revenue": 265765000.0,
+    "net_income": 14690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 37986000.0,
+    "revenue": 1149530000.0,
+    "net_income": 93862000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 38112000.0,
+    "revenue": 278233000.0,
+    "net_income": 25022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 37860000.0,
+    "revenue": 295998000.0,
+    "net_income": 31931000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-02",
+    "shares_outstanding": 37759000.0,
+    "revenue": 279268000.0,
+    "net_income": 12073000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 37710000.0,
+    "revenue": 1129922000.0,
+    "net_income": 67944000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-22",
+    "shares_outstanding": 37709000.0,
+    "revenue": 273746000.0,
+    "net_income": 15586000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-23",
+    "shares_outstanding": 37826000.0,
+    "revenue": 287011000.0,
+    "net_income": 23845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-28",
+    "shares_outstanding": 37849000.0,
+    "revenue": 256708000.0,
+    "net_income": 9450000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 37728000.0,
+    "revenue": 1136650000.0,
+    "net_income": 87927000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-23",
+    "shares_outstanding": 37784000.0,
+    "revenue": 275159000.0,
+    "net_income": 19205000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-24",
+    "shares_outstanding": 37719000.0,
+    "revenue": 282493000.0,
+    "net_income": 22495000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSA",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-23",
+    "shares_outstanding": 37617000.0,
+    "revenue": 265045000.0,
+    "net_income": 13917000.0,
+    "market_cap": null
+  }
+]

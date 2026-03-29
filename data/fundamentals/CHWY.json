@@ -1,0 +1,218 @@
+[
+  {
+    "ticker": "CHWY",
+    "period": "Q2 2026",
+    "filing_date": "2025-09-10",
+    "shares_outstanding": 428400000.0,
+    "revenue": 3104200000.0,
+    "net_income": 62000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q1 2026",
+    "filing_date": "2025-06-11",
+    "shares_outstanding": 425300000.0,
+    "revenue": 3116000000.0,
+    "net_income": 62400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "FY 2025",
+    "filing_date": "2025-03-26",
+    "shares_outstanding": 430990000.0,
+    "revenue": 11861335000.0,
+    "net_income": 392738000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q3 2025",
+    "filing_date": "2024-12-04",
+    "shares_outstanding": 426572000.0,
+    "revenue": 2877635000.0,
+    "net_income": 3932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q1 2025",
+    "filing_date": "2024-05-29",
+    "shares_outstanding": 436424000.0,
+    "revenue": 2877725000.0,
+    "net_income": 66897000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "FY 2024",
+    "filing_date": "2024-03-20",
+    "shares_outstanding": 432040000.0,
+    "revenue": 11147720000.0,
+    "net_income": 39580000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q3 2024",
+    "filing_date": "2023-12-06",
+    "shares_outstanding": 430758000.0,
+    "revenue": 2738611000.0,
+    "net_income": -35810000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q2 2024",
+    "filing_date": "2023-08-30",
+    "shares_outstanding": 431576000.0,
+    "revenue": 2777769000.0,
+    "net_income": 18946000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q1 2024",
+    "filing_date": "2023-05-31",
+    "shares_outstanding": 430471000.0,
+    "revenue": 2784675000.0,
+    "net_income": 22181000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "FY 2023",
+    "filing_date": "2023-03-22",
+    "shares_outstanding": 427770000.0,
+    "revenue": 10098939000.0,
+    "net_income": 49232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q3 2023",
+    "filing_date": "2022-12-08",
+    "shares_outstanding": 428125000.0,
+    "revenue": 2532122000.0,
+    "net_income": 2311000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q2 2023",
+    "filing_date": "2022-08-30",
+    "shares_outstanding": 426833000.0,
+    "revenue": 2431011000.0,
+    "net_income": 22345000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q1 2023",
+    "filing_date": "2022-06-01",
+    "shares_outstanding": 426710000.0,
+    "revenue": 2428327000.0,
+    "net_income": 18472000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "FY 2022",
+    "filing_date": "2022-03-29",
+    "shares_outstanding": 417218000.0,
+    "revenue": 8890773000.0,
+    "net_income": -73817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q3 2022",
+    "filing_date": "2021-12-09",
+    "shares_outstanding": 417847000.0,
+    "revenue": 2212161000.0,
+    "net_income": -32241000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q2 2022",
+    "filing_date": "2021-09-01",
+    "shares_outstanding": 416665000.0,
+    "revenue": 2155036000.0,
+    "net_income": -16686000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q1 2022",
+    "filing_date": "2021-06-10",
+    "shares_outstanding": 427597000.0,
+    "revenue": 2135178000.0,
+    "net_income": 38719000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "FY 2021",
+    "filing_date": "2021-03-30",
+    "shares_outstanding": -2004000.0,
+    "revenue": 7146264000.0,
+    "net_income": -92486000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q3 2021",
+    "filing_date": "2020-12-08",
+    "shares_outstanding": -56421000.0,
+    "revenue": 1782000000.0,
+    "net_income": -32847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q2 2021",
+    "filing_date": "2020-09-10",
+    "shares_outstanding": -377612000.0,
+    "revenue": 1699859000.0,
+    "net_income": -32817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q1 2021",
+    "filing_date": "2020-06-09",
+    "shares_outstanding": -396535000.0,
+    "revenue": 1621393000.0,
+    "net_income": -47870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "FY 2020",
+    "filing_date": "2020-04-02",
+    "shares_outstanding": -403974000.0,
+    "revenue": 4846743000.0,
+    "net_income": -252370000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q3 2020",
+    "filing_date": "2019-12-09",
+    "shares_outstanding": -389457000.0,
+    "revenue": 1229801000.0,
+    "net_income": -79000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHWY",
+    "period": "Q2 2020",
+    "filing_date": "2019-09-17",
+    "shares_outstanding": -361733000.0,
+    "revenue": 1153545000.0,
+    "net_income": -82876000.0,
+    "market_cap": null
+  }
+]

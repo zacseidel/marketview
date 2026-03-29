@@ -1,0 +1,515 @@
+[
+  {
+    "ticker": "CMCSA",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 3709000000.0,
+    "revenue": 123707000000.0,
+    "net_income": 19660000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2025",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 3709000000.0,
+    "revenue": 123707000000.0,
+    "net_income": 19660000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 3689000000.0,
+    "revenue": 31198000000.0,
+    "net_income": 3249000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 3727000000.0,
+    "revenue": 30313000000.0,
+    "net_income": 11044000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 3784000000.0,
+    "revenue": 29887000000.0,
+    "net_income": 3296000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2024",
+    "filing_date": "2025-01-31",
+    "shares_outstanding": 3908000000.0,
+    "revenue": 123731000000.0,
+    "net_income": 15877000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 3992000000.0,
+    "revenue": 30058000000.0,
+    "net_income": 3777000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2023",
+    "filing_date": "2024-01-31",
+    "shares_outstanding": 4148000000.0,
+    "revenue": 121572000000.0,
+    "net_income": 15107000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 4141000000.0,
+    "revenue": 30115000000.0,
+    "net_income": 3997000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 4183000000.0,
+    "revenue": 30513000000.0,
+    "net_income": 4189000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 4227000000.0,
+    "revenue": 29691000000.0,
+    "net_income": 3767000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-03",
+    "shares_outstanding": 4430000000.0,
+    "revenue": 121427000000.0,
+    "net_income": 4925000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 4377000000.0,
+    "revenue": 29849000000.0,
+    "net_income": -4665000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 4482000000.0,
+    "revenue": 30016000000.0,
+    "net_income": 3241000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 4558000000.0,
+    "revenue": 31010000000.0,
+    "net_income": 3476000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2021",
+    "filing_date": "2022-02-02",
+    "shares_outstanding": 4654000000.0,
+    "revenue": 116385000000.0,
+    "net_income": 13833000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 4665000000.0,
+    "revenue": 30298000000.0,
+    "net_income": 3931000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 4673000000.0,
+    "revenue": 28546000000.0,
+    "net_income": 3630000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 4665000000.0,
+    "revenue": 27205000000.0,
+    "net_income": 3292000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2020",
+    "filing_date": "2021-02-04",
+    "shares_outstanding": 4624000000.0,
+    "revenue": 103564000000.0,
+    "net_income": 10701000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 4628000000.0,
+    "revenue": 25532000000.0,
+    "net_income": 2031000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 4607000000.0,
+    "revenue": 23715000000.0,
+    "net_income": 3009000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 4617000000.0,
+    "revenue": 26609000000.0,
+    "net_income": 2224000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2019",
+    "filing_date": "2020-01-30",
+    "shares_outstanding": 4610000000.0,
+    "revenue": 108942000000.0,
+    "net_income": 13323000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 4619000000.0,
+    "revenue": 26827000000.0,
+    "net_income": 3288000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 4607000000.0,
+    "revenue": 26858000000.0,
+    "net_income": 3203000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 4594000000.0,
+    "revenue": 26859000000.0,
+    "net_income": 3632000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2018",
+    "filing_date": "2019-01-31",
+    "shares_outstanding": 4640000000.0,
+    "revenue": 94507000000.0,
+    "net_income": 11862000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 4619000000.0,
+    "revenue": 22135000000.0,
+    "net_income": 2896000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 4643000000.0,
+    "revenue": 21735000000.0,
+    "net_income": 3208000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 4705000000.0,
+    "revenue": 22791000000.0,
+    "net_income": 3176000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2017",
+    "filing_date": "2018-01-31",
+    "shares_outstanding": 4786000000.0,
+    "revenue": 84526000000.0,
+    "net_income": 22900000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 4777000000.0,
+    "revenue": 20983000000.0,
+    "net_income": 2683000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 4809000000.0,
+    "revenue": 21165000000.0,
+    "net_income": 2535000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 4832000000.0,
+    "revenue": 20463000000.0,
+    "net_income": 2647000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2016",
+    "filing_date": "2017-02-03",
+    "shares_outstanding": 2438000000.0,
+    "revenue": 80403000000.0,
+    "net_income": 9045000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 2620000000.0,
+    "revenue": 68775000000.0,
+    "net_income": 8592000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-24",
+    "shares_outstanding": 2628000000.0,
+    "revenue": 16844000000.0,
+    "net_income": 2025000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-22",
+    "shares_outstanding": 2645000000.0,
+    "revenue": 17408000000.0,
+    "net_income": 1938000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2013",
+    "filing_date": "2014-02-12",
+    "shares_outstanding": 2665000000.0,
+    "revenue": 64657000000.0,
+    "net_income": 7135000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 2658000000.0,
+    "revenue": 16151000000.0,
+    "net_income": 1778000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 2666000000.0,
+    "revenue": 16270000000.0,
+    "net_income": 1744000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 2675000000.0,
+    "revenue": 15310000000.0,
+    "net_income": 1645000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 2717000000.0,
+    "revenue": 62570000000.0,
+    "net_income": 7865000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 2703000000.0,
+    "revenue": 16544000000.0,
+    "net_income": 2978000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 2717000000.0,
+    "revenue": 15211000000.0,
+    "net_income": 1633000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-02",
+    "shares_outstanding": 2744000000.0,
+    "revenue": 14878000000.0,
+    "net_income": 1447000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 2778000000.0,
+    "revenue": 55842000000.0,
+    "net_income": 5157000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 2761000000.0,
+    "revenue": 14339000000.0,
+    "net_income": 1166000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-03",
+    "shares_outstanding": 2789000000.0,
+    "revenue": 14333000000.0,
+    "net_income": 1367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 2805000000.0,
+    "revenue": 12128000000.0,
+    "net_income": 1039000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-27",
+    "shares_outstanding": 2810000000.0,
+    "revenue": 9489000000.0,
+    "net_income": 870000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-28",
+    "shares_outstanding": 2822000000.0,
+    "revenue": 9525000000.0,
+    "net_income": 886000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q1 2010",
+    "filing_date": "2010-04-28",
+    "shares_outstanding": 8000000.0,
+    "revenue": 9202000000.0,
+    "net_income": 879000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "FY 2009",
+    "filing_date": "2010-02-23",
+    "shares_outstanding": 42811000000.0,
+    "revenue": 35756000000.0,
+    "net_income": 3628000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-04",
+    "shares_outstanding": 42381000000.0,
+    "revenue": 8802000000.0,
+    "net_income": 934000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CMCSA",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-06",
+    "shares_outstanding": 41814000000.0,
+    "revenue": 8938000000.0,
+    "net_income": 967000000.0,
+    "market_cap": null
+  }
+]

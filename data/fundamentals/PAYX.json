@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2026",
+    "filing_date": "2025-12-22",
+    "shares_outstanding": 360400000.0,
+    "revenue": 1557600000.0,
+    "net_income": 395400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2026",
+    "filing_date": "2025-09-30",
+    "shares_outstanding": 361900000.0,
+    "revenue": 1540000000.0,
+    "net_income": 383800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2025",
+    "filing_date": "2025-07-11",
+    "shares_outstanding": 362000000.0,
+    "revenue": 5571700000.0,
+    "net_income": 1657300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2025",
+    "filing_date": "2025-03-26",
+    "shares_outstanding": 362000000.0,
+    "revenue": 1509000000.0,
+    "net_income": 519300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2025",
+    "filing_date": "2024-12-19",
+    "shares_outstanding": 361700000.0,
+    "revenue": 1316900000.0,
+    "net_income": 413400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2025",
+    "filing_date": "2024-10-01",
+    "shares_outstanding": 361900000.0,
+    "revenue": 1318500000.0,
+    "net_income": 427400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2024",
+    "filing_date": "2024-07-11",
+    "shares_outstanding": 362100000.0,
+    "revenue": 5278300000.0,
+    "net_income": 1690400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2024",
+    "filing_date": "2024-04-02",
+    "shares_outstanding": 361700000.0,
+    "revenue": 1439300000.0,
+    "net_income": 498600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2024",
+    "filing_date": "2023-12-21",
+    "shares_outstanding": 362100000.0,
+    "revenue": 1257900000.0,
+    "net_income": 392700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2024",
+    "filing_date": "2023-09-28",
+    "shares_outstanding": 362800000.0,
+    "revenue": 1286000000.0,
+    "net_income": 419200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2023",
+    "filing_date": "2023-07-14",
+    "shares_outstanding": 362300000.0,
+    "revenue": 5007100000.0,
+    "net_income": 1557300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2023",
+    "filing_date": "2023-03-30",
+    "shares_outstanding": 362300000.0,
+    "revenue": 1381000000.0,
+    "net_income": 467400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2023",
+    "filing_date": "2022-12-22",
+    "shares_outstanding": 362300000.0,
+    "revenue": 1190300000.0,
+    "net_income": 360300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2023",
+    "filing_date": "2022-09-29",
+    "shares_outstanding": 362400000.0,
+    "revenue": 1206200000.0,
+    "net_income": 379200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2022",
+    "filing_date": "2022-07-15",
+    "shares_outstanding": 363100000.0,
+    "revenue": 4611700000.0,
+    "net_income": 1392800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2022",
+    "filing_date": "2022-03-31",
+    "shares_outstanding": 363400000.0,
+    "revenue": 1276000000.0,
+    "net_income": 430700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2022",
+    "filing_date": "2021-12-22",
+    "shares_outstanding": 363100000.0,
+    "revenue": 1108500000.0,
+    "net_income": 332100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2022",
+    "filing_date": "2021-10-01",
+    "shares_outstanding": 362800000.0,
+    "revenue": 1082900000.0,
+    "net_income": 333600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2021",
+    "filing_date": "2021-07-16",
+    "shares_outstanding": 362100000.0,
+    "revenue": 4056800000.0,
+    "net_income": 1097500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2021",
+    "filing_date": "2021-04-07",
+    "shares_outstanding": 362800000.0,
+    "revenue": 1111700000.0,
+    "net_income": 350500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2021",
+    "filing_date": "2020-12-23",
+    "shares_outstanding": 362000000.0,
+    "revenue": 983700000.0,
+    "net_income": 272400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2021",
+    "filing_date": "2020-10-09",
+    "shares_outstanding": 361300000.0,
+    "revenue": 932200000.0,
+    "net_income": 211600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2020",
+    "filing_date": "2020-07-17",
+    "shares_outstanding": 361000000.0,
+    "revenue": 4040500000.0,
+    "net_income": 1098100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2020",
+    "filing_date": "2020-03-27",
+    "shares_outstanding": 361000000.0,
+    "revenue": 1142700000.0,
+    "net_income": 354500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2020",
+    "filing_date": "2019-12-20",
+    "shares_outstanding": 360600000.0,
+    "revenue": 990700000.0,
+    "net_income": 258700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2020",
+    "filing_date": "2019-10-04",
+    "shares_outstanding": 361500000.0,
+    "revenue": 992000000.0,
+    "net_income": 264200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2019",
+    "filing_date": "2019-07-24",
+    "shares_outstanding": 361800000.0,
+    "revenue": 3772500000.0,
+    "net_income": 1034400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2019",
+    "filing_date": "2019-03-29",
+    "shares_outstanding": 361600000.0,
+    "revenue": 1070400000.0,
+    "net_income": 324600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2019",
+    "filing_date": "2018-12-21",
+    "shares_outstanding": 361500000.0,
+    "revenue": 858900000.0,
+    "net_income": 235800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2019",
+    "filing_date": "2018-10-05",
+    "shares_outstanding": 361500000.0,
+    "revenue": 862800000.0,
+    "net_income": 243600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2018",
+    "filing_date": "2018-07-20",
+    "shares_outstanding": 361500000.0,
+    "revenue": 3380900000.0,
+    "net_income": 933700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2018",
+    "filing_date": "2018-03-28",
+    "shares_outstanding": 362000000.0,
+    "revenue": 866500000.0,
+    "net_income": 260400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2018",
+    "filing_date": "2017-12-21",
+    "shares_outstanding": 361400000.0,
+    "revenue": 826500000.0,
+    "net_income": 217000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2018",
+    "filing_date": "2017-10-06",
+    "shares_outstanding": 361300000.0,
+    "revenue": 816800000.0,
+    "net_income": 227800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2017",
+    "filing_date": "2017-07-21",
+    "shares_outstanding": 362600000.0,
+    "revenue": 3151300000.0,
+    "net_income": 817300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2017",
+    "filing_date": "2017-03-31",
+    "shares_outstanding": 361800000.0,
+    "revenue": 795800000.0,
+    "net_income": 202500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2017",
+    "filing_date": "2016-12-23",
+    "shares_outstanding": 362600000.0,
+    "revenue": 771400000.0,
+    "net_income": 202100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2017",
+    "filing_date": "2016-09-30",
+    "shares_outstanding": 364100000.0,
+    "revenue": 785500000.0,
+    "net_income": 217400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2016",
+    "filing_date": "2016-07-22",
+    "shares_outstanding": 362500000.0,
+    "revenue": 2951900000.0,
+    "net_income": 756800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2016",
+    "filing_date": "2016-03-30",
+    "shares_outstanding": 362200000.0,
+    "revenue": 752600000.0,
+    "net_income": 180400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2016",
+    "filing_date": "2015-12-23",
+    "shares_outstanding": 362300000.0,
+    "revenue": 722400000.0,
+    "net_income": 189200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2016",
+    "filing_date": "2015-09-30",
+    "shares_outstanding": 362800000.0,
+    "revenue": 723000000.0,
+    "net_income": 209100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2015",
+    "filing_date": "2015-07-21",
+    "shares_outstanding": 364600000.0,
+    "revenue": 2739600000.0,
+    "net_income": 674900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2015",
+    "filing_date": "2015-03-25",
+    "shares_outstanding": 365000000.0,
+    "revenue": 704300000.0,
+    "net_income": 169400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2015",
+    "filing_date": "2014-12-19",
+    "shares_outstanding": 364600000.0,
+    "revenue": 676300000.0,
+    "net_income": 173000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2015",
+    "filing_date": "2014-09-24",
+    "shares_outstanding": 364700000.0,
+    "revenue": 666800000.0,
+    "net_income": 171300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2014",
+    "filing_date": "2014-07-22",
+    "shares_outstanding": 366100000.0,
+    "revenue": 2518900000.0,
+    "net_income": 627500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2014",
+    "filing_date": "2014-03-26",
+    "shares_outstanding": 365800000.0,
+    "revenue": 650400000.0,
+    "net_income": 160100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2014",
+    "filing_date": "2013-12-20",
+    "shares_outstanding": 366400000.0,
+    "revenue": 616400000.0,
+    "net_income": 158700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2014",
+    "filing_date": "2013-09-30",
+    "shares_outstanding": 366700000.0,
+    "revenue": 613100000.0,
+    "net_income": 162800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2013",
+    "filing_date": "2013-07-22",
+    "shares_outstanding": 364700000.0,
+    "revenue": 2326200000.0,
+    "net_income": 569000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2013",
+    "filing_date": "2013-03-27",
+    "shares_outstanding": 364600000.0,
+    "revenue": 593300000.0,
+    "net_income": 144500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2013",
+    "filing_date": "2012-12-20",
+    "shares_outstanding": 364400000.0,
+    "revenue": 569400000.0,
+    "net_income": 147900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2013",
+    "filing_date": "2012-09-24",
+    "shares_outstanding": 363800000.0,
+    "revenue": 578200000.0,
+    "net_income": 153100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2012",
+    "filing_date": "2012-07-20",
+    "shares_outstanding": 363000000.0,
+    "revenue": 2229800000.0,
+    "net_income": 548000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2012",
+    "filing_date": "2012-03-28",
+    "shares_outstanding": 363100000.0,
+    "revenue": 569500000.0,
+    "net_income": 135400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2012",
+    "filing_date": "2011-12-20",
+    "shares_outstanding": 362800000.0,
+    "revenue": 545700000.0,
+    "net_income": 140400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2012",
+    "filing_date": "2011-09-27",
+    "shares_outstanding": 362800000.0,
+    "revenue": 563100000.0,
+    "net_income": 148900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2011",
+    "filing_date": "2011-07-15",
+    "shares_outstanding": 362400000.0,
+    "revenue": 2084300000.0,
+    "net_income": 515300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2011",
+    "filing_date": "2011-03-23",
+    "shares_outstanding": 362600000.0,
+    "revenue": 531300000.0,
+    "net_income": 130600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2011",
+    "filing_date": "2010-12-20",
+    "shares_outstanding": 362100000.0,
+    "revenue": 512000000.0,
+    "net_income": 133900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2011",
+    "filing_date": "2010-09-27",
+    "shares_outstanding": 362000000.0,
+    "revenue": 518300000.0,
+    "net_income": 131900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "FY 2010",
+    "filing_date": "2010-07-16",
+    "shares_outstanding": 361728000.0,
+    "revenue": 2000820000.0,
+    "net_income": 476999000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q3 2010",
+    "filing_date": "2010-03-24",
+    "shares_outstanding": 361860000.0,
+    "revenue": 507819000.0,
+    "net_income": 112007000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q2 2010",
+    "filing_date": "2009-12-16",
+    "shares_outstanding": 361692000.0,
+    "revenue": 496576000.0,
+    "net_income": 125850000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYX",
+    "period": "Q1 2010",
+    "filing_date": "2009-09-23",
+    "shares_outstanding": 361362000.0,
+    "revenue": 500214000.0,
+    "net_income": 123620000.0,
+    "market_cap": null
+  }
+]

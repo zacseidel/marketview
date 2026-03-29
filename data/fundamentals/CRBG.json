@@ -1,0 +1,137 @@
+[
+  {
+    "ticker": "CRBG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 539300000.0,
+    "revenue": 18481000000.0,
+    "net_income": -390000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 539300000.0,
+    "revenue": 18481000000.0,
+    "net_income": -390000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 540600000.0,
+    "revenue": 5416000000.0,
+    "net_income": 137000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 550300000.0,
+    "revenue": 2744000000.0,
+    "net_income": -668000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 558000000.0,
+    "revenue": 3590000000.0,
+    "net_income": -657000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 599200000.0,
+    "revenue": 18781000000.0,
+    "net_income": 2203000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 587100000.0,
+    "revenue": 2616000000.0,
+    "net_income": -1187000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 612600000.0,
+    "revenue": 3710000000.0,
+    "net_income": 341000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 624900000.0,
+    "revenue": 5836000000.0,
+    "net_income": 827000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 645200000.0,
+    "revenue": 18878000000.0,
+    "net_income": 1036000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 641000000.0,
+    "revenue": 5505000000.0,
+    "net_income": 2069000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 652200000.0,
+    "revenue": 5757000000.0,
+    "net_income": 751000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-11",
+    "shares_outstanding": 650800000.0,
+    "revenue": 4262000000.0,
+    "net_income": -453000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 647400000.0,
+    "revenue": 26679000000.0,
+    "net_income": 8469000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRBG",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 646400000.0,
+    "revenue": 7141000000.0,
+    "net_income": 2477000000.0,
+    "market_cap": null
+  }
+]

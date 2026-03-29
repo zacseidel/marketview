@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "HUM",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 120826000.0,
+    "revenue": 129664000000.0,
+    "net_income": 1203000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 120826000.0,
+    "revenue": 129664000000.0,
+    "net_income": 1203000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 120745000.0,
+    "revenue": 32649000000.0,
+    "net_income": 194000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 120745000.0,
+    "revenue": 32388000000.0,
+    "net_income": 543000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 120844000.0,
+    "revenue": 32112000000.0,
+    "net_income": 1242000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 120869000.0,
+    "revenue": 117761000000.0,
+    "net_income": 1214000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 120764000.0,
+    "revenue": 29397000000.0,
+    "net_income": 480000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 120665000.0,
+    "revenue": 29540000000.0,
+    "net_income": 678000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 121268000.0,
+    "revenue": 29611000000.0,
+    "net_income": 739000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 124441000.0,
+    "revenue": 106374000000.0,
+    "net_income": 2484000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 123983000.0,
+    "revenue": 26423000000.0,
+    "net_income": 830000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 125109000.0,
+    "revenue": 26747000000.0,
+    "net_income": 956000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 125564000.0,
+    "revenue": 26742000000.0,
+    "net_income": 1238000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 127094000.0,
+    "revenue": 92870000000.0,
+    "net_income": 2802000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 127356000.0,
+    "revenue": 22799000000.0,
+    "net_income": 1193000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 127084000.0,
+    "revenue": 23662000000.0,
+    "net_income": 697000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 127474000.0,
+    "revenue": 23970000000.0,
+    "net_income": 930000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 129396000.0,
+    "revenue": 83064000000.0,
+    "net_income": 2934000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 129255000.0,
+    "revenue": 20697000000.0,
+    "net_income": 1531000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 129387000.0,
+    "revenue": 20645000000.0,
+    "net_income": 588000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 129551000.0,
+    "revenue": 20668000000.0,
+    "net_income": 828000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2020",
+    "filing_date": "2021-02-18",
+    "shares_outstanding": 133012000.0,
+    "revenue": 77155000000.0,
+    "net_income": 3367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 133196000.0,
+    "revenue": 20075000000.0,
+    "net_income": 1340000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 133023000.0,
+    "revenue": 19083000000.0,
+    "net_income": 1828000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 132811000.0,
+    "revenue": 18935000000.0,
+    "net_income": 473000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 134727000.0,
+    "revenue": 64888000000.0,
+    "net_income": 2707000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 134025000.0,
+    "revenue": 16241000000.0,
+    "net_income": 689000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 135579000.0,
+    "revenue": 16245000000.0,
+    "net_income": 940000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 135962000.0,
+    "revenue": 16107000000.0,
+    "net_income": 566000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 138403000.0,
+    "revenue": 56912000000.0,
+    "net_income": 1683000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 138678000.0,
+    "revenue": 14206000000.0,
+    "net_income": 644000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 138576000.0,
+    "revenue": 14259000000.0,
+    "net_income": 193000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 138830000.0,
+    "revenue": 14279000000.0,
+    "net_income": 491000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 145585000.0,
+    "revenue": 53767000000.0,
+    "net_income": 2448000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 145360000.0,
+    "revenue": 13282000000.0,
+    "net_income": 499000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 145634000.0,
+    "revenue": 13534000000.0,
+    "net_income": 650000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 148872000.0,
+    "revenue": 13762000000.0,
+    "net_income": 1115000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 150917000.0,
+    "revenue": 54379000000.0,
+    "net_income": 614000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 150904000.0,
+    "revenue": 13694000000.0,
+    "net_income": 450000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 150806000.0,
+    "revenue": 14007000000.0,
+    "net_income": 311000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 150554000.0,
+    "revenue": 13800000000.0,
+    "net_income": 254000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2015",
+    "filing_date": "2016-02-18",
+    "shares_outstanding": 151142000.0,
+    "revenue": 54289000000.0,
+    "net_income": 1276000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 150466000.0,
+    "revenue": 13363000000.0,
+    "net_income": 314000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-29",
+    "shares_outstanding": 151148000.0,
+    "revenue": 13732000000.0,
+    "net_income": 431000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-29",
+    "shares_outstanding": 152349000.0,
+    "revenue": 13833000000.0,
+    "net_income": 430000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2014",
+    "filing_date": "2015-02-18",
+    "shares_outstanding": 155874000.0,
+    "revenue": 48500000000.0,
+    "net_income": 1147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 156230000.0,
+    "revenue": 12238000000.0,
+    "net_income": 290000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 157046000.0,
+    "revenue": 12222000000.0,
+    "net_income": 344000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 156647000.0,
+    "revenue": 11712000000.0,
+    "net_income": 368000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2013",
+    "filing_date": "2014-02-19",
+    "shares_outstanding": 159151000.0,
+    "revenue": 41313000000.0,
+    "net_income": 1231000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 158907000.0,
+    "revenue": 10319000000.0,
+    "net_income": 368000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 159521000.0,
+    "revenue": 10321000000.0,
+    "net_income": 420000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 160403000.0,
+    "revenue": 10486000000.0,
+    "net_income": 473000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 163457000.0,
+    "revenue": 39126000000.0,
+    "net_income": 1222000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-05",
+    "shares_outstanding": 162418000.0,
+    "revenue": 9651000000.0,
+    "net_income": 426000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 164639000.0,
+    "revenue": 9699000000.0,
+    "net_income": 356000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-30",
+    "shares_outstanding": 166088000.0,
+    "revenue": 10219000000.0,
+    "net_income": 248000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 167827000.0,
+    "revenue": 36832000000.0,
+    "net_income": 1419000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-31",
+    "shares_outstanding": 166580000.0,
+    "revenue": 9301000000.0,
+    "net_income": 445000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-01",
+    "shares_outstanding": 169560000.0,
+    "revenue": 9284000000.0,
+    "net_income": 460000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": 169534000.0,
+    "revenue": 9191000000.0,
+    "net_income": 315000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-01",
+    "shares_outstanding": 169582000.0,
+    "revenue": 8424648000.0,
+    "net_income": 393221000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-02",
+    "shares_outstanding": 170229000.0,
+    "revenue": 8652721000.0,
+    "net_income": 340076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q1 2010",
+    "filing_date": "2010-04-27",
+    "shares_outstanding": -75000.0,
+    "revenue": 8440594000.0,
+    "net_income": 258768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "FY 2009",
+    "filing_date": "2010-02-19",
+    "shares_outstanding": 5776003000.0,
+    "revenue": 30960414000.0,
+    "net_income": 1039675000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-03",
+    "shares_outstanding": 5548203000.0,
+    "revenue": 7716819000.0,
+    "net_income": 301519000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HUM",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-03",
+    "shares_outstanding": 5058278000.0,
+    "revenue": 7898889000.0,
+    "net_income": 281780000.0,
+    "market_cap": null
+  }
+]

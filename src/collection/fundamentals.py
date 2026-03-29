@@ -123,10 +123,17 @@ def fetch_and_save(ticker: str, client: PolygonClient) -> int:
                 json.dump(constituents, f, indent=2)
             tmp.replace(universe_file)
 
+    # Keep earnings events in sync with updated fundamentals
+    try:
+        from src.collection import earnings as _earnings
+        _earnings.refresh([ticker])
+    except Exception as exc:
+        log.debug("fundamentals.earnings_sync_failed", ticker=ticker, error=str(exc))
+
     return len(records)
 
 
-def bulk_fetch(tickers: list[str], client: PolygonClient | None = None) -> None:
+def bulk_fetch(tickers: list[str], client: PolygonClient | None = None, cap: int | None = None) -> None:
     """
     Resumable bulk fetch for a list of tickers.
     Progress saved every 25 tickers in data/fundamentals/.init_state.json.
@@ -143,6 +150,8 @@ def bulk_fetch(tickers: list[str], client: PolygonClient | None = None) -> None:
         log.info("fundamentals.resuming", done=len(completed), remaining=len(tickers) - len(completed))
 
     remaining = [t for t in tickers if t not in completed]
+    if cap:
+        remaining = remaining[:cap]
     total = len(tickers)
 
     for i, ticker in enumerate(remaining):
@@ -169,9 +178,17 @@ if __name__ == "__main__":
     load_dotenv()
     client = PolygonClient()
 
-    if len(sys.argv) > 1:
+    # Parse --cap N flag
+    cap: int | None = None
+    args = sys.argv[1:]
+    if "--cap" in args:
+        idx = args.index("--cap")
+        cap = int(args[idx + 1])
+        args = [a for i, a in enumerate(args) if i != idx and i != idx + 1]
+
+    if args:
         # Specific tickers passed as args
-        tickers = [t.upper() for t in sys.argv[1:]]
+        tickers = [t.upper() for t in args]
         log.info("fundamentals.fetching_specific", tickers=tickers)
         for ticker in tickers:
             n = fetch_and_save(ticker, client)
@@ -184,5 +201,5 @@ if __name__ == "__main__":
         with open(_UNIVERSE_FILE) as f:
             constituents = json.load(f)
         tickers = [t for t, r in constituents.items() if r.get("status") == "active"]
-        log.info("fundamentals.bulk_starting", count=len(tickers))
-        bulk_fetch(tickers, client=client)
+        log.info("fundamentals.bulk_starting", count=len(tickers), cap=cap)
+        bulk_fetch(tickers, client=client, cap=cap)

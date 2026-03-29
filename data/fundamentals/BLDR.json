@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "BLDR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 111822000.0,
+    "revenue": 15190638000.0,
+    "net_income": 435199000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 111822000.0,
+    "revenue": 15190638000.0,
+    "net_income": 435199000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 110930000.0,
+    "revenue": 3941190000.0,
+    "net_income": 122384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 111196000.0,
+    "revenue": 4234064000.0,
+    "net_income": 185031000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 114339000.0,
+    "revenue": 3657496000.0,
+    "net_income": 96304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 118980000.0,
+    "revenue": 16400492000.0,
+    "net_income": 1077898000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 116940000.0,
+    "revenue": 4232494000.0,
+    "net_income": 284783000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 120072000.0,
+    "revenue": 4456340000.0,
+    "net_income": 344090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 123371000.0,
+    "revenue": 3891352000.0,
+    "net_income": 258781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 128998000.0,
+    "revenue": 17097330000.0,
+    "net_income": 1540555000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 125792000.0,
+    "revenue": 4534264000.0,
+    "net_income": 451457000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 128066000.0,
+    "revenue": 4528890000.0,
+    "net_income": 404619000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 138412000.0,
+    "revenue": 3883314000.0,
+    "net_income": 333786000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 163481000.0,
+    "revenue": 22726418000.0,
+    "net_income": 2749369000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 156493000.0,
+    "revenue": 5761463000.0,
+    "net_income": 738007000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-01",
+    "shares_outstanding": 171549000.0,
+    "revenue": 6926259000.0,
+    "net_income": 987209000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 179546000.0,
+    "revenue": 5681131000.0,
+    "net_income": 639640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 203470000.0,
+    "revenue": 19893856000.0,
+    "net_income": 1725416000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 205630000.0,
+    "revenue": 5508590000.0,
+    "net_income": 613145000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 208318000.0,
+    "revenue": 5576682000.0,
+    "net_income": 497235000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 208624000.0,
+    "revenue": 4173775000.0,
+    "net_income": 172580000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 117917000.0,
+    "revenue": 8558874000.0,
+    "net_income": 313537000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 118026000.0,
+    "revenue": 2295450000.0,
+    "net_income": 85932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 117547000.0,
+    "revenue": 1945643000.0,
+    "net_income": 78924000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 117494000.0,
+    "revenue": 1787021000.0,
+    "net_income": 8767000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 117025000.0,
+    "revenue": 7280431000.0,
+    "net_income": 221809000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 117154000.0,
+    "revenue": 1981035000.0,
+    "net_income": 78130000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 116919000.0,
+    "revenue": 1904523000.0,
+    "net_income": 66604000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 116531000.0,
+    "revenue": 1631300000.0,
+    "net_income": 35708000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2018",
+    "filing_date": "2019-03-01",
+    "shares_outstanding": 116554000.0,
+    "revenue": 7724771000.0,
+    "net_income": 205191000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 116456000.0,
+    "revenue": 2118467000.0,
+    "net_income": 73328000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 116693000.0,
+    "revenue": 2089888000.0,
+    "net_income": 56622000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 116696000.0,
+    "revenue": 1700436000.0,
+    "net_income": 23220000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 115597000.0,
+    "revenue": 7034209000.0,
+    "net_income": 38781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 115871000.0,
+    "revenue": 1878909000.0,
+    "net_income": 39750000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 115465000.0,
+    "revenue": 1843297000.0,
+    "net_income": 37910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 114580000.0,
+    "revenue": 1533064000.0,
+    "net_income": 3822000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 113585000.0,
+    "revenue": 6367284000.0,
+    "net_income": 144341000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 114273000.0,
+    "revenue": 1745958000.0,
+    "net_income": 125469000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 113504000.0,
+    "revenue": 1677300000.0,
+    "net_income": 29441000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 109913000.0,
+    "revenue": 1397114000.0,
+    "net_income": -16980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2015",
+    "filing_date": "2016-03-11",
+    "shares_outstanding": 103190000.0,
+    "revenue": 3564425000.0,
+    "net_income": -22831000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 105856000.0,
+    "revenue": 1276063000.0,
+    "net_income": -8757000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 102978000.0,
+    "revenue": 461521000.0,
+    "net_income": 3576000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-11",
+    "shares_outstanding": 98624000.0,
+    "revenue": 370986000.0,
+    "net_income": -7070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2014",
+    "filing_date": "2015-03-03",
+    "shares_outstanding": 100522000.0,
+    "revenue": 1604096000.0,
+    "net_income": 18150000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 100360000.0,
+    "revenue": 434907000.0,
+    "net_income": 8504000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 100759000.0,
+    "revenue": 426543000.0,
+    "net_income": 10609000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 7000.0,
+    "revenue": 345909000.0,
+    "net_income": -3384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 96449000.0,
+    "revenue": 1489892000.0,
+    "net_income": -42691000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 99765000.0,
+    "revenue": 402931000.0,
+    "net_income": 12794000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": -8452000.0,
+    "revenue": 398148000.0,
+    "net_income": -48206000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 37061000.0,
+    "revenue": 319702000.0,
+    "net_income": -11808000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 95463000.0,
+    "revenue": 1070676000.0,
+    "net_income": -56856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 58860000.0,
+    "revenue": 291780000.0,
+    "net_income": -13565000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 71308000.0,
+    "revenue": 271919000.0,
+    "net_income": -12055000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 82441000.0,
+    "revenue": 219389000.0,
+    "net_income": -19188000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "FY 2011",
+    "filing_date": "2012-03-02",
+    "shares_outstanding": 101224000.0,
+    "revenue": 779093000.0,
+    "net_income": -64995000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 117008000.0,
+    "revenue": 217194000.0,
+    "net_income": -11564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BLDR",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-29",
+    "shares_outstanding": 126907000.0,
+    "revenue": 206393000.0,
+    "net_income": -15484000.0,
+    "market_cap": null
+  }
+]

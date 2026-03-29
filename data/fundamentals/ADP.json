@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "ADP",
+    "period": "Q2 2026",
+    "filing_date": "2026-01-29",
+    "shares_outstanding": 404700000.0,
+    "revenue": 5359300000.0,
+    "net_income": 1062000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2026",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 406500000.0,
+    "revenue": 5175200000.0,
+    "net_income": 1013000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 408700000.0,
+    "revenue": 20560900000.0,
+    "net_income": 4079700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 408500000.0,
+    "revenue": 5553000000.0,
+    "net_income": 1249500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2025",
+    "filing_date": "2025-01-30",
+    "shares_outstanding": 409000000.0,
+    "revenue": 5048400000.0,
+    "net_income": 963200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2025",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 409500000.0,
+    "revenue": 4832700000.0,
+    "net_income": 956300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 412200000.0,
+    "revenue": 19202600000.0,
+    "net_income": 3752000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 412100000.0,
+    "revenue": 5253800000.0,
+    "net_income": 1184900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2024",
+    "filing_date": "2024-02-01",
+    "shares_outstanding": 412500000.0,
+    "revenue": 4668000000.0,
+    "net_income": 878400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2024",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 413600000.0,
+    "revenue": 4512400000.0,
+    "net_income": 859400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 415700000.0,
+    "revenue": 18012200000.0,
+    "net_income": 3412000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2023",
+    "filing_date": "2023-05-01",
+    "shares_outstanding": 415500000.0,
+    "revenue": 4927800000.0,
+    "net_income": 1043100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2023",
+    "filing_date": "2023-02-02",
+    "shares_outstanding": 416200000.0,
+    "revenue": 4391000000.0,
+    "net_income": 813100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2023",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 416900000.0,
+    "revenue": 4215600000.0,
+    "net_income": 779000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 421100000.0,
+    "revenue": 16498300000.0,
+    "net_income": 2948900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 420200000.0,
+    "revenue": 4513000000.0,
+    "net_income": 928500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2022",
+    "filing_date": "2022-01-31",
+    "shares_outstanding": 422000000.0,
+    "revenue": 4025400000.0,
+    "net_income": 694400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2022",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 423800000.0,
+    "revenue": 3832300000.0,
+    "net_income": 700500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 428100000.0,
+    "revenue": 15005400000.0,
+    "net_income": 2598500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 427700000.0,
+    "revenue": 4102000000.0,
+    "net_income": 810700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2021",
+    "filing_date": "2021-02-01",
+    "shares_outstanding": 429000000.0,
+    "revenue": 3695700000.0,
+    "net_income": 647500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2021",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 430000000.0,
+    "revenue": 3470700000.0,
+    "net_income": 602100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 432700000.0,
+    "revenue": 14589800000.0,
+    "net_income": 2466500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 431800000.0,
+    "revenue": 4047800000.0,
+    "net_income": 820900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2020",
+    "filing_date": "2020-01-31",
+    "shares_outstanding": 433300000.0,
+    "revenue": 3669500000.0,
+    "net_income": 651600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2020",
+    "filing_date": "2019-11-04",
+    "shares_outstanding": 435400000.0,
+    "revenue": 3495700000.0,
+    "net_income": 582400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2019",
+    "filing_date": "2019-08-09",
+    "shares_outstanding": 437600000.0,
+    "revenue": 14175200000.0,
+    "net_income": 2292800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 436600000.0,
+    "revenue": 3847400000.0,
+    "net_income": 753700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2019",
+    "filing_date": "2019-01-31",
+    "shares_outstanding": 438000000.0,
+    "revenue": 3505900000.0,
+    "net_income": 558200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2019",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 439900000.0,
+    "revenue": 3323200000.0,
+    "net_income": 505400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 443300000.0,
+    "revenue": 13325800000.0,
+    "net_income": 1620800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 443400000.0,
+    "revenue": 3693000000.0,
+    "net_income": 643100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2018",
+    "filing_date": "2018-02-01",
+    "shares_outstanding": 443700000.0,
+    "revenue": 3235400000.0,
+    "net_income": 467500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2018",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 445000000.0,
+    "revenue": 3078800000.0,
+    "net_income": 401500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 450300000.0,
+    "revenue": 12379800000.0,
+    "net_income": 1733400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 449200000.0,
+    "revenue": 3410800000.0,
+    "net_income": 587900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2017",
+    "filing_date": "2017-02-01",
+    "shares_outstanding": 450300000.0,
+    "revenue": 2987300000.0,
+    "net_income": 510900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2017",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 455300000.0,
+    "revenue": 2916900000.0,
+    "net_income": 368700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 459100000.0,
+    "revenue": 11667800000.0,
+    "net_income": 1492500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 456900000.0,
+    "revenue": 3248600000.0,
+    "net_income": 532500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2016",
+    "filing_date": "2016-02-03",
+    "shares_outstanding": 460300000.0,
+    "revenue": 2807000000.0,
+    "net_income": 341400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2016",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 465700000.0,
+    "revenue": 2714000000.0,
+    "net_income": 336600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 475800000.0,
+    "revenue": 10938500000.0,
+    "net_income": 1452500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 474000000.0,
+    "revenue": 3024300000.0,
+    "net_income": 489600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2015",
+    "filing_date": "2015-02-05",
+    "shares_outstanding": 480300000.0,
+    "revenue": 2653600000.0,
+    "net_income": 331500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2015",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 481700000.0,
+    "revenue": 2566100000.0,
+    "net_income": 295200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 483100000.0,
+    "revenue": 12206500000.0,
+    "net_income": 1515900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 483000000.0,
+    "revenue": 3320000000.0,
+    "net_income": 521600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2014",
+    "filing_date": "2014-02-05",
+    "shares_outstanding": 482800000.0,
+    "revenue": 2977900000.0,
+    "net_income": 377000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2014",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 484300000.0,
+    "revenue": 2834800000.0,
+    "net_income": 328600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2013",
+    "filing_date": "2013-08-19",
+    "shares_outstanding": 487100000.0,
+    "revenue": 11310100000.0,
+    "net_income": 1405800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 486500000.0,
+    "revenue": 3114300000.0,
+    "net_income": 482700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2013",
+    "filing_date": "2013-02-06",
+    "shares_outstanding": 486800000.0,
+    "revenue": 2747800000.0,
+    "net_income": 390900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2013",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 488400000.0,
+    "revenue": 2637500000.0,
+    "net_income": 305300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2012",
+    "filing_date": "2012-08-20",
+    "shares_outstanding": 492200000.0,
+    "revenue": 10665200000.0,
+    "net_income": 1388500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 493200000.0,
+    "revenue": 2923100000.0,
+    "net_income": 452400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q2 2012",
+    "filing_date": "2012-02-07",
+    "shares_outstanding": 492400000.0,
+    "revenue": 2583000000.0,
+    "net_income": 375000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q1 2012",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 493300000.0,
+    "revenue": 2522500000.0,
+    "net_income": 302700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2011",
+    "filing_date": "2011-08-24",
+    "shares_outstanding": 498300000.0,
+    "revenue": 9879500000.0,
+    "net_income": 1254200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "Q3 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 501300000.0,
+    "revenue": 2737300000.0,
+    "net_income": 423800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ADP",
+    "period": "FY 2010",
+    "filing_date": "2010-08-25",
+    "shares_outstanding": 503700000.0,
+    "revenue": 8927700000.0,
+    "net_income": 1211400000.0,
+    "market_cap": null
+  }
+]

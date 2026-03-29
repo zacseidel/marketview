@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "AVB",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 142826382.0,
+    "revenue": 3040725000.0,
+    "net_income": 1056599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 142826382.0,
+    "revenue": 3040725000.0,
+    "net_income": 1056599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 143535401.0,
+    "revenue": 766796000.0,
+    "net_income": 384162000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 143292306.0,
+    "revenue": 760195000.0,
+    "net_income": 269855000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 142486558.0,
+    "revenue": 745880000.0,
+    "net_income": 236597000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 142458604.0,
+    "revenue": 2913757000.0,
+    "net_income": 1082175000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-12",
+    "shares_outstanding": 142516684.0,
+    "revenue": 734307000.0,
+    "net_income": 372519000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 142389866.0,
+    "revenue": 726041000.0,
+    "net_income": 254007000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 142222755.0,
+    "revenue": 712859000.0,
+    "net_income": 173557000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 141643788.0,
+    "revenue": 2767909000.0,
+    "net_income": 928438000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 142198099.0,
+    "revenue": 697635000.0,
+    "net_income": 171790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 142124117.0,
+    "revenue": 690860000.0,
+    "net_income": 367807000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 140023810.0,
+    "revenue": 674708000.0,
+    "net_income": 146775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 139975087.0,
+    "revenue": 2593446000.0,
+    "net_income": 1136438000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 139981959.0,
+    "revenue": 665288000.0,
+    "net_income": 494632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 139934478.0,
+    "revenue": 644559000.0,
+    "net_income": 138566000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 139976082.0,
+    "revenue": 613927000.0,
+    "net_income": 262076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 139717399.0,
+    "revenue": 2294850000.0,
+    "net_income": 1004356000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 139737725.0,
+    "revenue": 580774000.0,
+    "net_income": 78847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 139650639.0,
+    "revenue": 561743000.0,
+    "net_income": 447977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 139552413.0,
+    "revenue": 551135000.0,
+    "net_income": 142234000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 140435195.0,
+    "revenue": 2301261000.0,
+    "net_income": 827706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 140603722.0,
+    "revenue": 567404000.0,
+    "net_income": 147717000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 140738160.0,
+    "revenue": 576405000.0,
+    "net_income": 170869000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 140777873.0,
+    "revenue": 601651000.0,
+    "net_income": 168006000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 139571550.0,
+    "revenue": 2324626000.0,
+    "net_income": 786103000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 139852674.0,
+    "revenue": 587613000.0,
+    "net_income": 279709000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 139618231.0,
+    "revenue": 577263000.0,
+    "net_income": 168305000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 138832201.0,
+    "revenue": 566184000.0,
+    "net_income": 170418000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 138289241.0,
+    "revenue": 2284535000.0,
+    "net_income": 974175000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 138323064.0,
+    "revenue": 575982000.0,
+    "net_income": 192407000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 138215010.0,
+    "revenue": 569239000.0,
+    "net_income": 254543000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 138153170.0,
+    "revenue": 560792000.0,
+    "net_income": 141590000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 138066686.0,
+    "revenue": 2158628000.0,
+    "net_income": 876660000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 138307046.0,
+    "revenue": 550500000.0,
+    "net_income": 238199000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 138173151.0,
+    "revenue": 530512000.0,
+    "net_income": 165194000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 137531242.0,
+    "revenue": 522326000.0,
+    "net_income": 235781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 137461637.0,
+    "revenue": 2045255000.0,
+    "net_income": 1033708000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 137505054.0,
+    "revenue": 516211000.0,
+    "net_income": 356329000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 137437733.0,
+    "revenue": 502307000.0,
+    "net_income": 197319000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-03",
+    "shares_outstanding": 137383044.0,
+    "revenue": 508498000.0,
+    "net_income": 237877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 134593177.0,
+    "revenue": 1856028000.0,
+    "net_income": 741733000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 134709460.0,
+    "revenue": 475360000.0,
+    "net_income": 206076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 133086439.0,
+    "revenue": 457459000.0,
+    "net_income": 172253000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-04",
+    "shares_outstanding": 133175773.0,
+    "revenue": 442367000.0,
+    "net_income": 208053000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2014",
+    "filing_date": "2015-02-19",
+    "shares_outstanding": 131237502.0,
+    "revenue": 1685061000.0,
+    "net_income": 697327000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 131905995.0,
+    "revenue": 430525000.0,
+    "net_income": 241001000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 130248321.0,
+    "revenue": 413806000.0,
+    "net_income": 172197000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 129629557.0,
+    "revenue": 400075000.0,
+    "net_income": 141599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 127265903.0,
+    "revenue": 1462921000.0,
+    "net_income": 352771000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 129216339.0,
+    "revenue": 389189000.0,
+    "net_income": -10885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 129595399.0,
+    "revenue": 378207000.0,
+    "net_income": 36097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 120111128.0,
+    "revenue": 301356000.0,
+    "net_income": 75469000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 98025152.0,
+    "revenue": 1038660000.0,
+    "net_income": 423562000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 97546569.0,
+    "revenue": 267151000.0,
+    "net_income": 86747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 95992825.0,
+    "revenue": 254172000.0,
+    "net_income": 156821000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 95653779.0,
+    "revenue": 246032000.0,
+    "net_income": 57609000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 90777462.0,
+    "revenue": 968711000.0,
+    "net_income": 441370000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 92340368.0,
+    "revenue": 247557000.0,
+    "net_income": 44677000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-01",
+    "shares_outstanding": 88196438.0,
+    "revenue": 239304000.0,
+    "net_income": 43192000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVB",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 86997530.0,
+    "revenue": 230411000.0,
+    "net_income": 30537000.0,
+    "market_cap": null
+  }
+]

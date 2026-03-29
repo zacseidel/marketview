@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "CNH",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 1251000000.0,
+    "revenue": 18095000000.0,
+    "net_income": 505000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNH",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 1251000000.0,
+    "revenue": 18095000000.0,
+    "net_income": 505000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNH",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 1253000000.0,
+    "revenue": 4399000000.0,
+    "net_income": 67000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNH",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-04",
+    "shares_outstanding": 1253000000.0,
+    "revenue": 4711000000.0,
+    "net_income": 217000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNH",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 1253000000.0,
+    "revenue": 3828000000.0,
+    "net_income": 132000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 1260000000.0,
+    "revenue": 19836000000.0,
+    "net_income": 1259000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNH",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-12",
+    "shares_outstanding": 1254000000.0,
+    "revenue": 4654000000.0,
+    "net_income": 310000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNH",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 1260000000.0,
+    "revenue": 5488000000.0,
+    "net_income": 399000000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "IDXX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 81025000.0,
+    "revenue": 4303702000.0,
+    "net_income": 1059464000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 81025000.0,
+    "revenue": 4303702000.0,
+    "net_income": 1059464000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-03",
+    "shares_outstanding": 80675000.0,
+    "revenue": 1105239000.0,
+    "net_income": 274610000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 81922000.0,
+    "revenue": 998427000.0,
+    "net_income": 242677000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 83246000.0,
+    "revenue": 3897504000.0,
+    "net_income": 887867000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 83056000.0,
+    "revenue": 975543000.0,
+    "net_income": 232841000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 83393000.0,
+    "revenue": 1003578000.0,
+    "net_income": 203298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 83957000.0,
+    "revenue": 964095000.0,
+    "net_income": 235579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 83978000.0,
+    "revenue": 3660953000.0,
+    "net_income": 845042000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 83993000.0,
+    "revenue": 915527000.0,
+    "net_income": 212231000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 83983000.0,
+    "revenue": 943630000.0,
+    "net_income": 224236000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 83959000.0,
+    "revenue": 900195000.0,
+    "net_income": 214054000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 84600000.0,
+    "revenue": 3367324000.0,
+    "net_income": 679089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 84113000.0,
+    "revenue": 841661000.0,
+    "net_income": 180938000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 84858000.0,
+    "revenue": 860546000.0,
+    "net_income": 131979000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 85564000.0,
+    "revenue": 836549000.0,
+    "net_income": 193965000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 86572000.0,
+    "revenue": 3215360000.0,
+    "net_income": 744844000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 86511000.0,
+    "revenue": 810421000.0,
+    "net_income": 175178000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 86654000.0,
+    "revenue": 826142000.0,
+    "net_income": 202606000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 86917000.0,
+    "revenue": 777707000.0,
+    "net_income": 204289000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-12",
+    "shares_outstanding": 86722000.0,
+    "revenue": 2706655000.0,
+    "net_income": 582131000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 86690000.0,
+    "revenue": 721789000.0,
+    "net_income": 146321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 86402000.0,
+    "revenue": 637592000.0,
+    "net_income": 148996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 86705000.0,
+    "revenue": 626336000.0,
+    "net_income": 111856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 87542000.0,
+    "revenue": 2406908000.0,
+    "net_income": 427792000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 87667000.0,
+    "revenue": 605303000.0,
+    "net_income": 108838000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 87615000.0,
+    "revenue": 620103000.0,
+    "net_income": 125701000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 87549000.0,
+    "revenue": 576056000.0,
+    "net_income": 102709000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-15",
+    "shares_outstanding": 88470000.0,
+    "revenue": 2213242000.0,
+    "net_income": 377047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 88453000.0,
+    "revenue": 545448000.0,
+    "net_income": 93214000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 88596000.0,
+    "revenue": 580752000.0,
+    "net_income": 108680000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 88944000.0,
+    "revenue": 537656000.0,
+    "net_income": 89476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 89567000.0,
+    "revenue": 1969058000.0,
+    "net_income": 263269000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 89256000.0,
+    "revenue": 491976000.0,
+    "net_income": 70514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 89878000.0,
+    "revenue": 508940000.0,
+    "net_income": 85407000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 89994000.0,
+    "revenue": 462021000.0,
+    "net_income": 69058000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 90884000.0,
+    "revenue": 1775423000.0,
+    "net_income": 222054000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 91138000.0,
+    "revenue": 448308000.0,
+    "net_income": 56452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-02",
+    "shares_outstanding": 90817000.0,
+    "revenue": 466569000.0,
+    "net_income": 67206000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 90838000.0,
+    "revenue": 417550000.0,
+    "net_income": 46025000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-17",
+    "shares_outstanding": 93649000.0,
+    "revenue": 1601892000.0,
+    "net_income": 192135000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-28",
+    "shares_outstanding": 92897000.0,
+    "revenue": 406387000.0,
+    "net_income": 44229000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 94306000.0,
+    "revenue": 413343000.0,
+    "net_income": 56938000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-28",
+    "shares_outstanding": 47761000.0,
+    "revenue": 382477000.0,
+    "net_income": 46578000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-17",
+    "shares_outstanding": 50751000.0,
+    "revenue": 1485807000.0,
+    "net_income": 181951000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-24",
+    "shares_outstanding": 50400000.0,
+    "revenue": 383523000.0,
+    "net_income": 52163000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-25",
+    "shares_outstanding": 51795000.0,
+    "revenue": 390122000.0,
+    "net_income": 57244000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-25",
+    "shares_outstanding": 52338000.0,
+    "revenue": 360203000.0,
+    "net_income": 46593000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-18",
+    "shares_outstanding": 53985000.0,
+    "revenue": 1377058000.0,
+    "net_income": 187794000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-22",
+    "shares_outstanding": 53242000.0,
+    "revenue": 338297000.0,
+    "net_income": 45692000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-23",
+    "shares_outstanding": 54386000.0,
+    "revenue": 352583000.0,
+    "net_income": 53999000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-23",
+    "shares_outstanding": 55490000.0,
+    "revenue": 332106000.0,
+    "net_income": 44867000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2012",
+    "filing_date": "2013-02-19",
+    "shares_outstanding": 56155000.0,
+    "revenue": 1293338000.0,
+    "net_income": 178287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-19",
+    "shares_outstanding": 56088000.0,
+    "revenue": 315475000.0,
+    "net_income": 42873000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-20",
+    "shares_outstanding": 56211000.0,
+    "revenue": 335649000.0,
+    "net_income": 51320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-20",
+    "shares_outstanding": 56439000.0,
+    "revenue": 322676000.0,
+    "net_income": 40734000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2011",
+    "filing_date": "2012-02-17",
+    "shares_outstanding": 58214000.0,
+    "revenue": 1218689000.0,
+    "net_income": 161754000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-21",
+    "shares_outstanding": 58007000.0,
+    "revenue": 300954000.0,
+    "net_income": 38496000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-22",
+    "shares_outstanding": 58727000.0,
+    "revenue": 317862000.0,
+    "net_income": 48654000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-21",
+    "shares_outstanding": 59090000.0,
+    "revenue": 292672000.0,
+    "net_income": 36606000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "FY 2010",
+    "filing_date": "2011-02-22",
+    "shares_outstanding": 59559000.0,
+    "revenue": 1103392000.0,
+    "net_income": 141320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-22",
+    "shares_outstanding": 59276000.0,
+    "revenue": 269628000.0,
+    "net_income": 34715000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IDXX",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-23",
+    "shares_outstanding": 59646000.0,
+    "revenue": 281482000.0,
+    "net_income": 37197000.0,
+    "market_cap": null
+  }
+]

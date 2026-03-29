@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "CTSH",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 489000000.0,
+    "revenue": 21108000000.0,
+    "net_income": 2230000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 489000000.0,
+    "revenue": 21108000000.0,
+    "net_income": 2230000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 492000000.0,
+    "revenue": 5245000000.0,
+    "net_income": 645000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 495000000.0,
+    "revenue": 5115000000.0,
+    "net_income": 663000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-12",
+    "shares_outstanding": 497000000.0,
+    "revenue": 19736000000.0,
+    "net_income": 2240000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 496000000.0,
+    "revenue": 5044000000.0,
+    "net_income": 582000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 498000000.0,
+    "revenue": 4850000000.0,
+    "net_income": 566000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 498000000.0,
+    "revenue": 4760000000.0,
+    "net_income": 546000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 505000000.0,
+    "revenue": 19353000000.0,
+    "net_income": 2126000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 505000000.0,
+    "revenue": 4897000000.0,
+    "net_income": 525000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 507000000.0,
+    "revenue": 4886000000.0,
+    "net_income": 463000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 509000000.0,
+    "revenue": 4812000000.0,
+    "net_income": 580000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2022",
+    "filing_date": "2023-02-15",
+    "shares_outstanding": 519000000.0,
+    "revenue": 19428000000.0,
+    "net_income": 2290000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 517000000.0,
+    "revenue": 4857000000.0,
+    "net_income": 629000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 521000000.0,
+    "revenue": 4906000000.0,
+    "net_income": 577000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 525000000.0,
+    "revenue": 4826000000.0,
+    "net_income": 563000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 528000000.0,
+    "revenue": 18507000000.0,
+    "net_income": 2137000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 526000000.0,
+    "revenue": 4744000000.0,
+    "net_income": 544000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 528000000.0,
+    "revenue": 4585000000.0,
+    "net_income": 512000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 531000000.0,
+    "revenue": 4401000000.0,
+    "net_income": 505000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2020",
+    "filing_date": "2021-02-12",
+    "shares_outstanding": 541000000.0,
+    "revenue": 16652000000.0,
+    "net_income": 1392000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 543000000.0,
+    "revenue": 4243000000.0,
+    "net_income": 348000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 541000000.0,
+    "revenue": 4000000000.0,
+    "net_income": 361000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 546000000.0,
+    "revenue": 4225000000.0,
+    "net_income": 367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 560000000.0,
+    "revenue": 16783000000.0,
+    "net_income": 1842000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 551000000.0,
+    "revenue": 4248000000.0,
+    "net_income": 497000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 564000000.0,
+    "revenue": 4141000000.0,
+    "net_income": 509000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 575000000.0,
+    "revenue": 4110000000.0,
+    "net_income": 441000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2018",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 584000000.0,
+    "revenue": 16125000000.0,
+    "net_income": 2101000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 580000000.0,
+    "revenue": 4078000000.0,
+    "net_income": 477000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 586000000.0,
+    "revenue": 4006000000.0,
+    "net_income": 456000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 589000000.0,
+    "revenue": 3912000000.0,
+    "net_income": 520000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 595000000.0,
+    "revenue": 14810000000.0,
+    "net_income": 1504000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 592000000.0,
+    "revenue": 3766000000.0,
+    "net_income": 495000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 591000000.0,
+    "revenue": 3670000000.0,
+    "net_income": 470000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 607000000.0,
+    "revenue": 3546000000.0,
+    "net_income": 557000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 610000000.0,
+    "revenue": 13487000000.0,
+    "net_income": 1553000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-07",
+    "shares_outstanding": 608500000.0,
+    "revenue": 3453000000.0,
+    "net_income": 444000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 608800000.0,
+    "revenue": 3370000000.0,
+    "net_income": 252000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 611800000.0,
+    "revenue": 3202000000.0,
+    "net_income": 441000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 613300000.0,
+    "revenue": 12416000000.0,
+    "net_income": 1623600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 612700000.0,
+    "revenue": 3187000000.0,
+    "net_income": 397200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 613900000.0,
+    "revenue": 3085100000.0,
+    "net_income": 420100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-04",
+    "shares_outstanding": 613900000.0,
+    "revenue": 2911400000.0,
+    "net_income": 382900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 612489000.0,
+    "revenue": 10262681000.0,
+    "net_income": 1439267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 612123000.0,
+    "revenue": 2581009000.0,
+    "net_income": 355624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 612162000.0,
+    "revenue": 2517094000.0,
+    "net_income": 371908000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 612897000.0,
+    "revenue": 2422348000.0,
+    "net_income": 348878000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 304831000.0,
+    "revenue": 8843189000.0,
+    "net_income": 1228578000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 304275000.0,
+    "revenue": 2305723000.0,
+    "net_income": 319627000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 304446000.0,
+    "revenue": 2161240000.0,
+    "net_income": 300410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 305176000.0,
+    "revenue": 2020738000.0,
+    "net_income": 284209000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 305861000.0,
+    "revenue": 7346472000.0,
+    "net_income": 1051263000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 303132000.0,
+    "revenue": 1891688000.0,
+    "net_income": 276901000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 307326000.0,
+    "revenue": 1795220000.0,
+    "net_income": 251932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 309208000.0,
+    "revenue": 1711349000.0,
+    "net_income": 243651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 310351000.0,
+    "revenue": 6121156000.0,
+    "net_income": 883618000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 309297000.0,
+    "revenue": 1600954000.0,
+    "net_income": 227119000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 311477000.0,
+    "revenue": 1485242000.0,
+    "net_income": 208045000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 311803000.0,
+    "revenue": 1371253000.0,
+    "net_income": 208327000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-03",
+    "shares_outstanding": 309619000.0,
+    "revenue": 1216913000.0,
+    "net_income": 203699000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 308487000.0,
+    "revenue": 1105154000.0,
+    "net_income": 172175000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-07",
+    "shares_outstanding": 306664000.0,
+    "revenue": 959720000.0,
+    "net_income": 151500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "FY 2009",
+    "filing_date": "2010-02-25",
+    "shares_outstanding": 301115000.0,
+    "revenue": 3278663000.0,
+    "net_income": 534963000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-06",
+    "shares_outstanding": 302582000.0,
+    "revenue": 853488000.0,
+    "net_income": 136572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTSH",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-07",
+    "shares_outstanding": 299272000.0,
+    "revenue": 776592000.0,
+    "net_income": 141255000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "ticker": "ALLY",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 313043000.0,
+    "revenue": 7914000000.0,
+    "net_income": 852000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 313043000.0,
+    "revenue": 7914000000.0,
+    "net_income": 852000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 313823000.0,
+    "revenue": 2168000000.0,
+    "net_income": 398000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-04",
+    "shares_outstanding": 312434000.0,
+    "revenue": 2082000000.0,
+    "net_income": 352000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-05",
+    "shares_outstanding": 309006000.0,
+    "revenue": 1541000000.0,
+    "net_income": -225000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2024",
+    "filing_date": "2025-02-19",
+    "shares_outstanding": 310160000.0,
+    "revenue": 8181000000.0,
+    "net_income": 668000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 311044000.0,
+    "revenue": 2103000000.0,
+    "net_income": 198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-05",
+    "shares_outstanding": 309886000.0,
+    "revenue": 2000000000.0,
+    "net_income": 219000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-06",
+    "shares_outstanding": 308421000.0,
+    "revenue": 1986000000.0,
+    "net_income": 143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 305135000.0,
+    "revenue": 8214000000.0,
+    "net_income": 1020000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 305693000.0,
+    "revenue": 1968000000.0,
+    "net_income": 296000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 304646000.0,
+    "revenue": 2079000000.0,
+    "net_income": 329000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 303448000.0,
+    "revenue": 2100000000.0,
+    "net_income": 319000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 318629000.0,
+    "revenue": 8428000000.0,
+    "net_income": 1714000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 310086000.0,
+    "revenue": 2016000000.0,
+    "net_income": 299000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-01",
+    "shares_outstanding": 324027000.0,
+    "revenue": 2076000000.0,
+    "net_income": 482000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-02",
+    "shares_outstanding": 337812000.0,
+    "revenue": 2135000000.0,
+    "net_income": 655000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 365180000.0,
+    "revenue": 8206000000.0,
+    "net_income": 3060000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 361855000.0,
+    "revenue": 1985000000.0,
+    "net_income": 712000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-02",
+    "shares_outstanding": 373029000.0,
+    "revenue": 2085000000.0,
+    "net_income": 900000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-03",
+    "shares_outstanding": 377529000.0,
+    "revenue": 1937000000.0,
+    "net_income": 796000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 377101000.0,
+    "revenue": 6686000000.0,
+    "net_income": 1085000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 377011000.0,
+    "revenue": 1684000000.0,
+    "net_income": 476000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 375762000.0,
+    "revenue": 1609000000.0,
+    "net_income": 241000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-28",
+    "shares_outstanding": 375723000.0,
+    "revenue": 1412000000.0,
+    "net_income": -319000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 395395000.0,
+    "revenue": 6394000000.0,
+    "net_income": 1715000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 392604000.0,
+    "revenue": 1601000000.0,
+    "net_income": 381000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 399916000.0,
+    "revenue": 1552000000.0,
+    "net_income": 582000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-06",
+    "shares_outstanding": 405959000.0,
+    "revenue": 1598000000.0,
+    "net_income": 374000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2018",
+    "filing_date": "2019-02-20",
+    "shares_outstanding": 427680000.0,
+    "revenue": 5804000000.0,
+    "net_income": 1263000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 424784000.0,
+    "revenue": 1505000000.0,
+    "net_income": 374000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 432554000.0,
+    "revenue": 1458000000.0,
+    "net_income": 349000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 438931000.0,
+    "revenue": 1403000000.0,
+    "net_income": 250000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2017",
+    "filing_date": "2018-02-21",
+    "shares_outstanding": 455350000.0,
+    "revenue": 5765000000.0,
+    "net_income": 929000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 451078000.0,
+    "revenue": 1462000000.0,
+    "net_income": 282000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-31",
+    "shares_outstanding": 458819.0,
+    "revenue": 1455000000.0,
+    "net_income": 252000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 466829404.0,
+    "revenue": 1375000000.0,
+    "net_income": 214000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 482182115.0,
+    "revenue": 5437000000.0,
+    "net_income": 1067000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 483575307.0,
+    "revenue": 1384000000.0,
+    "net_income": 209000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 486074474.0,
+    "revenue": 1358000000.0,
+    "net_income": 360000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 484654229.0,
+    "revenue": 1327000000.0,
+    "net_income": 250000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 482873120.0,
+    "revenue": 4861000000.0,
+    "net_income": 1289000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 484399091.0,
+    "revenue": 1302000000.0,
+    "net_income": 268000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 482847164.0,
+    "revenue": 1127000000.0,
+    "net_income": 182000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 482781619.0,
+    "revenue": 1093000000.0,
+    "net_income": 576000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 481933811.0,
+    "revenue": 4651000000.0,
+    "net_income": 1150000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 482506091.0,
+    "revenue": 1264000000.0,
+    "net_income": 423000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALLY",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 482342629.0,
+    "revenue": 1231000000.0,
+    "net_income": 323000000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "MKC",
+    "period": "TTM 2025",
+    "filing_date": "2026-01-22",
+    "shares_outstanding": 269400000.0,
+    "revenue": 6840300000.0,
+    "net_income": 783300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2025",
+    "filing_date": "2026-01-22",
+    "shares_outstanding": 269400000.0,
+    "revenue": 6840300000.0,
+    "net_income": 783300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-07",
+    "shares_outstanding": 269300000.0,
+    "revenue": 1724900000.0,
+    "net_income": 227700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2025",
+    "filing_date": "2025-06-26",
+    "shares_outstanding": 269400000.0,
+    "revenue": 1659500000.0,
+    "net_income": 176000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2025",
+    "filing_date": "2025-03-25",
+    "shares_outstanding": 269500000.0,
+    "revenue": 1605500000.0,
+    "net_income": 163400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2024",
+    "filing_date": "2025-01-23",
+    "shares_outstanding": 269600000.0,
+    "revenue": 6723700000.0,
+    "net_income": 781000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-01",
+    "shares_outstanding": 269700000.0,
+    "revenue": 1679800000.0,
+    "net_income": 225200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2024",
+    "filing_date": "2024-06-27",
+    "shares_outstanding": 269700000.0,
+    "revenue": 1643200000.0,
+    "net_income": 186000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2024",
+    "filing_date": "2024-03-26",
+    "shares_outstanding": 269600000.0,
+    "revenue": 1602700000.0,
+    "net_income": 168100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2023",
+    "filing_date": "2024-01-25",
+    "shares_outstanding": 269800000.0,
+    "revenue": 6662200000.0,
+    "net_income": 675100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-03",
+    "shares_outstanding": 270100000.0,
+    "revenue": 1684700000.0,
+    "net_income": 170800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2023",
+    "filing_date": "2023-06-29",
+    "shares_outstanding": 269800000.0,
+    "revenue": 1659200000.0,
+    "net_income": 152100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2023",
+    "filing_date": "2023-03-28",
+    "shares_outstanding": 269800000.0,
+    "revenue": 1565500000.0,
+    "net_income": 139100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2022",
+    "filing_date": "2023-01-26",
+    "shares_outstanding": 270200000.0,
+    "revenue": 6350500000.0,
+    "net_income": 675800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-06",
+    "shares_outstanding": 270200000.0,
+    "revenue": 1595600000.0,
+    "net_income": 221400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2022",
+    "filing_date": "2022-06-29",
+    "shares_outstanding": 270500000.0,
+    "revenue": 1536800000.0,
+    "net_income": 117300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2022",
+    "filing_date": "2022-03-29",
+    "shares_outstanding": 270500000.0,
+    "revenue": 1522400000.0,
+    "net_income": 152400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2021",
+    "filing_date": "2022-01-27",
+    "shares_outstanding": 269900000.0,
+    "revenue": 6317900000.0,
+    "net_income": 747300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2021",
+    "filing_date": "2021-09-30",
+    "shares_outstanding": 270000000.0,
+    "revenue": 1549400000.0,
+    "net_income": 211700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-01",
+    "shares_outstanding": 270000000.0,
+    "revenue": 1556700000.0,
+    "net_income": 181700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2021",
+    "filing_date": "2021-03-30",
+    "shares_outstanding": 269900000.0,
+    "revenue": 1481500000.0,
+    "net_income": 161000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2020",
+    "filing_date": "2021-01-28",
+    "shares_outstanding": 269100000.0,
+    "revenue": 5601300000.0,
+    "net_income": 743100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2020",
+    "filing_date": "2020-09-29",
+    "shares_outstanding": 134800000.0,
+    "revenue": 1430300000.0,
+    "net_income": 206100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2020",
+    "filing_date": "2020-06-25",
+    "shares_outstanding": 134300000.0,
+    "revenue": 1401100000.0,
+    "net_income": 195900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2020",
+    "filing_date": "2020-03-31",
+    "shares_outstanding": 134300000.0,
+    "revenue": 1212000000.0,
+    "net_income": 144700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2019",
+    "filing_date": "2020-01-28",
+    "shares_outstanding": 134100000.0,
+    "revenue": 5347400000.0,
+    "net_income": 700800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-01",
+    "shares_outstanding": 134200000.0,
+    "revenue": 1329200000.0,
+    "net_income": 191900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2019",
+    "filing_date": "2019-06-28",
+    "shares_outstanding": 133900000.0,
+    "revenue": 1301900000.0,
+    "net_income": 149400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2019",
+    "filing_date": "2019-03-26",
+    "shares_outstanding": 133800000.0,
+    "revenue": 1231500000.0,
+    "net_income": 148000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2018",
+    "filing_date": "2019-01-25",
+    "shares_outstanding": 133200000.0,
+    "revenue": 5408900000.0,
+    "net_income": 930100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2018",
+    "filing_date": "2018-09-27",
+    "shares_outstanding": 133200000.0,
+    "revenue": 1345300000.0,
+    "net_income": 173500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2018",
+    "filing_date": "2018-06-28",
+    "shares_outstanding": 132900000.0,
+    "revenue": 1327300000.0,
+    "net_income": 123300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2018",
+    "filing_date": "2018-03-27",
+    "shares_outstanding": 132900000.0,
+    "revenue": 1237100000.0,
+    "net_income": 422600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2017",
+    "filing_date": "2018-01-25",
+    "shares_outstanding": 128400000.0,
+    "revenue": 4834100000.0,
+    "net_income": 475800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2017",
+    "filing_date": "2017-09-28",
+    "shares_outstanding": 127800000.0,
+    "revenue": 1185200000.0,
+    "net_income": 108200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2017",
+    "filing_date": "2017-06-30",
+    "shares_outstanding": 126400000.0,
+    "revenue": 1114300000.0,
+    "net_income": 100000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2017",
+    "filing_date": "2017-03-28",
+    "shares_outstanding": 126900000.0,
+    "revenue": 1043700000.0,
+    "net_income": 93500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2016",
+    "filing_date": "2017-01-25",
+    "shares_outstanding": 128000000.0,
+    "revenue": 4411500000.0,
+    "net_income": 473600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-04",
+    "shares_outstanding": 127900000.0,
+    "revenue": 1091000000.0,
+    "net_income": 127700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-01",
+    "shares_outstanding": 128300000.0,
+    "revenue": 1063300000.0,
+    "net_income": 93800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2016",
+    "filing_date": "2016-03-29",
+    "shares_outstanding": 128300000.0,
+    "revenue": 1030200000.0,
+    "net_income": 93400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2015",
+    "filing_date": "2016-01-28",
+    "shares_outstanding": 129200000.0,
+    "revenue": 4296300000.0,
+    "net_income": 401100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-05",
+    "shares_outstanding": 129200000.0,
+    "revenue": 1059900000.0,
+    "net_income": 97600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-01",
+    "shares_outstanding": 129000000.0,
+    "revenue": 1024100000.0,
+    "net_income": 84300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2015",
+    "filing_date": "2015-03-31",
+    "shares_outstanding": 129300000.0,
+    "revenue": 1010400000.0,
+    "net_income": 70500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2014",
+    "filing_date": "2015-01-29",
+    "shares_outstanding": 131000000.0,
+    "revenue": 4243200000.0,
+    "net_income": 435400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-02",
+    "shares_outstanding": 130600000.0,
+    "revenue": 1042800000.0,
+    "net_income": 122900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2014",
+    "filing_date": "2014-06-27",
+    "shares_outstanding": 131200000.0,
+    "revenue": 1033400000.0,
+    "net_income": 84500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2014",
+    "filing_date": "2014-03-26",
+    "shares_outstanding": 132200000.0,
+    "revenue": 993400000.0,
+    "net_income": 82500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2013",
+    "filing_date": "2014-01-29",
+    "shares_outstanding": 133600000.0,
+    "revenue": 4123400000.0,
+    "net_income": 387700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2013",
+    "filing_date": "2013-09-27",
+    "shares_outstanding": 133500000.0,
+    "revenue": 1016400000.0,
+    "net_income": 104400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2013",
+    "filing_date": "2013-06-28",
+    "shares_outstanding": 133600000.0,
+    "revenue": 1002600000.0,
+    "net_income": 78600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-02",
+    "shares_outstanding": 134000000.0,
+    "revenue": 934400000.0,
+    "net_income": 76000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2012",
+    "filing_date": "2013-01-25",
+    "shares_outstanding": 134300000.0,
+    "revenue": 4014200000.0,
+    "net_income": 405900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2012",
+    "filing_date": "2012-09-28",
+    "shares_outstanding": 134300000.0,
+    "revenue": 977700000.0,
+    "net_income": 104400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-02",
+    "shares_outstanding": 134100000.0,
+    "revenue": 984000000.0,
+    "net_income": 80400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-02",
+    "shares_outstanding": 134500000.0,
+    "revenue": 906700000.0,
+    "net_income": 74500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "FY 2011",
+    "filing_date": "2012-01-27",
+    "shares_outstanding": 134300000.0,
+    "revenue": 3697600000.0,
+    "net_income": 373400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-07",
+    "shares_outstanding": 134100000.0,
+    "revenue": 920400000.0,
+    "net_income": 92000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-01",
+    "shares_outstanding": 134100000.0,
+    "revenue": 883700000.0,
+    "net_income": 73600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MKC",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-01",
+    "shares_outstanding": 134600000.0,
+    "revenue": 782800000.0,
+    "net_income": 76800000.0,
+    "market_cap": null
+  }
+]

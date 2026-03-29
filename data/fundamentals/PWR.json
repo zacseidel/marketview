@@ -1,0 +1,614 @@
+[
+  {
+    "ticker": "PWR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 151291000.0,
+    "revenue": 28479697000.0,
+    "net_income": 1041917000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 151291000.0,
+    "revenue": 28479697000.0,
+    "net_income": 1041917000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 151496000.0,
+    "revenue": 7631408000.0,
+    "net_income": 342839000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 150923000.0,
+    "revenue": 6773007000.0,
+    "net_income": 233523000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 150964000.0,
+    "revenue": 6233334000.0,
+    "net_income": 148969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 150056000.0,
+    "revenue": 23672795000.0,
+    "net_income": 927283000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 150556000.0,
+    "revenue": 6493167000.0,
+    "net_income": 299021000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 149788000.0,
+    "revenue": 5594387000.0,
+    "net_income": 191884000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 149350000.0,
+    "revenue": 5031819000.0,
+    "net_income": 126091000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 148823000.0,
+    "revenue": 20882206000.0,
+    "net_income": 750689000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 148792000.0,
+    "revenue": 5620822000.0,
+    "net_income": 273525000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 148773000.0,
+    "revenue": 5048610000.0,
+    "net_income": 166584000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 148661000.0,
+    "revenue": 4428826000.0,
+    "net_income": 96970000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 147992000.0,
+    "revenue": 17073903000.0,
+    "net_income": 511643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 147678000.0,
+    "revenue": 4459757000.0,
+    "net_income": 156316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 148211000.0,
+    "revenue": 4232003000.0,
+    "net_income": 96160000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 148082000.0,
+    "revenue": 3965525000.0,
+    "net_income": 85028000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 145373000.0,
+    "revenue": 12980213000.0,
+    "net_income": 491983000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 144304000.0,
+    "revenue": 3353278000.0,
+    "net_income": 175398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 144607000.0,
+    "revenue": 2999816000.0,
+    "net_income": 118971000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 144447000.0,
+    "revenue": 2703581000.0,
+    "net_income": 91319000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 145247000.0,
+    "revenue": 11202672000.0,
+    "net_income": 451959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 144363000.0,
+    "revenue": 3020161000.0,
+    "net_income": 163700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 143521000.0,
+    "revenue": 2506231000.0,
+    "net_income": 74795000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 146787000.0,
+    "revenue": 2764095000.0,
+    "net_income": 41503000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 147534000.0,
+    "revenue": 12112153000.0,
+    "net_income": 406815000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 147438000.0,
+    "revenue": 3352895000.0,
+    "net_income": 137022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 147241000.0,
+    "revenue": 2839199000.0,
+    "net_income": 28459000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-06",
+    "shares_outstanding": 146458000.0,
+    "revenue": 2807259000.0,
+    "net_income": 121035000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 154226000.0,
+    "revenue": 11171423000.0,
+    "net_income": 296007000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 153687000.0,
+    "revenue": 2985281000.0,
+    "net_income": 124899000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 154595000.0,
+    "revenue": 2656348000.0,
+    "net_income": 74706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 157556000.0,
+    "revenue": 2417576000.0,
+    "net_income": 38611000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 157155000.0,
+    "revenue": 9466478000.0,
+    "net_income": 318225000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 158620000.0,
+    "revenue": 2609307000.0,
+    "net_income": 89849000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 156165000.0,
+    "revenue": 2200374000.0,
+    "net_income": 64360000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 155168000.0,
+    "revenue": 2178170000.0,
+    "net_income": 48440000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 157288000.0,
+    "revenue": 7651319000.0,
+    "net_income": 200098000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 155024000.0,
+    "revenue": 2042186000.0,
+    "net_income": 74152000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-08",
+    "shares_outstanding": 156130000.0,
+    "revenue": 1792430000.0,
+    "net_income": 16729000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-10",
+    "shares_outstanding": 162806000.0,
+    "revenue": 1713737000.0,
+    "net_income": 20859000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 195120000.0,
+    "revenue": 7572436000.0,
+    "net_income": 321824000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 188961000.0,
+    "revenue": 1939438000.0,
+    "net_income": 218956000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": 213059000.0,
+    "revenue": 1872340000.0,
+    "net_income": 49565000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 215490000.0,
+    "revenue": 1861386000.0,
+    "net_income": 58185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 219690000.0,
+    "revenue": 7851250000.0,
+    "net_income": 315082000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 219517000.0,
+    "revenue": 2171144000.0,
+    "net_income": 100015000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 219642000.0,
+    "revenue": 1864550000.0,
+    "net_income": 85444000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 219075000.0,
+    "revenue": 1762574000.0,
+    "net_income": 58648000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 214978000.0,
+    "revenue": 6522842000.0,
+    "net_income": 421309000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 214916000.0,
+    "revenue": 1645132000.0,
+    "net_income": 98409000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-09",
+    "shares_outstanding": 214368000.0,
+    "revenue": 1474377000.0,
+    "net_income": 74726000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 213512000.0,
+    "revenue": 1585710000.0,
+    "net_income": 76857000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 212835000.0,
+    "revenue": 5920269000.0,
+    "net_income": 322656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 213242000.0,
+    "revenue": 1532001000.0,
+    "net_income": 100856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 213087000.0,
+    "revenue": 1386162000.0,
+    "net_income": 69797000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 211592000.0,
+    "revenue": 1328764000.0,
+    "net_income": 49994000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 213168000.0,
+    "revenue": 4623829000.0,
+    "net_income": 144416000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 210692000.0,
+    "revenue": 1250819000.0,
+    "net_income": 55600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 215023000.0,
+    "revenue": 1010914000.0,
+    "net_income": 34313000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 214167000.0,
+    "revenue": 848959000.0,
+    "net_income": -16305000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2010",
+    "filing_date": "2011-03-01",
+    "shares_outstanding": 211796000.0,
+    "revenue": 3931218000.0,
+    "net_income": 155557000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-09",
+    "shares_outstanding": 211096000.0,
+    "revenue": 1206007000.0,
+    "net_income": 63700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-09",
+    "shares_outstanding": 211082000.0,
+    "revenue": 870502000.0,
+    "net_income": 33323000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-10",
+    "shares_outstanding": 210342000.0,
+    "revenue": 748283000.0,
+    "net_income": 24100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "FY 2009",
+    "filing_date": "2010-03-01",
+    "shares_outstanding": 201311000.0,
+    "revenue": 3318126000.0,
+    "net_income": 163535000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-09",
+    "shares_outstanding": 205224000.0,
+    "revenue": 780794000.0,
+    "net_income": 63956000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PWR",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-10",
+    "shares_outstanding": 198379000.0,
+    "revenue": 813379000.0,
+    "net_income": 33644000.0,
+    "market_cap": null
+  }
+]

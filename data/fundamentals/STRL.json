@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "STRL",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 30947000.0,
+    "revenue": 2490049000.0,
+    "net_income": 309725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 30947000.0,
+    "revenue": 2490049000.0,
+    "net_income": 309725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 30960000.0,
+    "revenue": 689019000.0,
+    "net_income": 96329000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 30762000.0,
+    "revenue": 614468000.0,
+    "net_income": 79108000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 30881000.0,
+    "revenue": 430949000.0,
+    "net_income": 42591000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 31146000.0,
+    "revenue": 2115756000.0,
+    "net_income": 270918000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 31070000.0,
+    "revenue": 593741000.0,
+    "net_income": 65393000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 31145000.0,
+    "revenue": 582822000.0,
+    "net_income": 54574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 31186000.0,
+    "revenue": 440360000.0,
+    "net_income": 33759000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 31208000.0,
+    "revenue": 1972229000.0,
+    "net_income": 142845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 31217000.0,
+    "revenue": 560347000.0,
+    "net_income": 40139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 31000000.0,
+    "revenue": 522325000.0,
+    "net_income": 40230000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 30789000.0,
+    "revenue": 403579000.0,
+    "net_income": 20040000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 30564000.0,
+    "revenue": 1769436000.0,
+    "net_income": 108201000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 30540000.0,
+    "revenue": 556942000.0,
+    "net_income": 30157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 30362000.0,
+    "revenue": 510568000.0,
+    "net_income": 26372000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 30112000.0,
+    "revenue": 410320000.0,
+    "net_income": 19523000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 29101000.0,
+    "revenue": 1581766000.0,
+    "net_income": 65123000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 29213000.0,
+    "revenue": 463449000.0,
+    "net_income": 21757000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 29054000.0,
+    "revenue": 401666000.0,
+    "net_income": 20217000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 28763000.0,
+    "revenue": 315316000.0,
+    "net_income": 11668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2020",
+    "filing_date": "2021-03-03",
+    "shares_outstanding": 28195000.0,
+    "revenue": 1427412000.0,
+    "net_income": 42904000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 28233000.0,
+    "revenue": 383458000.0,
+    "net_income": 15397000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 27957000.0,
+    "revenue": 400038000.0,
+    "net_income": 18265000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 27992000.0,
+    "revenue": 296688000.0,
+    "net_income": 3215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2019",
+    "filing_date": "2020-03-03",
+    "shares_outstanding": 27119000.0,
+    "revenue": 1126278000.0,
+    "net_income": 40695000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 26637000.0,
+    "revenue": 291699000.0,
+    "net_income": 8509000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 26623000.0,
+    "revenue": 264086000.0,
+    "net_income": 7865000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 26723000.0,
+    "revenue": 223949000.0,
+    "net_income": 1861000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2018",
+    "filing_date": "2019-03-05",
+    "shares_outstanding": 27194000.0,
+    "revenue": 1037667000.0,
+    "net_income": 29540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 27295000.0,
+    "revenue": 291266000.0,
+    "net_income": 10166000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 27125000.0,
+    "revenue": 268734000.0,
+    "net_income": 9142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 27078000.0,
+    "revenue": 222492000.0,
+    "net_income": 3680000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2017",
+    "filing_date": "2018-03-06",
+    "shares_outstanding": 26712000.0,
+    "revenue": 957958000.0,
+    "net_income": 15817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 26920000.0,
+    "revenue": 304219000.0,
+    "net_income": 8826000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 27336000.0,
+    "revenue": 246412000.0,
+    "net_income": 4563000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 25022000.0,
+    "revenue": 153416000.0,
+    "net_income": -1886000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2016",
+    "filing_date": "2017-03-09",
+    "shares_outstanding": 23140000.0,
+    "revenue": 690123000.0,
+    "net_income": -7412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-31",
+    "shares_outstanding": 25364881.0,
+    "revenue": 205629000.0,
+    "net_income": 3155000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-01",
+    "shares_outstanding": 22958551.0,
+    "revenue": 189582000.0,
+    "net_income": 2543000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-02",
+    "shares_outstanding": -1697605.0,
+    "revenue": 126567000.0,
+    "net_income": -7336000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2015",
+    "filing_date": "2016-03-14",
+    "shares_outstanding": 19375000.0,
+    "revenue": 623595000.0,
+    "net_income": -17186000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 19627674.0,
+    "revenue": 176000000.0,
+    "net_income": 1365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": 19269977.0,
+    "revenue": 177425000.0,
+    "net_income": -995000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-11",
+    "shares_outstanding": 18901739.0,
+    "revenue": 117682000.0,
+    "net_income": -16700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2014",
+    "filing_date": "2015-03-16",
+    "shares_outstanding": 18063000.0,
+    "revenue": 672230000.0,
+    "net_income": -5225000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 18809401.0,
+    "revenue": 189275000.0,
+    "net_income": -2217000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-11",
+    "shares_outstanding": 18110025.0,
+    "revenue": 194806000.0,
+    "net_income": 2445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-12",
+    "shares_outstanding": 16855173.0,
+    "revenue": 134538000.0,
+    "net_income": 480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2013",
+    "filing_date": "2014-03-17",
+    "shares_outstanding": 16635179.0,
+    "revenue": 556236000.0,
+    "net_income": -70026000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 16652074.0,
+    "revenue": 185935000.0,
+    "net_income": 2095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-09",
+    "shares_outstanding": 16629630.0,
+    "revenue": 133350000.0,
+    "net_income": -16220000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 16598255.0,
+    "revenue": 111035000.0,
+    "net_income": -4419000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2012",
+    "filing_date": "2013-03-18",
+    "shares_outstanding": 16420886.0,
+    "revenue": 630507000.0,
+    "net_income": 17712000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 0.01,
+    "revenue": 205283000.0,
+    "net_income": 4069000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 0.15,
+    "revenue": 168709000.0,
+    "net_income": 7668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 16322477.0,
+    "revenue": 98425000.0,
+    "net_income": 195000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "FY 2011",
+    "filing_date": "2012-03-15",
+    "shares_outstanding": 16395739000.0,
+    "revenue": 501156000.0,
+    "net_income": -34704000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 16440835.0,
+    "revenue": 159427000.0,
+    "net_income": 5941000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STRL",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 16594509.0,
+    "revenue": 128498000.0,
+    "net_income": 6292000.0,
+    "market_cap": null
+  }
+]

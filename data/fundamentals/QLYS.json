@@ -1,0 +1,479 @@
+[
+  {
+    "ticker": "QLYS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 36453000.0,
+    "revenue": 669125000.0,
+    "net_income": 198320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 36453000.0,
+    "revenue": 669125000.0,
+    "net_income": 198320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 36293000.0,
+    "revenue": 169882000.0,
+    "net_income": 50346000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 36519000.0,
+    "revenue": 164062000.0,
+    "net_income": 47290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 36784000.0,
+    "revenue": 159899000.0,
+    "net_income": 47534000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 37136000.0,
+    "revenue": 153867000.0,
+    "net_income": 46212000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 37464000.0,
+    "revenue": 148708000.0,
+    "net_income": 43772000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 37723000.0,
+    "revenue": 145805000.0,
+    "net_income": 39731000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 37602000.0,
+    "revenue": 554458000.0,
+    "net_income": 151595000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 37448000.0,
+    "revenue": 141996000.0,
+    "net_income": 46515000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 37435000.0,
+    "revenue": 137209000.0,
+    "net_income": 35382000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 37669000.0,
+    "revenue": 130683000.0,
+    "net_income": 29105000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 39344000.0,
+    "revenue": 489723000.0,
+    "net_income": 107992000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 39220000.0,
+    "revenue": 125561000.0,
+    "net_income": 27660000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-08",
+    "shares_outstanding": 39689000.0,
+    "revenue": 119893000.0,
+    "net_income": 26596000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 40001000.0,
+    "revenue": 113420000.0,
+    "net_income": 25410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 40118000.0,
+    "revenue": 411172000.0,
+    "net_income": 70960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 39938000.0,
+    "revenue": 104934000.0,
+    "net_income": 27769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": 40077000.0,
+    "revenue": 99702000.0,
+    "net_income": 21142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 40430000.0,
+    "revenue": 96756000.0,
+    "net_income": 228000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-22",
+    "shares_outstanding": 40823000.0,
+    "revenue": 362963000.0,
+    "net_income": 91572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 40764000.0,
+    "revenue": 93069000.0,
+    "net_income": 22743000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-10",
+    "shares_outstanding": 40919000.0,
+    "revenue": 88830000.0,
+    "net_income": 26319000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 40846000.0,
+    "revenue": 86263000.0,
+    "net_income": 18694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 41345000.0,
+    "revenue": 321607000.0,
+    "net_income": 69336000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 41162000.0,
+    "revenue": 82671000.0,
+    "net_income": 19174000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 41530000.0,
+    "revenue": 78929000.0,
+    "net_income": 16232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 41546000.0,
+    "revenue": 75343000.0,
+    "net_income": 13266000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 41897000.0,
+    "revenue": 278889000.0,
+    "net_income": 57304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 42197000.0,
+    "revenue": 71658000.0,
+    "net_income": 23469000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 42215000.0,
+    "revenue": 68153000.0,
+    "net_income": 10293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 41934000.0,
+    "revenue": 64878000.0,
+    "net_income": 9142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 40071000.0,
+    "revenue": 230828000.0,
+    "net_income": 40440000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 40299000.0,
+    "revenue": 59490000.0,
+    "net_income": 8452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 39535000.0,
+    "revenue": 55302000.0,
+    "net_income": 7202000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 38845000.0,
+    "revenue": 53121000.0,
+    "net_income": 21930000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 38369000.0,
+    "revenue": 197925000.0,
+    "net_income": 19224000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 38712000.0,
+    "revenue": 50987000.0,
+    "net_income": 4996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 38143000.0,
+    "revenue": 48466000.0,
+    "net_income": 3538000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 37838000.0,
+    "revenue": 46248000.0,
+    "net_income": 4783000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 38184000.0,
+    "revenue": 164284000.0,
+    "net_income": 15865000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 37938000.0,
+    "revenue": 42469000.0,
+    "net_income": 4123000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 38475000.0,
+    "revenue": 39877000.0,
+    "net_income": 3316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 38235000.0,
+    "revenue": 37493000.0,
+    "net_income": 3002000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2014",
+    "filing_date": "2015-03-06",
+    "shares_outstanding": 37170000.0,
+    "revenue": 133579000.0,
+    "net_income": 30244000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 37080000.0,
+    "revenue": 34348000.0,
+    "net_income": 3105000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 36839000.0,
+    "revenue": 32302000.0,
+    "net_income": 1657000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 32516000.0,
+    "revenue": 30356000.0,
+    "net_income": -431000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 35973000.0,
+    "revenue": 107962000.0,
+    "net_income": 1624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 36247000.0,
+    "revenue": 27749000.0,
+    "net_income": 1309000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 35393000.0,
+    "revenue": 26291000.0,
+    "net_income": 873000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 31494000.0,
+    "revenue": 24883000.0,
+    "net_income": -603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "QLYS",
+    "period": "FY 2012",
+    "filing_date": "2013-03-05",
+    "shares_outstanding": 28352000.0,
+    "revenue": 91420000.0,
+    "net_income": 2280000.0,
+    "market_cap": null
+  }
+]

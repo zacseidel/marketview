@@ -1,0 +1,236 @@
+[
+  {
+    "ticker": "CEG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 314000000.0,
+    "revenue": 25533000000.0,
+    "net_income": 2323000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 314000000.0,
+    "revenue": 25533000000.0,
+    "net_income": 2323000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 313000000.0,
+    "revenue": 6570000000.0,
+    "net_income": 929000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 314000000.0,
+    "revenue": 6101000000.0,
+    "net_income": 833000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 314000000.0,
+    "revenue": 6788000000.0,
+    "net_income": 129000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "FY 2024",
+    "filing_date": "2025-02-18",
+    "shares_outstanding": 315000000.0,
+    "revenue": 23568000000.0,
+    "net_income": 3738000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-04",
+    "shares_outstanding": 314000000.0,
+    "revenue": 6550000000.0,
+    "net_income": 1196000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 316000000.0,
+    "revenue": 5475000000.0,
+    "net_income": 809000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-09",
+    "shares_outstanding": 318000000.0,
+    "revenue": 6161000000.0,
+    "net_income": 883000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 324000000.0,
+    "revenue": 24918000000.0,
+    "net_income": 1577000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-06",
+    "shares_outstanding": 323000000.0,
+    "revenue": 6111000000.0,
+    "net_income": 690000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 325000000.0,
+    "revenue": 5446000000.0,
+    "net_income": 824000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 328000000.0,
+    "revenue": 7565000000.0,
+    "net_income": 102000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 329000000.0,
+    "revenue": 24440000000.0,
+    "net_income": -167000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 328000000.0,
+    "revenue": 6051000000.0,
+    "net_income": -193000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 328000000.0,
+    "revenue": 5465000000.0,
+    "net_income": -113000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-12",
+    "shares_outstanding": 328000000.0,
+    "revenue": 5591000000.0,
+    "net_income": 111000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "TTM 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 200100000.0,
+    "revenue": 13758200000.0,
+    "net_income": -306800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 200100000.0,
+    "revenue": 13758200000.0,
+    "net_income": -306800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 202400000.0,
+    "revenue": 3521100000.0,
+    "net_income": 97900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 201900000.0,
+    "revenue": 3359800000.0,
+    "net_income": 108100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-09",
+    "shares_outstanding": 200700000.0,
+    "revenue": 3570200000.0,
+    "net_income": 79400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "FY 2010",
+    "filing_date": "2011-03-01",
+    "shares_outstanding": 200500000.0,
+    "revenue": 14340000000.0,
+    "net_income": -931800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 200300000.0,
+    "revenue": 15598800000.0,
+    "net_income": 4503400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-06",
+    "shares_outstanding": 200800000.0,
+    "revenue": 4027700000.0,
+    "net_income": 167400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CEG",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-07",
+    "shares_outstanding": 200000000.0,
+    "revenue": 3864100000.0,
+    "net_income": 28300000.0,
+    "market_cap": null
+  }
+]

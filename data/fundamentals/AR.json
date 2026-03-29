@@ -1,0 +1,443 @@
+[
+  {
+    "ticker": "AR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 312361000.0,
+    "revenue": 5275823000.0,
+    "net_income": 674567000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 312361000.0,
+    "revenue": 5275823000.0,
+    "net_income": 674567000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 313184000.0,
+    "revenue": 1297493000.0,
+    "net_income": 166573000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 314798000.0,
+    "revenue": 1352707000.0,
+    "net_income": 219466000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-12",
+    "shares_outstanding": 313414000.0,
+    "revenue": 4325596000.0,
+    "net_income": 93697000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 311025000.0,
+    "revenue": 1055920000.0,
+    "net_income": -10287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 310806000.0,
+    "revenue": 978654000.0,
+    "net_income": -60455000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 312503000.0,
+    "revenue": 1122271000.0,
+    "net_income": 48287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 311597000.0,
+    "revenue": 4681972000.0,
+    "net_income": 341844000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 311534000.0,
+    "revenue": 1126176000.0,
+    "net_income": 32642000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 300141000.0,
+    "revenue": 953305000.0,
+    "net_income": -67933000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 311846000.0,
+    "revenue": 1408348000.0,
+    "net_income": 261202000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-15",
+    "shares_outstanding": 329223000.0,
+    "revenue": 7138436000.0,
+    "net_income": 2025972000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 325997000.0,
+    "revenue": 2064624000.0,
+    "net_income": 594507000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 334561000.0,
+    "revenue": 2201685000.0,
+    "net_income": 812033000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 314081000.0,
+    "revenue": 786840000.0,
+    "net_income": -174696000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 308146000.0,
+    "revenue": 4619432000.0,
+    "net_income": -154109000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 313790000.0,
+    "revenue": 534422000.0,
+    "net_income": -566575000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 307879000.0,
+    "revenue": 489368000.0,
+    "net_income": -534451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 296746000.0,
+    "revenue": 1204198000.0,
+    "net_income": -11104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-17",
+    "shares_outstanding": 272433000.0,
+    "revenue": 3491699000.0,
+    "net_income": -1260411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 268511000.0,
+    "revenue": 380591000.0,
+    "net_income": -553846000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 268386000.0,
+    "revenue": 484911000.0,
+    "net_income": -463068000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 284227000.0,
+    "revenue": 1317105000.0,
+    "net_income": -338810000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-12",
+    "shares_outstanding": 306400000.0,
+    "revenue": 4408690000.0,
+    "net_income": -293136000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-29",
+    "shares_outstanding": 307781000.0,
+    "revenue": 1118881000.0,
+    "net_income": -878864000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 309137000.0,
+    "revenue": 1299664000.0,
+    "net_income": 42168000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 308788000.0,
+    "revenue": 1037407000.0,
+    "net_income": 1025756000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-13",
+    "shares_outstanding": 316036000.0,
+    "revenue": 4139626000.0,
+    "net_income": -45701000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 317082000.0,
+    "revenue": 1076532000.0,
+    "net_income": -77972000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 316992000.0,
+    "revenue": 989344000.0,
+    "net_income": -67275000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 316911000.0,
+    "revenue": 1028101000.0,
+    "net_income": 80810000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-13",
+    "shares_outstanding": 316283000.0,
+    "revenue": 3655574000.0,
+    "net_income": 785137000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 315463000.0,
+    "revenue": 647880000.0,
+    "net_income": -90000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 315401000.0,
+    "revenue": 790389000.0,
+    "net_income": 39965000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 315769000.0,
+    "revenue": 1195579000.0,
+    "net_income": 305558000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 294945000.0,
+    "revenue": 1744525000.0,
+    "net_income": -749448000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-26",
+    "shares_outstanding": 308657000.0,
+    "revenue": 1116503000.0,
+    "net_income": 268196000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-02",
+    "shares_outstanding": 281786000.0,
+    "revenue": -249198000.0,
+    "net_income": -575490000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 277050344.0,
+    "revenue": 721004000.0,
+    "net_income": 10650000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 274143341.0,
+    "revenue": 3954858000.0,
+    "net_income": 979996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-28",
+    "shares_outstanding": 277014756.0,
+    "revenue": 1443335000.0,
+    "net_income": 544734000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-29",
+    "shares_outstanding": 277002786.0,
+    "revenue": 376714000.0,
+    "net_income": -139483000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-29",
+    "shares_outstanding": 265300080.0,
+    "revenue": 1229687000.0,
+    "net_income": 399171000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 262068106.0,
+    "revenue": 2720632000.0,
+    "net_income": 675835000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 262069878.0,
+    "revenue": 762490000.0,
+    "net_income": 203909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 262049659.0,
+    "revenue": 311338000.0,
+    "net_income": -42285000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 3533038000.0,
+    "revenue": 164981000.0,
+    "net_income": -94759000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 3598660000.0,
+    "revenue": 1313134000.0,
+    "net_income": -18930000.0,
+    "market_cap": null
+  }
+]

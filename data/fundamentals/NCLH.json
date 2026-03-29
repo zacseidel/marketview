@@ -1,0 +1,479 @@
+[
+  {
+    "ticker": "NCLH",
+    "period": "TTM 2025",
+    "filing_date": "2026-03-02",
+    "shares_outstanding": 477742311.0,
+    "revenue": 9827592000.0,
+    "net_income": 423246000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2025",
+    "filing_date": "2026-03-02",
+    "shares_outstanding": 477742311.0,
+    "revenue": 9827592000.0,
+    "net_income": 423246000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 495727378.0,
+    "revenue": 2938142000.0,
+    "net_income": 419295000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-04",
+    "shares_outstanding": 448033138.0,
+    "revenue": 2517497000.0,
+    "net_income": 29992000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-05",
+    "shares_outstanding": 441147186.0,
+    "revenue": 2127553000.0,
+    "net_income": -40295000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 514878919.0,
+    "revenue": 2806578000.0,
+    "net_income": 474932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 513589734.0,
+    "revenue": 2372492000.0,
+    "net_income": 163436000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 431019206.0,
+    "revenue": 2191215000.0,
+    "net_income": 17353000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 427400849.0,
+    "revenue": 8549924000.0,
+    "net_income": 166178000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 511585445.0,
+    "revenue": 2536037000.0,
+    "net_income": 345868000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 461075240.0,
+    "revenue": 2205492000.0,
+    "net_income": 86116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 422655215.0,
+    "revenue": 1821939000.0,
+    "net_income": -159321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 419773195.0,
+    "revenue": 4843760000.0,
+    "net_income": -2269909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 420798538.0,
+    "revenue": 1615510000.0,
+    "net_income": -295394000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 419107330.0,
+    "revenue": 1187181000.0,
+    "net_income": -509321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 417734591.0,
+    "revenue": 521940000.0,
+    "net_income": -982714000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 365449967.0,
+    "revenue": 647986000.0,
+    "net_income": -4506587000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-09",
+    "shares_outstanding": 370016479.0,
+    "revenue": 153081000.0,
+    "net_income": -845885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": 369933159.0,
+    "revenue": 4368000.0,
+    "net_income": -717789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-10",
+    "shares_outstanding": 329377207.0,
+    "revenue": 3100000.0,
+    "net_income": -1370192000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 254728932.0,
+    "revenue": 1279908000.0,
+    "net_income": -4012514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-09",
+    "shares_outstanding": 271435350.0,
+    "revenue": 6518000.0,
+    "net_income": -677366000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-10",
+    "shares_outstanding": 239342745.0,
+    "revenue": 16929000.0,
+    "net_income": -715243000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-15",
+    "shares_outstanding": 213630798.0,
+    "revenue": 1246882000.0,
+    "net_income": -1880972000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 216475076.0,
+    "revenue": 6462376000.0,
+    "net_income": 930228000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 215499462.0,
+    "revenue": 1913851000.0,
+    "net_income": 450584000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 216810766.0,
+    "revenue": 1664277000.0,
+    "net_income": 240190000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-10",
+    "shares_outstanding": 218873272.0,
+    "revenue": 1403630000.0,
+    "net_income": 118157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 224419205.0,
+    "revenue": 6055126000.0,
+    "net_income": 954843000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-09",
+    "shares_outstanding": 222752738.0,
+    "revenue": 1858356000.0,
+    "net_income": 470378000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 224390879.0,
+    "revenue": 1522174000.0,
+    "net_income": 226676000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 229187628.0,
+    "revenue": 1293403000.0,
+    "net_income": 103155000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 229418326.0,
+    "revenue": 5396175000.0,
+    "net_income": 759872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 229816956.0,
+    "revenue": 1651738000.0,
+    "net_income": 400692000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 229090085.0,
+    "revenue": 1344103000.0,
+    "net_income": 198473000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q4 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 228555952.0,
+    "revenue": 1150781000.0,
+    "net_income": 61910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 228555952.0,
+    "revenue": 1150781000.0,
+    "net_income": 61910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 227850286.0,
+    "revenue": 4874340000.0,
+    "net_income": 633085000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 227598607.0,
+    "revenue": 1484736000.0,
+    "net_income": 342378000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 227884704.0,
+    "revenue": 1186835000.0,
+    "net_income": 145246000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-10",
+    "shares_outstanding": 228112035.0,
+    "revenue": 1077632000.0,
+    "net_income": 73229000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 230040132.0,
+    "revenue": 4345048000.0,
+    "net_income": 427137000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 230274756.0,
+    "revenue": 1284910000.0,
+    "net_income": 251787000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 230228144.0,
+    "revenue": 1085433000.0,
+    "net_income": 158494000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 224301117.0,
+    "revenue": 938182000.0,
+    "net_income": -21456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 212017784.0,
+    "revenue": 3125881000.0,
+    "net_income": 342601000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 208507181.0,
+    "revenue": 907017000.0,
+    "net_income": 201078000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 210472991.0,
+    "revenue": 765927000.0,
+    "net_income": 111616000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 211013814.0,
+    "revenue": 664028000.0,
+    "net_income": 51267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 209239484.0,
+    "revenue": 2570294000.0,
+    "net_income": 102886000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 210703244.0,
+    "revenue": 797885000.0,
+    "net_income": 172894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-30",
+    "shares_outstanding": 203997492.0,
+    "revenue": 644433000.0,
+    "net_income": -8841000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NCLH",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 198350433.0,
+    "revenue": 527631000.0,
+    "net_income": -96395000.0,
+    "market_cap": null
+  }
+]

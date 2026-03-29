@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "ATR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 66725000.0,
+    "revenue": 3777181000.0,
+    "net_income": 392497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 66725000.0,
+    "revenue": 3777181000.0,
+    "net_income": 392497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 66630000.0,
+    "revenue": 961131000.0,
+    "net_income": 127832000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 67048000.0,
+    "revenue": 966009000.0,
+    "net_income": 111732000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 67491000.0,
+    "revenue": 887305000.0,
+    "net_income": 78663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 67691000.0,
+    "revenue": 3582890000.0,
+    "net_income": 374178000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-25",
+    "shares_outstanding": 67716000.0,
+    "revenue": 909291000.0,
+    "net_income": 99922000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 67432000.0,
+    "revenue": 915448000.0,
+    "net_income": 82933000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-09",
+    "shares_outstanding": 66905000.0,
+    "revenue": 3487450000.0,
+    "net_income": 284176000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 67035000.0,
+    "revenue": 892997000.0,
+    "net_income": 84298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 66855000.0,
+    "revenue": 895906000.0,
+    "net_income": 83047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 66735000.0,
+    "revenue": 860067000.0,
+    "net_income": 54586000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-17",
+    "shares_outstanding": 66719000.0,
+    "revenue": 3322249000.0,
+    "net_income": 239555000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 66581000.0,
+    "revenue": 836860000.0,
+    "net_income": 54177000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 66900000.0,
+    "revenue": 844543000.0,
+    "net_income": 63613000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 67146000.0,
+    "revenue": 844932000.0,
+    "net_income": 62371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 67682000.0,
+    "revenue": 3227221000.0,
+    "net_income": 243638000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 67801000.0,
+    "revenue": 825442000.0,
+    "net_income": 46894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 68086000.0,
+    "revenue": 811032000.0,
+    "net_income": 55274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 67648000.0,
+    "revenue": 776754000.0,
+    "net_income": 83939000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 66657000.0,
+    "revenue": 2929340000.0,
+    "net_income": 214090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 66922000.0,
+    "revenue": 759153000.0,
+    "net_income": 63735000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 66384000.0,
+    "revenue": 699305000.0,
+    "net_income": 41860000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 66111000.0,
+    "revenue": 721553000.0,
+    "net_income": 55250000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 66150000.0,
+    "revenue": 2859732000.0,
+    "net_income": 242227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 66702000.0,
+    "revenue": 701278000.0,
+    "net_income": 56769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 66232000.0,
+    "revenue": 742661000.0,
+    "net_income": 73921000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 65349000.0,
+    "revenue": 744460000.0,
+    "net_income": 62999000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 64958000.0,
+    "revenue": 2764761000.0,
+    "net_income": 194766000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 65129000.0,
+    "revenue": 665775000.0,
+    "net_income": 39022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 64850000.0,
+    "revenue": 710608000.0,
+    "net_income": 55781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 64414000.0,
+    "revenue": 703350000.0,
+    "net_income": 59288000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-26",
+    "shares_outstanding": 64596000.0,
+    "revenue": 2469283000.0,
+    "net_income": 220029000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 64821000.0,
+    "revenue": 624326000.0,
+    "net_income": 53529000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 64828000.0,
+    "revenue": 617746000.0,
+    "net_income": 65189000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-01",
+    "shares_outstanding": 64234000.0,
+    "revenue": 601316000.0,
+    "net_income": 51805000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 64849000.0,
+    "revenue": 2330934000.0,
+    "net_income": 205604000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 64690000.0,
+    "revenue": 589729000.0,
+    "net_income": 53100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-01",
+    "shares_outstanding": 64785000.0,
+    "revenue": 619999000.0,
+    "net_income": 59051000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-03",
+    "shares_outstanding": 65063000.0,
+    "revenue": 582338000.0,
+    "net_income": 43866000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 64492000.0,
+    "revenue": 2317149000.0,
+    "net_income": 199295000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 64454000.0,
+    "revenue": 586290000.0,
+    "net_income": 53262000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 64276000.0,
+    "revenue": 594275000.0,
+    "net_income": 57541000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-04",
+    "shares_outstanding": 64494000.0,
+    "revenue": 589811000.0,
+    "net_income": 45099000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 67292000.0,
+    "revenue": 2597809000.0,
+    "net_income": 191624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 66845000.0,
+    "revenue": 651942000.0,
+    "net_income": 48620000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-04",
+    "shares_outstanding": 67438000.0,
+    "revenue": 670631000.0,
+    "net_income": 53084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-05",
+    "shares_outstanding": 68232000.0,
+    "revenue": 676051000.0,
+    "net_income": 48408000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 68208000.0,
+    "revenue": 2520013000.0,
+    "net_income": 171926000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-04",
+    "shares_outstanding": 67986000.0,
+    "revenue": 623644000.0,
+    "net_income": 45232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-05",
+    "shares_outstanding": 68106000.0,
+    "revenue": 641441000.0,
+    "net_income": 49880000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-06",
+    "shares_outstanding": 68296000.0,
+    "revenue": 617633000.0,
+    "net_income": 39978000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 68395000.0,
+    "revenue": 2346447000.0,
+    "net_income": 162420000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 68353000.0,
+    "revenue": 589598000.0,
+    "net_income": 42101000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 68758000.0,
+    "revenue": 577503000.0,
+    "net_income": 41652000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 68785000.0,
+    "revenue": 592498000.0,
+    "net_income": 43813000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 69274000.0,
+    "revenue": 2356162000.0,
+    "net_income": 183630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 68677000.0,
+    "revenue": 601196000.0,
+    "net_income": 49243000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-03",
+    "shares_outstanding": 69438000.0,
+    "revenue": 614929000.0,
+    "net_income": 51287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ATR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-09",
+    "shares_outstanding": 69914000.0,
+    "revenue": 576518000.0,
+    "net_income": 44468000.0,
+    "market_cap": null
+  }
+]

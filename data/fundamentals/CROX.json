@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "CROX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 54208000.0,
+    "revenue": 4040647000.0,
+    "net_income": -81198000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 54208000.0,
+    "revenue": 4040647000.0,
+    "net_income": -81198000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 53989000.0,
+    "revenue": 996301000.0,
+    "net_income": 145816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 55783000.0,
+    "revenue": 1149373000.0,
+    "net_income": -492282000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 56502000.0,
+    "revenue": 937333000.0,
+    "net_income": 160103000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 59832000.0,
+    "revenue": 4102108000.0,
+    "net_income": 950071000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 59501000.0,
+    "revenue": 1062200000.0,
+    "net_income": 199801000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 60766000.0,
+    "revenue": 1111502000.0,
+    "net_income": 228907000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 61054000.0,
+    "revenue": 938633000.0,
+    "net_income": 152454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 61952000.0,
+    "revenue": 3962347000.0,
+    "net_income": 792566000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 61615000.0,
+    "revenue": 1045717000.0,
+    "net_income": 177025000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 62603000.0,
+    "revenue": 1072367000.0,
+    "net_income": 212412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 62629000.0,
+    "revenue": 884166000.0,
+    "net_income": 149543000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 62006000.0,
+    "revenue": 3554985000.0,
+    "net_income": 540159000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 62367000.0,
+    "revenue": 985094000.0,
+    "net_income": 169349000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 62236000.0,
+    "revenue": 964581000.0,
+    "net_income": 160315000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 60896000.0,
+    "revenue": 660148000.0,
+    "net_income": 72760000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 63718000.0,
+    "revenue": 2313416000.0,
+    "net_income": 725694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-21",
+    "shares_outstanding": 63324000.0,
+    "revenue": 625919000.0,
+    "net_income": 153489000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-22",
+    "shares_outstanding": 64640000.0,
+    "revenue": 640773000.0,
+    "net_income": 318954000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-27",
+    "shares_outstanding": 66848000.0,
+    "revenue": 460098000.0,
+    "net_income": 98398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 68544000.0,
+    "revenue": 1385951000.0,
+    "net_income": 312861000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-27",
+    "shares_outstanding": 68385000.0,
+    "revenue": 361736000.0,
+    "net_income": 61889000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 68038000.0,
+    "revenue": 331549000.0,
+    "net_income": 56551000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-23",
+    "shares_outstanding": 69218000.0,
+    "revenue": 281160000.0,
+    "net_income": 11091000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 71771000.0,
+    "revenue": 1230593000.0,
+    "net_income": 119497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 70176000.0,
+    "revenue": 312766000.0,
+    "net_income": 35676000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 71915000.0,
+    "revenue": 358899000.0,
+    "net_income": 39198000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 74875000.0,
+    "revenue": 295949000.0,
+    "net_income": 24710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 68421000.0,
+    "revenue": 1088205000.0,
+    "net_income": 50437000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 72774000.0,
+    "revenue": 261064000.0,
+    "net_income": 10492000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 71467000.0,
+    "revenue": 328004000.0,
+    "net_income": 34377000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 71668000.0,
+    "revenue": 283148000.0,
+    "net_income": 16454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 72255000.0,
+    "revenue": 1023513000.0,
+    "net_income": 10238000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 71895000.0,
+    "revenue": 243273000.0,
+    "net_income": 1629000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 74572000.0,
+    "revenue": 313221000.0,
+    "net_income": 21960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 74561000.0,
+    "revenue": 267907000.0,
+    "net_income": 11010000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 220383000.0,
+    "revenue": 1036273000.0,
+    "net_income": -16494000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 73493000.0,
+    "revenue": 245888000.0,
+    "net_income": -1533000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 74243000.0,
+    "revenue": 323828000.0,
+    "net_income": 15537000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-10",
+    "shares_outstanding": 74033000.0,
+    "revenue": 279140000.0,
+    "net_income": 10146000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 75604000.0,
+    "revenue": 1090630000.0,
+    "net_income": -83196000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 74322000.0,
+    "revenue": 274088000.0,
+    "net_income": -24024000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 78202000.0,
+    "revenue": 345671000.0,
+    "net_income": 13426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 77825000.0,
+    "revenue": 262193000.0,
+    "net_income": -2425000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 85140.0,
+    "revenue": 1198223000.0,
+    "net_income": -4926000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 85437.0,
+    "revenue": 302401000.0,
+    "net_income": 15767000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 87799.0,
+    "revenue": 376920000.0,
+    "net_income": 23277000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 89539.0,
+    "revenue": 312429000.0,
+    "net_income": 9124000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 89089473.0,
+    "revenue": 1192680000.0,
+    "net_income": 10420000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 88907813.0,
+    "revenue": 288524000.0,
+    "net_income": 13036000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-30",
+    "shares_outstanding": 88837128.0,
+    "revenue": 363827000.0,
+    "net_income": 35356000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-29",
+    "shares_outstanding": 88671121.0,
+    "revenue": 311656000.0,
+    "net_income": 28961000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2012",
+    "filing_date": "2013-02-25",
+    "shares_outstanding": 90588416.0,
+    "revenue": 1123301000.0,
+    "net_income": 131343000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-30",
+    "shares_outstanding": 90850.0,
+    "revenue": 295569000.0,
+    "net_income": 45080000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-31",
+    "shares_outstanding": 90613.0,
+    "revenue": 330942000.0,
+    "net_income": 61524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-01",
+    "shares_outstanding": -63.0,
+    "revenue": 271798000.0,
+    "net_income": 28346000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 491780000.0,
+    "revenue": 1000903000.0,
+    "net_income": 112788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-31",
+    "shares_outstanding": 490249000.0,
+    "revenue": 274897000.0,
+    "net_income": 30207000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CROX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-03",
+    "shares_outstanding": 469005000.0,
+    "revenue": 295585000.0,
+    "net_income": 55506000.0,
+    "market_cap": null
+  }
+]

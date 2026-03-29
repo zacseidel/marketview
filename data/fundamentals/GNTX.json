@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "GNTX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 217848653.0,
+    "revenue": 2534268965.0,
+    "net_income": 384682077.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 217848653.0,
+    "revenue": 2534268965.0,
+    "net_income": 384682077.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 215994789.0,
+    "revenue": 655236055.0,
+    "net_income": 100886704.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 219631876.0,
+    "revenue": 657858210.0,
+    "net_income": 95650450.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 223561721.0,
+    "revenue": 576773090.0,
+    "net_income": 94874045.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 226023482.0,
+    "revenue": 2313314333.0,
+    "net_income": 404487743.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 226241684.0,
+    "revenue": 608526000.0,
+    "net_income": 122549000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 227808929.0,
+    "revenue": 572926000.0,
+    "net_income": 86040000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 228408138.0,
+    "revenue": 590225000.0,
+    "net_income": 108231000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 229720198.0,
+    "revenue": 2299215044.0,
+    "net_income": 428403272.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 230457411.0,
+    "revenue": 575848000.0,
+    "net_income": 104725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 230228350.0,
+    "revenue": 583473000.0,
+    "net_income": 109155000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 230895846.0,
+    "revenue": 550761000.0,
+    "net_income": 97578000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 231219489.0,
+    "revenue": 1918958043.0,
+    "net_income": 318757352.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 231617017.0,
+    "revenue": 493637000.0,
+    "net_income": 72656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 231438784.0,
+    "revenue": 463423000.0,
+    "net_income": 72404000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 232789811.0,
+    "revenue": 468251000.0,
+    "net_income": 87529000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 236604014.0,
+    "revenue": 1731169929.0,
+    "net_income": 360797232.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 234903209.0,
+    "revenue": 399598744.0,
+    "net_income": 76660548.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 239732498.0,
+    "revenue": 428005026.0,
+    "net_income": 86506418.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 241693151.0,
+    "revenue": 483724839.0,
+    "net_income": 113450870.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-22",
+    "shares_outstanding": 243681992.0,
+    "revenue": 1688189405.0,
+    "net_income": 347563621.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 242817067.0,
+    "revenue": 474639000.0,
+    "net_income": 117093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 241684323.0,
+    "revenue": 229926000.0,
+    "net_income": -2374000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 247616443.0,
+    "revenue": 453762000.0,
+    "net_income": 89506000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 253272990.0,
+    "revenue": 1858897406.0,
+    "net_income": 424683939.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 252578982.0,
+    "revenue": 477761000.0,
+    "net_income": 111898000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 256579621.0,
+    "revenue": 468711000.0,
+    "net_income": 108959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 259105232.0,
+    "revenue": 468589000.0,
+    "net_income": 104280000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 269877349.0,
+    "revenue": 1834063697.0,
+    "net_income": 437883097.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 267595142.0,
+    "revenue": 460253000.0,
+    "net_income": 111336000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 274122498.0,
+    "revenue": 454981000.0,
+    "net_income": 109024000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 277509428.0,
+    "revenue": 465420000.0,
+    "net_income": 111249000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-21",
+    "shares_outstanding": 288226089.0,
+    "revenue": 1794872578.0,
+    "net_income": 406791922.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 287020950.0,
+    "revenue": 438628000.0,
+    "net_income": 90230000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 289842902.0,
+    "revenue": 443139000.0,
+    "net_income": 88536000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 291479838.0,
+    "revenue": 453535000.0,
+    "net_income": 97557000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-22",
+    "shares_outstanding": 291072316.0,
+    "revenue": 1678924756.0,
+    "net_income": 347591276.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 290453825.0,
+    "revenue": 429643000.0,
+    "net_income": 92065000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 291463883.0,
+    "revenue": 423801000.0,
+    "net_income": 86485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 291316353.0,
+    "revenue": 405568000.0,
+    "net_income": 80280000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-23",
+    "shares_outstanding": 296237899.0,
+    "revenue": 1543617706.0,
+    "net_income": 318469859.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 295377478.0,
+    "revenue": 389829000.0,
+    "net_income": 78332000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 297462102.0,
+    "revenue": 379258000.0,
+    "net_income": 74558000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 298594143.0,
+    "revenue": 368937000.0,
+    "net_income": 77183000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-23",
+    "shares_outstanding": 294299359.0,
+    "revenue": 1375501159.0,
+    "net_income": 288604579.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 146437976.0,
+    "revenue": 350914000.0,
+    "net_income": 72337000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 146499493.0,
+    "revenue": 338437000.0,
+    "net_income": 76727000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 146718507.0,
+    "revenue": 335739000.0,
+    "net_income": 68566000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 144274171.0,
+    "revenue": 1171864171.0,
+    "net_income": 222929949.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-12",
+    "shares_outstanding": 144518900.0,
+    "revenue": 288622000.0,
+    "net_income": 55521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 144010625.0,
+    "revenue": 286974000.0,
+    "net_income": 52097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-06",
+    "shares_outstanding": 143075465.0,
+    "revenue": 269499000.0,
+    "net_income": 45431000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2012",
+    "filing_date": "2013-02-20",
+    "shares_outstanding": 143968031.0,
+    "revenue": 1099559521.0,
+    "net_income": 168586840.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 143584375.0,
+    "revenue": 268248000.0,
+    "net_income": 41877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 144741357.0,
+    "revenue": 280256000.0,
+    "net_income": 40767000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-02",
+    "shares_outstanding": 144988001.0,
+    "revenue": 290707000.0,
+    "net_income": 46345000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2011",
+    "filing_date": "2012-02-22",
+    "shares_outstanding": 144276808.0,
+    "revenue": 1023762049.0,
+    "net_income": 164668228.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 144315020.0,
+    "revenue": 269467967.0,
+    "net_income": 43397064.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 144196994.0,
+    "revenue": 243001541.0,
+    "net_income": 38472169.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": -133379.0,
+    "revenue": 250945897.0,
+    "net_income": 42332882.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "FY 2010",
+    "filing_date": "2011-02-22",
+    "shares_outstanding": 893530826.0,
+    "revenue": 816263414.0,
+    "net_income": 137733969.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNTX",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-02",
+    "shares_outstanding": 829848489.0,
+    "revenue": 206832953.0,
+    "net_income": 34291244.0,
+    "market_cap": null
+  }
+]

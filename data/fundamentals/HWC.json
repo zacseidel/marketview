@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "HWC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 85440000.0,
+    "revenue": 1614620000.0,
+    "net_income": 486073000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 85440000.0,
+    "revenue": 1614620000.0,
+    "net_income": 486073000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 85453000.0,
+    "revenue": 409020000.0,
+    "net_income": 127466000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 85943000.0,
+    "revenue": 402581000.0,
+    "net_income": 113531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 86462000.0,
+    "revenue": 395321000.0,
+    "net_income": 119504000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 86648000.0,
+    "revenue": 1692991000.0,
+    "net_income": 460815000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 86560000.0,
+    "revenue": 429476000.0,
+    "net_income": 115572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 86765000.0,
+    "revenue": 427545000.0,
+    "net_income": 114557000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 86726000.0,
+    "revenue": 421684000.0,
+    "net_income": 108612000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 86423000.0,
+    "revenue": 1620497000.0,
+    "net_income": 392602000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 86437000.0,
+    "revenue": 415827000.0,
+    "net_income": 97738000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 86370000.0,
+    "revenue": 405273000.0,
+    "net_income": 117794000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 86282000.0,
+    "revenue": 372603000.0,
+    "net_income": 126467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 86394000.0,
+    "revenue": 1137063000.0,
+    "net_income": 524089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 86020000.0,
+    "revenue": 299737000.0,
+    "net_income": 135389000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 86354000.0,
+    "revenue": 254864000.0,
+    "net_income": 121435000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 86936000.0,
+    "revenue": 236786000.0,
+    "net_income": 123478000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 87027000.0,
+    "revenue": 982258000.0,
+    "net_income": 463215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 87006000.0,
+    "revenue": 244417000.0,
+    "net_income": 129582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 86990000.0,
+    "revenue": 248300000.0,
+    "net_income": 88718000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 86805000.0,
+    "revenue": 250785000.0,
+    "net_income": 107172000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 86533000.0,
+    "revenue": 1057981000.0,
+    "net_income": -45174000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 86400000.0,
+    "revenue": 257043000.0,
+    "net_income": 79356000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 86301000.0,
+    "revenue": 266342000.0,
+    "net_income": -117072000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 87186000.0,
+    "revenue": 277343000.0,
+    "net_income": -111033000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 86599000.0,
+    "revenue": 1125782000.0,
+    "net_income": 327380000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-12",
+    "shares_outstanding": 86462000.0,
+    "revenue": 283164000.0,
+    "net_income": 67807000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 85835000.0,
+    "revenue": 280378000.0,
+    "net_income": 88277000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 85800000.0,
+    "revenue": 276283000.0,
+    "net_income": 79164000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "FY 2018",
+    "filing_date": "2019-03-01",
+    "shares_outstanding": 85521000.0,
+    "revenue": 1028268000.0,
+    "net_income": 323770000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 85539000.0,
+    "revenue": 263212000.0,
+    "net_income": 83878000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWC",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 85483000.0,
+    "revenue": 252304000.0,
+    "net_income": 71177000.0,
+    "market_cap": null
+  }
+]

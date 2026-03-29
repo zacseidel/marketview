@@ -5,6 +5,9 @@ on:
     - cron: "30 0 * * 2-6"  # Weekdays 8:30 PM ET (UTC-4), runs Tue–Sat UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-positions:
     runs-on: ubuntu-latest

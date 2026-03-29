@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "SPG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 326366632.0,
+    "revenue": 6364505000.0,
+    "net_income": 5364120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 326366632.0,
+    "revenue": 6364505000.0,
+    "net_income": 5364120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 326485607.0,
+    "revenue": 1601572000.0,
+    "net_income": 702696000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 326487253.0,
+    "revenue": 1498459000.0,
+    "net_income": 643681000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-12",
+    "shares_outstanding": 326313432.0,
+    "revenue": 1473012000.0,
+    "net_income": 477860000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 326157686.0,
+    "revenue": 1480710000.0,
+    "net_income": 546671000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 326038544.0,
+    "revenue": 1458266000.0,
+    "net_income": 569435000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 325911525.0,
+    "revenue": 1442590000.0,
+    "net_income": 841155000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 326807326.0,
+    "revenue": 5658836000.0,
+    "net_income": 2617018000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 327158743.0,
+    "revenue": 1410948000.0,
+    "net_income": 680762000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 327189785.0,
+    "revenue": 1369601000.0,
+    "net_income": 557505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 326954294.0,
+    "revenue": 1350849000.0,
+    "net_income": 519255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 327816695.0,
+    "revenue": 5291447000.0,
+    "net_income": 2452385000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 327286003.0,
+    "revenue": 1315786000.0,
+    "net_income": 621847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 328444627.0,
+    "revenue": 1279842000.0,
+    "net_income": 569480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-09",
+    "shares_outstanding": 328606352.0,
+    "revenue": 1295922000.0,
+    "net_income": 488310000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 328587137.0,
+    "revenue": 5116789000.0,
+    "net_income": 2568707000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 328619163.0,
+    "revenue": 1296554000.0,
+    "net_income": 778648000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 328594136.0,
+    "revenue": 1254146000.0,
+    "net_income": 705869000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-10",
+    "shares_outstanding": 328514497.0,
+    "revenue": 1239951000.0,
+    "net_income": 510460000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 3472346000.0,
+    "revenue": 4607503000.0,
+    "net_income": 1277324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-09",
+    "shares_outstanding": 2016216000.0,
+    "revenue": 1060674000.0,
+    "net_income": 168646000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-10",
+    "shares_outstanding": 2335439000.0,
+    "revenue": 1062041000.0,
+    "net_income": 290548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 2510953000.0,
+    "revenue": 1353360000.0,
+    "net_income": 505404000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 2911250000.0,
+    "revenue": 5755189000.0,
+    "net_income": 2423188000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 3080152000.0,
+    "revenue": 1416554000.0,
+    "net_income": 628724000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 3363672000.0,
+    "revenue": 1397186000.0,
+    "net_income": 572102000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 3699942000.0,
+    "revenue": 1452834000.0,
+    "net_income": 631947000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 3796956000.0,
+    "revenue": 5657919000.0,
+    "net_income": 2822343000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 3897501000.0,
+    "revenue": 1409005000.0,
+    "net_income": 642212000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 3878628000.0,
+    "revenue": 1388358000.0,
+    "net_income": 631414000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 4033336000.0,
+    "revenue": 1399814000.0,
+    "net_income": 715524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 4238764000.0,
+    "revenue": 5538640000.0,
+    "net_income": 2244903000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-30",
+    "shares_outstanding": 4242606000.0,
+    "revenue": 1403638000.0,
+    "net_income": 592635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 4291159000.0,
+    "revenue": 1361548000.0,
+    "net_income": 441373000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 4729005000.0,
+    "revenue": 1345763000.0,
+    "net_income": 551075000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 4959912000.0,
+    "revenue": 5435229000.0,
+    "net_income": 2134706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 5326813000.0,
+    "revenue": 1357168000.0,
+    "net_income": 587940000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 5317377000.0,
+    "revenue": 1315380000.0,
+    "net_income": 527325000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 5362541000.0,
+    "revenue": 1336715000.0,
+    "net_income": 563839000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 310102746.0,
+    "revenue": 5266103000.0,
+    "net_income": 2139375000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 5120379000.0,
+    "revenue": 1320137000.0,
+    "net_income": 492496000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 5179149000.0,
+    "revenue": 1349110000.0,
+    "net_income": 554526000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 5765063000.0,
+    "revenue": 1216235000.0,
+    "net_income": 632435000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 310731032.0,
+    "revenue": 4870818000.0,
+    "net_income": 1651526000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 310772019.0,
+    "revenue": 1234694000.0,
+    "net_income": 296963000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 310743242.0,
+    "revenue": 1181982000.0,
+    "net_income": 477468000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 310622570.0,
+    "revenue": 1157022000.0,
+    "net_income": 401103000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 310255218.0,
+    "revenue": 5170138000.0,
+    "net_income": 1551590000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 310332777.0,
+    "revenue": 1302256000.0,
+    "net_income": 367293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 310261278.0,
+    "revenue": 1236563000.0,
+    "net_income": 400525000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 309986709.0,
+    "revenue": 1215058000.0,
+    "net_income": 334468000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 303138422.0,
+    "revenue": 4880084000.0,
+    "net_income": 1719632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 304108559.0,
+    "revenue": 1228617000.0,
+    "net_income": 306371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 303253401.0,
+    "revenue": 1188066000.0,
+    "net_income": 260936000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 295694520.0,
+    "revenue": 1118969000.0,
+    "net_income": 781829000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 293573472.0,
+    "revenue": 4306432000.0,
+    "net_income": 1245900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 293758135.0,
+    "revenue": 1074360000.0,
+    "net_income": 333781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 293402353.0,
+    "revenue": 1040861000.0,
+    "net_income": 250522000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 293290496.0,
+    "revenue": 1019874000.0,
+    "net_income": 219666000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SPG",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-05",
+    "shares_outstanding": 5100973000.0,
+    "revenue": 924932000.0,
+    "net_income": 139189000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "CBSH",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 3814772000.0,
+    "revenue": 1483723000.0,
+    "net_income": 570699000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 3814772000.0,
+    "revenue": 1483723000.0,
+    "net_income": 570699000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-10",
+    "shares_outstanding": 3793047000.0,
+    "revenue": 0.0,
+    "net_income": 143622000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 3660114000.0,
+    "revenue": 0.0,
+    "net_income": 153763000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 3498402000.0,
+    "revenue": 0.0,
+    "net_income": 130633000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 3332475000.0,
+    "revenue": 1469557000.0,
+    "net_income": 534401000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 3453539000.0,
+    "revenue": 372068000.0,
+    "net_income": 140263000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 3158335000.0,
+    "revenue": 369363000.0,
+    "net_income": 141442000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 2963889000.0,
+    "revenue": 0.0,
+    "net_income": 115452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 2964230000.0,
+    "revenue": 1381291000.0,
+    "net_income": 485177000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-06",
+    "shares_outstanding": 2599266000.0,
+    "revenue": 361162000.0,
+    "net_income": 122700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 2685228000.0,
+    "revenue": 348663000.0,
+    "net_income": 130463000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 2682412000.0,
+    "revenue": 0.0,
+    "net_income": 120553000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 2481577000.0,
+    "revenue": 998979000.0,
+    "net_income": 500020000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 2371107000.0,
+    "revenue": 0.0,
+    "net_income": 126187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 2675313000.0,
+    "revenue": 0.0,
+    "net_income": 120153000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 2973402000.0,
+    "revenue": 0.0,
+    "net_income": 120026000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 3448324000.0,
+    "revenue": 848290000.0,
+    "net_income": 540590000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 3491221000.0,
+    "revenue": 0.0,
+    "net_income": 125754000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 3493830000.0,
+    "revenue": 0.0,
+    "net_income": 166249000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 3317385000.0,
+    "revenue": 0.0,
+    "net_income": 133229000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 3399972000.0,
+    "revenue": 872648000.0,
+    "net_income": 353885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 3306264000.0,
+    "revenue": 0.0,
+    "net_income": 133355000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 3358169000.0,
+    "revenue": 0.0,
+    "net_income": 38731000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 3252464000.0,
+    "revenue": 0.0,
+    "net_income": 49603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 3138472000.0,
+    "revenue": 924685000.0,
+    "net_income": 422712000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-04",
+    "shares_outstanding": 3106014000.0,
+    "revenue": 0.0,
+    "net_income": 110080000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-05",
+    "shares_outstanding": 3171363000.0,
+    "revenue": 0.0,
+    "net_income": 108299000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 3043213000.0,
+    "revenue": 0.0,
+    "net_income": 97055000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 2937149000.0,
+    "revenue": 889201000.0,
+    "net_income": 438214000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 2807810000.0,
+    "revenue": 0.0,
+    "net_income": 114069000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-06",
+    "shares_outstanding": 2771383000.0,
+    "revenue": 0.0,
+    "net_income": 111324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 2705728000.0,
+    "revenue": 0.0,
+    "net_income": 102061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 2718184000.0,
+    "revenue": 777407000.0,
+    "net_income": 319900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 2704477000.0,
+    "revenue": 0.0,
+    "net_income": 74226000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-07",
+    "shares_outstanding": 2628207000.0,
+    "revenue": 0.0,
+    "net_income": 78989000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 2563565000.0,
+    "revenue": 0.0,
+    "net_income": 71702000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 2501132000.0,
+    "revenue": 713052000.0,
+    "net_income": 276854000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-07",
+    "shares_outstanding": 2560813000.0,
+    "revenue": 0.0,
+    "net_income": 69150000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 2526821000.0,
+    "revenue": 0.0,
+    "net_income": 69808000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 2447282000.0,
+    "revenue": 0.0,
+    "net_income": 65522000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 2367418000.0,
+    "revenue": 662416000.0,
+    "net_income": 266975000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 2371043000.0,
+    "revenue": 0.0,
+    "net_income": 65213000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 2315360000.0,
+    "revenue": 0.0,
+    "net_income": 75323000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 2405407000.0,
+    "revenue": 0.0,
+    "net_income": 62014000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 2334246000.0,
+    "revenue": 648292000.0,
+    "net_income": 262784000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 2288869000.0,
+    "revenue": 161811000.0,
+    "net_income": 69021000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 2262153000.0,
+    "revenue": 167567000.0,
+    "net_income": 65900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 2273511000.0,
+    "revenue": 0.0,
+    "net_income": 64121000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2013",
+    "filing_date": "2014-02-24",
+    "shares_outstanding": 2214397000.0,
+    "revenue": 650285000.0,
+    "net_income": 261117000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 2181486000.0,
+    "revenue": 162144000.0,
+    "net_income": 68445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 2106787000.0,
+    "revenue": 167255000.0,
+    "net_income": 66039000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-06",
+    "shares_outstanding": 2179191000.0,
+    "revenue": 158745000.0,
+    "net_income": 60808000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 2171574000.0,
+    "revenue": 677969000.0,
+    "net_income": 271439000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 2307072000.0,
+    "revenue": 163194000.0,
+    "net_income": 66786000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 2230769000.0,
+    "revenue": 174624000.0,
+    "net_income": 71236000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 2199206000.0,
+    "revenue": 169966000.0,
+    "net_income": 66814000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "FY 2011",
+    "filing_date": "2012-02-22",
+    "shares_outstanding": 2170361000.0,
+    "revenue": 697971000.0,
+    "net_income": 259623000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 2129965000.0,
+    "revenue": 170835000.0,
+    "net_income": 66009000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 2131567000.0,
+    "revenue": 178087000.0,
+    "net_income": 69617000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CBSH",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-09",
+    "shares_outstanding": 2070490000.0,
+    "revenue": 175826000.0,
+    "net_income": 60950000.0,
+    "market_cap": null
+  }
+]

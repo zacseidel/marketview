@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "MOH",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-10",
+    "shares_outstanding": 52900000.0,
+    "revenue": 45426000000.0,
+    "net_income": 472000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2025",
+    "filing_date": "2026-02-10",
+    "shares_outstanding": 52900000.0,
+    "revenue": 45426000000.0,
+    "net_income": 472000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-23",
+    "shares_outstanding": 52500000.0,
+    "revenue": 11477000000.0,
+    "net_income": 79000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 53700000.0,
+    "revenue": 11427000000.0,
+    "net_income": 255000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 54800000.0,
+    "revenue": 11147000000.0,
+    "net_income": 298000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-11",
+    "shares_outstanding": 57700000.0,
+    "revenue": 40650000000.0,
+    "net_income": 1179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 57700000.0,
+    "revenue": 10340000000.0,
+    "net_income": 326000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 58200000.0,
+    "revenue": 9880000000.0,
+    "net_income": 301000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 58300000.0,
+    "revenue": 9931000000.0,
+    "net_income": 301000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-13",
+    "shares_outstanding": 58100000.0,
+    "revenue": 34072000000.0,
+    "net_income": 1091000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 58100000.0,
+    "revenue": 8548000000.0,
+    "net_income": 245000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 57900000.0,
+    "revenue": 8327000000.0,
+    "net_income": 309000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 58000000.0,
+    "revenue": 8149000000.0,
+    "net_income": 321000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2022",
+    "filing_date": "2023-02-13",
+    "shares_outstanding": 58500000.0,
+    "revenue": 31974000000.0,
+    "net_income": 792000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 58300000.0,
+    "revenue": 7927000000.0,
+    "net_income": 230000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 58400000.0,
+    "revenue": 8054000000.0,
+    "net_income": 248000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 58700000.0,
+    "revenue": 7770000000.0,
+    "net_income": 258000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2021",
+    "filing_date": "2022-02-14",
+    "shares_outstanding": 58600000.0,
+    "revenue": 27771000000.0,
+    "net_income": 659000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 58500000.0,
+    "revenue": 7040000000.0,
+    "net_income": 143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 58400000.0,
+    "revenue": 6800000000.0,
+    "net_income": 185000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 58600000.0,
+    "revenue": 6522000000.0,
+    "net_income": 228000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2020",
+    "filing_date": "2021-02-16",
+    "shares_outstanding": 60000000.0,
+    "revenue": 19423000000.0,
+    "net_income": 673000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 59600000.0,
+    "revenue": 5021000000.0,
+    "net_income": 185000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 59400000.0,
+    "revenue": 4618000000.0,
+    "net_income": 276000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 61000000.0,
+    "revenue": 4549000000.0,
+    "net_income": 178000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 64000000.0,
+    "revenue": 16829000000.0,
+    "net_income": 737000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 63600000.0,
+    "revenue": 4243000000.0,
+    "net_income": 175000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 64000000.0,
+    "revenue": 4193000000.0,
+    "net_income": 196000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 66200000.0,
+    "revenue": 4119000000.0,
+    "net_income": 198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2018",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 66600000.0,
+    "revenue": 18890000000.0,
+    "net_income": 707000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 67900000.0,
+    "revenue": 4697000000.0,
+    "net_income": 197000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 67000000.0,
+    "revenue": 4883000000.0,
+    "net_income": 202000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-30",
+    "shares_outstanding": 65000000.0,
+    "revenue": 4646000000.0,
+    "net_income": 107000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 56000000.0,
+    "revenue": 19883000000.0,
+    "net_income": -512000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 57000000.0,
+    "revenue": 5031000000.0,
+    "net_income": -97000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 56000000.0,
+    "revenue": 4999000000.0,
+    "net_income": -230000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 56000000.0,
+    "revenue": 4904000000.0,
+    "net_income": 77000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 56000000.0,
+    "revenue": 17782000000.0,
+    "net_income": 52000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 56000000.0,
+    "revenue": 133000000.0,
+    "net_income": 42000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-27",
+    "shares_outstanding": 55000000.0,
+    "revenue": 135000000.0,
+    "net_income": 33000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-03",
+    "shares_outstanding": 57000000.0,
+    "revenue": 140000000.0,
+    "net_income": 24000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 56000000.0,
+    "revenue": 14178000000.0,
+    "net_income": 143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 59978000.0,
+    "revenue": 47000000.0,
+    "net_income": 46000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 53871000.0,
+    "revenue": 47000000.0,
+    "net_income": 39000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 50071000.0,
+    "revenue": 52000000.0,
+    "net_income": 28000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 48340000.0,
+    "revenue": 9666601000.0,
+    "net_income": 62223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 48644000.0,
+    "revenue": 52557000.0,
+    "net_income": 16122000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 48003000.0,
+    "revenue": 50232000.0,
+    "net_income": 7811000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 47520000.0,
+    "revenue": 53630000.0,
+    "net_income": 4498000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 46862000.0,
+    "revenue": 6588934000.0,
+    "net_income": 52929000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 47062000.0,
+    "revenue": 51100000.0,
+    "net_income": 7569000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 46507000.0,
+    "revenue": 49672000.0,
+    "net_income": 24571000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 46443000.0,
+    "revenue": 49756000.0,
+    "net_income": 29915000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 47000.0,
+    "revenue": 6028763000.0,
+    "net_income": 9790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 46880000.0,
+    "revenue": 48422000.0,
+    "net_income": 3364000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 46355000.0,
+    "revenue": 41724000.0,
+    "net_income": -37306000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 46887000.0,
+    "revenue": 42205000.0,
+    "net_income": 18089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 46296000.0,
+    "revenue": 1176722000.0,
+    "net_income": 18950000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MOH",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-27",
+    "shares_outstanding": 46471000.0,
+    "revenue": 1167104000.0,
+    "net_income": 17440000.0,
+    "market_cap": null
+  }
+]

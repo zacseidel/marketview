@@ -1,0 +1,209 @@
+[
+  {
+    "ticker": "HWM",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 406000000.0,
+    "revenue": 8252000000.0,
+    "net_income": 1508000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 406000000.0,
+    "revenue": 8252000000.0,
+    "net_income": 1508000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 405000000.0,
+    "revenue": 2089000000.0,
+    "net_income": 385000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 406000000.0,
+    "revenue": 2053000000.0,
+    "net_income": 407000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 407000000.0,
+    "revenue": 1942000000.0,
+    "net_income": 344000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 410000000.0,
+    "revenue": 1835000000.0,
+    "net_income": 332000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 411000000.0,
+    "revenue": 1880000000.0,
+    "net_income": 266000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 412000000.0,
+    "revenue": 1824000000.0,
+    "net_income": 243000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "FY 2023",
+    "filing_date": "2024-02-13",
+    "shares_outstanding": 416000000.0,
+    "revenue": 6640000000.0,
+    "net_income": 765000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 415000000.0,
+    "revenue": 1658000000.0,
+    "net_income": 188000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 417000000.0,
+    "revenue": 1648000000.0,
+    "net_income": 193000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 418000000.0,
+    "revenue": 1603000000.0,
+    "net_income": 148000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "FY 2022",
+    "filing_date": "2023-02-14",
+    "shares_outstanding": 421000000.0,
+    "revenue": 5663000000.0,
+    "net_income": 469000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-31",
+    "shares_outstanding": 420000000.0,
+    "revenue": 1433000000.0,
+    "net_income": 80000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 422000000.0,
+    "revenue": 1393000000.0,
+    "net_income": 147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 425000000.0,
+    "revenue": 1324000000.0,
+    "net_income": 131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "FY 2021",
+    "filing_date": "2022-02-14",
+    "shares_outstanding": 435000000.0,
+    "revenue": 4972000000.0,
+    "net_income": 258000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 434000000.0,
+    "revenue": 1283000000.0,
+    "net_income": 27000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 437000000.0,
+    "revenue": 1195000000.0,
+    "net_income": 74000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 439000000.0,
+    "revenue": 1209000000.0,
+    "net_income": 80000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "FY 2020",
+    "filing_date": "2021-02-16",
+    "shares_outstanding": 439000000.0,
+    "revenue": 5259000000.0,
+    "net_income": 261000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-09",
+    "shares_outstanding": 439000000.0,
+    "revenue": 1134000000.0,
+    "net_income": 36000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HWM",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 436000000.0,
+    "revenue": 1253000000.0,
+    "net_income": -96000000.0,
+    "market_cap": null
+  }
+]

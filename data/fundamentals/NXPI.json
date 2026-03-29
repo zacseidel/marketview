@@ -1,0 +1,245 @@
+[
+  {
+    "ticker": "NXPI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 254331000.0,
+    "revenue": 12269000000.0,
+    "net_income": 2068000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 254331000.0,
+    "revenue": 12269000000.0,
+    "net_income": 2068000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 254310000.0,
+    "revenue": 3173000000.0,
+    "net_income": 646000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 253844000.0,
+    "revenue": 2926000000.0,
+    "net_income": 457000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 255018000.0,
+    "revenue": 2835000000.0,
+    "net_income": 497000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 257848000.0,
+    "revenue": 12614000000.0,
+    "net_income": 2542000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 257717000.0,
+    "revenue": 3250000000.0,
+    "net_income": 729000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-23",
+    "shares_outstanding": 258732000.0,
+    "revenue": 3127000000.0,
+    "net_income": 664000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 258954000.0,
+    "revenue": 3126000000.0,
+    "net_income": 644000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 261370000.0,
+    "revenue": 13276000000.0,
+    "net_income": 2822000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 261095000.0,
+    "revenue": 3434000000.0,
+    "net_income": 792000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-25",
+    "shares_outstanding": 261303000.0,
+    "revenue": 3299000000.0,
+    "net_income": 704000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 261210000.0,
+    "revenue": 3121000000.0,
+    "net_income": 623000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 264053000.0,
+    "revenue": 13205000000.0,
+    "net_income": 2833000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 264705000.0,
+    "revenue": 3445000000.0,
+    "net_income": 750000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-26",
+    "shares_outstanding": 264692000.0,
+    "revenue": 3312000000.0,
+    "net_income": 683000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 265109000.0,
+    "revenue": 3136000000.0,
+    "net_income": 666000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 275646000.0,
+    "revenue": 11063000000.0,
+    "net_income": 1906000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 271359000.0,
+    "revenue": 2861000000.0,
+    "net_income": 526000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 278735000.0,
+    "revenue": 2596000000.0,
+    "net_income": 406000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-27",
+    "shares_outstanding": 283263000.0,
+    "revenue": 2567000000.0,
+    "net_income": 364000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 283809000.0,
+    "revenue": 8612000000.0,
+    "net_income": 80000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-27",
+    "shares_outstanding": 279467000.0,
+    "revenue": 2267000000.0,
+    "net_income": -18000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-28",
+    "shares_outstanding": 279142000.0,
+    "revenue": 1817000000.0,
+    "net_income": -209000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-28",
+    "shares_outstanding": 279933000.0,
+    "revenue": 2021000000.0,
+    "net_income": -13000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 285911000.0,
+    "revenue": 8877000000.0,
+    "net_income": 272000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NXPI",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-29",
+    "shares_outstanding": 283518000.0,
+    "revenue": 2265000000.0,
+    "net_income": 119000000.0,
+    "market_cap": null
+  }
+]

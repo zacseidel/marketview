@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "RYN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 158709766.0,
+    "revenue": 484485000.0,
+    "net_income": 480413000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 158709766.0,
+    "revenue": 484485000.0,
+    "net_income": 480413000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 156364684.0,
+    "revenue": 177531000.0,
+    "net_income": 43709000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 157727916.0,
+    "revenue": 106538000.0,
+    "net_income": 413607000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 153677854.0,
+    "revenue": 82922000.0,
+    "net_income": -3085000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 152095503.0,
+    "revenue": 1262997000.0,
+    "net_income": 368983000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 151292994.0,
+    "revenue": 194993000.0,
+    "net_income": 30442000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 151268289.0,
+    "revenue": 173609000.0,
+    "net_income": 3035000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 151376049.0,
+    "revenue": 168097000.0,
+    "net_income": 2306000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 151067195.0,
+    "revenue": 1056933000.0,
+    "net_income": 178495000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 151036253.0,
+    "revenue": 201579000.0,
+    "net_income": 22740000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 150965191.0,
+    "revenue": 208865000.0,
+    "net_income": 19096000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 151079129.0,
+    "revenue": 179082000.0,
+    "net_income": 7437000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 150152953.0,
+    "revenue": 909072000.0,
+    "net_income": 122791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 150232889.0,
+    "revenue": 195287000.0,
+    "net_income": 31861000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 150244379.0,
+    "revenue": 246346000.0,
+    "net_income": 25287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 149547076.0,
+    "revenue": 222041000.0,
+    "net_income": 30998000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 145300861.0,
+    "revenue": 1109597000.0,
+    "net_income": 210487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 146439568.0,
+    "revenue": 364726000.0,
+    "net_income": 110512000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 144056229.0,
+    "revenue": 291431000.0,
+    "net_income": 63420000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 142558797.0,
+    "revenue": 191447000.0,
+    "net_income": 15032000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2020",
+    "filing_date": "2021-02-22",
+    "shares_outstanding": 136942902.0,
+    "revenue": 859154000.0,
+    "net_income": 29784000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 136351271.0,
+    "revenue": 198875000.0,
+    "net_income": -9498000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-10",
+    "shares_outstanding": 135957026.0,
+    "revenue": 195630000.0,
+    "net_income": 455000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 129348050.0,
+    "revenue": 259130000.0,
+    "net_income": 26421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 129598388.0,
+    "revenue": 711556000.0,
+    "net_income": 67678000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 129325181.0,
+    "revenue": 156417000.0,
+    "net_income": 1528000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-09",
+    "shares_outstanding": 129643915.0,
+    "revenue": 184800000.0,
+    "net_income": 20920000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 129750281.0,
+    "revenue": 191546000.0,
+    "net_income": 27793000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 129690231.0,
+    "revenue": 816138000.0,
+    "net_income": 117330000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 129755874.0,
+    "revenue": 200890000.0,
+    "net_income": 30639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 129711287.0,
+    "revenue": 245906000.0,
+    "net_income": 39338000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 129552397.0,
+    "revenue": 203196000.0,
+    "net_income": 42706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 127809949.0,
+    "revenue": 819596000.0,
+    "net_income": 161579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 128965780.0,
+    "revenue": 184419000.0,
+    "net_income": 28803000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 129088179.0,
+    "revenue": 200964000.0,
+    "net_income": 30773000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 123922866.0,
+    "revenue": 194491000.0,
+    "net_income": 35083000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 122812323.0,
+    "revenue": 788278000.0,
+    "net_income": 217770000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 122882633.0,
+    "revenue": 171421000.0,
+    "net_income": 40624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 122820914.0,
+    "revenue": 261550000.0,
+    "net_income": 111579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 122644889.0,
+    "revenue": 134843000.0,
+    "net_income": 15058000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 125900189.0,
+    "revenue": 544874000.0,
+    "net_income": 43941000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 125305972.0,
+    "revenue": 151657000.0,
+    "net_income": 19181000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 126635710.0,
+    "revenue": 115801000.0,
+    "net_income": -2860000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 127727393.0,
+    "revenue": 140305000.0,
+    "net_income": 18180000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 131038263.0,
+    "revenue": 603521000.0,
+    "net_income": 97846000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 129790513.0,
+    "revenue": 149829000.0,
+    "net_income": 32059000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 132299665.0,
+    "revenue": 163145000.0,
+    "net_income": 16108000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 128424493.0,
+    "revenue": 143187000.0,
+    "net_income": 41343000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 130105101.0,
+    "revenue": 1707822000.0,
+    "net_income": 373798000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 130913404.0,
+    "revenue": 384784000.0,
+    "net_income": 58367000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-26",
+    "shares_outstanding": 130767249.0,
+    "revenue": 409077000.0,
+    "net_income": 87891000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-26",
+    "shares_outstanding": 130436888.0,
+    "revenue": 393719000.0,
+    "net_income": 147735000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 128702423.0,
+    "revenue": 1571000000.0,
+    "net_income": 278685000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 129959666.0,
+    "revenue": 408988000.0,
+    "net_income": 80560000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 127411127.0,
+    "revenue": 371926000.0,
+    "net_income": 69079000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-25",
+    "shares_outstanding": 127932129.0,
+    "revenue": 355780000.0,
+    "net_income": 53437000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 125394291.0,
+    "revenue": 1488642000.0,
+    "net_income": 276005000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 125599609.0,
+    "revenue": 385091000.0,
+    "net_income": 104909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 84127616.0,
+    "revenue": 357397000.0,
+    "net_income": 56454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-26",
+    "shares_outstanding": -615291.0,
+    "revenue": 357731000.0,
+    "net_income": 58412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "FY 2010",
+    "filing_date": "2011-02-23",
+    "shares_outstanding": 1251582000.0,
+    "revenue": 1315233000.0,
+    "net_income": 217586000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-28",
+    "shares_outstanding": 1222639000.0,
+    "revenue": 377515000.0,
+    "net_income": 62904000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYN",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-30",
+    "shares_outstanding": 1181863000.0,
+    "revenue": 312210000.0,
+    "net_income": 38558000.0,
+    "market_cap": null
+  }
+]

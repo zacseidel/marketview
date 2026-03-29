@@ -5,6 +5,9 @@ on:
     - cron: "0 23 * * 1-5"  # Weekdays 7:00 PM ET (UTC-4)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   process-queue:
     runs-on: ubuntu-latest

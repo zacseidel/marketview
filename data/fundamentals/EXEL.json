@@ -1,0 +1,452 @@
+[
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2026",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 278535000.0,
+    "revenue": 597755000.0,
+    "net_income": 193578000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2026",
+    "filing_date": "2025-07-28",
+    "shares_outstanding": 284393000.0,
+    "revenue": 568261000.0,
+    "net_income": 184848000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q1 2026",
+    "filing_date": "2025-05-13",
+    "shares_outstanding": 288177000.0,
+    "revenue": 555447000.0,
+    "net_income": 159616000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2024",
+    "filing_date": "2025-02-11",
+    "shares_outstanding": 296132000.0,
+    "revenue": 2168701000.0,
+    "net_income": 521267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2025",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 291478000.0,
+    "revenue": 539542000.0,
+    "net_income": 117973000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2025",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 293974000.0,
+    "revenue": 637178000.0,
+    "net_income": 226116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q4 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 305530000.0,
+    "revenue": 425226000.0,
+    "net_income": 37317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2023",
+    "filing_date": "2024-02-06",
+    "shares_outstanding": 321464000.0,
+    "revenue": 1830208000.0,
+    "net_income": 207765000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 319247000.0,
+    "revenue": 471920000.0,
+    "net_income": 1041000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 327305000.0,
+    "revenue": 469848000.0,
+    "net_income": 81178000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 326279000.0,
+    "revenue": 408788000.0,
+    "net_income": 40028000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2022",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 324556000.0,
+    "revenue": 1611062000.0,
+    "net_income": 182282000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 325066000.0,
+    "revenue": 411738000.0,
+    "net_income": 73210000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 324904000.0,
+    "revenue": 419427000.0,
+    "net_income": 70672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 323289000.0,
+    "revenue": 355980000.0,
+    "net_income": 68573000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 322022000.0,
+    "revenue": 328423000.0,
+    "net_income": 38204000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 322941000.0,
+    "revenue": 385177000.0,
+    "net_income": 96092000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 321287000.0,
+    "revenue": 270230000.0,
+    "net_income": 1601000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2021",
+    "filing_date": "2021-02-11",
+    "shares_outstanding": 318001000.0,
+    "revenue": 987538000.0,
+    "net_income": 111781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 315009000.0,
+    "revenue": 967775000.0,
+    "net_income": 321012000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2020",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 315453000.0,
+    "revenue": 271703000.0,
+    "net_income": 97452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2020",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 314911000.0,
+    "revenue": 240275000.0,
+    "net_income": 79042000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q4 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 314644000.0,
+    "revenue": 215487000.0,
+    "net_income": 75775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 312803000.0,
+    "revenue": 853826000.0,
+    "net_income": 690070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 312346000.0,
+    "revenue": 225397000.0,
+    "net_income": 126630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 312241000.0,
+    "revenue": 186108000.0,
+    "net_income": 87494000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 313691000.0,
+    "revenue": 213719000.0,
+    "net_income": 115857000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2017",
+    "filing_date": "2018-02-26",
+    "shares_outstanding": 312003000.0,
+    "revenue": 452477000.0,
+    "net_income": 154227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 312940000.0,
+    "revenue": 152510000.0,
+    "net_income": 81382000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 311219000.0,
+    "revenue": 99008000.0,
+    "net_income": 17656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-01",
+    "shares_outstanding": 309535000.0,
+    "revenue": 80887000.0,
+    "net_income": 16700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 89318000.0,
+    "revenue": 191454000.0,
+    "net_income": -70222000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 32022000.0,
+    "revenue": 62194000.0,
+    "net_income": -11284000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": -186134000.0,
+    "revenue": 36252000.0,
+    "net_income": -34838000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": -155954000.0,
+    "revenue": 15427000.0,
+    "net_income": -59223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2015",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": -114829000.0,
+    "revenue": 25111000.0,
+    "net_income": -268542000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2015",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": -58511000.0,
+    "revenue": 6291000.0,
+    "net_income": -62560000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2015",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 3243000.0,
+    "revenue": 6562000.0,
+    "net_income": -73410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q1 2015",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 71482000.0,
+    "revenue": 4905000.0,
+    "net_income": -74619000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2013",
+    "filing_date": "2014-02-20",
+    "shares_outstanding": 184062000.0,
+    "revenue": 31338000.0,
+    "net_income": -244760000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 132763000.0,
+    "revenue": 5466000.0,
+    "net_income": -67124000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 196332000.0,
+    "revenue": 11856000.0,
+    "net_income": -62161000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 254852000.0,
+    "revenue": 9669000.0,
+    "net_income": -44729000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 160138000.0,
+    "revenue": 47450000.0,
+    "net_income": -147645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 166354000.0,
+    "revenue": 13313000.0,
+    "net_income": -32814000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 99049000.0,
+    "revenue": 7813000.0,
+    "net_income": -36487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 132349000.0,
+    "revenue": 18510000.0,
+    "net_income": -26151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "FY 2011",
+    "filing_date": "2012-02-22",
+    "shares_outstanding": 130479000.0,
+    "revenue": 289636000.0,
+    "net_income": 75697000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 131344.0,
+    "revenue": 128272000.0,
+    "net_income": 77865000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXEL",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": -81815000.0,
+    "revenue": 32162000.0,
+    "net_income": -20975000.0,
+    "market_cap": null
+  }
+]

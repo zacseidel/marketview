@@ -1,0 +1,614 @@
+[
+  {
+    "ticker": "XOM",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 4305000000.0,
+    "revenue": 332238000000.0,
+    "net_income": 29764000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 4305000000.0,
+    "revenue": 332238000000.0,
+    "net_income": 29764000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-03",
+    "shares_outstanding": 4285000000.0,
+    "revenue": 85294000000.0,
+    "net_income": 7768000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-04",
+    "shares_outstanding": 4331000000.0,
+    "revenue": 81506000000.0,
+    "net_income": 7354000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-05",
+    "shares_outstanding": 4372000000.0,
+    "revenue": 83130000000.0,
+    "net_income": 8033000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2024",
+    "filing_date": "2025-02-19",
+    "shares_outstanding": 4298000000.0,
+    "revenue": 349585000000.0,
+    "net_income": 35063000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-04",
+    "shares_outstanding": 4462000000.0,
+    "revenue": 90016000000.0,
+    "net_income": 8971000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-05",
+    "shares_outstanding": 4317000000.0,
+    "revenue": 93060000000.0,
+    "net_income": 9571000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-29",
+    "shares_outstanding": 3998000000.0,
+    "revenue": 83083000000.0,
+    "net_income": 8566000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 4052000000.0,
+    "revenue": 344582000000.0,
+    "net_income": 37354000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 4025000000.0,
+    "revenue": 90760000000.0,
+    "net_income": 9346000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 4066000000.0,
+    "revenue": 82914000000.0,
+    "net_income": 8153000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 4102000000.0,
+    "revenue": 86564000000.0,
+    "net_income": 11843000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 4205000000.0,
+    "revenue": 413680000000.0,
+    "net_income": 57577000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 4185000000.0,
+    "revenue": 112070000000.0,
+    "net_income": 20198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 4233000000.0,
+    "revenue": 115681000000.0,
+    "net_income": 18574000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 4266000000.0,
+    "revenue": 90500000000.0,
+    "net_income": 5750000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 4275000000.0,
+    "revenue": 285640000000.0,
+    "net_income": 23598000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 4276000000.0,
+    "revenue": 73786000000.0,
+    "net_income": 6942000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 4276000000.0,
+    "revenue": 67742000000.0,
+    "net_income": 4781000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 4272000000.0,
+    "revenue": 59147000000.0,
+    "net_income": 2796000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 4271000000.0,
+    "revenue": 181502000000.0,
+    "net_income": -23251000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 4271000000.0,
+    "revenue": 46199000000.0,
+    "net_income": -709000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 4271000000.0,
+    "revenue": 32605000000.0,
+    "net_income": -1169000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 4270000000.0,
+    "revenue": 56158000000.0,
+    "net_income": -770000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 4270000000.0,
+    "revenue": 264938000000.0,
+    "net_income": 14774000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 4271000000.0,
+    "revenue": 65049000000.0,
+    "net_income": 3247000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 4271000000.0,
+    "revenue": 67491000000.0,
+    "net_income": 3391000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 4270000000.0,
+    "revenue": 61646000000.0,
+    "net_income": 2406000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 4270000000.0,
+    "revenue": 279332000000.0,
+    "net_income": 21421000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 4271000000.0,
+    "revenue": 74187000000.0,
+    "net_income": 6446000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 4271000000.0,
+    "revenue": 71456000000.0,
+    "net_income": 3986000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 4270000000.0,
+    "revenue": 65436000000.0,
+    "net_income": 4783000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 4256000000.0,
+    "revenue": 237162000000.0,
+    "net_income": 19848000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 4271000000.0,
+    "revenue": null,
+    "net_income": 4085000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 4271000000.0,
+    "revenue": null,
+    "net_income": 3264000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 4223000000.0,
+    "revenue": null,
+    "net_income": 4090000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2016",
+    "filing_date": "2017-02-22",
+    "shares_outstanding": 4177000000.0,
+    "revenue": 218608000000.0,
+    "net_income": 8375000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 4178000000.0,
+    "revenue": null,
+    "net_income": 2889000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 4178000000.0,
+    "revenue": null,
+    "net_income": 1681000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 4178000000.0,
+    "revenue": null,
+    "net_income": 1781000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 4196000000.0,
+    "revenue": 259488000000.0,
+    "net_income": 16551000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 4190000000.0,
+    "revenue": null,
+    "net_income": 4384000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 4200000000.0,
+    "revenue": null,
+    "net_income": 4262000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 4211000000.0,
+    "revenue": null,
+    "net_income": 5075000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 4282000000.0,
+    "revenue": 394105000000.0,
+    "net_income": 33615000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 4267000000.0,
+    "revenue": null,
+    "net_income": 8346000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 4297000000.0,
+    "revenue": null,
+    "net_income": 9117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 4328000000.0,
+    "revenue": null,
+    "net_income": 9370000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 4419000000.0,
+    "revenue": 420836000000.0,
+    "net_income": 33448000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 4395000000.0,
+    "revenue": null,
+    "net_income": 8069000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 4433000000.0,
+    "revenue": null,
+    "net_income": 6975000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-02",
+    "shares_outstanding": 4485000000.0,
+    "revenue": null,
+    "net_income": 9761000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 171660000000.0,
+    "revenue": 453123000000.0,
+    "net_income": 47681000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 4597000000.0,
+    "revenue": null,
+    "net_income": 9926000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 4657000000.0,
+    "revenue": null,
+    "net_income": 17654000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 4716000000.0,
+    "revenue": null,
+    "net_income": 9799000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 160744000000.0,
+    "revenue": 467029000000.0,
+    "net_income": 42206000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 162212000000.0,
+    "revenue": null,
+    "net_income": 10671000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 161835000000.0,
+    "revenue": null,
+    "net_income": 10898000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 157531000000.0,
+    "revenue": null,
+    "net_income": 10913000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2010",
+    "filing_date": "2011-02-25",
+    "shares_outstanding": 152679000000.0,
+    "revenue": null,
+    "net_income": 31398000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-03",
+    "shares_outstanding": 5089000000.0,
+    "revenue": null,
+    "net_income": 7561000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-04",
+    "shares_outstanding": 4729000000.0,
+    "revenue": null,
+    "net_income": 7746000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-06",
+    "shares_outstanding": 4000000.0,
+    "revenue": null,
+    "net_income": 6575000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 115392000000.0,
+    "revenue": null,
+    "net_income": 19658000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-05",
+    "shares_outstanding": 112105000000.0,
+    "revenue": null,
+    "net_income": 4871000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XOM",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-05",
+    "shares_outstanding": 111153000000.0,
+    "revenue": null,
+    "net_income": 3950000000.0,
+    "market_cap": null
+  }
+]

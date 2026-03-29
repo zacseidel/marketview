@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "OGE",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 202500000.0,
+    "revenue": 3260100000.0,
+    "net_income": 470700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 202500000.0,
+    "revenue": 3260100000.0,
+    "net_income": 470700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 202100000.0,
+    "revenue": 741600000.0,
+    "net_income": 107500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 201900000.0,
+    "revenue": 747700000.0,
+    "net_income": 62700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2024",
+    "filing_date": "2025-02-19",
+    "shares_outstanding": 201300000.0,
+    "revenue": 2985300000.0,
+    "net_income": 441500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 201500000.0,
+    "revenue": 965400000.0,
+    "net_income": 218700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 201400000.0,
+    "revenue": 662600000.0,
+    "net_income": 102300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 200600000.0,
+    "revenue": 596800000.0,
+    "net_income": 18600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 200900000.0,
+    "revenue": 2674300000.0,
+    "net_income": 416800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 201000000.0,
+    "revenue": 945400000.0,
+    "net_income": 241900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 200800000.0,
+    "revenue": 605000000.0,
+    "net_income": 88400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 200800000.0,
+    "revenue": 557200000.0,
+    "net_income": 38300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 200800000.0,
+    "revenue": 3375700000.0,
+    "net_income": 665700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 200900000.0,
+    "revenue": 1270800000.0,
+    "net_income": 262800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 200700000.0,
+    "revenue": 803700000.0,
+    "net_income": 73100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 200600000.0,
+    "revenue": 589300000.0,
+    "net_income": 279500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 200300000.0,
+    "revenue": 3653700000.0,
+    "net_income": 737300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 200400000.0,
+    "revenue": 864400000.0,
+    "net_income": 252500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 200400000.0,
+    "revenue": 577400000.0,
+    "net_income": 112900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 200100000.0,
+    "revenue": 1630600000.0,
+    "net_income": 52700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 200100000.0,
+    "revenue": 2122300000.0,
+    "net_income": -173700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 200400000.0,
+    "revenue": 702100000.0,
+    "net_income": 177400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 200500000.0,
+    "revenue": 503500000.0,
+    "net_income": 85900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 200200000.0,
+    "revenue": 431300000.0,
+    "net_income": -491800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 200700000.0,
+    "revenue": 2231600000.0,
+    "net_income": 433600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 200800000.0,
+    "revenue": 755400000.0,
+    "net_income": 250900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 200600000.0,
+    "revenue": 513700000.0,
+    "net_income": 100200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 200500000.0,
+    "revenue": 490000000.0,
+    "net_income": 47100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 200500000.0,
+    "revenue": 2270300000.0,
+    "net_income": 425500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 200600000.0,
+    "revenue": 698800000.0,
+    "net_income": 205100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 200500000.0,
+    "revenue": 567000000.0,
+    "net_income": 110700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 200200000.0,
+    "revenue": 492700000.0,
+    "net_income": 55000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 200000000.0,
+    "revenue": 2261100000.0,
+    "net_income": 619000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 200100000.0,
+    "revenue": 716800000.0,
+    "net_income": 183400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 199900000.0,
+    "revenue": 586400000.0,
+    "net_income": 104800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 200000000.0,
+    "revenue": 456000000.0,
+    "net_income": 36000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 199900000.0,
+    "revenue": 2259200000.0,
+    "net_income": 338200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 199900000.0,
+    "revenue": 743900000.0,
+    "net_income": 183600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 199800000.0,
+    "revenue": 551400000.0,
+    "net_income": 71500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 199700000.0,
+    "revenue": 433100000.0,
+    "net_income": 25200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 199600000.0,
+    "revenue": 2196900000.0,
+    "net_income": 271300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 199700000.0,
+    "revenue": 719800000.0,
+    "net_income": 111200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 199600000.0,
+    "revenue": 549900000.0,
+    "net_income": 87500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 199500000.0,
+    "revenue": 480100000.0,
+    "net_income": 43200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 199900000.0,
+    "revenue": 2453100000.0,
+    "net_income": 395800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 200200000.0,
+    "revenue": 754700000.0,
+    "net_income": 187300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 200000000.0,
+    "revenue": 611800000.0,
+    "net_income": 100800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 199500000.0,
+    "revenue": 560400000.0,
+    "net_income": 49300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 199400000.0,
+    "revenue": 2867700000.0,
+    "net_income": 393800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 199700000.0,
+    "revenue": 723200000.0,
+    "net_income": 215200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 199400000.0,
+    "revenue": 734200000.0,
+    "net_income": 93000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-02",
+    "shares_outstanding": 99400000.0,
+    "revenue": 901400000.0,
+    "net_income": 28000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 99100000.0,
+    "revenue": 3671200000.0,
+    "net_income": 385000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 99100000.0,
+    "revenue": 1113400000.0,
+    "net_income": 192400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 98900000.0,
+    "revenue": 855000000.0,
+    "net_income": 101600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 98800000.0,
+    "revenue": 840700000.0,
+    "net_income": 47500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "FY 2011",
+    "filing_date": "2012-02-16",
+    "shares_outstanding": 99200000.0,
+    "revenue": 3915900000.0,
+    "net_income": 363600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 99300000.0,
+    "revenue": 1212100000.0,
+    "net_income": 181400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 99300000.0,
+    "revenue": 978100000.0,
+    "net_income": 109300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGE",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 99.1,
+    "revenue": 840500000.0,
+    "net_income": 29700000.0,
+    "market_cap": null
+  }
+]

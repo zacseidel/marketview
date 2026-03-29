@@ -1,0 +1,209 @@
+[
+  {
+    "ticker": "OPCH",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 163086000.0,
+    "revenue": 1435016000.0,
+    "net_income": 51816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 164133000.0,
+    "revenue": 1416085000.0,
+    "net_income": 50523000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 166804000.0,
+    "revenue": 1332972000.0,
+    "net_income": 46742000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 172845000.0,
+    "revenue": 4998202000.0,
+    "net_income": 211823000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 171941000.0,
+    "revenue": 1278546000.0,
+    "net_income": 53856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 174090000.0,
+    "revenue": 1227186000.0,
+    "net_income": 53043000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-23",
+    "shares_outstanding": 175624000.0,
+    "revenue": 1146052000.0,
+    "net_income": 44791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 180375000.0,
+    "revenue": 4302324000.0,
+    "net_income": 267090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 180528000.0,
+    "revenue": 1093014000.0,
+    "net_income": 56302000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 181241000.0,
+    "revenue": 1069072000.0,
+    "net_income": 114403000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 182735000.0,
+    "revenue": 1015848000.0,
+    "net_income": 39208000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 182075000.0,
+    "revenue": 3944735000.0,
+    "net_income": 150556000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 183022000.0,
+    "revenue": 1020918000.0,
+    "net_income": 38823000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 181618000.0,
+    "revenue": 980820000.0,
+    "net_income": 33929000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 181681000.0,
+    "revenue": 915784000.0,
+    "net_income": 30275000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 181205000.0,
+    "revenue": 3438640000.0,
+    "net_income": 139898000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 181430000.0,
+    "revenue": 891937000.0,
+    "net_income": 35476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 181037000.0,
+    "revenue": 860272000.0,
+    "net_income": 31816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": -62000.0,
+    "revenue": 759237000.0,
+    "net_income": -2861000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "FY 2020",
+    "filing_date": "2021-03-11",
+    "shares_outstanding": 1015724000.0,
+    "revenue": 3032610000.0,
+    "net_income": -8076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 184822000.0,
+    "revenue": 781609000.0,
+    "net_income": 1663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 867966000.0,
+    "revenue": 740848000.0,
+    "net_income": -7668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OPCH",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 870493000.0,
+    "revenue": 705440000.0,
+    "net_income": -19910000.0,
+    "market_cap": null
+  }
+]

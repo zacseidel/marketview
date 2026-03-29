@@ -1,0 +1,218 @@
+[
+  {
+    "ticker": "FHI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 75103000.0,
+    "revenue": 1800663000.0,
+    "net_income": 414095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 75103000.0,
+    "revenue": 1800663000.0,
+    "net_income": 414095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 74057000.0,
+    "revenue": 469446000.0,
+    "net_income": 106095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 75072000.0,
+    "revenue": 424844000.0,
+    "net_income": 96691000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-25",
+    "shares_outstanding": 77542000.0,
+    "revenue": 423540000.0,
+    "net_income": 103876000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 79430000.0,
+    "revenue": 1632093000.0,
+    "net_income": 268430000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-25",
+    "shares_outstanding": 78706000.0,
+    "revenue": 408456000.0,
+    "net_income": 90341000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 80710000.0,
+    "revenue": 396371000.0,
+    "net_income": 75010000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 83863000.0,
+    "revenue": 1609574000.0,
+    "net_income": 304781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 83710000.0,
+    "revenue": 402656000.0,
+    "net_income": 74266000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 84939000.0,
+    "revenue": 433232000.0,
+    "net_income": 73002000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 84875000.0,
+    "revenue": 382189000.0,
+    "net_income": 71466000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 85766000.0,
+    "revenue": 1445814000.0,
+    "net_income": 234564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 84341000.0,
+    "revenue": 381143000.0,
+    "net_income": 67574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 85373000.0,
+    "revenue": 366008000.0,
+    "net_income": 50758000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 88050000.0,
+    "revenue": 324764000.0,
+    "net_income": 54597000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 93597000.0,
+    "revenue": 1300447000.0,
+    "net_income": 272308000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 93320000.0,
+    "revenue": 326589000.0,
+    "net_income": 73486000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 93964000.0,
+    "revenue": 311040000.0,
+    "net_income": 53479000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": -93124000.0,
+    "revenue": 341173000.0,
+    "net_income": 74346000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 1136997000.0,
+    "revenue": 1448268000.0,
+    "net_income": 336022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 1151576000.0,
+    "revenue": 364455000.0,
+    "net_income": 86684000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 1086667000.0,
+    "revenue": 360712000.0,
+    "net_income": 84801000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FHI",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 97345000.0,
+    "revenue": 359183000.0,
+    "net_income": 63265000.0,
+    "market_cap": null
+  }
+]

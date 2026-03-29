@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "CLH",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 53716000.0,
+    "revenue": 6030837000.0,
+    "net_income": 390974000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 53716000.0,
+    "revenue": 6030837000.0,
+    "net_income": 390974000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 53799000.0,
+    "revenue": 1549854000.0,
+    "net_income": 126905000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 53993000.0,
+    "revenue": 1431950000.0,
+    "net_income": 58680000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-19",
+    "shares_outstanding": 54199000.0,
+    "revenue": 5889952000.0,
+    "net_income": 402299000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 54229000.0,
+    "revenue": 1529422000.0,
+    "net_income": 115213000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 54248000.0,
+    "revenue": 1552719000.0,
+    "net_income": 133280000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 54213000.0,
+    "revenue": 1376695000.0,
+    "net_income": 69832000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 54382000.0,
+    "revenue": 5409152000.0,
+    "net_income": 377856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 54419000.0,
+    "revenue": 1365696000.0,
+    "net_income": 91340000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 54448000.0,
+    "revenue": 1397900000.0,
+    "net_income": 115766000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 54404000.0,
+    "revenue": 1307387000.0,
+    "net_income": 72401000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 54487000.0,
+    "revenue": 5166605000.0,
+    "net_income": 411744000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 54381000.0,
+    "revenue": 1363086000.0,
+    "net_income": 135799000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 54597000.0,
+    "revenue": 1356312000.0,
+    "net_income": 148157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 54672000.0,
+    "revenue": 1169109000.0,
+    "net_income": 45314000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 54761000.0,
+    "revenue": 3805566000.0,
+    "net_income": 203247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 54707000.0,
+    "revenue": 951479000.0,
+    "net_income": 65443000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 54854000.0,
+    "revenue": 926458000.0,
+    "net_income": 67075000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 55043000.0,
+    "revenue": 808148000.0,
+    "net_income": 21736000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 55690000.0,
+    "revenue": 3144097000.0,
+    "net_income": 134837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 55738000.0,
+    "revenue": 779344000.0,
+    "net_income": 54910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 55748000.0,
+    "revenue": 710000000.0,
+    "net_income": 29023000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 56055000.0,
+    "revenue": 858563000.0,
+    "net_income": 11572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 56129000.0,
+    "revenue": 3412190000.0,
+    "net_income": 97740000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 56165000.0,
+    "revenue": 891668000.0,
+    "net_income": 36369000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 56066000.0,
+    "revenue": 868678000.0,
+    "net_income": 36244000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 56082000.0,
+    "revenue": 780839000.0,
+    "net_income": 976000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 56340000.0,
+    "revenue": 3300303000.0,
+    "net_income": 65636000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 56291000.0,
+    "revenue": 843181000.0,
+    "net_income": 31089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 56505000.0,
+    "revenue": 849140000.0,
+    "net_income": 30747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 56457000.0,
+    "revenue": 749778000.0,
+    "net_income": -12631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 57200000.0,
+    "revenue": 2944978000.0,
+    "net_income": 100739000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 57195000.0,
+    "revenue": 755846000.0,
+    "net_income": 12058000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 57336000.0,
+    "revenue": 752788000.0,
+    "net_income": 25880000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 57262000.0,
+    "revenue": 688941000.0,
+    "net_income": -21393000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2016",
+    "filing_date": "2017-02-22",
+    "shares_outstanding": 57532000.0,
+    "revenue": 2755226000.0,
+    "net_income": -39873000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 57487000.0,
+    "revenue": 729520000.0,
+    "net_income": -10255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 57678000.0,
+    "revenue": 697510000.0,
+    "net_income": 3966000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 57617000.0,
+    "revenue": 636083000.0,
+    "net_income": -20871000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 58434000.0,
+    "revenue": 3275137000.0,
+    "net_income": 44102000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 58268000.0,
+    "revenue": 893366000.0,
+    "net_income": 40228000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 58710000.0,
+    "revenue": 936228000.0,
+    "net_income": 10395000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 58875000.0,
+    "revenue": 732499000.0,
+    "net_income": -7089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 60311000.0,
+    "revenue": 3401636000.0,
+    "net_income": -28328000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 60369000.0,
+    "revenue": 851465000.0,
+    "net_income": -93337000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 60778000.0,
+    "revenue": 858480000.0,
+    "net_income": 28672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 60861000.0,
+    "revenue": 846667000.0,
+    "net_income": 8960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 60728000.0,
+    "revenue": 3509656000.0,
+    "net_income": 95566000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 60760000.0,
+    "revenue": 907535000.0,
+    "net_income": 35361000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 60687000.0,
+    "revenue": 860528000.0,
+    "net_income": 22902000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 60630000.0,
+    "revenue": 862163000.0,
+    "net_income": 10502000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2012",
+    "filing_date": "2013-03-06",
+    "shares_outstanding": 54079000.0,
+    "revenue": 2187908000.0,
+    "net_income": 129674000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-09",
+    "shares_outstanding": 53565000.0,
+    "revenue": 533806000.0,
+    "net_income": 12359000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 53505000.0,
+    "revenue": 523118000.0,
+    "net_income": 23426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 53488000.0,
+    "revenue": 572022000.0,
+    "net_income": 32015000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 53324000.0,
+    "revenue": 1984136000.0,
+    "net_income": 127252000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 53370000.0,
+    "revenue": 556053000.0,
+    "net_income": 37133000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 53362000.0,
+    "revenue": 447235000.0,
+    "net_income": 29156000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 26579000.0,
+    "revenue": 434962000.0,
+    "net_income": 22730000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CLH",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 26485000.0,
+    "revenue": 487651000.0,
+    "net_income": 38827000.0,
+    "market_cap": null
+  }
+]

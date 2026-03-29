@@ -1,0 +1,137 @@
+[
+  {
+    "ticker": "WBD",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 2530000000.0,
+    "revenue": 37296000000.0,
+    "net_income": 749000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 2530000000.0,
+    "revenue": 37296000000.0,
+    "net_income": 749000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 2479000000.0,
+    "revenue": 9045000000.0,
+    "net_income": -143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 2499000000.0,
+    "revenue": 9812000000.0,
+    "net_income": 1588000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 2462000000.0,
+    "revenue": 8979000000.0,
+    "net_income": -449000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 2470000000.0,
+    "revenue": 9623000000.0,
+    "net_income": 141000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 2451000000.0,
+    "revenue": 9713000000.0,
+    "net_income": -10028000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-09",
+    "shares_outstanding": 2443000000.0,
+    "revenue": 9958000000.0,
+    "net_income": -955000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 2436000000.0,
+    "revenue": 41321000000.0,
+    "net_income": -3079000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 2438000000.0,
+    "revenue": 9979000000.0,
+    "net_income": -407000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 2437000000.0,
+    "revenue": 10358000000.0,
+    "net_income": -1220000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 2432000000.0,
+    "revenue": 10700000000.0,
+    "net_income": -1060000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 1940000000.0,
+    "revenue": 33817000000.0,
+    "net_income": -7297000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 2428000000.0,
+    "revenue": 9823000000.0,
+    "net_income": -2285000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBD",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 2286000000.0,
+    "revenue": 9827000000.0,
+    "net_income": -3408000000.0,
+    "market_cap": null
+  }
+]

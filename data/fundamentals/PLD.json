@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "PLD",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 956832000.0,
+    "revenue": 8790127000.0,
+    "net_income": 3565299000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 956832000.0,
+    "revenue": 8790127000.0,
+    "net_income": 3565299000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 956603000.0,
+    "revenue": 2213881000.0,
+    "net_income": 821260000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 955882000.0,
+    "revenue": 2183869000.0,
+    "net_income": 622304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 956080000.0,
+    "revenue": 2139665000.0,
+    "net_income": 639520000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2024",
+    "filing_date": "2025-02-14",
+    "shares_outstanding": 953590000.0,
+    "revenue": 8201610000.0,
+    "net_income": 3947935000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-25",
+    "shares_outstanding": 953813000.0,
+    "revenue": 2036389000.0,
+    "net_income": 1063451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 953912000.0,
+    "revenue": 1956621000.0,
+    "net_income": 630807000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2023",
+    "filing_date": "2024-02-13",
+    "shares_outstanding": 951791000.0,
+    "revenue": 8023469000.0,
+    "net_income": 3253145000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 951908000.0,
+    "revenue": 1914664000.0,
+    "net_income": 799141000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 951706000.0,
+    "revenue": 2450971000.0,
+    "net_income": 1279491000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-01",
+    "shares_outstanding": 951624000.0,
+    "revenue": 1768587000.0,
+    "net_income": 498629000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2022",
+    "filing_date": "2023-02-14",
+    "shares_outstanding": 811608000.0,
+    "revenue": 5973692000.0,
+    "net_income": 3555398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 766372000.0,
+    "revenue": 1750892000.0,
+    "net_income": 1069174000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-08",
+    "shares_outstanding": 766074000.0,
+    "revenue": 1252080000.0,
+    "net_income": 646436000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-26",
+    "shares_outstanding": 765517000.0,
+    "revenue": 1219128000.0,
+    "net_income": 1219722000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2021",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 764762000.0,
+    "revenue": 4759440000.0,
+    "net_income": 3148590000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-26",
+    "shares_outstanding": 764945000.0,
+    "revenue": 1183049000.0,
+    "net_income": 797731000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-27",
+    "shares_outstanding": 764652000.0,
+    "revenue": 1150842000.0,
+    "net_income": 650313000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-27",
+    "shares_outstanding": 764958000.0,
+    "revenue": 1148316000.0,
+    "net_income": 399693000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2020",
+    "filing_date": "2021-02-11",
+    "shares_outstanding": 754414000.0,
+    "revenue": 4438735000.0,
+    "net_income": 1616630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 764619000.0,
+    "revenue": 1082773000.0,
+    "net_income": 332521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-28",
+    "shares_outstanding": 765830000.0,
+    "revenue": 1266124000.0,
+    "net_income": 454938000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 723983000.0,
+    "revenue": 978241000.0,
+    "net_income": 521164000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2019",
+    "filing_date": "2020-02-11",
+    "shares_outstanding": 654903000.0,
+    "revenue": 3330621000.0,
+    "net_income": 1701846000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-21",
+    "shares_outstanding": 655259000.0,
+    "revenue": 942181000.0,
+    "net_income": 491013000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-22",
+    "shares_outstanding": 655447000.0,
+    "revenue": 790372000.0,
+    "net_income": 410826000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-23",
+    "shares_outstanding": 654359000.0,
+    "revenue": 772052000.0,
+    "net_income": 373765000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2018",
+    "filing_date": "2019-02-13",
+    "shares_outstanding": 590239000.0,
+    "revenue": 2804449000.0,
+    "net_income": 1822960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-22",
+    "shares_outstanding": 597647000.0,
+    "revenue": 682432000.0,
+    "net_income": 375520000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-23",
+    "shares_outstanding": 554515000.0,
+    "revenue": 621276000.0,
+    "net_income": 364991000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-24",
+    "shares_outstanding": 554123000.0,
+    "revenue": 693656000.0,
+    "net_income": 391959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2017",
+    "filing_date": "2018-02-15",
+    "shares_outstanding": 552300000.0,
+    "revenue": 2618134000.0,
+    "net_income": 1760959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-27",
+    "shares_outstanding": 554163000.0,
+    "revenue": 602874000.0,
+    "net_income": 913417000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 552114000.0,
+    "revenue": 766183000.0,
+    "net_income": 287980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-25",
+    "shares_outstanding": 550010000.0,
+    "revenue": 629155000.0,
+    "net_income": 220689000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2016",
+    "filing_date": "2017-02-15",
+    "shares_outstanding": 546666000.0,
+    "revenue": 2533135000.0,
+    "net_income": 1292540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 547200000.0,
+    "revenue": 704565000.0,
+    "net_income": 307242000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 545388000.0,
+    "revenue": 602155000.0,
+    "net_income": 295791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 543562000.0,
+    "revenue": 606300000.0,
+    "net_income": 222805000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2015",
+    "filing_date": "2016-02-19",
+    "shares_outstanding": 533944000.0,
+    "revenue": 2197074000.0,
+    "net_income": 925515000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-02",
+    "shares_outstanding": 532073000.0,
+    "revenue": 580622000.0,
+    "net_income": 307186000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 530640000.0,
+    "revenue": 510404000.0,
+    "net_income": 140260000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-04",
+    "shares_outstanding": 529022000.0,
+    "revenue": 462847000.0,
+    "net_income": 351312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 506391000.0,
+    "revenue": 1760787000.0,
+    "net_income": 739284000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 516088000.0,
+    "revenue": 415151000.0,
+    "net_income": 147127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 516619000.0,
+    "revenue": 460089000.0,
+    "net_income": 152430000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 504373000.0,
+    "revenue": 434682000.0,
+    "net_income": 12003000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 491546000.0,
+    "revenue": 1750486000.0,
+    "net_income": 353049000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 499848000.0,
+    "revenue": 423058000.0,
+    "net_income": -7167000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 486032000.0,
+    "revenue": 410693000.0,
+    "net_income": -4985000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 477059000.0,
+    "revenue": 479971000.0,
+    "net_income": 296932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 459895000.0,
+    "revenue": 2005961000.0,
+    "net_income": -30472000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 460079000.0,
+    "revenue": 504419000.0,
+    "net_income": -32898000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 459878000.0,
+    "revenue": 503110000.0,
+    "net_income": 4668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 476107000.0,
+    "revenue": 480875000.0,
+    "net_income": 213097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 370534000.0,
+    "revenue": 1533291000.0,
+    "net_income": -157938000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 462408000.0,
+    "revenue": 488641000.0,
+    "net_income": 65868000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 570559000.0,
+    "revenue": 238800000.0,
+    "net_income": -40164000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLD",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-04",
+    "shares_outstanding": 409504000.0,
+    "revenue": 263416000.0,
+    "net_income": 245728000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "EQT",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 615717000.0,
+    "revenue": 8644211000.0,
+    "net_income": 2325658000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 615717000.0,
+    "revenue": 8644211000.0,
+    "net_income": 2325658000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-22",
+    "shares_outstanding": 628324000.0,
+    "revenue": 1958571000.0,
+    "net_income": 407216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-23",
+    "shares_outstanding": 602924000.0,
+    "revenue": 2557719000.0,
+    "net_income": 856656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-23",
+    "shares_outstanding": 602838000.0,
+    "revenue": 1739850000.0,
+    "net_income": 315418000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2024",
+    "filing_date": "2025-02-19",
+    "shares_outstanding": 514593000.0,
+    "revenue": 5273309000.0,
+    "net_income": 242115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 559603000.0,
+    "revenue": 1283802000.0,
+    "net_income": -297432000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 444921000.0,
+    "revenue": 952512000.0,
+    "net_income": 9239000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 444967000.0,
+    "revenue": 1412268000.0,
+    "net_income": 103063000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 413224000.0,
+    "revenue": 6908923000.0,
+    "net_income": 1734544000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 416190000.0,
+    "revenue": 1186102000.0,
+    "net_income": 80730000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 361982000.0,
+    "revenue": 1018751000.0,
+    "net_income": -66866000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 393883000.0,
+    "revenue": 2661071000.0,
+    "net_income": 1219233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 406495000.0,
+    "revenue": 7497689000.0,
+    "net_income": 1780942000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 403889000.0,
+    "revenue": 2069463000.0,
+    "net_income": 687462000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 407303000.0,
+    "revenue": 2527508000.0,
+    "net_income": 894224000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 374142000.0,
+    "revenue": -579110000.0,
+    "net_income": -1514583000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2021",
+    "filing_date": "2022-02-10",
+    "shares_outstanding": 323196000.0,
+    "revenue": 3064663000.0,
+    "net_income": -1154513000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 356792000.0,
+    "revenue": -1464838000.0,
+    "net_income": -1979516000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 279156000.0,
+    "revenue": -260116000.0,
+    "net_income": -936519000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 278852000.0,
+    "revenue": 949923000.0,
+    "net_income": -41032000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2020",
+    "filing_date": "2021-02-17",
+    "shares_outstanding": 9262730000.0,
+    "revenue": 3058843000.0,
+    "net_income": -967176000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 255589000.0,
+    "revenue": 172127000.0,
+    "net_income": -600640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-27",
+    "shares_outstanding": 255524000.0,
+    "revenue": 527074000.0,
+    "net_income": -263075000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 255435000.0,
+    "revenue": 1107057000.0,
+    "net_income": -167139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 255141000.0,
+    "revenue": 4416484000.0,
+    "net_income": -1221695000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 255235000.0,
+    "revenue": 951576000.0,
+    "net_income": -361028000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 255223000.0,
+    "revenue": 1310252000.0,
+    "net_income": 125566000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 255387000.0,
+    "revenue": 1143173000.0,
+    "net_income": 190691000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2018",
+    "filing_date": "2019-02-14",
+    "shares_outstanding": 260932000.0,
+    "revenue": 4557868000.0,
+    "net_income": -2007158000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 259560000.0,
+    "revenue": 1050046000.0,
+    "net_income": 63448000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 265154000.0,
+    "revenue": 950648000.0,
+    "net_income": 136346000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 264877000.0,
+    "revenue": 1312036000.0,
+    "net_income": -1444979000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2017",
+    "filing_date": "2018-02-15",
+    "shares_outstanding": 187727000.0,
+    "revenue": 3378015000.0,
+    "net_income": 1858142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 173675000.0,
+    "revenue": 660313000.0,
+    "net_income": 105457000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 173582000.0,
+    "revenue": 690893000.0,
+    "net_income": 122645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 173511000.0,
+    "revenue": 897523000.0,
+    "net_income": 250705000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2016",
+    "filing_date": "2017-02-09",
+    "shares_outstanding": 166978000.0,
+    "revenue": 1608348000.0,
+    "net_income": -131063000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 172867000.0,
+    "revenue": 556726000.0,
+    "net_income": 70104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 166801000.0,
+    "revenue": 127531000.0,
+    "net_income": -180807000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 157195000.0,
+    "revenue": 545069000.0,
+    "net_income": 88425000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2015",
+    "filing_date": "2016-02-11",
+    "shares_outstanding": 152939000.0,
+    "revenue": 2339762000.0,
+    "net_income": 321886000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-22",
+    "shares_outstanding": 152854000.0,
+    "revenue": 583978000.0,
+    "net_income": 100233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-23",
+    "shares_outstanding": 152877000.0,
+    "revenue": 439589000.0,
+    "net_income": 63747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-23",
+    "shares_outstanding": 152756000.0,
+    "revenue": 714815000.0,
+    "net_income": 221168000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2014",
+    "filing_date": "2015-02-12",
+    "shares_outstanding": 152513000.0,
+    "revenue": 2469710000.0,
+    "net_income": 510990000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-23",
+    "shares_outstanding": 152330000.0,
+    "revenue": 578723000.0,
+    "net_income": 132294000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-24",
+    "shares_outstanding": 152570000.0,
+    "revenue": 526168000.0,
+    "net_income": 138264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-24",
+    "shares_outstanding": 152759000.0,
+    "revenue": 661625000.0,
+    "net_income": 210935000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2013",
+    "filing_date": "2014-02-20",
+    "shares_outstanding": 151787000.0,
+    "revenue": 1862011000.0,
+    "net_income": 437815000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 151663000.0,
+    "revenue": 479606000.0,
+    "net_income": 102610000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 151393000.0,
+    "revenue": 473093000.0,
+    "net_income": 94118000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 150949000.0,
+    "revenue": 415883000.0,
+    "net_income": 109281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 150506000.0,
+    "revenue": 1641608000.0,
+    "net_income": 196411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-25",
+    "shares_outstanding": 150388000.0,
+    "revenue": 364057000.0,
+    "net_income": 36704000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-26",
+    "shares_outstanding": 150149000.0,
+    "revenue": 337804000.0,
+    "net_income": 31446000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 150216000.0,
+    "revenue": 449960000.0,
+    "net_income": 72035000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "FY 2011",
+    "filing_date": "2012-02-16",
+    "shares_outstanding": 150209000.0,
+    "revenue": 1639934000.0,
+    "net_income": 479769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 150301000.0,
+    "revenue": 362644000.0,
+    "net_income": 178914000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 150111000.0,
+    "revenue": 367791000.0,
+    "net_income": 87754000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-28",
+    "shares_outstanding": 150002000.0,
+    "revenue": 472695000.0,
+    "net_income": 122255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-29",
+    "shares_outstanding": 131505000.0,
+    "revenue": 218357000.0,
+    "net_income": 2909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EQT",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-29",
+    "shares_outstanding": 131443000.0,
+    "revenue": 238040000.0,
+    "net_income": 26645000.0,
+    "market_cap": null
+  }
+]

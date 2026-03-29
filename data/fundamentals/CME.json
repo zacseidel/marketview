@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "CME",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 360310000.0,
+    "revenue": 6520600000.0,
+    "net_income": 4072200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 360310000.0,
+    "revenue": 6520600000.0,
+    "net_income": 4072200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-24",
+    "shares_outstanding": 360422000.0,
+    "revenue": 1537600000.0,
+    "net_income": 908000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-25",
+    "shares_outstanding": 360355000.0,
+    "revenue": 1692000000.0,
+    "net_income": 1025100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 360227000.0,
+    "revenue": 1642300000.0,
+    "net_income": 956200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 359989000.0,
+    "revenue": 1584400000.0,
+    "net_income": 912800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-05",
+    "shares_outstanding": 359869000.0,
+    "revenue": 1532500000.0,
+    "net_income": 883200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 359833000.0,
+    "revenue": 1487900000.0,
+    "net_income": 855200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 359500000.0,
+    "revenue": 5578900000.0,
+    "net_income": 3226200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 359619000.0,
+    "revenue": 1337800000.0,
+    "net_income": 750200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 359429000.0,
+    "revenue": 1360200000.0,
+    "net_income": 777600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 359313000.0,
+    "revenue": 1441600000.0,
+    "net_income": 883800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 359181000.0,
+    "revenue": 5019400000.0,
+    "net_income": 2691000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 359288000.0,
+    "revenue": 1227800000.0,
+    "net_income": 679600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 359205000.0,
+    "revenue": 1237200000.0,
+    "net_income": 662500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 359180000.0,
+    "revenue": 1346600000.0,
+    "net_income": 711000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 358929000.0,
+    "revenue": 4689700000.0,
+    "net_income": 2636900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 358988000.0,
+    "revenue": 1109900000.0,
+    "net_income": 926300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 358888000.0,
+    "revenue": 1179200000.0,
+    "net_income": 510600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 358817000.0,
+    "revenue": 1253300000.0,
+    "net_income": 574800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 358524000.0,
+    "revenue": 4883600000.0,
+    "net_income": 2106400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 358590000.0,
+    "revenue": 1080700000.0,
+    "net_income": 411500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 358457000.0,
+    "revenue": 1182300000.0,
+    "net_income": 503300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 358455000.0,
+    "revenue": 1522100000.0,
+    "net_income": 766800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 358239000.0,
+    "revenue": 4868000000.0,
+    "net_income": 2115800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 358369000.0,
+    "revenue": 1277300000.0,
+    "net_income": 636300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 358155000.0,
+    "revenue": 1272700000.0,
+    "net_income": 514600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 358047000.0,
+    "revenue": 1179600000.0,
+    "net_income": 495900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 343737000.0,
+    "revenue": 4309400000.0,
+    "net_income": 1963700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 341035000.0,
+    "revenue": 904200000.0,
+    "net_income": 411800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 340872000.0,
+    "revenue": 1059600000.0,
+    "net_income": 566100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 340747000.0,
+    "revenue": 1109000000.0,
+    "net_income": 598800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 340226000.0,
+    "revenue": 3644700000.0,
+    "net_income": 4063400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 340329000.0,
+    "revenue": 890800000.0,
+    "net_income": 308600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 340020000.0,
+    "revenue": 924600000.0,
+    "net_income": 415800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 339946000.0,
+    "revenue": 929300000.0,
+    "net_income": 399800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 338966000.0,
+    "revenue": 3595200000.0,
+    "net_income": 1534100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 339143000.0,
+    "revenue": 841700000.0,
+    "net_income": 472800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 338706000.0,
+    "revenue": 906400000.0,
+    "net_income": 320100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 338549000.0,
+    "revenue": 934200000.0,
+    "net_income": 367800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 337894000.0,
+    "revenue": 3326800000.0,
+    "net_income": 1247000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 338139000.0,
+    "revenue": 850300000.0,
+    "net_income": 359900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 337796000.0,
+    "revenue": 820000000.0,
+    "net_income": 265000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 337416000.0,
+    "revenue": 842700000.0,
+    "net_income": 330400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 336063000.0,
+    "revenue": 3112500000.0,
+    "net_income": 1126900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-03",
+    "shares_outstanding": 336172000.0,
+    "revenue": 762400000.0,
+    "net_income": 290000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-04",
+    "shares_outstanding": 335800000.0,
+    "revenue": 731600000.0,
+    "net_income": 263800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 335644000.0,
+    "revenue": 777400000.0,
+    "net_income": 266600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 334398000.0,
+    "revenue": 2936300000.0,
+    "net_income": 978100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 334674000.0,
+    "revenue": 714600000.0,
+    "net_income": 236300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 334073000.0,
+    "revenue": 816100000.0,
+    "net_income": 311300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 333372000.0,
+    "revenue": 718600000.0,
+    "net_income": 237400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 332319000.0,
+    "revenue": 2914600000.0,
+    "net_income": 906700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 332458000.0,
+    "revenue": 683200000.0,
+    "net_income": 218900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 332162000.0,
+    "revenue": 795900000.0,
+    "net_income": 253400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 66370000.0,
+    "revenue": 774600000.0,
+    "net_income": 266300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 66762000.0,
+    "revenue": 3280600000.0,
+    "net_income": 1814400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 66667000.0,
+    "revenue": 874200000.0,
+    "net_income": 315000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 66974000.0,
+    "revenue": 838300000.0,
+    "net_income": 295600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 67062000.0,
+    "revenue": 831600000.0,
+    "net_income": 457100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 65784000.0,
+    "revenue": 813900000.0,
+    "net_income": 271200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-07",
+    "shares_outstanding": 66428000.0,
+    "revenue": 693200000.0,
+    "net_income": 240200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 66548000.0,
+    "revenue": 2612800000.0,
+    "net_income": 825800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CME",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-06",
+    "shares_outstanding": 66573000.0,
+    "revenue": 650400000.0,
+    "net_income": 202300000.0,
+    "market_cap": null
+  }
+]

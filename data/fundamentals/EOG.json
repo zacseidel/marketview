@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "EOG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 546000000.0,
+    "revenue": 22632000000.0,
+    "net_income": 4980000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 546000000.0,
+    "revenue": 22632000000.0,
+    "net_income": 4980000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 544000000.0,
+    "revenue": 5847000000.0,
+    "net_income": 1471000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 546000000.0,
+    "revenue": 5478000000.0,
+    "net_income": 1345000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 553000000.0,
+    "revenue": 5669000000.0,
+    "net_income": 1463000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 569000000.0,
+    "revenue": 23698000000.0,
+    "net_income": 6403000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 568000000.0,
+    "revenue": 5965000000.0,
+    "net_income": 1673000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 572000000.0,
+    "revenue": 6025000000.0,
+    "net_income": 1690000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 577000000.0,
+    "revenue": 6123000000.0,
+    "net_income": 1789000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 584000000.0,
+    "revenue": 24186000000.0,
+    "net_income": 7594000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 583000000.0,
+    "revenue": 6212000000.0,
+    "net_income": 2030000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 584000000.0,
+    "revenue": 5573000000.0,
+    "net_income": 1553000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 587000000.0,
+    "revenue": 6044000000.0,
+    "net_income": 2023000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 587000000.0,
+    "revenue": 25702000000.0,
+    "net_income": 7759000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 587000000.0,
+    "revenue": 7593000000.0,
+    "net_income": 2854000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 588000000.0,
+    "revenue": 7407000000.0,
+    "net_income": 2238000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 586000000.0,
+    "revenue": 3983000000.0,
+    "net_income": 390000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 584000000.0,
+    "revenue": 18642000000.0,
+    "net_income": 4664000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 584000000.0,
+    "revenue": 4765000000.0,
+    "net_income": 1095000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 584000000.0,
+    "revenue": 4139000000.0,
+    "net_income": 907000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 583000000.0,
+    "revenue": 3694000000.0,
+    "net_income": 677000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 578949000.0,
+    "revenue": 11032048000.0,
+    "net_income": -604572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 579055000.0,
+    "revenue": 2245484000.0,
+    "net_income": -42467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 578719000.0,
+    "revenue": 1103374000.0,
+    "net_income": -909384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 580283000.0,
+    "revenue": 4717692000.0,
+    "net_income": 9813000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 580777000.0,
+    "revenue": 17379973000.0,
+    "net_income": 2734910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 581271000.0,
+    "revenue": 4303455000.0,
+    "net_income": 615122000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 580247000.0,
+    "revenue": 4697630000.0,
+    "net_income": 847841000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 580222000.0,
+    "revenue": 4058642000.0,
+    "net_income": 635426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 580441000.0,
+    "revenue": 17275399000.0,
+    "net_income": 3419040000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 581559000.0,
+    "revenue": 4781624000.0,
+    "net_income": 1190952000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 580375000.0,
+    "revenue": 4238077000.0,
+    "net_income": 696731000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 579726000.0,
+    "revenue": 3681162000.0,
+    "net_income": 638589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 578693000.0,
+    "revenue": 11208320000.0,
+    "net_income": 2582579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 578736000.0,
+    "revenue": 2644844000.0,
+    "net_income": 100541000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 578483000.0,
+    "revenue": 2612472000.0,
+    "net_income": 23053000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 578593000.0,
+    "revenue": 2610565000.0,
+    "net_income": 28517000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 553384000.0,
+    "revenue": 7650632000.0,
+    "net_income": -1096686000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 547838000.0,
+    "revenue": 2118504000.0,
+    "net_income": -190000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 547335000.0,
+    "revenue": 1775740000.0,
+    "net_income": -292558000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 546715000.0,
+    "revenue": 1354349000.0,
+    "net_income": -471776000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 545697000.0,
+    "revenue": 8757428000.0,
+    "net_income": -4524515000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 545920000.0,
+    "revenue": 2172428000.0,
+    "net_income": -4075739000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 549683000.0,
+    "revenue": 2469701000.0,
+    "net_income": 5268000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-04",
+    "shares_outstanding": 544998000.0,
+    "revenue": 2318538000.0,
+    "net_income": -169748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2014",
+    "filing_date": "2015-02-18",
+    "shares_outstanding": 548539000.0,
+    "revenue": 18035340000.0,
+    "net_income": 2915487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 549518000.0,
+    "revenue": 5118616000.0,
+    "net_income": 1103618000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 548676000.0,
+    "revenue": 4187556000.0,
+    "net_income": 706353000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-06",
+    "shares_outstanding": 548071000.0,
+    "revenue": 4083671000.0,
+    "net_income": 660928000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2013",
+    "filing_date": "2014-02-24",
+    "shares_outstanding": 273114000.0,
+    "revenue": 14487118000.0,
+    "net_income": 2197109000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 273576000.0,
+    "revenue": 3541396000.0,
+    "net_income": 462498000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 272739000.0,
+    "revenue": 3840185000.0,
+    "net_income": 659692000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-06",
+    "shares_outstanding": 272263000.0,
+    "revenue": 3356514000.0,
+    "net_income": 494725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 270762000.0,
+    "revenue": 11682636000.0,
+    "net_income": 570279000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-05",
+    "shares_outstanding": 270982000.0,
+    "revenue": 2954855000.0,
+    "net_income": 355491000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 269985000.0,
+    "revenue": 2909319000.0,
+    "net_income": 395778000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 270242000.0,
+    "revenue": 2806651000.0,
+    "net_income": 324009000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 266268000.0,
+    "revenue": 10126115000.0,
+    "net_income": 1091123000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-01",
+    "shares_outstanding": 269292.0,
+    "revenue": 2885744000.0,
+    "net_income": 540878000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 269332000.0,
+    "revenue": 2570250000.0,
+    "net_income": 295574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 258819000.0,
+    "revenue": 1897106000.0,
+    "net_income": 133973000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EOG",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-06",
+    "shares_outstanding": 248207000.0,
+    "revenue": 861039000.0,
+    "net_income": -16706000.0,
+    "market_cap": null
+  }
+]

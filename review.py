@@ -450,13 +450,13 @@ def main() -> None:
     approved_sells = decision_state.get("approved_sells", [])
 
     # Model new buys (from output files, not the markdown)
-    model_new_buys: dict[str, list[tuple[str, float]]] = {}
+    model_new_buys: dict[str, list[tuple[str, float, str | None]]] = {}
     sell_tickers: list[tuple[str, str]] = []
 
     for model_name, holdings in all_holdings.items():
-        new_buys = [(h["ticker"], h["conviction"]) for h in holdings if h.get("status") == "new_buy"]
-        if new_buys:
-            model_new_buys[model_name] = new_buys
+        active = [(h["ticker"], h["conviction"], h.get("status")) for h in holdings if h.get("status") in ("new_buy", "hold")]
+        if active:
+            model_new_buys[model_name] = active
         for h in holdings:
             if h.get("status") == "sell":
                 sell_tickers.append((h["ticker"], model_name))
@@ -470,7 +470,7 @@ def main() -> None:
         print(f"  Decision file: {decision_file.relative_to(_ROOT)}")
     print(f"  Open positions: {len(open_positions)}  |  "
           f"Approved buys pending execution: {len(approved_buys)}  |  "
-          f"New recommendations: {sum(len(v) for v in model_new_buys.values())}  |  "
+          f"New recommendations: {sum(1 for v in model_new_buys.values() for _, _, st in v if st == 'new_buy')}  |  "
           f"Sell signals: {len(sell_tickers)}")
     print(_hr())
     print("  Tip: type ?TICKER at any prompt to see full stock details.")
@@ -487,14 +487,8 @@ def main() -> None:
         print("\n  No model outputs found for this eval date.")
     else:
         pending_set = set(pending_buys)
-        for model_name, new_buys in model_new_buys.items():
-            # Show all model picks; only prompt for those still pending
-            model_selectable = [t for t, _ in new_buys if t in pending_set]
-            if not model_selectable and all(t in approved for t, _ in new_buys):
-                # All picks already approved — show briefly and skip prompt
-                already_str = ", ".join(t for t, _ in new_buys)
-                print(f"\n  {model_name.upper()} — all picks already approved: {already_str}")
-                continue
+        for model_name, picks in model_new_buys.items():
+            model_selectable = [t for t, _, st in picks if st == "new_buy" and t in pending_set]
 
             print(f"\n{_hr()}")
             print(f"  MODEL: {model_name.upper()}")
@@ -505,8 +499,8 @@ def main() -> None:
             print()
 
             print(f"  {'Ticker':<8} {'Conv':>5}  {'5d':>7}  {'Also in':<28}  {'Status'}")
-            print(f"  {'─'*8} {'─'*5}  {'─'*7}  {'─'*28}  {'─'*10}")
-            for ticker, conviction in new_buys:
+            print(f"  {'─'*8} {'─'*5}  {'─'*7}  {'─'*28}  {'─'*14}")
+            for ticker, conviction, model_status in picks:
                 other_models = [
                     m for m, holdings in all_holdings.items()
                     if m != model_name
@@ -514,12 +508,14 @@ def main() -> None:
                 ]
                 r5 = _recent_return(ticker, 5)
                 others = ", ".join(other_models) if other_models else "—"
-                if ticker in approved:
+                if model_status == "hold":
+                    status = "  holding"
+                elif ticker in approved:
                     status = "✓ approved"
                 elif ticker not in pending_set:
                     status = "— skipped"
                 else:
-                    status = ""
+                    status = "  new"
                 print(f"  {ticker:<8} {conviction:>5.2f}  {_ret_str(r5):>7}  {others:<28}  {status}")
 
             if not model_selectable:

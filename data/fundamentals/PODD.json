@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "PODD",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 71886000.0,
+    "revenue": 2708100000.0,
+    "net_income": 247100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 71886000.0,
+    "revenue": 2708100000.0,
+    "net_income": 247100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 70661000.0,
+    "revenue": 706300000.0,
+    "net_income": 87600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 70652000.0,
+    "revenue": 649100000.0,
+    "net_income": 22500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 74111000.0,
+    "revenue": 569000000.0,
+    "net_income": 35400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 73951000.0,
+    "revenue": 543900000.0,
+    "net_income": 77500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-09",
+    "shares_outstanding": 73802000.0,
+    "revenue": 488500000.0,
+    "net_income": 188600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-10",
+    "shares_outstanding": 73741000.0,
+    "revenue": 441700000.0,
+    "net_income": 51500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 73633000.0,
+    "revenue": 1697100000.0,
+    "net_income": 206300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 73624000.0,
+    "revenue": 432700000.0,
+    "net_income": 51900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 70142000.0,
+    "revenue": 396500000.0,
+    "net_income": 27300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 70096000.0,
+    "revenue": 358100000.0,
+    "net_income": 23800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 69910000.0,
+    "revenue": 1305300000.0,
+    "net_income": 4600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 69418000.0,
+    "revenue": 340800000.0,
+    "net_income": -5200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 69356000.0,
+    "revenue": 299400000.0,
+    "net_income": -35000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 69858000.0,
+    "revenue": 295400000.0,
+    "net_income": 27800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 68579000.0,
+    "revenue": 1098800000.0,
+    "net_income": 16800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 69619000.0,
+    "revenue": 275600000.0,
+    "net_income": 12600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 66696000.0,
+    "revenue": 263200000.0,
+    "net_income": -25000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 66113000.0,
+    "revenue": 252300000.0,
+    "net_income": 0.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 65946000.0,
+    "revenue": 904400000.0,
+    "net_income": 6800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 66827692.0,
+    "revenue": 234000000.0,
+    "net_income": 11600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 65578513.0,
+    "revenue": 226300000.0,
+    "net_income": 14400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 62883672.0,
+    "revenue": 198000000.0,
+    "net_income": -2100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 62304348.0,
+    "revenue": 738200000.0,
+    "net_income": 11600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 62335679.0,
+    "revenue": 192100000.0,
+    "net_income": 800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 61486325.0,
+    "revenue": 177100000.0,
+    "net_income": 1400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 61148428.0,
+    "revenue": 159600000.0,
+    "net_income": 4400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 61008024.0,
+    "revenue": 563823000.0,
+    "net_income": 3292000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 61146466.0,
+    "revenue": 151076000.0,
+    "net_income": 1659000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 179148000.0,
+    "revenue": 124262000.0,
+    "net_income": -1691000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 170568000.0,
+    "revenue": 123578000.0,
+    "net_income": -6569000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 158516000.0,
+    "revenue": 463768000.0,
+    "net_income": -26831000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 74254000.0,
+    "revenue": 121775000.0,
+    "net_income": -2227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 64725000.0,
+    "revenue": 109756000.0,
+    "net_income": -7767000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 63585000.0,
+    "revenue": 101713000.0,
+    "net_income": -9977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 63150000.0,
+    "revenue": 366989000.0,
+    "net_income": -28879000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 65095000.0,
+    "revenue": 94871000.0,
+    "net_income": -3081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 27444000.0,
+    "revenue": 87330000.0,
+    "net_income": -4198000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 26396000.0,
+    "revenue": 81213000.0,
+    "net_income": -12481000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 34051000.0,
+    "revenue": 324225000.0,
+    "net_income": -73520000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 55133000.0,
+    "revenue": 87303000.0,
+    "net_income": -18927000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-12",
+    "shares_outstanding": 70255000.0,
+    "revenue": 75588000.0,
+    "net_income": -15432000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 80742000.0,
+    "revenue": 61215000.0,
+    "net_income": -11834000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 83829000.0,
+    "revenue": 288720000.0,
+    "net_income": -51500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 80340000.0,
+    "revenue": 74985000.0,
+    "net_income": -10845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 77884000.0,
+    "revenue": 72013000.0,
+    "net_income": -29111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 122492000.0,
+    "revenue": 69161000.0,
+    "net_income": -6144000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 124597000.0,
+    "revenue": 247084000.0,
+    "net_income": -44974000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 121426000.0,
+    "revenue": 61103000.0,
+    "net_income": -21290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 138335000.0,
+    "revenue": 60092000.0,
+    "net_income": -10519000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 129547000.0,
+    "revenue": 57356000.0,
+    "net_income": -10665000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 44176000.0,
+    "revenue": 211369000.0,
+    "net_income": -51867000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 50452000.0,
+    "revenue": 54752000.0,
+    "net_income": -12417000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 59089000.0,
+    "revenue": 51035000.0,
+    "net_income": -14476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 70217000.0,
+    "revenue": 47754000.0,
+    "net_income": -14780000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 71396000.0,
+    "revenue": 152255000.0,
+    "net_income": -57170000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 83440000.0,
+    "revenue": 44594000.0,
+    "net_income": -13562000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PODD",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 94099000.0,
+    "revenue": 32211000.0,
+    "net_income": -19423000.0,
+    "market_cap": null
+  }
+]

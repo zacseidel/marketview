@@ -79,6 +79,22 @@ models:
       model: "knn"
       max_holdings: 20
 
+  quant_gbm_v3:
+    enabled: true
+    module: "src.selection.quant_v3"
+    class: "QuantModelV3"
+    description: "LightGBM v3: 28 technical (incl. log_ret_756d) + buyback + earnings + SPY market state + sector features; 10d forward log return target; trained on 10yr history. Val Sharpe: 1.125, excess return +0.84%/period vs SPY."
+    params:
+      max_holdings: 20
+
+  quant_gbm_v2:
+    enabled: true
+    module: "src.selection.quant_v2"
+    class: "QuantModelV2"
+    description: "LightGBM v2: 27 technical + buyback + earnings + SPY market state + sector features; 10d forward log return target; trained on full 10yr history. Val Sharpe: 0.973, excess return +0.79%/period vs SPY."
+    params:
+      max_holdings: 20
+
   thirteen_f:
     enabled: false
     module: "src.selection.thirteen_f"

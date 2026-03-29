@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "MET",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 673300000.0,
+    "revenue": 77084000000.0,
+    "net_income": 3403000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 673300000.0,
+    "revenue": 77084000000.0,
+    "net_income": 3403000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 669100000.0,
+    "revenue": 17361000000.0,
+    "net_income": 902000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 675000000.0,
+    "revenue": 17340000000.0,
+    "net_income": 735000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 687000000.0,
+    "revenue": 18569000000.0,
+    "net_income": 950000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 714700000.0,
+    "revenue": 17823000000.0,
+    "net_income": 953000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 728400000.0,
+    "revenue": 16057000000.0,
+    "net_income": 875000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 762300000.0,
+    "revenue": 66905000000.0,
+    "net_income": 1602000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 755500000.0,
+    "revenue": 15866000000.0,
+    "net_income": 495000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 769600000.0,
+    "revenue": 16623000000.0,
+    "net_income": 408000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 781200000.0,
+    "revenue": 15388000000.0,
+    "net_income": 85000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 808900000.0,
+    "revenue": 69898000000.0,
+    "net_income": 2558000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 800700000.0,
+    "revenue": 22270000000.0,
+    "net_income": 400000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 814500000.0,
+    "revenue": 15556000000.0,
+    "net_income": 138000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 830500000.0,
+    "revenue": 15756000000.0,
+    "net_income": 674000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 869400000.0,
+    "revenue": 71080000000.0,
+    "net_income": 6575000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-09",
+    "shares_outstanding": 861200000.0,
+    "revenue": 16905000000.0,
+    "net_income": 1589000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 879700000.0,
+    "revenue": 18524000000.0,
+    "net_income": 3412000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 892100000.0,
+    "revenue": 15562000000.0,
+    "net_income": 363000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 913200000.0,
+    "revenue": 67842000000.0,
+    "net_income": 5418000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-09",
+    "shares_outstanding": 913700000.0,
+    "revenue": 16015000000.0,
+    "net_income": 709000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 913100000.0,
+    "revenue": 14099000000.0,
+    "net_income": 150000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 920000000.0,
+    "revenue": 18310000000.0,
+    "net_income": 4401000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 944400000.0,
+    "revenue": 69620000000.0,
+    "net_income": 5909000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 936400000.0,
+    "revenue": 18678000000.0,
+    "net_income": 2190000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 952900000.0,
+    "revenue": 17497000000.0,
+    "net_income": 1746000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 963300000.0,
+    "revenue": 16302000000.0,
+    "net_income": 1385000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 1013900000.0,
+    "revenue": 67941000000.0,
+    "net_income": 5128000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 1000700000.0,
+    "revenue": 16289000000.0,
+    "net_income": 915000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 1023800000.0,
+    "revenue": 21185000000.0,
+    "net_income": 894000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 1044400000.0,
+    "revenue": 14805000000.0,
+    "net_income": 1257000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 1078500000.0,
+    "revenue": 62308000000.0,
+    "net_income": 4020000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-06",
+    "shares_outstanding": 1071500000.0,
+    "revenue": 16171000000.0,
+    "net_income": -85000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 1082100000.0,
+    "revenue": 15333000000.0,
+    "net_income": 914000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 1098700000.0,
+    "revenue": 14964000000.0,
+    "net_income": 876000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 1108500000.0,
+    "revenue": 63476000000.0,
+    "net_income": 804000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 1109254316.0,
+    "revenue": 17723000000.0,
+    "net_income": 573000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 1109128438.0,
+    "revenue": 15244000000.0,
+    "net_income": 114000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 1108621697.0,
+    "revenue": 18433000000.0,
+    "net_income": 2203000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 1128343385.0,
+    "revenue": 69951000000.0,
+    "net_income": 5322000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 1129941081.0,
+    "revenue": 18031000000.0,
+    "net_income": 1198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 1128391778.0,
+    "revenue": 16166000000.0,
+    "net_income": 1119000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 1135761118.0,
+    "revenue": 18710000000.0,
+    "net_income": 2163000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 1142463448.0,
+    "revenue": 73316000000.0,
+    "net_income": 6336000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 1141046731.0,
+    "revenue": 18846000000.0,
+    "net_income": 2094000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 1142262115.0,
+    "revenue": 18266000000.0,
+    "net_income": 1376000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 1140466038.0,
+    "revenue": 17085000000.0,
+    "net_income": 1339000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 1116202710.0,
+    "revenue": 68199000000.0,
+    "net_income": 3393000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 1117296838.0,
+    "revenue": 16337000000.0,
+    "net_income": 975000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 1106680318.0,
+    "revenue": 15721000000.0,
+    "net_income": 510000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 1103885405.0,
+    "revenue": 17683000000.0,
+    "net_income": 992000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 1076839639.0,
+    "revenue": 68150000000.0,
+    "net_income": 1362000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 1065041874.0,
+    "revenue": 16503000000.0,
+    "net_income": -957000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 1069979618.0,
+    "revenue": 18398000000.0,
+    "net_income": 2303000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 1064252898.0,
+    "revenue": 15916000000.0,
+    "net_income": -120000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 1068094360.0,
+    "revenue": 70262000000.0,
+    "net_income": 6971000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 1066200699.0,
+    "revenue": 20457000000.0,
+    "net_income": 3576000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 1070975905.0,
+    "revenue": 17148000000.0,
+    "net_income": 1230000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 1069523536.0,
+    "revenue": 15911000000.0,
+    "net_income": 1013000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2010",
+    "filing_date": "2011-02-25",
+    "shares_outstanding": 889567878.0,
+    "revenue": 52717000000.0,
+    "net_income": 2786000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-04",
+    "shares_outstanding": 883100164.0,
+    "revenue": 12444000000.0,
+    "net_income": 320000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-02",
+    "shares_outstanding": 830472873.0,
+    "revenue": 14245000000.0,
+    "net_income": 1547000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-05",
+    "shares_outstanding": -1298081.0,
+    "revenue": 13190000000.0,
+    "net_income": 834000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 33498000000.0,
+    "revenue": 41058000000.0,
+    "net_income": -2278000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-04",
+    "shares_outstanding": 34593000000.0,
+    "revenue": 10238000000.0,
+    "net_income": -625000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MET",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-04",
+    "shares_outstanding": 27612000000.0,
+    "revenue": 8266000000.0,
+    "net_income": -1418000000.0,
+    "market_cap": null
+  }
+]

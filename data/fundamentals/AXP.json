@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "AXP",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 696000000.0,
+    "revenue": 41304000000.0,
+    "net_income": 10833000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 696000000.0,
+    "revenue": 41304000000.0,
+    "net_income": 10833000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-17",
+    "shares_outstanding": 693000000.0,
+    "revenue": 10415000000.0,
+    "net_income": 2902000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-18",
+    "shares_outstanding": 699000000.0,
+    "revenue": 10321000000.0,
+    "net_income": 2885000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-18",
+    "shares_outstanding": 702000000.0,
+    "revenue": 9626000000.0,
+    "net_income": 2584000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2024",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 713000000.0,
+    "revenue": 38825000000.0,
+    "net_income": 10129000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-18",
+    "shares_outstanding": 709000000.0,
+    "revenue": 9716000000.0,
+    "net_income": 2507000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-19",
+    "shares_outstanding": 717000000.0,
+    "revenue": 9818000000.0,
+    "net_income": 3015000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-19",
+    "shares_outstanding": 722000000.0,
+    "revenue": 9339000000.0,
+    "net_income": 2437000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2023",
+    "filing_date": "2024-02-09",
+    "shares_outstanding": 736000000.0,
+    "revenue": 37218000000.0,
+    "net_income": 8374000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-20",
+    "shares_outstanding": 733000000.0,
+    "revenue": 9377000000.0,
+    "net_income": 2451000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-25",
+    "shares_outstanding": 741000000.0,
+    "revenue": 9433000000.0,
+    "net_income": 2174000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-21",
+    "shares_outstanding": 744000000.0,
+    "revenue": 8846000000.0,
+    "net_income": 1816000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2022",
+    "filing_date": "2023-02-10",
+    "shares_outstanding": 752000000.0,
+    "revenue": 34219000000.0,
+    "net_income": 7514000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-21",
+    "shares_outstanding": 749000000.0,
+    "revenue": 8733000000.0,
+    "net_income": 1879000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-22",
+    "shares_outstanding": 753000000.0,
+    "revenue": 8771000000.0,
+    "net_income": 1964000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-22",
+    "shares_outstanding": 758000000.0,
+    "revenue": 7640000000.0,
+    "net_income": 2099000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2021",
+    "filing_date": "2022-02-11",
+    "shares_outstanding": 790000000.0,
+    "revenue": 27716000000.0,
+    "net_income": 8060000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-22",
+    "shares_outstanding": 787000000.0,
+    "revenue": 7139000000.0,
+    "net_income": 1826000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-23",
+    "shares_outstanding": 802000000.0,
+    "revenue": 6762000000.0,
+    "net_income": 2280000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-23",
+    "shares_outstanding": 805000000.0,
+    "revenue": 5654000000.0,
+    "net_income": 2235000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2020",
+    "filing_date": "2021-02-12",
+    "shares_outstanding": 806000000.0,
+    "revenue": 21974000000.0,
+    "net_income": 3135000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-23",
+    "shares_outstanding": 805000000.0,
+    "revenue": 8751000000.0,
+    "net_income": 1073000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-24",
+    "shares_outstanding": 805000000.0,
+    "revenue": 7675000000.0,
+    "net_income": 257000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-24",
+    "shares_outstanding": 808000000.0,
+    "revenue": 10310000000.0,
+    "net_income": 367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2019",
+    "filing_date": "2020-02-13",
+    "shares_outstanding": 830000000.0,
+    "revenue": 28159000000.0,
+    "net_income": 6759000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-21",
+    "shares_outstanding": 827000000.0,
+    "revenue": 10989000000.0,
+    "net_income": 1755000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-23",
+    "shares_outstanding": 836000000.0,
+    "revenue": 10838000000.0,
+    "net_income": 1761000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-23",
+    "shares_outstanding": 843.0,
+    "revenue": 10364000000.0,
+    "net_income": 1550000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2018",
+    "filing_date": "2019-02-13",
+    "shares_outstanding": 859000000.0,
+    "revenue": 26607000000.0,
+    "net_income": 6921000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-23",
+    "shares_outstanding": 860000000.0,
+    "revenue": 10144000000.0,
+    "net_income": 1654000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-24",
+    "shares_outstanding": 862000000.0,
+    "revenue": 10002000000.0,
+    "net_income": 1623000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 861000000.0,
+    "revenue": 9718000000.0,
+    "net_income": 1634000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 886000000.0,
+    "revenue": 33471000000.0,
+    "net_income": 2736000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-24",
+    "shares_outstanding": 881000000.0,
+    "revenue": 8436000000.0,
+    "net_income": 1356000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-25",
+    "shares_outstanding": 893000000.0,
+    "revenue": 8307000000.0,
+    "net_income": 1340000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 903000000.0,
+    "revenue": 7889000000.0,
+    "net_income": 1237000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 935000000.0,
+    "revenue": 7475000000.0,
+    "net_income": 5408000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-25",
+    "shares_outstanding": 923000000.0,
+    "revenue": 1764000000.0,
+    "net_income": 1142000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-26",
+    "shares_outstanding": 941000000.0,
+    "revenue": 1885000000.0,
+    "net_income": 2015000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 963000000.0,
+    "revenue": 2005000000.0,
+    "net_income": 1426000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2015",
+    "filing_date": "2016-02-19",
+    "shares_outstanding": 1003000000.0,
+    "revenue": 7545000000.0,
+    "net_income": 5163000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-28",
+    "shares_outstanding": 997000000.0,
+    "revenue": 1904000000.0,
+    "net_income": 1266000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-29",
+    "shares_outstanding": 1013000000.0,
+    "revenue": 1837000000.0,
+    "net_income": 1473000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-29",
+    "shares_outstanding": 1023000000.0,
+    "revenue": 1857000000.0,
+    "net_income": 1525000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 1051000000.0,
+    "revenue": 7179000000.0,
+    "net_income": 5885000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-28",
+    "shares_outstanding": 1047000000.0,
+    "revenue": 1815000000.0,
+    "net_income": 1477000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 1058000000.0,
+    "revenue": 1759000000.0,
+    "net_income": 1529000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-29",
+    "shares_outstanding": 1067000000.0,
+    "revenue": 1776000000.0,
+    "net_income": 1432000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 1089000000.0,
+    "revenue": 7005000000.0,
+    "net_income": 5359000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-29",
+    "shares_outstanding": 1081000000.0,
+    "revenue": 1767000000.0,
+    "net_income": 1366000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-29",
+    "shares_outstanding": 1097000000.0,
+    "revenue": 1694000000.0,
+    "net_income": 1405000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-29",
+    "shares_outstanding": 1106000000.0,
+    "revenue": 1762000000.0,
+    "net_income": 1280000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 1141000000.0,
+    "revenue": 6854000000.0,
+    "net_income": 4482000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 1132000000.0,
+    "revenue": 1739000000.0,
+    "net_income": 1250000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 1152000000.0,
+    "revenue": 1671000000.0,
+    "net_income": 1339000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-01",
+    "shares_outstanding": 1166000000.0,
+    "revenue": 1707000000.0,
+    "net_income": 1256000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 1184000000.0,
+    "revenue": 6961000000.0,
+    "net_income": 4935000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 1181000000.0,
+    "revenue": 1754000000.0,
+    "net_income": 1235000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-03",
+    "shares_outstanding": 1197000000.0,
+    "revenue": 1728000000.0,
+    "net_income": 1331000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-04",
+    "shares_outstanding": 1198000000.0,
+    "revenue": 1727000000.0,
+    "net_income": 1177000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2010",
+    "filing_date": "2011-02-28",
+    "shares_outstanding": 1195000000.0,
+    "revenue": 27819000000.0,
+    "net_income": 4057000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-03",
+    "shares_outstanding": 1199000000.0,
+    "revenue": 1794000000.0,
+    "net_income": 1093000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 1197000000.0,
+    "revenue": 1798000000.0,
+    "net_income": 1017000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-05",
+    "shares_outstanding": 1191000000.0,
+    "revenue": 1905000000.0,
+    "net_income": 885000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 1171000000.0,
+    "revenue": 5331000000.0,
+    "net_income": 2130000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXP",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-30",
+    "shares_outstanding": 1181000000.0,
+    "revenue": 1297000000.0,
+    "net_income": 640000000.0,
+    "market_cap": null
+  }
+]

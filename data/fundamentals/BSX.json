@@ -1,0 +1,614 @@
+[
+  {
+    "ticker": "BSX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 1494500000.0,
+    "revenue": 20074000000.0,
+    "net_income": 2892000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 1494500000.0,
+    "revenue": 20074000000.0,
+    "net_income": 2892000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-03",
+    "shares_outstanding": 1495500000.0,
+    "revenue": 5065000000.0,
+    "net_income": 755000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 1493500000.0,
+    "revenue": 5061000000.0,
+    "net_income": 795000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 1493100000.0,
+    "revenue": 4663000000.0,
+    "net_income": 672000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-18",
+    "shares_outstanding": 1485900000.0,
+    "revenue": 16747000000.0,
+    "net_income": 1846000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 1487400000.0,
+    "revenue": 4209000000.0,
+    "net_income": 468000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 1484200000.0,
+    "revenue": 4120000000.0,
+    "net_income": 322000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 1481700000.0,
+    "revenue": 3856000000.0,
+    "net_income": 493000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 1463500000.0,
+    "revenue": 14240000000.0,
+    "net_income": 1592000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 1475000000.0,
+    "revenue": 3527000000.0,
+    "net_income": 504000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 1456200000.0,
+    "revenue": 3599000000.0,
+    "net_income": 270000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 1446000000.0,
+    "revenue": 3389000000.0,
+    "net_income": 314000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 1439700000.0,
+    "revenue": 12682000000.0,
+    "net_income": 698000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 1440000000.0,
+    "revenue": 3170000000.0,
+    "net_income": 188000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 1437800000.0,
+    "revenue": 3244000000.0,
+    "net_income": 260000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 1438400000.0,
+    "revenue": 3026000000.0,
+    "net_income": 110000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 1433800000.0,
+    "revenue": 11888000000.0,
+    "net_income": 1041000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 1435600000.0,
+    "revenue": 2932000000.0,
+    "net_income": 419000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 1432500000.0,
+    "revenue": 3077000000.0,
+    "net_income": 186000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 1430800000.0,
+    "revenue": 2752000000.0,
+    "net_income": 341000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 1416700000.0,
+    "revenue": 9913000000.0,
+    "net_income": -82000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 1430900000.0,
+    "revenue": 2659000000.0,
+    "net_income": -155000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 1410900000.0,
+    "revenue": 2003000000.0,
+    "net_income": -147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 1413500000.0,
+    "revenue": 2543000000.0,
+    "net_income": 11000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 1410600000.0,
+    "revenue": 10735000000.0,
+    "net_income": 4700000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 1412200000.0,
+    "revenue": 2707000000.0,
+    "net_income": 126000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 1408600000.0,
+    "revenue": 2631000000.0,
+    "net_income": 154000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-29",
+    "shares_outstanding": 1408400000.0,
+    "revenue": 2493000000.0,
+    "net_income": 424000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 1401400000.0,
+    "revenue": 9823000000.0,
+    "net_income": 1671000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-29",
+    "shares_outstanding": 1403900000.0,
+    "revenue": 2393000000.0,
+    "net_income": 432000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-31",
+    "shares_outstanding": 1398900000.0,
+    "revenue": 2490000000.0,
+    "net_income": 555000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-01",
+    "shares_outstanding": 1396800000.0,
+    "revenue": 2379000000.0,
+    "net_income": 298000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-20",
+    "shares_outstanding": 1392700000.0,
+    "revenue": 9048000000.0,
+    "net_income": 104000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 1394100000.0,
+    "revenue": 2216000000.0,
+    "net_income": 283000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 1391100000.0,
+    "revenue": 2281000000.0,
+    "net_income": 146000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 1390200000.0,
+    "revenue": 2201000000.0,
+    "net_income": 290000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 1377200000.0,
+    "revenue": 9076000000.0,
+    "net_income": 347000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 1379700000.0,
+    "revenue": 2251000000.0,
+    "net_income": 228000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 1357400000.0,
+    "revenue": 2288000000.0,
+    "net_income": -207000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 1369900000.0,
+    "revenue": 1964000000.0,
+    "net_income": 202000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 1341200000.0,
+    "revenue": 8068000000.0,
+    "net_income": -239000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 1344000000.0,
+    "revenue": 2038000000.0,
+    "net_income": -198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 1361800000.0,
+    "revenue": 1981000000.0,
+    "net_income": 102000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 1333700000.0,
+    "revenue": 1891000000.0,
+    "net_income": -1000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 1324300000.0,
+    "revenue": 7462000000.0,
+    "net_income": -119000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 1347600000.0,
+    "revenue": 1860000000.0,
+    "net_income": 43000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 1345000000.0,
+    "revenue": 1869000000.0,
+    "net_income": 4000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 1349200000.0,
+    "revenue": 1778000000.0,
+    "net_income": 133000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 1341200000.0,
+    "revenue": 7143000000.0,
+    "net_income": -121000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 1340300000.0,
+    "revenue": 1735000000.0,
+    "net_income": -5000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 1358600000.0,
+    "revenue": 1809000000.0,
+    "net_income": 130000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 1351900000.0,
+    "revenue": 1761000000.0,
+    "net_income": -354000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 1406700000.0,
+    "revenue": 7249000000.0,
+    "net_income": -4068000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 1392500000.0,
+    "revenue": 1735000000.0,
+    "net_income": -664000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 1423200000.0,
+    "revenue": 1828000000.0,
+    "net_income": -3578000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 1454100000.0,
+    "revenue": 1866000000.0,
+    "net_income": 113000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2011",
+    "filing_date": "2012-02-17",
+    "shares_outstanding": 1519000000.0,
+    "revenue": 7622000000.0,
+    "net_income": 441000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 1524000000.0,
+    "revenue": 1874000000.0,
+    "net_income": 142000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 1535800000.0,
+    "revenue": 1975000000.0,
+    "net_income": 146000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 1536300000.0,
+    "revenue": 1925000000.0,
+    "net_income": 46000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2010",
+    "filing_date": "2011-02-17",
+    "shares_outstanding": 1517800000.0,
+    "revenue": 7806000000.0,
+    "net_income": -1065000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 1529300000.0,
+    "revenue": 1916000000.0,
+    "net_income": 190000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 1525300000.0,
+    "revenue": 1928000000.0,
+    "net_income": 98000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-06",
+    "shares_outstanding": 1514500000.0,
+    "revenue": 1960000000.0,
+    "net_income": -1589000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 1507900000.0,
+    "revenue": 8188000000.0,
+    "net_income": -1025000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-06",
+    "shares_outstanding": 1509300000.0,
+    "revenue": 2025000000.0,
+    "net_income": -94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BSX",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-06",
+    "shares_outstanding": 1514500000.0,
+    "revenue": 2074000000.0,
+    "net_income": 158000000.0,
+    "market_cap": null
+  }
+]

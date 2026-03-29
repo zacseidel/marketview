@@ -1,0 +1,470 @@
+[
+  {
+    "ticker": "MASI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 54200000.0,
+    "revenue": 1526900000.0,
+    "net_income": -151500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2026",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 54400000.0,
+    "revenue": 371500000.0,
+    "net_income": -100400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2026",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 54800000.0,
+    "revenue": 370900000.0,
+    "net_income": 51300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q4 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 54800000.0,
+    "revenue": 372000000.0,
+    "net_income": -170700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 53300000.0,
+    "revenue": 2094400000.0,
+    "net_income": -304900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 54300000.0,
+    "revenue": 504600000.0,
+    "net_income": 9800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 54300000.0,
+    "revenue": 496300000.0,
+    "net_income": 16000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 54200000.0,
+    "revenue": 492800000.0,
+    "net_income": 18900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 54100000.0,
+    "revenue": 2048100000.0,
+    "net_income": 81500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 53900000.0,
+    "revenue": 478900000.0,
+    "net_income": 10600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 54400000.0,
+    "revenue": 455300000.0,
+    "net_income": 15700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-10",
+    "shares_outstanding": 54400000.0,
+    "revenue": 565000000.0,
+    "net_income": 21300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 55200000.0,
+    "revenue": 2035800000.0,
+    "net_income": 143500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 54100000.0,
+    "revenue": 549300000.0,
+    "net_income": 37900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-10",
+    "shares_outstanding": 55300000.0,
+    "revenue": 565300000.0,
+    "net_income": 18100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 57310000.0,
+    "revenue": 304241000.0,
+    "net_income": 46600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 58037000.0,
+    "revenue": 1143744000.0,
+    "net_income": 240282000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2021",
+    "filing_date": "2020-10-27",
+    "shares_outstanding": 58280000.0,
+    "revenue": 278112000.0,
+    "net_income": 49405000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2021",
+    "filing_date": "2020-07-28",
+    "shares_outstanding": 58204000.0,
+    "revenue": 300953000.0,
+    "net_income": 55772000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q4 2020",
+    "filing_date": "2020-04-28",
+    "shares_outstanding": 57585000.0,
+    "revenue": 269625000.0,
+    "net_income": 64456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-19",
+    "shares_outstanding": 57100000.0,
+    "revenue": 937837000.0,
+    "net_income": 196216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 57262000.0,
+    "revenue": 229011000.0,
+    "net_income": 49085000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 57066000.0,
+    "revenue": 229652000.0,
+    "net_income": 44888000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-06",
+    "shares_outstanding": 56799000.0,
+    "revenue": 231664000.0,
+    "net_income": 49322000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 56039000.0,
+    "revenue": 858289000.0,
+    "net_income": 193543000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 56237000.0,
+    "revenue": 210583000.0,
+    "net_income": 57126000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 55742000.0,
+    "revenue": 211621000.0,
+    "net_income": 43853000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 55496000.0,
+    "revenue": 212953000.0,
+    "net_income": 45630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 55874000.0,
+    "revenue": 798108000.0,
+    "net_income": 131616000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 56163000.0,
+    "revenue": 193692000.0,
+    "net_income": 39235000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 56173000.0,
+    "revenue": 192933000.0,
+    "net_income": 46680000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 55529000.0,
+    "revenue": 186302000.0,
+    "net_income": 45334000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2016",
+    "filing_date": "2017-02-15",
+    "shares_outstanding": 53195000.0,
+    "revenue": 694625000.0,
+    "net_income": 300666000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 53565000.0,
+    "revenue": 167621000.0,
+    "net_income": 27773000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 52703000.0,
+    "revenue": 172636000.0,
+    "net_income": 30023000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 51949000.0,
+    "revenue": 171167000.0,
+    "net_income": 27577000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2014",
+    "filing_date": "2015-02-17",
+    "shares_outstanding": 55571000.0,
+    "revenue": 586643000.0,
+    "net_income": 74363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2015",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 54618000.0,
+    "revenue": 144118000.0,
+    "net_income": 16134000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2015",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 56818000.0,
+    "revenue": 140923000.0,
+    "net_income": 13952000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q4 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 58047000.0,
+    "revenue": 139814000.0,
+    "net_income": 22491000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2013",
+    "filing_date": "2014-02-14",
+    "shares_outstanding": 57480000.0,
+    "revenue": 547245000.0,
+    "net_income": 55721000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 57404000.0,
+    "revenue": 131447000.0,
+    "net_income": 15486000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 57204000.0,
+    "revenue": 137422000.0,
+    "net_income": 14648000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 58011000.0,
+    "revenue": 135942000.0,
+    "net_income": 16402000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2012",
+    "filing_date": "2013-02-15",
+    "shares_outstanding": 58374000.0,
+    "revenue": 493233000.0,
+    "net_income": 61938000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 58145000.0,
+    "revenue": 119069000.0,
+    "net_income": 13563000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 58084000.0,
+    "revenue": 122775000.0,
+    "net_income": 17768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 59142000.0,
+    "revenue": 119228000.0,
+    "net_income": 15766000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "FY 2011",
+    "filing_date": "2012-02-17",
+    "shares_outstanding": 60845000.0,
+    "revenue": 438988000.0,
+    "net_income": 64053000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-01",
+    "shares_outstanding": 61086000.0,
+    "revenue": 104040000.0,
+    "net_income": 14824000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-10",
+    "shares_outstanding": 61232000.0,
+    "revenue": 109565000.0,
+    "net_income": 16909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MASI",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-04",
+    "shares_outstanding": 60991000.0,
+    "revenue": 113042000.0,
+    "net_income": 18154000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "PPC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 238449000.0,
+    "revenue": 18497553000.0,
+    "net_income": 1083344000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 238449000.0,
+    "revenue": 18497553000.0,
+    "net_income": 1083344000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 238526000.0,
+    "revenue": 4759342000.0,
+    "net_income": 343061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 238427000.0,
+    "revenue": 4757365000.0,
+    "net_income": 356009000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 238280000.0,
+    "revenue": 4463009000.0,
+    "net_income": 296343000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 237800000.0,
+    "revenue": 17878291000.0,
+    "net_income": 1087223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 237891000.0,
+    "revenue": 4584979000.0,
+    "net_income": 349990000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 237733000.0,
+    "revenue": 4559314000.0,
+    "net_income": 326523000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 237491000.0,
+    "revenue": 4361934000.0,
+    "net_income": 174938000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 237297000.0,
+    "revenue": 17362217000.0,
+    "net_income": 322317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 237347000.0,
+    "revenue": 4360196000.0,
+    "net_income": 121567000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 237209000.0,
+    "revenue": 4308091000.0,
+    "net_income": 60908000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 237164000.0,
+    "revenue": 4165628000.0,
+    "net_income": 5631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 240394000.0,
+    "revenue": 17468377000.0,
+    "net_income": 746538000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 239208000.0,
+    "revenue": 4468969000.0,
+    "net_income": 258999000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 240973000.0,
+    "revenue": 4631648000.0,
+    "net_income": 362021000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 244300000.0,
+    "revenue": 4240395000.0,
+    "net_income": 280560000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 244129000.0,
+    "revenue": 14777458000.0,
+    "net_income": 31268000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 244195000.0,
+    "revenue": 3827566000.0,
+    "net_income": 60835000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 243675000.0,
+    "revenue": 3637698000.0,
+    "net_income": -166503000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 243858000.0,
+    "revenue": 3273425000.0,
+    "net_income": 100468000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-11",
+    "shares_outstanding": 246124000.0,
+    "revenue": 12091901000.0,
+    "net_income": 95070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 244376000.0,
+    "revenue": 3075121000.0,
+    "net_income": 33691000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 247018000.0,
+    "revenue": 2824023000.0,
+    "net_income": -6400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 249622000.0,
+    "revenue": 3074928000.0,
+    "net_income": 67449000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 249709000.0,
+    "revenue": 11409219000.0,
+    "net_income": 456536000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 249729000.0,
+    "revenue": 2777970000.0,
+    "net_income": 110096000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 249636000.0,
+    "revenue": 2843085000.0,
+    "net_income": 170080000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 249557000.0,
+    "revenue": 2724675000.0,
+    "net_income": 84125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2018",
+    "filing_date": "2019-02-14",
+    "shares_outstanding": 249149000.0,
+    "revenue": 10937784000.0,
+    "net_income": 246804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 249179000.0,
+    "revenue": 2697604000.0,
+    "net_income": 29463000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 249057000.0,
+    "revenue": 2836713000.0,
+    "net_income": 106344000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-11",
+    "shares_outstanding": 248989000.0,
+    "revenue": 2746678000.0,
+    "net_income": 119224000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 248971000.0,
+    "revenue": 10767863000.0,
+    "net_income": 718167000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 248988000.0,
+    "revenue": 2793885000.0,
+    "net_income": 238313000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 248973000.0,
+    "revenue": 2752286000.0,
+    "net_income": 234073000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 248926000.0,
+    "revenue": 2479340000.0,
+    "net_income": 94463000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2016",
+    "filing_date": "2017-02-09",
+    "shares_outstanding": 254126000.0,
+    "revenue": 7931123000.0,
+    "net_income": 439729000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 254920000.0,
+    "revenue": 2031721000.0,
+    "net_income": 98527000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 254944000.0,
+    "revenue": 2028315000.0,
+    "net_income": 153042000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 255147000.0,
+    "revenue": 1962937000.0,
+    "net_income": 118011000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2015",
+    "filing_date": "2016-02-12",
+    "shares_outstanding": 258676000.0,
+    "revenue": 8180104000.0,
+    "net_income": 645962000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 259503000.0,
+    "revenue": 2112529000.0,
+    "net_income": 137095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 259897000.0,
+    "revenue": 2053876000.0,
+    "net_income": 241624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 259929000.0,
+    "revenue": 2052919000.0,
+    "net_income": 204193000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2014",
+    "filing_date": "2015-02-12",
+    "shares_outstanding": 259471000.0,
+    "revenue": 8583365000.0,
+    "net_income": 711438000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 259522000.0,
+    "revenue": 2268048000.0,
+    "net_income": 255803000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 259574000.0,
+    "revenue": 2186817000.0,
+    "net_income": 190445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 259446000.0,
+    "revenue": 2018065000.0,
+    "net_income": 98187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 259241000.0,
+    "revenue": 8411148000.0,
+    "net_income": 549713000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 259386000.0,
+    "revenue": 2142816000.0,
+    "net_income": 161024000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 259158000.0,
+    "revenue": 2184118000.0,
+    "net_income": 190791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 258953000.0,
+    "revenue": 2036929000.0,
+    "net_income": 54228000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2012",
+    "filing_date": "2013-02-15",
+    "shares_outstanding": 250216000.0,
+    "revenue": 8121382000.0,
+    "net_income": 174042000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 258837000.0,
+    "revenue": 2068478000.0,
+    "net_income": 42941000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 258841000.0,
+    "revenue": 1974469000.0,
+    "net_income": 69153000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-27",
+    "shares_outstanding": 223631000.0,
+    "revenue": 1888773000.0,
+    "net_income": 39598000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "FY 2011",
+    "filing_date": "2012-02-17",
+    "shares_outstanding": 214282000.0,
+    "revenue": 7535698000.0,
+    "net_income": -495690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 214282000.0,
+    "revenue": 1891224000.0,
+    "net_income": -162800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PPC",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-29",
+    "shares_outstanding": 214282000.0,
+    "revenue": 1922690000.0,
+    "net_income": -127932000.0,
+    "market_cap": null
+  }
+]

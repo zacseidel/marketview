@@ -1,0 +1,119 @@
+[
+  {
+    "ticker": "FBIN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 121200000.0,
+    "revenue": 4463200000.0,
+    "net_income": 298800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 121200000.0,
+    "revenue": 4463200000.0,
+    "net_income": 298800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 120500000.0,
+    "revenue": 1149200000.0,
+    "net_income": 70800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 120700000.0,
+    "revenue": 1203300000.0,
+    "net_income": 100300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 123000000.0,
+    "revenue": 1033100000.0,
+    "net_income": 51400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 125700000.0,
+    "revenue": 4609000000.0,
+    "net_income": 471900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 125100000.0,
+    "revenue": 1155300000.0,
+    "net_income": 136600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 127000000.0,
+    "revenue": 1109600000.0,
+    "net_income": 96400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 127700000.0,
+    "revenue": 4626200000.0,
+    "net_income": 404500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 127800000.0,
+    "revenue": 1261200000.0,
+    "net_income": 136500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 127500000.0,
+    "revenue": 1163700000.0,
+    "net_income": 102100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 128500000.0,
+    "revenue": 1040000000.0,
+    "net_income": 84600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FBIN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 131300000.0,
+    "revenue": 4723000000.0,
+    "net_income": 686700000.0,
+    "market_cap": null
+  }
+]

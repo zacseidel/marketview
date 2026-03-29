@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "GTLS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 45370000.0,
+    "revenue": 4264000000.0,
+    "net_income": 37200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 45370000.0,
+    "revenue": 4264000000.0,
+    "net_income": 37200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-29",
+    "shares_outstanding": 44950000.0,
+    "revenue": 1100600000.0,
+    "net_income": -135400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-29",
+    "shares_outstanding": 45150000.0,
+    "revenue": 1082300000.0,
+    "net_income": 79900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 45200000.0,
+    "revenue": 1001500000.0,
+    "net_income": 52300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 46670000.0,
+    "revenue": 4160300000.0,
+    "net_income": 232800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 46670000.0,
+    "revenue": 1062500000.0,
+    "net_income": 72700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 47250000.0,
+    "revenue": 1040300000.0,
+    "net_income": 62900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 54554634.0,
+    "revenue": 23852000.0,
+    "net_income": 27871000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 46730000.0,
+    "revenue": 950700000.0,
+    "net_income": 14600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 46820000.0,
+    "revenue": 3352500000.0,
+    "net_income": 56900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 47610000.0,
+    "revenue": 897900000.0,
+    "net_income": 5700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 46450000.0,
+    "revenue": 908100000.0,
+    "net_income": 12100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 41940000.0,
+    "revenue": 537900000.0,
+    "net_income": -14300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 41800000.0,
+    "revenue": 1612400000.0,
+    "net_income": 25000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 41860000.0,
+    "revenue": 412100000.0,
+    "net_income": 41600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 41560000.0,
+    "revenue": 404800000.0,
+    "net_income": 13400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 40790000.0,
+    "revenue": 354100000.0,
+    "net_income": 10300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 41110000.0,
+    "revenue": 1317700000.0,
+    "net_income": 60900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-21",
+    "shares_outstanding": 41440000.0,
+    "revenue": 328300000.0,
+    "net_income": 15600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-22",
+    "shares_outstanding": 40810000.0,
+    "revenue": 322000000.0,
+    "net_income": 6800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-22",
+    "shares_outstanding": 40620000.0,
+    "revenue": 288500000.0,
+    "net_income": 26100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 36450000.0,
+    "revenue": 1177100000.0,
+    "net_income": 309500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 35940000.0,
+    "revenue": 273200000.0,
+    "net_income": 21900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-23",
+    "shares_outstanding": 35310000.0,
+    "revenue": 289600000.0,
+    "net_income": 21000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-23",
+    "shares_outstanding": 36010000.0,
+    "revenue": 301900000.0,
+    "net_income": 8500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 35170000.0,
+    "revenue": 1299100000.0,
+    "net_income": 46800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-17",
+    "shares_outstanding": 36730000.0,
+    "revenue": 357800000.0,
+    "net_income": 18700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-18",
+    "shares_outstanding": 34720000.0,
+    "revenue": 309600000.0,
+    "net_income": 14600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-18",
+    "shares_outstanding": 33810000.0,
+    "revenue": 289300000.0,
+    "net_income": 1000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 32200000.0,
+    "revenue": 1084300000.0,
+    "net_income": 90000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-18",
+    "shares_outstanding": 32950000.0,
+    "revenue": 272200000.0,
+    "net_income": 22700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-19",
+    "shares_outstanding": 32080000.0,
+    "revenue": 277900000.0,
+    "net_income": 13100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-19",
+    "shares_outstanding": 31660000.0,
+    "revenue": 244100000.0,
+    "net_income": 6300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 31340000.0,
+    "revenue": 988800000.0,
+    "net_income": 29500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 31311000.0,
+    "revenue": 240500000.0,
+    "net_income": 2100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 31280000.0,
+    "revenue": 238200000.0,
+    "net_income": 3300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 30698000.0,
+    "revenue": 204100000.0,
+    "net_income": -2900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 30994000.0,
+    "revenue": 859154000.0,
+    "net_income": 24697000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 31064000.0,
+    "revenue": 203930000.0,
+    "net_income": 13684000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 30939000.0,
+    "revenue": 247095000.0,
+    "net_income": 19563000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 30568000.0,
+    "revenue": 193757000.0,
+    "net_income": -4672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 30493000.0,
+    "revenue": 1040160000.0,
+    "net_income": -204516000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 30745000.0,
+    "revenue": 264047000.0,
+    "net_income": 4271000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 30735000.0,
+    "revenue": 270252000.0,
+    "net_income": 17082000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 30652000.0,
+    "revenue": 245105000.0,
+    "net_income": 5275000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 30666000.0,
+    "revenue": 1192952000.0,
+    "net_income": 83072000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 30771000.0,
+    "revenue": 293841000.0,
+    "net_income": 23152000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 30978000.0,
+    "revenue": 306810000.0,
+    "net_income": 20371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-29",
+    "shares_outstanding": 31427000.0,
+    "revenue": 266240000.0,
+    "net_income": 12339000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 31931000.0,
+    "revenue": 1177438000.0,
+    "net_income": 87362000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 32851000.0,
+    "revenue": 301757000.0,
+    "net_income": 24847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-30",
+    "shares_outstanding": 31428000.0,
+    "revenue": 298266000.0,
+    "net_income": 20603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 30426000.0,
+    "revenue": 273648000.0,
+    "net_income": 16108000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 30194000.0,
+    "revenue": 1014152000.0,
+    "net_income": 72324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 30243000.0,
+    "revenue": 254249000.0,
+    "net_income": 18885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 30200000.0,
+    "revenue": 239939000.0,
+    "net_income": 18136000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 30061000.0,
+    "revenue": 216106000.0,
+    "net_income": 14152000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 29966000.0,
+    "revenue": 211311000.0,
+    "net_income": 17505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-27",
+    "shares_outstanding": 29966000.0,
+    "revenue": 200698000.0,
+    "net_income": 11020000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 29678000.0,
+    "revenue": 162941000.0,
+    "net_income": 7403000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "FY 2010",
+    "filing_date": "2011-02-28",
+    "shares_outstanding": 29255000.0,
+    "revenue": 555455000.0,
+    "net_income": 20505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTLS",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-29",
+    "shares_outstanding": 29262000.0,
+    "revenue": 139144000.0,
+    "net_income": 2458000.0,
+    "market_cap": null
+  }
+]

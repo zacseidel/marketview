@@ -1,0 +1,515 @@
+[
+  {
+    "ticker": "CSGP",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 420700000.0,
+    "revenue": 3247000000.0,
+    "net_income": 7000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 420700000.0,
+    "revenue": 3247000000.0,
+    "net_income": 7000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-23",
+    "shares_outstanding": 424300000.0,
+    "revenue": 781300000.0,
+    "net_income": 6200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 410500000.0,
+    "revenue": 732200000.0,
+    "net_income": -14800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 407800000.0,
+    "revenue": 2736200000.0,
+    "net_income": 138700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 408000000.0,
+    "revenue": 692600000.0,
+    "net_income": 53000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 407400000.0,
+    "revenue": 677800000.0,
+    "net_income": 19200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 407300000.0,
+    "revenue": 656400000.0,
+    "net_income": 6700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 406900000.0,
+    "revenue": 2455000000.0,
+    "net_income": 374700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 407229000.0,
+    "revenue": 624669000.0,
+    "net_income": 90574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 406751000.0,
+    "revenue": 605906000.0,
+    "net_income": 100520000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 406157000.0,
+    "revenue": 584366000.0,
+    "net_income": 87131000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 397752000.0,
+    "revenue": 2182399000.0,
+    "net_income": 369453000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 396209000.0,
+    "revenue": 556921000.0,
+    "net_income": 72290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 394478000.0,
+    "revenue": 536308000.0,
+    "net_income": 83473000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 394234000.0,
+    "revenue": 515825000.0,
+    "net_income": 89318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 394160000.0,
+    "revenue": 1944135000.0,
+    "net_income": 292564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q4 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 394295000.0,
+    "revenue": 499319000.0,
+    "net_income": 64304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 38326000.0,
+    "revenue": 1659019000.0,
+    "net_income": 227128000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 39401000.0,
+    "revenue": 425620000.0,
+    "net_income": 58186000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 37734000.0,
+    "revenue": 397159000.0,
+    "net_income": 60360000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 36776000.0,
+    "revenue": 391847000.0,
+    "net_income": 72793000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 36630000.0,
+    "revenue": 1399719000.0,
+    "net_income": 314963000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-23",
+    "shares_outstanding": 36652000.0,
+    "revenue": 352808000.0,
+    "net_income": 78619000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-24",
+    "shares_outstanding": 36627000.0,
+    "revenue": 343760000.0,
+    "net_income": 63248000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-24",
+    "shares_outstanding": 36567000.0,
+    "revenue": 328425000.0,
+    "net_income": 85169000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 36448000.0,
+    "revenue": 1191832000.0,
+    "net_income": 238334000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-24",
+    "shares_outstanding": 36518000.0,
+    "revenue": 305525000.0,
+    "net_income": 58759000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-25",
+    "shares_outstanding": 36450000.0,
+    "revenue": 297018000.0,
+    "net_income": 43835000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 36350000.0,
+    "revenue": 273718000.0,
+    "net_income": 52231000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 33559000.0,
+    "revenue": 965230000.0,
+    "net_income": 122695000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 32814000.0,
+    "revenue": 247533000.0,
+    "net_income": 34177000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 32739000.0,
+    "revenue": 237153000.0,
+    "net_income": 22184000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 32563000.0,
+    "revenue": 226553000.0,
+    "net_income": 22130000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 32436000.0,
+    "revenue": 837630000.0,
+    "net_income": 85071000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 32440000.0,
+    "revenue": 212711000.0,
+    "net_income": 23201000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 32448000.0,
+    "revenue": 206869000.0,
+    "net_income": 15576000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 32382000.0,
+    "revenue": 199739000.0,
+    "net_income": 16721000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 31950000.0,
+    "revenue": 711764000.0,
+    "net_income": -3465000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 31980000.0,
+    "revenue": 189078000.0,
+    "net_income": -5362000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 31991000.0,
+    "revenue": 170657000.0,
+    "net_income": -14966000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 31831000.0,
+    "revenue": 159020000.0,
+    "net_income": -6127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 30641000.0,
+    "revenue": 575936000.0,
+    "net_income": 44869000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 32075000.0,
+    "revenue": 153056000.0,
+    "net_income": 12957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-25",
+    "shares_outstanding": 29486000.0,
+    "revenue": 147708000.0,
+    "net_income": 8249000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-24",
+    "shares_outstanding": 28840000.0,
+    "revenue": 119076000.0,
+    "net_income": 9740000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2013",
+    "filing_date": "2014-02-20",
+    "shares_outstanding": 28212000.0,
+    "revenue": 440943000.0,
+    "net_income": 29734000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 28349000.0,
+    "revenue": 112301000.0,
+    "net_income": 11052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-24",
+    "shares_outstanding": 28168000.0,
+    "revenue": 108999000.0,
+    "net_income": 8293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 27428000.0,
+    "revenue": 104033000.0,
+    "net_income": -2410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 26949000.0,
+    "revenue": 349936000.0,
+    "net_income": 9915000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-25",
+    "shares_outstanding": 27673000.0,
+    "revenue": 96001000.0,
+    "net_income": 6779000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-26",
+    "shares_outstanding": 26465000.0,
+    "revenue": 85223000.0,
+    "net_income": -6710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-27",
+    "shares_outstanding": 25528000.0,
+    "revenue": 68629000.0,
+    "net_income": 5132000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 23527000.0,
+    "revenue": 251738000.0,
+    "net_income": 14656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 25317000.0,
+    "revenue": 63829000.0,
+    "net_income": 2311000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSGP",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 22426000.0,
+    "revenue": 62127000.0,
+    "net_income": 2637000.0,
+    "market_cap": null
+  }
+]

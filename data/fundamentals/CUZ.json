@@ -1,0 +1,515 @@
+[
+  {
+    "ticker": "CUZ",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 168716000.0,
+    "revenue": 993816000.0,
+    "net_income": 41252000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2025",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 168716000.0,
+    "revenue": 993816000.0,
+    "net_income": 41252000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 168738000.0,
+    "revenue": 248326000.0,
+    "net_income": 8778000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 168765000.0,
+    "revenue": 240128000.0,
+    "net_income": 14658000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 168593000.0,
+    "revenue": 250328000.0,
+    "net_income": 21093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 152812000.0,
+    "revenue": 209212000.0,
+    "net_income": 11356000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 152614000.0,
+    "revenue": 212978000.0,
+    "net_income": 7961000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 152385000.0,
+    "revenue": 209241000.0,
+    "net_income": 13451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2023",
+    "filing_date": "2024-02-07",
+    "shares_outstanding": 152040000.0,
+    "revenue": 802874000.0,
+    "net_income": 83816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 152048000.0,
+    "revenue": 198848000.0,
+    "net_income": 19491000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 152126000.0,
+    "revenue": 204320000.0,
+    "net_income": 23077000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 151880000.0,
+    "revenue": 202728000.0,
+    "net_income": 22356000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2022",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 150419000.0,
+    "revenue": 762290000.0,
+    "net_income": 167445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 151695000.0,
+    "revenue": 195170000.0,
+    "net_income": 80769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 149142000.0,
+    "revenue": 185680000.0,
+    "net_income": 34164000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 149002000.0,
+    "revenue": 186898000.0,
+    "net_income": 28163000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2021",
+    "filing_date": "2022-02-03",
+    "shares_outstanding": 148891000.0,
+    "revenue": 755073000.0,
+    "net_income": 278996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 148772000.0,
+    "revenue": 188732000.0,
+    "net_income": 54136000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 148740000.0,
+    "revenue": 186637000.0,
+    "net_income": 28060000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 148725000.0,
+    "revenue": 189550000.0,
+    "net_income": 29311000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2020",
+    "filing_date": "2021-02-11",
+    "shares_outstanding": 148636000.0,
+    "revenue": 740340000.0,
+    "net_income": 238114000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 148606000.0,
+    "revenue": 183380000.0,
+    "net_income": 28255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 148580000.0,
+    "revenue": 179915000.0,
+    "net_income": 23236000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 148561000.0,
+    "revenue": 193898000.0,
+    "net_income": 175309000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2019",
+    "filing_date": "2020-02-05",
+    "shares_outstanding": 129831000.0,
+    "revenue": 657515000.0,
+    "net_income": 152683000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-23",
+    "shares_outstanding": 148530000.0,
+    "revenue": 188323000.0,
+    "net_income": 20692000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-24",
+    "shares_outstanding": 114670000.0,
+    "revenue": 142020000.0,
+    "net_income": -22582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 427607000.0,
+    "revenue": 132733000.0,
+    "net_income": 36005000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2018",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 427473000.0,
+    "revenue": 475212000.0,
+    "net_income": 80765000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-24",
+    "shares_outstanding": 427520000.0,
+    "revenue": 118706000.0,
+    "net_income": 19859000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-25",
+    "shares_outstanding": 427501000.0,
+    "revenue": 116628000.0,
+    "net_income": 21749000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 427695000.0,
+    "revenue": 117202000.0,
+    "net_income": 16406000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2017",
+    "filing_date": "2018-02-07",
+    "shares_outstanding": 423297000.0,
+    "revenue": 466185000.0,
+    "net_income": 219959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-25",
+    "shares_outstanding": 427300000.0,
+    "revenue": 113159000.0,
+    "net_income": 12285000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 427180000.0,
+    "revenue": 119035000.0,
+    "net_income": 170945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 411186000.0,
+    "revenue": 119879000.0,
+    "net_income": 4858000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 256023000.0,
+    "revenue": 259211000.0,
+    "net_income": 80104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 210326000.0,
+    "revenue": 94719000.0,
+    "net_income": 11657000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 210362000.0,
+    "revenue": 92688000.0,
+    "net_income": 7765000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 210974000.0,
+    "revenue": 22000000.0,
+    "net_income": 22796000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2015",
+    "filing_date": "2016-02-10",
+    "shares_outstanding": 215979000.0,
+    "revenue": 381643000.0,
+    "net_income": 125629000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-27",
+    "shares_outstanding": 216374000.0,
+    "revenue": 98146000.0,
+    "net_income": 53620000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-28",
+    "shares_outstanding": 216766000.0,
+    "revenue": 97903000.0,
+    "net_income": 7951000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 216754000.0,
+    "revenue": 91976000.0,
+    "net_income": 7203000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2014",
+    "filing_date": "2015-02-12",
+    "shares_outstanding": 204460000.0,
+    "revenue": 361383000.0,
+    "net_income": 53008000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 210111000.0,
+    "revenue": 89098000.0,
+    "net_income": 19414000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-29",
+    "shares_outstanding": 198440000.0,
+    "revenue": 84505000.0,
+    "net_income": 2614000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 191952000.0,
+    "revenue": 81723000.0,
+    "net_income": 7132000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2013",
+    "filing_date": "2014-02-13",
+    "shares_outstanding": 144420000.0,
+    "revenue": 210741000.0,
+    "net_income": 126829000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 163603000.0,
+    "revenue": 52075000.0,
+    "net_income": 65037000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-29",
+    "shares_outstanding": 118661000.0,
+    "revenue": 44158000.0,
+    "net_income": 819000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 104252000.0,
+    "revenue": 41268000.0,
+    "net_income": 56904000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "FY 2012",
+    "filing_date": "2013-02-13",
+    "shares_outstanding": 104125000.0,
+    "revenue": 148278000.0,
+    "net_income": 47919000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-30",
+    "shares_outstanding": 104203000.0,
+    "revenue": 43728000.0,
+    "net_income": 13278000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-31",
+    "shares_outstanding": 104165000.0,
+    "revenue": 45213000.0,
+    "net_income": 10230000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 104000000.0,
+    "revenue": 47164000.0,
+    "net_income": -11354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CUZ",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 771319000.0,
+    "revenue": 45188000.0,
+    "net_income": 5606000.0,
+    "market_cap": null
+  }
+]

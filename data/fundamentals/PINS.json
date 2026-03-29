@@ -1,0 +1,245 @@
+[
+  {
+    "ticker": "PINS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 687771000.0,
+    "revenue": 4221767000.0,
+    "net_income": 416855000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 687771000.0,
+    "revenue": 4221767000.0,
+    "net_income": 416855000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 694532000.0,
+    "revenue": 1049205000.0,
+    "net_income": 92108000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 689837000.0,
+    "revenue": 998227000.0,
+    "net_income": 38755000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 689358000.0,
+    "revenue": 854988000.0,
+    "net_income": 8922000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 695483000.0,
+    "revenue": 898373000.0,
+    "net_income": 30556000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 708258000.0,
+    "revenue": 853680000.0,
+    "net_income": 8887000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 678819000.0,
+    "revenue": 739983000.0,
+    "net_income": -24812000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 674641000.0,
+    "revenue": 3055071000.0,
+    "net_income": -35610000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-30",
+    "shares_outstanding": 687101000.0,
+    "revenue": 763203000.0,
+    "net_income": 6733000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 674280000.0,
+    "revenue": 708025000.0,
+    "net_income": -34942000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 681140000.0,
+    "revenue": 602581000.0,
+    "net_income": -208579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-06",
+    "shares_outstanding": 665732000.0,
+    "revenue": 2802574000.0,
+    "net_income": -96047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 669171000.0,
+    "revenue": 684550000.0,
+    "net_income": -65181000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-01",
+    "shares_outstanding": 662242000.0,
+    "revenue": 665930000.0,
+    "net_income": -43076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 656899000.0,
+    "revenue": 574885000.0,
+    "net_income": -5281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-03",
+    "shares_outstanding": 691651000.0,
+    "revenue": 2578027000.0,
+    "net_income": 316438000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 691853000.0,
+    "revenue": 632932000.0,
+    "net_income": 93996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 692364000.0,
+    "revenue": 613210000.0,
+    "net_income": 69417000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": -141000.0,
+    "revenue": 485230000.0,
+    "net_income": -21674000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-05",
+    "shares_outstanding": 2242371000.0,
+    "revenue": 1692658000.0,
+    "net_income": -128323000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 1934604000.0,
+    "revenue": 442616000.0,
+    "net_income": -94220000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 1906630000.0,
+    "revenue": 272485000.0,
+    "net_income": -100748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 1938480000.0,
+    "revenue": 271940000.0,
+    "net_income": -141196000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-07",
+    "shares_outstanding": 2023705000.0,
+    "revenue": 1142761000.0,
+    "net_income": -1361371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 1956401000.0,
+    "revenue": 279703000.0,
+    "net_income": -124732000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PINS",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 2073240000.0,
+    "revenue": 261249000.0,
+    "net_income": -1159501000.0,
+    "market_cap": null
+  }
+]

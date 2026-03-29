@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "WELL",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 679521000.0,
+    "revenue": 10838034000.0,
+    "net_income": 961837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 679521000.0,
+    "revenue": 10838034000.0,
+    "net_income": 961837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 685399000.0,
+    "revenue": 2685692000.0,
+    "net_income": 282186000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-29",
+    "shares_outstanding": 668140000.0,
+    "revenue": 2548244000.0,
+    "net_income": 304618000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 653795000.0,
+    "revenue": 2423087000.0,
+    "net_income": 257266000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 618306000.0,
+    "revenue": 2055663000.0,
+    "net_income": 456800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 604563000.0,
+    "revenue": 1824884000.0,
+    "net_income": 260670000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 577530000.0,
+    "revenue": 1859741000.0,
+    "net_income": 131634000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 518701000.0,
+    "revenue": 6637995000.0,
+    "net_income": 358139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 525138000.0,
+    "revenue": 1662013000.0,
+    "net_income": 134722000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 501970000.0,
+    "revenue": 1665478000.0,
+    "net_income": 106342000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 494494000.0,
+    "revenue": 1560729000.0,
+    "net_income": 28635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "FY 2022",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 465158000.0,
+    "revenue": 5860615000.0,
+    "net_income": 160568000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 463366000.0,
+    "revenue": 1473844000.0,
+    "net_income": -2653000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 457082000.0,
+    "revenue": 1472536000.0,
+    "net_income": 95672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 449802000.0,
+    "revenue": 1395704000.0,
+    "net_income": 65751000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 426841000.0,
+    "revenue": 4742115000.0,
+    "net_income": 374479000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 429983000.0,
+    "revenue": 1239797000.0,
+    "net_income": 190336000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 419305000.0,
+    "revenue": 1140992000.0,
+    "net_income": 45757000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 419079000.0,
+    "revenue": 1052062000.0,
+    "net_income": 72192000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "FY 2020",
+    "filing_date": "2021-02-10",
+    "shares_outstanding": 417387000.0,
+    "revenue": 4605967000.0,
+    "net_income": 1038852000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 418987000.0,
+    "revenue": 1036874000.0,
+    "net_income": 394978000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 419121000.0,
+    "revenue": 1188475000.0,
+    "net_income": 159216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 412420000.0,
+    "revenue": 1258602000.0,
+    "net_income": 329380000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 403808000.0,
+    "revenue": 5121306000.0,
+    "net_income": 1330410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 406891000.0,
+    "revenue": 1266133000.0,
+    "net_income": 647932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 406673000.0,
+    "revenue": 1320106000.0,
+    "net_income": 150040000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 393452000.0,
+    "revenue": 1272245000.0,
+    "net_income": 292302000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "FY 2018",
+    "filing_date": "2019-02-25",
+    "shares_outstanding": 375250000.0,
+    "revenue": 4700499000.0,
+    "net_income": 829750000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 374487000.0,
+    "revenue": 1236379000.0,
+    "net_income": 84226000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 373075000.0,
+    "revenue": 1125912000.0,
+    "net_income": 167273000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WELL",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 373257000.0,
+    "revenue": 1096965000.0,
+    "net_income": 453555000.0,
+    "market_cap": null
+  }
+]

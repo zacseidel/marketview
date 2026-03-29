@@ -1,0 +1,479 @@
+[
+  {
+    "ticker": "ZTS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 443835000.0,
+    "revenue": 9467000000.0,
+    "net_income": 2673000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 443835000.0,
+    "revenue": 9467000000.0,
+    "net_income": 2673000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 443200000.0,
+    "revenue": 2400000000.0,
+    "net_income": 721000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 445500000.0,
+    "revenue": 2460000000.0,
+    "net_income": 718000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 448000000.0,
+    "revenue": 2220000000.0,
+    "net_income": 631000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 454848000.0,
+    "revenue": 9256000000.0,
+    "net_income": 2496000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-04",
+    "shares_outstanding": 453500000.0,
+    "revenue": 2388000000.0,
+    "net_income": 692000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 456000000.0,
+    "revenue": 2361000000.0,
+    "net_income": 624000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 458800000.0,
+    "revenue": 2190000000.0,
+    "net_income": 599000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-13",
+    "shares_outstanding": 462269000.0,
+    "revenue": 8544000000.0,
+    "net_income": 2340000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 461400000.0,
+    "revenue": 2151000000.0,
+    "net_income": 596000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 462900000.0,
+    "revenue": 2180000000.0,
+    "net_income": 670000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 464600000.0,
+    "revenue": 2000000000.0,
+    "net_income": 551000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-14",
+    "shares_outstanding": 470385000.0,
+    "revenue": 8080000000.0,
+    "net_income": 2111000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 469100000.0,
+    "revenue": 2002000000.0,
+    "net_income": 528000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 471500000.0,
+    "revenue": 2052000000.0,
+    "net_income": 529000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 474100000.0,
+    "revenue": 1986000000.0,
+    "net_income": 594000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-15",
+    "shares_outstanding": 476717000.0,
+    "revenue": 7776000000.0,
+    "net_income": 2034000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 476300000.0,
+    "revenue": 1990000000.0,
+    "net_income": 552000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 477000000.0,
+    "revenue": 1948000000.0,
+    "net_income": 511000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 477900000.0,
+    "revenue": 1871000000.0,
+    "net_income": 558000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-16",
+    "shares_outstanding": 478569000.0,
+    "revenue": 6675000000.0,
+    "net_income": 1636000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 478500000.0,
+    "revenue": 1786000000.0,
+    "net_income": 479000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 478100000.0,
+    "revenue": 1548000000.0,
+    "net_income": 376000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 479000000.0,
+    "revenue": 1534000000.0,
+    "net_income": 423000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-13",
+    "shares_outstanding": 481787000.0,
+    "revenue": 6260000000.0,
+    "net_income": 1500000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 481500000.0,
+    "revenue": 1584000000.0,
+    "net_income": 433000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 482300000.0,
+    "revenue": 1547000000.0,
+    "net_income": 371000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 483100000.0,
+    "revenue": 1455000000.0,
+    "net_income": 312000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-14",
+    "shares_outstanding": 486898000.0,
+    "revenue": 5825000000.0,
+    "net_income": 1424000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 485800000.0,
+    "revenue": 1480000000.0,
+    "net_income": 347000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 487500000.0,
+    "revenue": 1415000000.0,
+    "net_income": 382000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 489800000.0,
+    "revenue": 1366000000.0,
+    "net_income": 350000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-15",
+    "shares_outstanding": 493161000.0,
+    "revenue": 5307000000.0,
+    "net_income": 862000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 492400000.0,
+    "revenue": 1347000000.0,
+    "net_income": 296000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 494000000.0,
+    "revenue": 1269000000.0,
+    "net_income": 247000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 495300000.0,
+    "revenue": 1231000000.0,
+    "net_income": 239000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2016",
+    "filing_date": "2017-02-16",
+    "shares_outstanding": 498225000.0,
+    "revenue": 4888000000.0,
+    "net_income": 819000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 497900000.0,
+    "revenue": 1241000000.0,
+    "net_income": 237000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 498787000.0,
+    "revenue": 1208000000.0,
+    "net_income": 224000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 499500000.0,
+    "revenue": 1162000000.0,
+    "net_income": 204000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 502019000.0,
+    "revenue": 4765000000.0,
+    "net_income": 339000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 501653000.0,
+    "revenue": 1214000000.0,
+    "net_income": 190000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 500173000.0,
+    "revenue": 1175000000.0,
+    "net_income": -36000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 503224000.0,
+    "revenue": 1102000000.0,
+    "net_income": 165000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 502025000.0,
+    "revenue": 4785000000.0,
+    "net_income": 587000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 502445000.0,
+    "revenue": 1210000000.0,
+    "net_income": 167000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-12",
+    "shares_outstanding": 501684000.0,
+    "revenue": 1158000000.0,
+    "net_income": 139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-13",
+    "shares_outstanding": 500702000.0,
+    "revenue": 1097000000.0,
+    "net_income": 155000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "FY 2013",
+    "filing_date": "2014-03-26",
+    "shares_outstanding": 500317000.0,
+    "revenue": 4561000000.0,
+    "net_income": 503000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-13",
+    "shares_outstanding": 500354000.0,
+    "revenue": 1103000000.0,
+    "net_income": 131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-14",
+    "shares_outstanding": 500217000.0,
+    "revenue": 1114000000.0,
+    "net_income": 128000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZTS",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-15",
+    "shares_outstanding": 500111000.0,
+    "revenue": 1090000000.0,
+    "net_income": 140000000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "ticker": "APPF",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 36327000.0,
+    "revenue": 950822000.0,
+    "net_income": 140923000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "FY 2025",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 36327000.0,
+    "revenue": 950822000.0,
+    "net_income": 140923000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 36259000.0,
+    "revenue": 249353000.0,
+    "net_income": 33646000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 36204000.0,
+    "revenue": 235575000.0,
+    "net_income": 35980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 36648000.0,
+    "revenue": 217702000.0,
+    "net_income": 31383000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-25",
+    "shares_outstanding": 36756000.0,
+    "revenue": 205733000.0,
+    "net_income": 33006000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 36674000.0,
+    "revenue": 187430000.0,
+    "net_income": 38663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "FY 2023",
+    "filing_date": "2024-02-01",
+    "shares_outstanding": 36417000.0,
+    "revenue": 620445000.0,
+    "net_income": 2702000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 36482000.0,
+    "revenue": 165440000.0,
+    "net_income": 26445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 35565000.0,
+    "revenue": 147075000.0,
+    "net_income": -18901000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 35443000.0,
+    "revenue": 136100000.0,
+    "net_income": -35110000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "FY 2022",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 35010000.0,
+    "revenue": 471883000.0,
+    "net_income": -68119000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 35043000.0,
+    "revenue": 125079000.0,
+    "net_income": -4162000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 34927000.0,
+    "revenue": 117450000.0,
+    "net_income": -29970000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-09",
+    "shares_outstanding": 34836000.0,
+    "revenue": 105296000.0,
+    "net_income": -14287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "FY 2021",
+    "filing_date": "2022-02-28",
+    "shares_outstanding": 35701000.0,
+    "revenue": 359370000.0,
+    "net_income": 1028000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-08",
+    "shares_outstanding": 34614000.0,
+    "revenue": 95809000.0,
+    "net_income": -141000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": 35674000.0,
+    "revenue": 89040000.0,
+    "net_income": 2021000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-10",
+    "shares_outstanding": 35712000.0,
+    "revenue": 78921000.0,
+    "net_income": 479000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 35713000.0,
+    "revenue": 310056000.0,
+    "net_income": 158403000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-09",
+    "shares_outstanding": 35665000.0,
+    "revenue": 84086000.0,
+    "net_income": 137676000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-03",
+    "shares_outstanding": 35614000.0,
+    "revenue": 81043000.0,
+    "net_income": 19257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-04",
+    "shares_outstanding": 35681000.0,
+    "revenue": 72495000.0,
+    "net_income": 1983000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 35567000.0,
+    "revenue": 256012000.0,
+    "net_income": 36282000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-28",
+    "shares_outstanding": 35421000.0,
+    "revenue": 67935000.0,
+    "net_income": 4978000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-29",
+    "shares_outstanding": 35412000.0,
+    "revenue": 63624000.0,
+    "net_income": 23151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 35342000.0,
+    "revenue": 57091000.0,
+    "net_income": 3725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 35562000.0,
+    "revenue": 190071000.0,
+    "net_income": 19967000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-29",
+    "shares_outstanding": 35610000.0,
+    "revenue": 50126000.0,
+    "net_income": 5524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-30",
+    "shares_outstanding": 35408000.0,
+    "revenue": 47240000.0,
+    "net_income": 7474000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-30",
+    "shares_outstanding": 35300000.0,
+    "revenue": 42340000.0,
+    "net_income": 4320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "FY 2017",
+    "filing_date": "2018-02-26",
+    "shares_outstanding": 35151000.0,
+    "revenue": 143803000.0,
+    "net_income": 9716000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-06",
+    "shares_outstanding": 35205000.0,
+    "revenue": 37903000.0,
+    "net_income": 3682000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-07",
+    "shares_outstanding": 34928000.0,
+    "revenue": 35877000.0,
+    "net_income": 2797000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 34765000.0,
+    "revenue": 32126000.0,
+    "net_income": 660000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 69682000.0,
+    "revenue": 105586000.0,
+    "net_income": -8281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-07",
+    "shares_outstanding": 69469000.0,
+    "revenue": 28162000.0,
+    "net_income": -1125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-08",
+    "shares_outstanding": 69081000.0,
+    "revenue": 26203000.0,
+    "net_income": -2264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 70000000.0,
+    "revenue": 23211000.0,
+    "net_income": -3603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 72697000.0,
+    "revenue": 74977000.0,
+    "net_income": -15668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 76326000.0,
+    "revenue": 20305000.0,
+    "net_income": -4760000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APPF",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 70479000.0,
+    "revenue": 18425000.0,
+    "net_income": -3400000.0,
+    "market_cap": null
+  }
+]

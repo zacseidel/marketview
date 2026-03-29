@@ -1,0 +1,317 @@
+[
+  {
+    "ticker": "HLNE",
+    "period": "Q3 2026",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 1326051000.0,
+    "revenue": 198589000.0,
+    "net_income": 92797000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q2 2026",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 1158048000.0,
+    "revenue": 190880000.0,
+    "net_income": 103604000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q1 2026",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 995046000.0,
+    "revenue": 175958000.0,
+    "net_income": 77070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "FY 2025",
+    "filing_date": "2025-05-30",
+    "shares_outstanding": 923895000.0,
+    "revenue": 712963000.0,
+    "net_income": 313768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q3 2025",
+    "filing_date": "2025-02-04",
+    "shares_outstanding": 862025000.0,
+    "revenue": 168261000.0,
+    "net_income": 77455000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q2 2025",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 801922000.0,
+    "revenue": 149999000.0,
+    "net_income": 75922000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q1 2025",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 736828000.0,
+    "revenue": 196731000.0,
+    "net_income": 87087000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "FY 2024",
+    "filing_date": "2024-05-23",
+    "shares_outstanding": 675958000.0,
+    "revenue": 553842000.0,
+    "net_income": 227207000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q3 2024",
+    "filing_date": "2024-02-06",
+    "shares_outstanding": 624106000.0,
+    "revenue": 125264000.0,
+    "net_income": 34532000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q2 2024",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 781568000.0,
+    "revenue": 126876000.0,
+    "net_income": 64503000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q1 2024",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 641700000.0,
+    "revenue": 125037000.0,
+    "net_income": 51344000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "FY 2023",
+    "filing_date": "2023-05-25",
+    "shares_outstanding": 574192000.0,
+    "revenue": 528753000.0,
+    "net_income": 187185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q3 2023",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 529958000.0,
+    "revenue": 127074000.0,
+    "net_income": 21884000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q2 2023",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 524978000.0,
+    "revenue": 153382000.0,
+    "net_income": 57739000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q1 2023",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 490974000.0,
+    "revenue": 135509000.0,
+    "net_income": 56126000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "FY 2022",
+    "filing_date": "2022-05-26",
+    "shares_outstanding": 461486000.0,
+    "revenue": 367919000.0,
+    "net_income": 247253000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q3 2022",
+    "filing_date": "2022-02-01",
+    "shares_outstanding": 462875000.0,
+    "revenue": 91704000.0,
+    "net_income": 80196000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q2 2022",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 404252000.0,
+    "revenue": 96320000.0,
+    "net_income": 84820000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q1 2022",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 339424000.0,
+    "revenue": 78995000.0,
+    "net_income": 44681000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "FY 2021",
+    "filing_date": "2021-05-27",
+    "shares_outstanding": 314201000.0,
+    "revenue": 341635000.0,
+    "net_income": 168785000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q3 2021",
+    "filing_date": "2021-02-02",
+    "shares_outstanding": 299852000.0,
+    "revenue": 84583000.0,
+    "net_income": 54632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q2 2021",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 263195000.0,
+    "revenue": 84431000.0,
+    "net_income": 44599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q1 2021",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 232611000.0,
+    "revenue": 69744000.0,
+    "net_income": 4968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "FY 2020",
+    "filing_date": "2020-05-28",
+    "shares_outstanding": 237401000.0,
+    "revenue": 274048000.0,
+    "net_income": 126776000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q3 2020",
+    "filing_date": "2020-02-06",
+    "shares_outstanding": 216350000.0,
+    "revenue": 68138000.0,
+    "net_income": 28437000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q2 2020",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 204631000.0,
+    "revenue": 64292000.0,
+    "net_income": 32273000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q1 2020",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 177835000.0,
+    "revenue": 64686000.0,
+    "net_income": 27453000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "FY 2019",
+    "filing_date": "2019-05-30",
+    "shares_outstanding": 169722000.0,
+    "revenue": 252179000.0,
+    "net_income": 98997000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q3 2019",
+    "filing_date": "2019-02-08",
+    "shares_outstanding": 173131000.0,
+    "revenue": 65996000.0,
+    "net_income": 22915000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q2 2019",
+    "filing_date": "2018-11-09",
+    "shares_outstanding": 162147000.0,
+    "revenue": 55833000.0,
+    "net_income": 32572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q1 2019",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 144925000.0,
+    "revenue": 63362000.0,
+    "net_income": 23103000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "FY 2018",
+    "filing_date": "2018-06-14",
+    "shares_outstanding": 136074000.0,
+    "revenue": 244033000.0,
+    "net_income": 106297000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q3 2018",
+    "filing_date": "2018-02-09",
+    "shares_outstanding": 108018000.0,
+    "revenue": 65014000.0,
+    "net_income": 17833000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q2 2018",
+    "filing_date": "2017-11-13",
+    "shares_outstanding": 103335000.0,
+    "revenue": 48709000.0,
+    "net_income": 18234000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLNE",
+    "period": "Q1 2018",
+    "filing_date": "2017-08-10",
+    "shares_outstanding": 97594000.0,
+    "revenue": 52701000.0,
+    "net_income": 25612000.0,
+    "market_cap": null
+  }
+]

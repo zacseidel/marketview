@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "SCI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 142689000.0,
+    "revenue": 4309234000.0,
+    "net_income": 542845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 142689000.0,
+    "revenue": 4309234000.0,
+    "net_income": 542845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 141424000.0,
+    "revenue": 1058096000.0,
+    "net_income": 117522000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 142992000.0,
+    "revenue": 1065444000.0,
+    "net_income": 122924000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 145292000.0,
+    "revenue": 1074167000.0,
+    "net_income": 142927000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 146782000.0,
+    "revenue": 4186379000.0,
+    "net_income": 518753000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 146223000.0,
+    "revenue": 1013958000.0,
+    "net_income": 117861000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 146784000.0,
+    "revenue": 1034016000.0,
+    "net_income": 118220000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 147913000.0,
+    "revenue": 1045382000.0,
+    "net_income": 131274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-13",
+    "shares_outstanding": 152351000.0,
+    "revenue": 4099778000.0,
+    "net_income": 537661000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 152289000.0,
+    "revenue": 1001859000.0,
+    "net_income": 122043000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 153132000.0,
+    "revenue": 1013414000.0,
+    "net_income": 132352000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 155300000.0,
+    "revenue": 1028709000.0,
+    "net_income": 144829000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2022",
+    "filing_date": "2023-02-15",
+    "shares_outstanding": 160131000.0,
+    "revenue": 4108661000.0,
+    "net_income": 566034000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 159100000.0,
+    "revenue": 977720000.0,
+    "net_income": 120905000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 161290000.0,
+    "revenue": 990855000.0,
+    "net_income": 133146000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 163807000.0,
+    "revenue": 1112403000.0,
+    "net_income": 219567000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-15",
+    "shares_outstanding": 170114000.0,
+    "revenue": 4143143000.0,
+    "net_income": 803252000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 170005000.0,
+    "revenue": 1034372000.0,
+    "net_income": 209943000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 170863000.0,
+    "revenue": 987535000.0,
+    "net_income": 157789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 172367000.0,
+    "revenue": 1077981000.0,
+    "net_income": 228955000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2020",
+    "filing_date": "2021-02-16",
+    "shares_outstanding": 178990000.0,
+    "revenue": 3511509000.0,
+    "net_income": 516137000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 178140000.0,
+    "revenue": 918241000.0,
+    "net_income": 127492000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 179666000.0,
+    "revenue": 820035000.0,
+    "net_income": 105553000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 183585000.0,
+    "revenue": 802965000.0,
+    "net_income": 82001000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 185523000.0,
+    "revenue": 3230785000.0,
+    "net_income": 369771000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 185843000.0,
+    "revenue": 769241000.0,
+    "net_income": 70872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 185690000.0,
+    "revenue": 812572000.0,
+    "net_income": 72513000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 185317000.0,
+    "revenue": 798212000.0,
+    "net_income": 79213000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2018",
+    "filing_date": "2019-02-20",
+    "shares_outstanding": 186972000.0,
+    "revenue": 3190174000.0,
+    "net_income": 447558000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 185460000.0,
+    "revenue": 778786000.0,
+    "net_income": 68993000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-31",
+    "shares_outstanding": 187188000.0,
+    "revenue": 796092000.0,
+    "net_income": 103281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 189923000.0,
+    "revenue": 794482000.0,
+    "net_income": 82048000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2017",
+    "filing_date": "2018-02-14",
+    "shares_outstanding": 192246000.0,
+    "revenue": 3095031000.0,
+    "net_income": 546847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 192243000.0,
+    "revenue": 731346000.0,
+    "net_income": 56141000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 192138000.0,
+    "revenue": 773242000.0,
+    "net_income": 68562000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 192867000.0,
+    "revenue": 777710000.0,
+    "net_income": 174749000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2016",
+    "filing_date": "2017-02-15",
+    "shares_outstanding": 196042000.0,
+    "revenue": 3031137000.0,
+    "net_income": 177305000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 196567000.0,
+    "revenue": 721467000.0,
+    "net_income": 47541000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 196718000.0,
+    "revenue": 751398000.0,
+    "net_income": 15893000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 198030000.0,
+    "revenue": 749219000.0,
+    "net_income": 47454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2015",
+    "filing_date": "2016-02-18",
+    "shares_outstanding": 204450000.0,
+    "revenue": 2986380000.0,
+    "net_income": 234934000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-02",
+    "shares_outstanding": 203444000.0,
+    "revenue": 714526000.0,
+    "net_income": 47927000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 206746000.0,
+    "revenue": 754354000.0,
+    "net_income": 53092000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 207752000.0,
+    "revenue": 748117000.0,
+    "net_income": 61465000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2014",
+    "filing_date": "2015-02-13",
+    "shares_outstanding": 214200000.0,
+    "revenue": 2994012000.0,
+    "net_income": 178806000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 213010000.0,
+    "revenue": 718314000.0,
+    "net_income": 17685000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 215989000.0,
+    "revenue": 746746000.0,
+    "net_income": 31781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-25",
+    "shares_outstanding": 217231000.0,
+    "revenue": 745509000.0,
+    "net_income": 41391000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2013",
+    "filing_date": "2014-02-14",
+    "shares_outstanding": 216014000.0,
+    "revenue": 2556382000.0,
+    "net_income": 149104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 216370000.0,
+    "revenue": 609951000.0,
+    "net_income": 27394000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 215946000.0,
+    "revenue": 625505000.0,
+    "net_income": 34435000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 215208000.0,
+    "revenue": 652352000.0,
+    "net_income": 58722000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2012",
+    "filing_date": "2013-02-13",
+    "shares_outstanding": 219066000.0,
+    "revenue": 2410481000.0,
+    "net_income": 154135000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-25",
+    "shares_outstanding": 218460000.0,
+    "revenue": 581182000.0,
+    "net_income": 41797000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 218906000.0,
+    "revenue": 597372000.0,
+    "net_income": 37639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 223212000.0,
+    "revenue": 602506000.0,
+    "net_income": 48315000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2011",
+    "filing_date": "2012-02-13",
+    "shares_outstanding": 236669000.0,
+    "revenue": 2316040000.0,
+    "net_income": 146232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 235513000.0,
+    "revenue": 572999000.0,
+    "net_income": 35015000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 241435000.0,
+    "revenue": 576774000.0,
+    "net_income": 26738000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-28",
+    "shares_outstanding": 242052000.0,
+    "revenue": 579699000.0,
+    "net_income": 39929000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "FY 2010",
+    "filing_date": "2011-02-14",
+    "shares_outstanding": 250602000.0,
+    "revenue": 2190552000.0,
+    "net_income": 127001000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-28",
+    "shares_outstanding": 247523000.0,
+    "revenue": 533165000.0,
+    "net_income": 18680000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SCI",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-30",
+    "shares_outstanding": 253583000.0,
+    "revenue": 555273000.0,
+    "net_income": 40227000.0,
+    "market_cap": null
+  }
+]

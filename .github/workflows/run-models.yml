@@ -5,6 +5,9 @@ on:
     - cron: "30 23 * * 1,4"  # Mon/Thu 7:30 PM ET (UTC-4)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   run-models:
     runs-on: ubuntu-latest

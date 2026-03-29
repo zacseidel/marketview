@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "KBH",
+    "period": "TTM 2025",
+    "filing_date": "2026-01-23",
+    "shares_outstanding": 69254000.0,
+    "revenue": 6236214000.0,
+    "net_income": 428789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2025",
+    "filing_date": "2026-01-23",
+    "shares_outstanding": 69254000.0,
+    "revenue": 6236214000.0,
+    "net_income": 428789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-09",
+    "shares_outstanding": 67737000.0,
+    "revenue": 1620474000.0,
+    "net_income": 109828000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-10",
+    "shares_outstanding": 71226000.0,
+    "revenue": 1529585000.0,
+    "net_income": 107883000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-09",
+    "shares_outstanding": 73012000.0,
+    "revenue": 1391777000.0,
+    "net_income": 109557000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2024",
+    "filing_date": "2025-01-24",
+    "shares_outstanding": 76955000.0,
+    "revenue": 6930086000.0,
+    "net_income": 655018000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-10",
+    "shares_outstanding": 76630000.0,
+    "revenue": 1752608000.0,
+    "net_income": 157329000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-05",
+    "shares_outstanding": 77806000.0,
+    "revenue": 1709813000.0,
+    "net_income": 168419000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-05",
+    "shares_outstanding": 78264000.0,
+    "revenue": 1467766000.0,
+    "net_income": 138665000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2023",
+    "filing_date": "2024-01-19",
+    "shares_outstanding": 83380000.0,
+    "revenue": 6410629000.0,
+    "net_income": 590177000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-06",
+    "shares_outstanding": 82732000.0,
+    "revenue": 1587011000.0,
+    "net_income": 149933000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-07",
+    "shares_outstanding": 84306000.0,
+    "revenue": 1765316000.0,
+    "net_income": 164442000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-07",
+    "shares_outstanding": 85995000.0,
+    "revenue": 1384314000.0,
+    "net_income": 125500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2022",
+    "filing_date": "2023-01-20",
+    "shares_outstanding": 89348000.0,
+    "revenue": 6903776000.0,
+    "net_income": 816666000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-07",
+    "shares_outstanding": 88857000.0,
+    "revenue": 1844895000.0,
+    "net_income": 255329000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-08",
+    "shares_outstanding": 90316000.0,
+    "revenue": 1720062000.0,
+    "net_income": 210670000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-08",
+    "shares_outstanding": 91067000.0,
+    "revenue": 1398789000.0,
+    "net_income": 134257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2021",
+    "filing_date": "2022-01-21",
+    "shares_outstanding": 93587000.0,
+    "revenue": 5724930000.0,
+    "net_income": 564746000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-08",
+    "shares_outstanding": 93264000.0,
+    "revenue": 1467102000.0,
+    "net_income": 150097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-09",
+    "shares_outstanding": 95379000.0,
+    "revenue": 1440892000.0,
+    "net_income": 143364000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-09",
+    "shares_outstanding": 94903000.0,
+    "revenue": 1141738000.0,
+    "net_income": 97051000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2020",
+    "filing_date": "2021-01-22",
+    "shares_outstanding": 94086000.0,
+    "revenue": 4183174000.0,
+    "net_income": 296243000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-08",
+    "shares_outstanding": 94105000.0,
+    "revenue": 999013000.0,
+    "net_income": 78415000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-09",
+    "shares_outstanding": 93472000.0,
+    "revenue": 913970000.0,
+    "net_income": 51989000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-01",
+    "shares_outstanding": 94205000.0,
+    "revenue": 1075935000.0,
+    "net_income": 59748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2019",
+    "filing_date": "2020-01-24",
+    "shares_outstanding": 93838000.0,
+    "revenue": 4552747000.0,
+    "net_income": 268775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-04",
+    "shares_outstanding": 92842000.0,
+    "revenue": 1160786000.0,
+    "net_income": 68136000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-09",
+    "shares_outstanding": 92366000.0,
+    "revenue": 1021803000.0,
+    "net_income": 47461000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-05",
+    "shares_outstanding": 96962000.0,
+    "revenue": 811483000.0,
+    "net_income": 30011000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2018",
+    "filing_date": "2019-01-24",
+    "shares_outstanding": 101059000.0,
+    "revenue": 4547002000.0,
+    "net_income": 170365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-09",
+    "shares_outstanding": 101072000.0,
+    "revenue": 1225347000.0,
+    "net_income": 87476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-06",
+    "shares_outstanding": 101159000.0,
+    "revenue": 1101423000.0,
+    "net_income": 57308000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-06",
+    "shares_outstanding": 87155000.0,
+    "revenue": 871623000.0,
+    "net_income": -71255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2017",
+    "filing_date": "2018-01-26",
+    "shares_outstanding": 98316000.0,
+    "revenue": 4368529000.0,
+    "net_income": 180595000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-05",
+    "shares_outstanding": 98912000.0,
+    "revenue": 1144001000.0,
+    "net_income": 50208000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-07",
+    "shares_outstanding": 97732000.0,
+    "revenue": 1002794000.0,
+    "net_income": 31782000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-05",
+    "shares_outstanding": 96273000.0,
+    "revenue": 818596000.0,
+    "net_income": 14259000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2016",
+    "filing_date": "2017-01-27",
+    "shares_outstanding": 96278000.0,
+    "revenue": 3594646000.0,
+    "net_income": 105615000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-04",
+    "shares_outstanding": 95203000.0,
+    "revenue": 913283000.0,
+    "net_income": 39363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-08",
+    "shares_outstanding": 94720000.0,
+    "revenue": 811050000.0,
+    "net_income": 15597000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-08",
+    "shares_outstanding": 99427000.0,
+    "revenue": 678371000.0,
+    "net_income": 13127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2015",
+    "filing_date": "2016-01-25",
+    "shares_outstanding": 102857000.0,
+    "revenue": 3032030000.0,
+    "net_income": 84643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-09",
+    "shares_outstanding": 101874000.0,
+    "revenue": 843157000.0,
+    "net_income": 23254000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-02",
+    "shares_outstanding": 101544000.0,
+    "revenue": 622969000.0,
+    "net_income": 9573000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-08",
+    "shares_outstanding": 101700000.0,
+    "revenue": 580121000.0,
+    "net_income": 7799000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2014",
+    "filing_date": "2015-01-22",
+    "shares_outstanding": 99314000.0,
+    "revenue": 2400949000.0,
+    "net_income": 918349000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-09",
+    "shares_outstanding": 102070000.0,
+    "revenue": 589214000.0,
+    "net_income": 28361000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-09",
+    "shares_outstanding": 99508000.0,
+    "revenue": 565007000.0,
+    "net_income": 26624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-07",
+    "shares_outstanding": 93946000.0,
+    "revenue": 450687000.0,
+    "net_income": 10563000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2013",
+    "filing_date": "2014-01-27",
+    "shares_outstanding": 91559000.0,
+    "revenue": 2097130000.0,
+    "net_income": 39963000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-10",
+    "shares_outstanding": 94047000.0,
+    "revenue": 548974000.0,
+    "net_income": 27278000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-10",
+    "shares_outstanding": 470816000.0,
+    "revenue": 524406000.0,
+    "net_income": -2973000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-09",
+    "shares_outstanding": 473135000.0,
+    "revenue": 405219000.0,
+    "net_income": -12458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2012",
+    "filing_date": "2013-01-18",
+    "shares_outstanding": 376806000.0,
+    "revenue": 1560115000.0,
+    "net_income": -58953000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-09",
+    "shares_outstanding": 77358000.0,
+    "revenue": 424504000.0,
+    "net_income": 3261000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-10",
+    "shares_outstanding": 369531000.0,
+    "revenue": 302852000.0,
+    "net_income": -24136000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-09",
+    "shares_outstanding": 393868000.0,
+    "revenue": 254558000.0,
+    "net_income": -45802000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2011",
+    "filing_date": "2012-01-30",
+    "shares_outstanding": 442657000.0,
+    "revenue": 1315866000.0,
+    "net_income": -178768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-11",
+    "shares_outstanding": 431967000.0,
+    "revenue": 367316000.0,
+    "net_income": -9649000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-11",
+    "shares_outstanding": 443452000.0,
+    "revenue": 271738000.0,
+    "net_income": -68504000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-11",
+    "shares_outstanding": 514595000.0,
+    "revenue": 196940000.0,
+    "net_income": -114526000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "FY 2010",
+    "filing_date": "2011-01-31",
+    "shares_outstanding": 631878000.0,
+    "revenue": 1589996000.0,
+    "net_income": -69368000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBH",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-08",
+    "shares_outstanding": 613450000.0,
+    "revenue": 501003000.0,
+    "net_income": -1397000.0,
+    "market_cap": null
+  }
+]

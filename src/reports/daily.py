@@ -28,6 +28,7 @@ _POSITIONS_FILE = Path("data/positions/positions.json")
 _QUEUE_FILE = Path("data/queue/pending.json")
 _RETURNS_FILE = Path("data/strategy_observations/returns.json")
 _HISTORY_GAPS_FILE = Path("data/quant/history_gaps.json")
+_VAL_METRICS_FILE = Path("data/quant/val_metrics.json")
 
 
 # ---------------------------------------------------------------------------
@@ -147,6 +148,13 @@ def _load_history_gaps() -> dict:
     if not _HISTORY_GAPS_FILE.exists():
         return {}
     with open(_HISTORY_GAPS_FILE) as f:
+        return json.load(f)
+
+
+def _load_quant_val_metrics() -> dict:
+    if not _VAL_METRICS_FILE.exists():
+        return {}
+    with open(_VAL_METRICS_FILE) as f:
         return json.load(f)
 
 
@@ -433,6 +441,60 @@ def _render_strategy_rows(returns: dict) -> str:
     return rows
 
 
+def _render_quant_scorecard(metrics: dict) -> str:
+    if not metrics:
+        return ""
+
+    _MODEL_LABELS = {
+        "gbm":    ("quant_gbm",    "15 technical features, 20d target"),
+        "gbm_v2": ("quant_gbm_v2", "27 features + SPY/earnings/buyback/sector, 10d target"),
+        "gbm_v3": ("quant_gbm_v3", "28 features + log_ret_756d, 10d target"),
+    }
+
+    rows = ""
+    for key in ("gbm", "gbm_v2", "gbm_v3"):
+        m = metrics.get(key)
+        if not m or "error" in m:
+            continue
+        label, description = _MODEL_LABELS.get(key, (key, ""))
+        sharpe = m.get("sharpe", 0)
+        sharpe_color = "#3fb950" if sharpe >= 1.0 else "#f0883e" if sharpe >= 0.7 else "#8b949e"
+        excess = m.get("avg_excess_ret") or 0
+        excess_color = _pct_color(excess)
+        hit = m.get("hit_rate", 0)
+        periods = m.get("eval_periods", 0)
+        cadence = "20d" if key == "gbm" else "10d"
+        rows += (
+            f'<tr>'
+            f'<td class="ticker">{label}</td>'
+            f'<td style="color:{sharpe_color};font-weight:600">{sharpe:.3f}</td>'
+            f'<td style="color:{excess_color}">{excess:+.2%}</td>'
+            f'<td>{hit:.1%}</td>'
+            f'<td class="muted">{periods} × {cadence}</td>'
+            f'<td class="muted small">{description}</td>'
+            f'</tr>'
+        )
+
+    if not rows:
+        return ""
+
+    return f"""
+    <div class="card wide">
+      <h2>Quant Model Val Performance</h2>
+      <table>
+        <thead><tr>
+          <td class="muted small">Model</td>
+          <td class="muted small">Sharpe (ann.)</td>
+          <td class="muted small">Excess/Period</td>
+          <td class="muted small">Hit Rate</td>
+          <td class="muted small">Val Periods</td>
+          <td class="muted small">Features</td>
+        </tr></thead>
+        <tbody>{rows}</tbody>
+      </table>
+    </div>"""
+
+
 def _render_history_gaps_card(gaps: dict) -> str:
     if not gaps or not gaps.get("tickers"):
         return ""
@@ -472,6 +534,7 @@ def _build_html(
     queue: dict,
     strategy_returns: dict,
     history_gaps: dict,
+    quant_metrics: dict,
 ) -> str:
 
     market_rows = (
@@ -501,6 +564,7 @@ def _build_html(
     confluence_card = _render_confluence(all_holdings)
     strategies_reference = _render_strategies_reference()
     history_gaps_card = _render_history_gaps_card(history_gaps)
+    quant_scorecard = _render_quant_scorecard(quant_metrics)
 
     decision_rows = ""
     if decisions:
@@ -632,6 +696,9 @@ def _build_html(
     <!-- Multi-Model Confluence -->
     {confluence_card}
 
+    <!-- Quant Model Val Scorecard -->
+    {quant_scorecard}
+
     <!-- Per-Model Holdings (one card per model) -->
     <div class="section-header">Positions by Model</div>
     {holdings_cards}
@@ -708,10 +775,12 @@ def generate_daily_dashboard(as_of_date: str | None = None) -> None:
     queue = _load_queue_stats()
     strategy_returns = _load_strategy_returns()
     history_gaps = _load_history_gaps()
+    quant_metrics = _load_quant_val_metrics()
 
     html = _build_html(
         generated_at, universe, market, model_eval,
         all_holdings, decisions, positions, queue, strategy_returns, history_gaps,
+        quant_metrics,
     )
 
     out = _DOCS_DIR / "index.html"

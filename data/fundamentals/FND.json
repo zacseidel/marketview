@@ -1,0 +1,326 @@
+[
+  {
+    "ticker": "FND",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 108419000.0,
+    "revenue": 4684088000.0,
+    "net_income": 208647000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 108419000.0,
+    "revenue": 4684088000.0,
+    "net_income": 208647000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 108468000.0,
+    "revenue": 1179527000.0,
+    "net_income": 57260000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 108324000.0,
+    "revenue": 1214150000.0,
+    "net_income": 63178000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 108442000.0,
+    "revenue": 1160740000.0,
+    "net_income": 48878000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 108319000.0,
+    "revenue": 4455770000.0,
+    "net_income": 205872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 108292000.0,
+    "revenue": 1117926000.0,
+    "net_income": 51690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 108274000.0,
+    "revenue": 1133139000.0,
+    "net_income": 56666000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 108255000.0,
+    "revenue": 1097289000.0,
+    "net_income": 50032000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 107882000.0,
+    "revenue": 4413884000.0,
+    "net_income": 245980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 108002000.0,
+    "revenue": 1107812000.0,
+    "net_income": 65923000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 107805000.0,
+    "revenue": 1135899000.0,
+    "net_income": 71452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 107718000.0,
+    "revenue": 1122052000.0,
+    "net_income": 71524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 107443000.0,
+    "revenue": 4264473000.0,
+    "net_income": 298195000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 107470000.0,
+    "revenue": 1097824000.0,
+    "net_income": 76175000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 107300000.0,
+    "revenue": 1089846000.0,
+    "net_income": 81832000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 107539000.0,
+    "revenue": 1028734000.0,
+    "net_income": 70951000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 107390000.0,
+    "revenue": 3433533000.0,
+    "net_income": 283230000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 107486000.0,
+    "revenue": 876553000.0,
+    "net_income": 74645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 107265000.0,
+    "revenue": 860108000.0,
+    "net_income": 82916000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 107099000.0,
+    "revenue": 782537000.0,
+    "net_income": 75796000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 106142000.0,
+    "revenue": 2425788000.0,
+    "net_income": 194981000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 106379000.0,
+    "revenue": 684847000.0,
+    "net_income": 68774000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 105466000.0,
+    "revenue": 462352000.0,
+    "net_income": 32004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 105510000.0,
+    "revenue": 554937000.0,
+    "net_income": 37063000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 104962000.0,
+    "revenue": 2045456000.0,
+    "net_income": 150631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 105180000.0,
+    "revenue": 521093000.0,
+    "net_income": 40974000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 104840000.0,
+    "revenue": 520311000.0,
+    "net_income": 43596000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 104321000.0,
+    "revenue": 477050000.0,
+    "net_income": 30720000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "FY 2018",
+    "filing_date": "2019-02-25",
+    "shares_outstanding": 104561000.0,
+    "revenue": 1709848000.0,
+    "net_income": 116187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 104565000.0,
+    "revenue": 435882000.0,
+    "net_income": 26568000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 104937000.0,
+    "revenue": 434279000.0,
+    "net_income": 39846000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 104665000.0,
+    "revenue": 402948000.0,
+    "net_income": 31871000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "FY 2017",
+    "filing_date": "2018-03-05",
+    "shares_outstanding": 99660000.0,
+    "revenue": 1384767000.0,
+    "net_income": 102788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 103899602.0,
+    "revenue": 343923000.0,
+    "net_income": 23255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FND",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 99918949.0,
+    "revenue": 344047000.0,
+    "net_income": 20429000.0,
+    "market_cap": null
+  }
+]

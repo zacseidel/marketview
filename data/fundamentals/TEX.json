@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "TEX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 66300000.0,
+    "revenue": 5421000000.0,
+    "net_income": 221000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 66300000.0,
+    "revenue": 5421000000.0,
+    "net_income": 221000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 66200000.0,
+    "revenue": 1387000000.0,
+    "net_income": 65000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 65900000.0,
+    "revenue": 1487000000.0,
+    "net_income": 72000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 66900000.0,
+    "revenue": 1229000000.0,
+    "net_income": 21000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 67600000.0,
+    "revenue": 5127000000.0,
+    "net_income": 335000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 67400000.0,
+    "revenue": 1212000000.0,
+    "net_income": 88000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 67700000.0,
+    "revenue": 1381700000.0,
+    "net_income": 141000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 67900000.0,
+    "revenue": 1292500000.0,
+    "net_income": 109000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-09",
+    "shares_outstanding": 68300000.0,
+    "revenue": 5151500000.0,
+    "net_income": 518000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 68200000.0,
+    "revenue": 1290100000.0,
+    "net_income": 119200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 68100000.0,
+    "revenue": 1403100000.0,
+    "net_income": 159400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 68800000.0,
+    "revenue": 1235700000.0,
+    "net_income": 112600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-10",
+    "shares_outstanding": 69400000.0,
+    "revenue": 4417700000.0,
+    "net_income": 300000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 68400000.0,
+    "revenue": 1120500000.0,
+    "net_income": 81800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 69300000.0,
+    "revenue": 1077100000.0,
+    "net_income": 74100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 70900000.0,
+    "revenue": 1002500000.0,
+    "net_income": 51900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-11",
+    "shares_outstanding": 70900000.0,
+    "revenue": 3886800000.0,
+    "net_income": 220900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 70900000.0,
+    "revenue": 993800000.0,
+    "net_income": 48100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 70900000.0,
+    "revenue": 1038700000.0,
+    "net_income": 73900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 70800000.0,
+    "revenue": 864200000.0,
+    "net_income": 40100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-12",
+    "shares_outstanding": 70100000.0,
+    "revenue": 3076400000.0,
+    "net_income": -10600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 69500000.0,
+    "revenue": 765600000.0,
+    "net_income": 5800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-03",
+    "shares_outstanding": 69300000.0,
+    "revenue": 690500000.0,
+    "net_income": -9200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 70500000.0,
+    "revenue": 833600000.0,
+    "net_income": -24900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 71800000.0,
+    "revenue": 4353100000.0,
+    "net_income": 54400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 71800000.0,
+    "revenue": 1024600000.0,
+    "net_income": 21400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 71700000.0,
+    "revenue": 1306900000.0,
+    "net_income": 75100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 71800000.0,
+    "revenue": 1136600000.0,
+    "net_income": -66600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-25",
+    "shares_outstanding": 76900000.0,
+    "revenue": 5125000000.0,
+    "net_income": 113700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 75100000.0,
+    "revenue": 1228500000.0,
+    "net_income": 38600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 76700000.0,
+    "revenue": 1402500000.0,
+    "net_income": 57800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 81700000.0,
+    "revenue": 1260900000.0,
+    "net_income": 50300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 94900000.0,
+    "revenue": 4363400000.0,
+    "net_income": 128700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 90000000.0,
+    "revenue": 1111200000.0,
+    "net_income": 59200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 97100000.0,
+    "revenue": 1181700000.0,
+    "net_income": 100800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 105200000.0,
+    "revenue": 1006900000.0,
+    "net_income": -4600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 107900000.0,
+    "revenue": 4443100000.0,
+    "net_income": -175500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 108600000.0,
+    "revenue": 1056400000.0,
+    "net_income": 97300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 109600000.0,
+    "revenue": 1297700000.0,
+    "net_income": 64600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 108800000.0,
+    "revenue": 1426900000.0,
+    "net_income": -71000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-22",
+    "shares_outstanding": 109600000.0,
+    "revenue": 6543100000.0,
+    "net_income": 149000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-23",
+    "shares_outstanding": 109200000.0,
+    "revenue": 1641300000.0,
+    "net_income": 44900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 109000000.0,
+    "revenue": 1828500000.0,
+    "net_income": 85900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 106300000.0,
+    "revenue": 1495600000.0,
+    "net_income": 1600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-23",
+    "shares_outstanding": 114200000.0,
+    "revenue": 7308900000.0,
+    "net_income": 319500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 115400000.0,
+    "revenue": 1809800000.0,
+    "net_income": 64200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-24",
+    "shares_outstanding": 115800000.0,
+    "revenue": 2055100000.0,
+    "net_income": 140400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 117300000.0,
+    "revenue": 1654600000.0,
+    "net_income": 33900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 117000000.0,
+    "revenue": 7084000000.0,
+    "net_income": 220900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-25",
+    "shares_outstanding": 116200000.0,
+    "revenue": 1810600000.0,
+    "net_income": 93700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-26",
+    "shares_outstanding": 115800000.0,
+    "revenue": 1908200000.0,
+    "net_income": 19600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-26",
+    "shares_outstanding": 116100000.0,
+    "revenue": 1723100000.0,
+    "net_income": 22300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 113900000.0,
+    "revenue": 7348400000.0,
+    "net_income": 103600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-29",
+    "shares_outstanding": 113300000.0,
+    "revenue": 1822000000.0,
+    "net_income": 28300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 111400000.0,
+    "revenue": 2011500000.0,
+    "net_income": 82800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-30",
+    "shares_outstanding": 114300000.0,
+    "revenue": 1819400000.0,
+    "net_income": 24100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 110700000.0,
+    "revenue": 6504600000.0,
+    "net_income": 40700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 110300000.0,
+    "revenue": 1803600000.0,
+    "net_income": 33100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-01",
+    "shares_outstanding": 114800000.0,
+    "revenue": 1488200000.0,
+    "net_income": -500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-28",
+    "shares_outstanding": 116600000.0,
+    "revenue": 1256200000.0,
+    "net_income": 11700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-29",
+    "shares_outstanding": 108100000.0,
+    "revenue": 1226100000.0,
+    "net_income": -102400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TEX",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-30",
+    "shares_outstanding": 99100000.0,
+    "revenue": 1320200000.0,
+    "net_income": -77700000.0,
+    "market_cap": null
+  }
+]

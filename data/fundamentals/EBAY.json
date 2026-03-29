@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "EBAY",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 468000000.0,
+    "revenue": 11100000000.0,
+    "net_income": 2031000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 468000000.0,
+    "revenue": 11100000000.0,
+    "net_income": 2031000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 467000000.0,
+    "revenue": 2820000000.0,
+    "net_income": 632000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 470000000.0,
+    "revenue": 2730000000.0,
+    "net_income": 368000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 475000000.0,
+    "revenue": 2585000000.0,
+    "net_income": 503000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 494000000.0,
+    "revenue": 2576000000.0,
+    "net_income": 634000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 507000000.0,
+    "revenue": 2572000000.0,
+    "net_income": 224000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 519000000.0,
+    "revenue": 2556000000.0,
+    "net_income": 438000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 533000000.0,
+    "revenue": 10112000000.0,
+    "net_income": 2767000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 532000000.0,
+    "revenue": 2500000000.0,
+    "net_income": 1305000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 537000000.0,
+    "revenue": 2540000000.0,
+    "net_income": 171000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 541000000.0,
+    "revenue": 2510000000.0,
+    "net_income": 567000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 558000000.0,
+    "revenue": 9795000000.0,
+    "net_income": -1269000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 548000000.0,
+    "revenue": 2380000000.0,
+    "net_income": -69000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 556000000.0,
+    "revenue": 2422000000.0,
+    "net_income": -531000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 587000000.0,
+    "revenue": 2483000000.0,
+    "net_income": -1341000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 663000000.0,
+    "revenue": 10420000000.0,
+    "net_income": 13608000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 658000000.0,
+    "revenue": 2501000000.0,
+    "net_income": 264000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-12",
+    "shares_outstanding": 685000000.0,
+    "revenue": 2668000000.0,
+    "net_income": 10734000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 693000000.0,
+    "revenue": 2638000000.0,
+    "net_income": 641000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2020",
+    "filing_date": "2021-02-04",
+    "shares_outstanding": 718000000.0,
+    "revenue": 10271000000.0,
+    "net_income": 5667000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 708000000.0,
+    "revenue": 2606000000.0,
+    "net_income": 664000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 711000000.0,
+    "revenue": 2668000000.0,
+    "net_income": 746000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 757000000.0,
+    "revenue": 2129000000.0,
+    "net_income": 3412000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2019",
+    "filing_date": "2020-01-31",
+    "shares_outstanding": 856000000.0,
+    "revenue": 10800000000.0,
+    "net_income": 1786000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 837000000.0,
+    "revenue": 2649000000.0,
+    "net_income": 310000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-18",
+    "shares_outstanding": 867000000.0,
+    "revenue": 2687000000.0,
+    "net_income": 402000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-24",
+    "shares_outstanding": 908000000.0,
+    "revenue": 2643000000.0,
+    "net_income": 518000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2018",
+    "filing_date": "2019-01-30",
+    "shares_outstanding": 991000000.0,
+    "revenue": 10746000000.0,
+    "net_income": 2530000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 983000000.0,
+    "revenue": 2649000000.0,
+    "net_income": 721000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-19",
+    "shares_outstanding": 1004000000.0,
+    "revenue": 2640000000.0,
+    "net_income": 642000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 1029000000.0,
+    "revenue": 2580000000.0,
+    "net_income": 407000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2017",
+    "filing_date": "2018-02-05",
+    "shares_outstanding": 1064000000.0,
+    "revenue": 9567000000.0,
+    "net_income": -1016000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-20",
+    "shares_outstanding": 1078000000.0,
+    "revenue": 2409000000.0,
+    "net_income": 523000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-21",
+    "shares_outstanding": 1091000000.0,
+    "revenue": 2328000000.0,
+    "net_income": 27000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-20",
+    "shares_outstanding": 1102000000.0,
+    "revenue": 2217000000.0,
+    "net_income": 1035000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2016",
+    "filing_date": "2017-02-06",
+    "shares_outstanding": 1144000000.0,
+    "revenue": 8979000000.0,
+    "net_income": 7266000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-20",
+    "shares_outstanding": 1139000000.0,
+    "revenue": 2217000000.0,
+    "net_income": 413000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-21",
+    "shares_outstanding": 1149000000.0,
+    "revenue": 2230000000.0,
+    "net_income": 435000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 1170000000.0,
+    "revenue": 2137000000.0,
+    "net_income": 482000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2015",
+    "filing_date": "2016-02-01",
+    "shares_outstanding": 1220000000.0,
+    "revenue": 8592000000.0,
+    "net_income": 1725000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-28",
+    "shares_outstanding": 1223000000.0,
+    "revenue": 2099000000.0,
+    "net_income": 539000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-21",
+    "shares_outstanding": 1225000000.0,
+    "revenue": 2110000000.0,
+    "net_income": 83000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-23",
+    "shares_outstanding": 1229000000.0,
+    "revenue": 2061000000.0,
+    "net_income": 626000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2014",
+    "filing_date": "2015-02-06",
+    "shares_outstanding": 1262000000.0,
+    "revenue": 17902000000.0,
+    "net_income": 46000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-16",
+    "shares_outstanding": 1251000000.0,
+    "revenue": 4353000000.0,
+    "net_income": 673000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-18",
+    "shares_outstanding": 1267000000.0,
+    "revenue": 4366000000.0,
+    "net_income": 676000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 1276000000.0,
+    "revenue": 4262000000.0,
+    "net_income": -2326000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2013",
+    "filing_date": "2014-01-31",
+    "shares_outstanding": 1313000000.0,
+    "revenue": 16047000000.0,
+    "net_income": 2856000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-18",
+    "shares_outstanding": 1310000000.0,
+    "revenue": 3892000000.0,
+    "net_income": 689000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-19",
+    "shares_outstanding": 1313000000.0,
+    "revenue": 3877000000.0,
+    "net_income": 640000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-19",
+    "shares_outstanding": 1319000000.0,
+    "revenue": 3748000000.0,
+    "net_income": 677000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2012",
+    "filing_date": "2013-02-01",
+    "shares_outstanding": 1313000000.0,
+    "revenue": 14072000000.0,
+    "net_income": 2609000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-19",
+    "shares_outstanding": 1314000000.0,
+    "revenue": 3404000000.0,
+    "net_income": 597000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-19",
+    "shares_outstanding": 1309000000.0,
+    "revenue": 3398000000.0,
+    "net_income": 692000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-20",
+    "shares_outstanding": 1308000000.0,
+    "revenue": 3277000000.0,
+    "net_income": 570000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2011",
+    "filing_date": "2012-01-31",
+    "shares_outstanding": 1312950000.0,
+    "revenue": 11651654000.0,
+    "net_income": 3229387000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-21",
+    "shares_outstanding": 1309334000.0,
+    "revenue": 2965761000.0,
+    "net_income": 490503000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-22",
+    "shares_outstanding": 1314718000.0,
+    "revenue": 2760274000.0,
+    "net_income": 283407000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-29",
+    "shares_outstanding": 1320151000.0,
+    "revenue": 2545609000.0,
+    "net_income": 475865000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q1 2010",
+    "filing_date": "2010-04-28",
+    "shares_outstanding": 1326021000.0,
+    "revenue": 2196057000.0,
+    "net_income": 397653000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "FY 2009",
+    "filing_date": "2010-02-17",
+    "shares_outstanding": 1304981000.0,
+    "revenue": 8727362000.0,
+    "net_income": 2389097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-27",
+    "shares_outstanding": 1311274000.0,
+    "revenue": 2237852000.0,
+    "net_income": 349736000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EBAY",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-29",
+    "shares_outstanding": 1300434000.0,
+    "revenue": 2097992000.0,
+    "net_income": 327342000.0,
+    "market_cap": null
+  }
+]

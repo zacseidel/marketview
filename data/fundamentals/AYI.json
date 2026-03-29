@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "AYI",
+    "period": "Q1 2026",
+    "filing_date": "2026-01-08",
+    "shares_outstanding": 31561000.0,
+    "revenue": 1143700000.0,
+    "net_income": 120500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2025",
+    "filing_date": "2025-10-27",
+    "shares_outstanding": 31641000.0,
+    "revenue": 4345600000.0,
+    "net_income": 396600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2025",
+    "filing_date": "2025-06-26",
+    "shares_outstanding": 31565000.0,
+    "revenue": 1178600000.0,
+    "net_income": 98400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2025",
+    "filing_date": "2025-04-03",
+    "shares_outstanding": 31700000.0,
+    "revenue": 1006300000.0,
+    "net_income": 77500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2025",
+    "filing_date": "2025-01-08",
+    "shares_outstanding": 31799000.0,
+    "revenue": 951600000.0,
+    "net_income": 106700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2024",
+    "filing_date": "2024-06-27",
+    "shares_outstanding": 31477000.0,
+    "revenue": 968100000.0,
+    "net_income": 113900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2024",
+    "filing_date": "2024-04-03",
+    "shares_outstanding": 31399000.0,
+    "revenue": 905900000.0,
+    "net_income": 89200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2024",
+    "filing_date": "2024-01-09",
+    "shares_outstanding": 31365000.0,
+    "revenue": 934700000.0,
+    "net_income": 100600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 32164000.0,
+    "revenue": 3952200000.0,
+    "net_income": 346000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2023",
+    "filing_date": "2023-06-29",
+    "shares_outstanding": 32011000.0,
+    "revenue": 1000300000.0,
+    "net_income": 105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2023",
+    "filing_date": "2023-04-04",
+    "shares_outstanding": 32386000.0,
+    "revenue": 943600000.0,
+    "net_income": 83200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2023",
+    "filing_date": "2023-01-09",
+    "shares_outstanding": 32704000.0,
+    "revenue": 997900000.0,
+    "net_income": 74900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 34645000.0,
+    "revenue": 4006100000.0,
+    "net_income": 384000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2022",
+    "filing_date": "2022-06-30",
+    "shares_outstanding": 34400000.0,
+    "revenue": 1060600000.0,
+    "net_income": 105700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2022",
+    "filing_date": "2022-04-05",
+    "shares_outstanding": 35400000.0,
+    "revenue": 909100000.0,
+    "net_income": 75300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2022",
+    "filing_date": "2022-01-07",
+    "shares_outstanding": 35500000.0,
+    "revenue": 926100000.0,
+    "net_income": 87600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 36600000.0,
+    "revenue": 3461000000.0,
+    "net_income": 306300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2021",
+    "filing_date": "2021-07-01",
+    "shares_outstanding": 36200000.0,
+    "revenue": 899700000.0,
+    "net_income": 85700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2021",
+    "filing_date": "2021-03-31",
+    "shares_outstanding": 36200000.0,
+    "revenue": 776600000.0,
+    "net_income": 62900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2021",
+    "filing_date": "2021-01-07",
+    "shares_outstanding": 37800000.0,
+    "revenue": 792000000.0,
+    "net_income": 59600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2020",
+    "filing_date": "2020-10-23",
+    "shares_outstanding": 39600000.0,
+    "revenue": 3326300000.0,
+    "net_income": 248300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2020",
+    "filing_date": "2020-06-29",
+    "shares_outstanding": 39700000.0,
+    "revenue": 776200000.0,
+    "net_income": 60400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2020",
+    "filing_date": "2020-04-02",
+    "shares_outstanding": 39700000.0,
+    "revenue": 824200000.0,
+    "net_income": 57200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2020",
+    "filing_date": "2020-01-09",
+    "shares_outstanding": 39600000.0,
+    "revenue": 834700000.0,
+    "net_income": 57000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2019",
+    "filing_date": "2019-10-29",
+    "shares_outstanding": 39800000.0,
+    "revenue": 3672700000.0,
+    "net_income": 330400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2019",
+    "filing_date": "2019-07-02",
+    "shares_outstanding": 39800000.0,
+    "revenue": 947600000.0,
+    "net_income": 88400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2019",
+    "filing_date": "2019-04-03",
+    "shares_outstanding": 39600000.0,
+    "revenue": 854400000.0,
+    "net_income": 66300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2019",
+    "filing_date": "2019-01-09",
+    "shares_outstanding": 40100000.0,
+    "revenue": 932600000.0,
+    "net_income": 79600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 41000000.0,
+    "revenue": 3680100000.0,
+    "net_income": 349600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2018",
+    "filing_date": "2018-07-03",
+    "shares_outstanding": 40500000.0,
+    "revenue": 944000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2018",
+    "filing_date": "2018-04-04",
+    "shares_outstanding": 41500000.0,
+    "revenue": 832100000.0,
+    "net_income": 96900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2018",
+    "filing_date": "2018-01-09",
+    "shares_outstanding": 42100000.0,
+    "revenue": 842800000.0,
+    "net_income": 71500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 43300000.0,
+    "revenue": 3505100000.0,
+    "net_income": 321700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2017",
+    "filing_date": "2017-06-29",
+    "shares_outstanding": 43300000.0,
+    "revenue": 891600000.0,
+    "net_income": 82200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2017",
+    "filing_date": "2017-04-04",
+    "shares_outstanding": 44000000.0,
+    "revenue": 804700000.0,
+    "net_income": 67300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2017",
+    "filing_date": "2017-01-09",
+    "shares_outstanding": 44000000.0,
+    "revenue": 851200000.0,
+    "net_income": 81700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 43800000.0,
+    "revenue": 3291300000.0,
+    "net_income": 290800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2016",
+    "filing_date": "2016-06-29",
+    "shares_outstanding": 43800000.0,
+    "revenue": 851500000.0,
+    "net_income": 74000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2016",
+    "filing_date": "2016-04-06",
+    "shares_outstanding": 43800000.0,
+    "revenue": 777800000.0,
+    "net_income": 65500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2016",
+    "filing_date": "2016-01-08",
+    "shares_outstanding": 43600000.0,
+    "revenue": 736600000.0,
+    "net_income": 68400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2015",
+    "filing_date": "2015-10-27",
+    "shares_outstanding": 43400000.0,
+    "revenue": 2706700000.0,
+    "net_income": 222100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2015",
+    "filing_date": "2015-07-01",
+    "shares_outstanding": 43500000.0,
+    "revenue": 683700000.0,
+    "net_income": 64500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2015",
+    "filing_date": "2015-04-01",
+    "shares_outstanding": 43400000.0,
+    "revenue": 616100000.0,
+    "net_income": 46400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2015",
+    "filing_date": "2015-01-09",
+    "shares_outstanding": 43300000.0,
+    "revenue": 647400000.0,
+    "net_income": 51100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 43000000.0,
+    "revenue": 2393500000.0,
+    "net_income": 175800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2014",
+    "filing_date": "2014-07-01",
+    "shares_outstanding": 43100000.0,
+    "revenue": 603900000.0,
+    "net_income": 43800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2014",
+    "filing_date": "2014-04-02",
+    "shares_outstanding": 43100000.0,
+    "revenue": 546200000.0,
+    "net_income": 32700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2014",
+    "filing_date": "2014-01-09",
+    "shares_outstanding": 42900000.0,
+    "revenue": 574700000.0,
+    "net_income": 44500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2013",
+    "filing_date": "2013-10-29",
+    "shares_outstanding": 42500000.0,
+    "revenue": 2089100000.0,
+    "net_income": 127400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2013",
+    "filing_date": "2013-07-02",
+    "shares_outstanding": 42600000.0,
+    "revenue": 541500000.0,
+    "net_income": 31700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2013",
+    "filing_date": "2013-04-03",
+    "shares_outstanding": 42500000.0,
+    "revenue": 486700000.0,
+    "net_income": 24700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2013",
+    "filing_date": "2013-01-08",
+    "shares_outstanding": 42300000.0,
+    "revenue": 481100000.0,
+    "net_income": 26100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 41900000.0,
+    "revenue": 1933700000.0,
+    "net_income": 116300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2012",
+    "filing_date": "2012-07-02",
+    "shares_outstanding": 42000000.0,
+    "revenue": 487500000.0,
+    "net_income": 33600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2012",
+    "filing_date": "2012-04-04",
+    "shares_outstanding": 41900000.0,
+    "revenue": 457700000.0,
+    "net_income": 19500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2012",
+    "filing_date": "2012-01-09",
+    "shares_outstanding": 41700000.0,
+    "revenue": 474300000.0,
+    "net_income": 29900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "FY 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 42800000.0,
+    "revenue": 1795700000.0,
+    "net_income": 105500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q3 2011",
+    "filing_date": "2011-06-29",
+    "shares_outstanding": 43100000.0,
+    "revenue": 458300000.0,
+    "net_income": 27000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q2 2011",
+    "filing_date": "2011-03-30",
+    "shares_outstanding": 43000000.0,
+    "revenue": 416200000.0,
+    "net_income": 19900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AYI",
+    "period": "Q1 2011",
+    "filing_date": "2011-01-10",
+    "shares_outstanding": 42800000.0,
+    "revenue": 425000000.0,
+    "net_income": 24400000.0,
+    "market_cap": null
+  }
+]

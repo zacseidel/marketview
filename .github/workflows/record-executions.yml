@@ -5,6 +5,9 @@ on:
     - cron: "0 23 * * 2,5"  # Tue/Fri 7:00 PM ET (UTC-4)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   record-executions:
     runs-on: ubuntu-latest

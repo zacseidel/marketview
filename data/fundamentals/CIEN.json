@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2026",
+    "filing_date": "2026-03-05",
+    "shares_outstanding": 145799000.0,
+    "revenue": 1427042000.0,
+    "net_income": 150283000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2025",
+    "filing_date": "2025-12-12",
+    "shares_outstanding": 145248000.0,
+    "revenue": 4769507000.0,
+    "net_income": 123338000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2025",
+    "filing_date": "2025-09-04",
+    "shares_outstanding": 144499000.0,
+    "revenue": 1219385000.0,
+    "net_income": 50308000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2025",
+    "filing_date": "2025-06-05",
+    "shares_outstanding": 144972000.0,
+    "revenue": 1125878000.0,
+    "net_income": 8969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2025",
+    "filing_date": "2025-03-12",
+    "shares_outstanding": 145944000.0,
+    "revenue": 1072260000.0,
+    "net_income": 44572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2024",
+    "filing_date": "2024-09-04",
+    "shares_outstanding": 145361000.0,
+    "revenue": 942308000.0,
+    "net_income": 14230000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2024",
+    "filing_date": "2024-06-06",
+    "shares_outstanding": 144914000.0,
+    "revenue": 910826000.0,
+    "net_income": -16849000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2024",
+    "filing_date": "2024-03-07",
+    "shares_outstanding": 145848000.0,
+    "revenue": 1037709000.0,
+    "net_income": 49547000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2023",
+    "filing_date": "2023-12-15",
+    "shares_outstanding": 149380000.0,
+    "revenue": 4386549000.0,
+    "net_income": 254827000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2023",
+    "filing_date": "2023-09-06",
+    "shares_outstanding": 149977000.0,
+    "revenue": 1067886000.0,
+    "net_income": 29733000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2023",
+    "filing_date": "2023-06-07",
+    "shares_outstanding": 150147000.0,
+    "revenue": 1132655000.0,
+    "net_income": 57654000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2023",
+    "filing_date": "2023-03-08",
+    "shares_outstanding": 149551000.0,
+    "revenue": 1056521000.0,
+    "net_income": 76241000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2022",
+    "filing_date": "2022-12-16",
+    "shares_outstanding": 152193000.0,
+    "revenue": 3632661000.0,
+    "net_income": 152902000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2022",
+    "filing_date": "2022-09-07",
+    "shares_outstanding": 150463000.0,
+    "revenue": 867981000.0,
+    "net_income": 10512000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2022",
+    "filing_date": "2022-06-08",
+    "shares_outstanding": 153344000.0,
+    "revenue": 949227000.0,
+    "net_income": 38922000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2022",
+    "filing_date": "2022-03-09",
+    "shares_outstanding": 155807000.0,
+    "revenue": 844443000.0,
+    "net_income": 45823000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2021",
+    "filing_date": "2021-12-17",
+    "shares_outstanding": 156743000.0,
+    "revenue": 3620684000.0,
+    "net_income": 500196000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2021",
+    "filing_date": "2021-09-08",
+    "shares_outstanding": 156744000.0,
+    "revenue": 988141000.0,
+    "net_income": 238232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2021",
+    "filing_date": "2021-06-09",
+    "shares_outstanding": 156876000.0,
+    "revenue": 833927000.0,
+    "net_income": 103117000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2021",
+    "filing_date": "2021-03-10",
+    "shares_outstanding": 156583000.0,
+    "revenue": 757130000.0,
+    "net_income": 55348000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2020",
+    "filing_date": "2020-12-18",
+    "shares_outstanding": 155955000.0,
+    "revenue": 3532157000.0,
+    "net_income": 361291000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2020",
+    "filing_date": "2020-09-09",
+    "shares_outstanding": 156318000.0,
+    "revenue": 976712000.0,
+    "net_income": 142267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2020",
+    "filing_date": "2020-06-10",
+    "shares_outstanding": 155141000.0,
+    "revenue": 894053000.0,
+    "net_income": 91655000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2020",
+    "filing_date": "2020-03-11",
+    "shares_outstanding": 155738000.0,
+    "revenue": 832912000.0,
+    "net_income": 62328000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2019",
+    "filing_date": "2019-12-20",
+    "shares_outstanding": 157612000.0,
+    "revenue": 3572131000.0,
+    "net_income": 253434000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2019",
+    "filing_date": "2019-09-11",
+    "shares_outstanding": 157455000.0,
+    "revenue": 960606000.0,
+    "net_income": 86749000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2019",
+    "filing_date": "2019-06-12",
+    "shares_outstanding": 158289000.0,
+    "revenue": 865011000.0,
+    "net_income": 52738000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2019",
+    "filing_date": "2019-03-11",
+    "shares_outstanding": 158174000.0,
+    "revenue": 778527000.0,
+    "net_income": 33616000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2018",
+    "filing_date": "2018-12-21",
+    "shares_outstanding": 143738000.0,
+    "revenue": 3094286000.0,
+    "net_income": -344690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2018",
+    "filing_date": "2018-09-05",
+    "shares_outstanding": 159998000.0,
+    "revenue": 818817000.0,
+    "net_income": 50840000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2018",
+    "filing_date": "2018-06-06",
+    "shares_outstanding": 147973000.0,
+    "revenue": 729978000.0,
+    "net_income": 13856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2018",
+    "filing_date": "2018-03-07",
+    "shares_outstanding": 143922000.0,
+    "revenue": 646135000.0,
+    "net_income": -473363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2017",
+    "filing_date": "2017-12-22",
+    "shares_outstanding": 169919000.0,
+    "revenue": 2801687000.0,
+    "net_income": 1261953000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2017",
+    "filing_date": "2017-09-07",
+    "shares_outstanding": 172112000.0,
+    "revenue": 728719000.0,
+    "net_income": 60010000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2017",
+    "filing_date": "2017-06-07",
+    "shares_outstanding": 165273000.0,
+    "revenue": 707022000.0,
+    "net_income": 38026000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2017",
+    "filing_date": "2017-03-08",
+    "shares_outstanding": 142184000.0,
+    "revenue": 621497000.0,
+    "net_income": 3861000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2016",
+    "filing_date": "2016-12-21",
+    "shares_outstanding": 150704000.0,
+    "revenue": 2600573000.0,
+    "net_income": 709782000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2016",
+    "filing_date": "2016-09-07",
+    "shares_outstanding": 169349000.0,
+    "revenue": 670550000.0,
+    "net_income": 191788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2016",
+    "filing_date": "2016-06-08",
+    "shares_outstanding": 138889000.0,
+    "revenue": 640717000.0,
+    "net_income": 168490000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2016",
+    "filing_date": "2016-03-09",
+    "shares_outstanding": 136675000.0,
+    "revenue": 573115000.0,
+    "net_income": 143404000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2015",
+    "filing_date": "2015-12-21",
+    "shares_outstanding": 120101000.0,
+    "revenue": 2445669000.0,
+    "net_income": 661362000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2015",
+    "filing_date": "2015-09-09",
+    "shares_outstanding": 133233000.0,
+    "revenue": 602932000.0,
+    "net_income": 169490000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2015",
+    "filing_date": "2015-06-10",
+    "shares_outstanding": 128017000.0,
+    "revenue": 621602000.0,
+    "net_income": 167209000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q4 2015",
+    "filing_date": "2015-03-12",
+    "shares_outstanding": 107773000.0,
+    "revenue": 529162000.0,
+    "net_income": 129534000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2014",
+    "filing_date": "2014-12-19",
+    "shares_outstanding": 105783000.0,
+    "revenue": 2288289000.0,
+    "net_income": 547172000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2014",
+    "filing_date": "2014-09-09",
+    "shares_outstanding": 120809000.0,
+    "revenue": 603562000.0,
+    "net_income": 166288000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2014",
+    "filing_date": "2014-06-11",
+    "shares_outstanding": 105451000.0,
+    "revenue": 560061000.0,
+    "net_income": 134199000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2014",
+    "filing_date": "2014-03-07",
+    "shares_outstanding": 104501000.0,
+    "revenue": 533703000.0,
+    "net_income": 124354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2013",
+    "filing_date": "2013-12-20",
+    "shares_outstanding": 102350000.0,
+    "revenue": 2082546000.0,
+    "net_income": 481767000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2013",
+    "filing_date": "2013-09-11",
+    "shares_outstanding": 102713000.0,
+    "revenue": 538356000.0,
+    "net_income": 135152000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2013",
+    "filing_date": "2013-06-12",
+    "shares_outstanding": 101913000.0,
+    "revenue": 507712000.0,
+    "net_income": 108726000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2013",
+    "filing_date": "2013-03-13",
+    "shares_outstanding": 101204000.0,
+    "revenue": 453093000.0,
+    "net_income": 106670000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2012",
+    "filing_date": "2012-12-21",
+    "shares_outstanding": 99341000.0,
+    "revenue": 1833923000.0,
+    "net_income": 360045000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2012",
+    "filing_date": "2012-09-05",
+    "shares_outstanding": 99530000.0,
+    "revenue": 474090000.0,
+    "net_income": 93006000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2012",
+    "filing_date": "2012-06-06",
+    "shares_outstanding": 98981000.0,
+    "revenue": 477617000.0,
+    "net_income": 92542000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2012",
+    "filing_date": "2012-03-08",
+    "shares_outstanding": 98066000.0,
+    "revenue": 416685000.0,
+    "net_income": 78092000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2011",
+    "filing_date": "2011-12-22",
+    "shares_outstanding": 95854000.0,
+    "revenue": 1741970000.0,
+    "net_income": 329284000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2011",
+    "filing_date": "2011-09-08",
+    "shares_outstanding": 96313000.0,
+    "revenue": 435313000.0,
+    "net_income": 91681000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q2 2011",
+    "filing_date": "2011-06-09",
+    "shares_outstanding": 95360000.0,
+    "revenue": 417894000.0,
+    "net_income": -62686000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q1 2011",
+    "filing_date": "2011-03-10",
+    "shares_outstanding": 94496000.0,
+    "revenue": 433308000.0,
+    "net_income": -79056000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "FY 2010",
+    "filing_date": "2010-12-22",
+    "shares_outstanding": 93103000.0,
+    "revenue": 1236636000.0,
+    "net_income": -333514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CIEN",
+    "period": "Q3 2010",
+    "filing_date": "2010-09-08",
+    "shares_outstanding": 92906000.0,
+    "revenue": 389675000.0,
+    "net_income": -109855000.0,
+    "market_cap": null
+  }
+]

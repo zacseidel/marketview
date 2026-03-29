@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "TCBI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-10",
+    "shares_outstanding": 46127375.0,
+    "revenue": 1771785000.0,
+    "net_income": 330244000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-10",
+    "shares_outstanding": 46127375.0,
+    "revenue": 1771785000.0,
+    "net_income": 330244000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-23",
+    "shares_outstanding": 46233167.0,
+    "revenue": 460615000.0,
+    "net_income": 105210000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-17",
+    "shares_outstanding": 46215394.0,
+    "revenue": 439567000.0,
+    "net_income": 77328000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-17",
+    "shares_outstanding": 46616704.0,
+    "revenue": 427289000.0,
+    "net_income": 47047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-11",
+    "shares_outstanding": 46989204.0,
+    "revenue": 1729550000.0,
+    "net_income": 77508000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-17",
+    "shares_outstanding": 46608742.0,
+    "revenue": 452533000.0,
+    "net_income": -61319000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-18",
+    "shares_outstanding": 46872498.0,
+    "revenue": 422068000.0,
+    "net_income": 41662000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 85270000.0,
+    "revenue": 175706000.0,
+    "net_income": 26006000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-18",
+    "shares_outstanding": 47711192.0,
+    "revenue": 417378000.0,
+    "net_income": 26142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-13",
+    "shares_outstanding": 48610206.0,
+    "revenue": 1629923000.0,
+    "net_income": 189141000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-19",
+    "shares_outstanding": 48528698.0,
+    "revenue": 425769000.0,
+    "net_income": 61679000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-20",
+    "shares_outstanding": 48421276.0,
+    "revenue": 401916000.0,
+    "net_income": 68651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-20",
+    "shares_outstanding": 48880725.0,
+    "revenue": 385166000.0,
+    "net_income": 38661000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2022",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 51046742.0,
+    "revenue": 1144237000.0,
+    "net_income": 332478000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-20",
+    "shares_outstanding": 50417884.0,
+    "revenue": 322071000.0,
+    "net_income": 41418000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-21",
+    "shares_outstanding": 50801628.0,
+    "revenue": 242349000.0,
+    "net_income": 34159000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-21",
+    "shares_outstanding": 51324027.0,
+    "revenue": 208530000.0,
+    "net_income": 39650000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 51140974.0,
+    "revenue": 876585000.0,
+    "net_income": 253939000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-21",
+    "shares_outstanding": 51139555.0,
+    "revenue": 216589000.0,
+    "net_income": 43390000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-22",
+    "shares_outstanding": 51093660.0,
+    "revenue": 216953000.0,
+    "net_income": 73481000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-22",
+    "shares_outstanding": 51069511.0,
+    "revenue": 223151000.0,
+    "net_income": 71938000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2020",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 50582979.0,
+    "revenue": 1056912000.0,
+    "net_income": 66289000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 50573073.0,
+    "revenue": 243731000.0,
+    "net_income": 57116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-24",
+    "shares_outstanding": 50416331.0,
+    "revenue": 252010000.0,
+    "net_income": -34316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-24",
+    "shares_outstanding": 50474802.0,
+    "revenue": 306008000.0,
+    "net_income": -16687000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-12",
+    "shares_outstanding": 50419204.0,
+    "revenue": 1365312000.0,
+    "net_income": 322866000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-17",
+    "shares_outstanding": 50416402.0,
+    "revenue": 355101000.0,
+    "net_income": 88141000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-18",
+    "shares_outstanding": 50383870.0,
+    "revenue": 346893000.0,
+    "net_income": 77969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-18",
+    "shares_outstanding": 50345399.0,
+    "revenue": 325561000.0,
+    "net_income": 82839000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2018",
+    "filing_date": "2019-02-14",
+    "shares_outstanding": 50272872.0,
+    "revenue": 1164193000.0,
+    "net_income": 300824000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-18",
+    "shares_outstanding": 50381349.0,
+    "revenue": 301754000.0,
+    "net_income": 85552000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-19",
+    "shares_outstanding": 50096015.0,
+    "revenue": 286852000.0,
+    "net_income": 71436000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-19",
+    "shares_outstanding": 50353497.0,
+    "revenue": 253869000.0,
+    "net_income": 71945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2017",
+    "filing_date": "2018-02-14",
+    "shares_outstanding": 50259834.0,
+    "revenue": 879299000.0,
+    "net_income": 197063000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-19",
+    "shares_outstanding": 50251000.0,
+    "revenue": 237643000.0,
+    "net_income": 56246000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-20",
+    "shares_outstanding": 50230000.0,
+    "revenue": 208191000.0,
+    "net_income": 48658000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-20",
+    "shares_outstanding": 50234000.0,
+    "revenue": 183946000.0,
+    "net_income": 40104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 46765902.0,
+    "revenue": 703408000.0,
+    "net_income": 155119000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-20",
+    "shares_outstanding": 46510000.0,
+    "revenue": 182492000.0,
+    "net_income": 40287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-21",
+    "shares_outstanding": 46438000.0,
+    "revenue": 172442000.0,
+    "net_income": 36443000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-21",
+    "shares_outstanding": 46354000.0,
+    "revenue": 159803000.0,
+    "net_income": 22690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2015",
+    "filing_date": "2016-02-18",
+    "shares_outstanding": 46437872.0,
+    "revenue": 602958000.0,
+    "net_income": 144854000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-22",
+    "shares_outstanding": 46471000.0,
+    "revenue": 153856000.0,
+    "net_income": 34676000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-23",
+    "shares_outstanding": 46443000.0,
+    "revenue": 153374000.0,
+    "net_income": 35500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-23",
+    "shares_outstanding": 46368000.0,
+    "revenue": 140908000.0,
+    "net_income": 32612000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2014",
+    "filing_date": "2015-02-19",
+    "shares_outstanding": 44003256.0,
+    "revenue": 514547000.0,
+    "net_income": 136352000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-23",
+    "shares_outstanding": 43850000.0,
+    "revenue": 135290000.0,
+    "net_income": 34394000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-24",
+    "shares_outstanding": 43845000.0,
+    "revenue": 124813000.0,
+    "net_income": 30984000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-24",
+    "shares_outstanding": 43220000.0,
+    "revenue": 116611000.0,
+    "net_income": 25827000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 41779881.0,
+    "revenue": 444625000.0,
+    "net_income": 113657000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-12",
+    "shares_outstanding": 41792000.0,
+    "revenue": 115217000.0,
+    "net_income": 31039000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-29",
+    "shares_outstanding": 41724000.0,
+    "revenue": 107264000.0,
+    "net_income": 21635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 41429000.0,
+    "revenue": 104179000.0,
+    "net_income": 33062000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 40165847.0,
+    "revenue": 1605000.0,
+    "net_income": 120672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-25",
+    "shares_outstanding": 40756000.0,
+    "revenue": 102011000.0,
+    "net_income": 32536000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-26",
+    "shares_outstanding": 39142000.0,
+    "revenue": 95546000.0,
+    "net_income": 29622000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 38914000.0,
+    "revenue": 93131000.0,
+    "net_income": 27085000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-20",
+    "shares_outstanding": 587944000.0,
+    "revenue": 83263000.0,
+    "net_income": 21703000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TCBI",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-21",
+    "shares_outstanding": 563924000.0,
+    "revenue": 75259000.0,
+    "net_income": 16654000.0,
+    "market_cap": null
+  }
+]

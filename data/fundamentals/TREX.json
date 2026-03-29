@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "TREX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 107095977.0,
+    "revenue": 1174267000.0,
+    "net_income": 190415000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 107095977.0,
+    "revenue": 1174267000.0,
+    "net_income": 190415000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 107332641.0,
+    "revenue": 285348000.0,
+    "net_income": 51770000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-04",
+    "shares_outstanding": 107296203.0,
+    "revenue": 387801000.0,
+    "net_income": 75909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 107284084.0,
+    "revenue": 339993000.0,
+    "net_income": 60434000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-24",
+    "shares_outstanding": 108322576.0,
+    "revenue": 1151449000.0,
+    "net_income": 226392000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 108810296.0,
+    "revenue": 376470000.0,
+    "net_income": 86998000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-09",
+    "shares_outstanding": 108790625.0,
+    "revenue": 373635000.0,
+    "net_income": 89070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-26",
+    "shares_outstanding": 108809403.0,
+    "revenue": 1094837000.0,
+    "net_income": 205384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-30",
+    "shares_outstanding": 108702495.0,
+    "revenue": 303836000.0,
+    "net_income": 65266000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-31",
+    "shares_outstanding": 108871440.0,
+    "revenue": 356538000.0,
+    "net_income": 77036000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-08",
+    "shares_outstanding": 108916261.0,
+    "revenue": 238718000.0,
+    "net_income": 41131000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 111880488.0,
+    "revenue": 1106043000.0,
+    "net_income": 184626000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-31",
+    "shares_outstanding": 110300017.0,
+    "revenue": 188472000.0,
+    "net_income": 14423000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-08",
+    "shares_outstanding": 113259514.0,
+    "revenue": 386249000.0,
+    "net_income": 88916000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-09",
+    "shares_outstanding": 114853881.0,
+    "revenue": 339228000.0,
+    "net_income": 71211000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-28",
+    "shares_outstanding": 115762843.0,
+    "revenue": 1196952000.0,
+    "net_income": 208737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-08",
+    "shares_outstanding": 115625760.0,
+    "revenue": 335872000.0,
+    "net_income": 73795000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-02",
+    "shares_outstanding": 115662626.0,
+    "revenue": 311596000.0,
+    "net_income": 61366000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-10",
+    "shares_outstanding": 116017400.0,
+    "revenue": 245524000.0,
+    "net_income": 48545000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-22",
+    "shares_outstanding": 116252866.0,
+    "revenue": 880831000.0,
+    "net_income": 175631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 116134623.0,
+    "revenue": 231502000.0,
+    "net_income": 42710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-03",
+    "shares_outstanding": 116061988.0,
+    "revenue": 220648000.0,
+    "net_income": 47218000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-04",
+    "shares_outstanding": 116647442.0,
+    "revenue": 200395000.0,
+    "net_income": 42402000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 58657749.0,
+    "revenue": 745347000.0,
+    "net_income": 144738000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-28",
+    "shares_outstanding": 58604603.0,
+    "revenue": 194551000.0,
+    "net_income": 41976000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-29",
+    "shares_outstanding": 58687540.0,
+    "revenue": 206453000.0,
+    "net_income": 35710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-29",
+    "shares_outstanding": 58829177.0,
+    "revenue": 179571000.0,
+    "net_income": 31555000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-14",
+    "shares_outstanding": 59067302.0,
+    "revenue": 684250000.0,
+    "net_income": 134572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-29",
+    "shares_outstanding": 59084117.0,
+    "revenue": 166380000.0,
+    "net_income": 29471000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-30",
+    "shares_outstanding": 59051413.0,
+    "revenue": 206692000.0,
+    "net_income": 42820000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 59199622.0,
+    "revenue": 171207000.0,
+    "net_income": 37110000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-21",
+    "shares_outstanding": 29575460.0,
+    "revenue": 565153000.0,
+    "net_income": 95128000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 29578216.0,
+    "revenue": 140194000.0,
+    "net_income": 20098000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 29550418.0,
+    "revenue": 157941000.0,
+    "net_income": 28782000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 29561406.0,
+    "revenue": 144806000.0,
+    "net_income": 27949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 29612669.0,
+    "revenue": 479616000.0,
+    "net_income": 67847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 29516718.0,
+    "revenue": 106168000.0,
+    "net_income": 7787000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-02",
+    "shares_outstanding": 29477870.0,
+    "revenue": 146450000.0,
+    "net_income": 23725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-10",
+    "shares_outstanding": 29910292.0,
+    "revenue": 131676000.0,
+    "net_income": 23706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-23",
+    "shares_outstanding": 31682509.0,
+    "revenue": 440804000.0,
+    "net_income": 48098000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-27",
+    "shares_outstanding": 31537010.0,
+    "revenue": 94023000.0,
+    "net_income": 3744000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-03",
+    "shares_outstanding": 32142939.0,
+    "revenue": 136779000.0,
+    "net_income": 18715000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 32094828.0,
+    "revenue": 120800000.0,
+    "net_income": 17553000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 32751074.0,
+    "revenue": 391660000.0,
+    "net_income": 41521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-27",
+    "shares_outstanding": 32008781.0,
+    "revenue": 95502000.0,
+    "net_income": 8913000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-04",
+    "shares_outstanding": 33307463.0,
+    "revenue": 121311000.0,
+    "net_income": 15161000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-05",
+    "shares_outstanding": 16799719.0,
+    "revenue": 100645000.0,
+    "net_income": 12295000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-24",
+    "shares_outstanding": 17136751.0,
+    "revenue": 342511000.0,
+    "net_income": 34598000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-25",
+    "shares_outstanding": 16830106.0,
+    "revenue": 72249000.0,
+    "net_income": -15298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 17392270.0,
+    "revenue": 98551000.0,
+    "net_income": 13224000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 17280445.0,
+    "revenue": 107880000.0,
+    "net_income": 21569000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2012",
+    "filing_date": "2013-02-19",
+    "shares_outstanding": 17064856.0,
+    "revenue": 307354000.0,
+    "net_income": 2720000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 16677159.0,
+    "revenue": 70819000.0,
+    "net_income": -14312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 17210177.0,
+    "revenue": 94279000.0,
+    "net_income": 8339000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 16717987.0,
+    "revenue": 96100000.0,
+    "net_income": 12311000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "FY 2011",
+    "filing_date": "2012-03-07",
+    "shares_outstanding": 15388456.0,
+    "revenue": 266789000.0,
+    "net_income": -11588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-31",
+    "shares_outstanding": 15427437.0,
+    "revenue": 67916000.0,
+    "net_income": -496000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TREX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-01",
+    "shares_outstanding": 17153179.0,
+    "revenue": 78405000.0,
+    "net_income": 2106000.0,
+    "market_cap": null
+  }
+]

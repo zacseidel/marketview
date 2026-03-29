@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "LMT",
+    "period": "TTM 2025",
+    "filing_date": "2026-01-29",
+    "shares_outstanding": 233500000.0,
+    "revenue": 75048000000.0,
+    "net_income": 5017000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2025",
+    "filing_date": "2026-01-29",
+    "shares_outstanding": 233500000.0,
+    "revenue": 75048000000.0,
+    "net_income": 5017000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-21",
+    "shares_outstanding": 232800000.0,
+    "revenue": 18609000000.0,
+    "net_income": 1619000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-22",
+    "shares_outstanding": 234300000.0,
+    "revenue": 18155000000.0,
+    "net_income": 342000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-22",
+    "shares_outstanding": 235300000.0,
+    "revenue": 17963000000.0,
+    "net_income": 1712000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-22",
+    "shares_outstanding": 238600000.0,
+    "revenue": 17104000000.0,
+    "net_income": 1623000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-23",
+    "shares_outstanding": 239600000.0,
+    "revenue": 18122000000.0,
+    "net_income": 1641000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-23",
+    "shares_outstanding": 241600000.0,
+    "revenue": 17195000000.0,
+    "net_income": 1545000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2023",
+    "filing_date": "2024-01-23",
+    "shares_outstanding": 251200000.0,
+    "revenue": 67571000000.0,
+    "net_income": 6920000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-17",
+    "shares_outstanding": 250200000.0,
+    "revenue": 16878000000.0,
+    "net_income": 1684000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-19",
+    "shares_outstanding": 253600000.0,
+    "revenue": 16693000000.0,
+    "net_income": 1681000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-18",
+    "shares_outstanding": 255700000.0,
+    "revenue": 15126000000.0,
+    "net_income": 1689000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2022",
+    "filing_date": "2023-01-26",
+    "shares_outstanding": 264600000.0,
+    "revenue": 65984000000.0,
+    "net_income": 5732000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-18",
+    "shares_outstanding": 265100000.0,
+    "revenue": 16583000000.0,
+    "net_income": 1778000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-19",
+    "shares_outstanding": 266700000.0,
+    "revenue": 15446000000.0,
+    "net_income": 309000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-20",
+    "shares_outstanding": 269200000.0,
+    "revenue": 14964000000.0,
+    "net_income": 1733000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2021",
+    "filing_date": "2022-01-25",
+    "shares_outstanding": 277400000.0,
+    "revenue": 67044000000.0,
+    "net_income": 6315000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-26",
+    "shares_outstanding": 277300000.0,
+    "revenue": 16028000000.0,
+    "net_income": 614000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-26",
+    "shares_outstanding": 278400000.0,
+    "revenue": 17029000000.0,
+    "net_income": 1815000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-21",
+    "shares_outstanding": 280000000.0,
+    "revenue": 16258000000.0,
+    "net_income": 1837000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2020",
+    "filing_date": "2021-01-28",
+    "shares_outstanding": 281200000.0,
+    "revenue": 65398000000.0,
+    "net_income": 6833000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 280600000.0,
+    "revenue": 16495000000.0,
+    "net_income": 1698000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-21",
+    "shares_outstanding": 280800000.0,
+    "revenue": 16220000000.0,
+    "net_income": 1626000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-22",
+    "shares_outstanding": 282600000.0,
+    "revenue": 15651000000.0,
+    "net_income": 1717000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2019",
+    "filing_date": "2020-02-07",
+    "shares_outstanding": 283800000.0,
+    "revenue": 59812000000.0,
+    "net_income": 6230000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 283900000.0,
+    "revenue": 15171000000.0,
+    "net_income": 1608000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-23",
+    "shares_outstanding": 283900000.0,
+    "revenue": 14427000000.0,
+    "net_income": 1420000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-24",
+    "shares_outstanding": 284300000.0,
+    "revenue": 14336000000.0,
+    "net_income": 1704000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2018",
+    "filing_date": "2019-02-08",
+    "shares_outstanding": 286800000.0,
+    "revenue": 53762000000.0,
+    "net_income": 5046000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 286700000.0,
+    "revenue": 14318000000.0,
+    "net_income": 1473000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-24",
+    "shares_outstanding": 287100000.0,
+    "revenue": 13398000000.0,
+    "net_income": 1163000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 287900000.0,
+    "revenue": 11635000000.0,
+    "net_income": 1157000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2017",
+    "filing_date": "2018-02-06",
+    "shares_outstanding": 290600000.0,
+    "revenue": 51048000000.0,
+    "net_income": 2002000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 290000000.0,
+    "revenue": 12169000000.0,
+    "net_income": 939000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-20",
+    "shares_outstanding": 291200000.0,
+    "revenue": 12685000000.0,
+    "net_income": 942000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-26",
+    "shares_outstanding": 292800000.0,
+    "revenue": 11057000000.0,
+    "net_income": 763000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2016",
+    "filing_date": "2017-02-09",
+    "shares_outstanding": 303100000.0,
+    "revenue": 47248000000.0,
+    "net_income": 5302000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 302100000.0,
+    "revenue": 11551000000.0,
+    "net_income": 2395000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-20",
+    "shares_outstanding": 307100000.0,
+    "revenue": 11577000000.0,
+    "net_income": 1021000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 307800000.0,
+    "revenue": 10368000000.0,
+    "net_income": 898000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 314700000.0,
+    "revenue": 46132000000.0,
+    "net_income": 3605000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-22",
+    "shares_outstanding": 312700000.0,
+    "revenue": 11461000000.0,
+    "net_income": 865000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-22",
+    "shares_outstanding": 316100000.0,
+    "revenue": 11643000000.0,
+    "net_income": 929000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-22",
+    "shares_outstanding": 320200000.0,
+    "revenue": 10111000000.0,
+    "net_income": 878000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2014",
+    "filing_date": "2015-02-09",
+    "shares_outstanding": 322400000.0,
+    "revenue": 45600000000.0,
+    "net_income": 3614000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-24",
+    "shares_outstanding": 321800000.0,
+    "revenue": 11114000000.0,
+    "net_income": 888000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-23",
+    "shares_outstanding": 322100000.0,
+    "revenue": 11306000000.0,
+    "net_income": 889000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-24",
+    "shares_outstanding": 325100000.0,
+    "revenue": 10650000000.0,
+    "net_income": 933000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2013",
+    "filing_date": "2014-02-14",
+    "shares_outstanding": 326500000.0,
+    "revenue": 45358000000.0,
+    "net_income": 2981000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-25",
+    "shares_outstanding": 327500000.0,
+    "revenue": 11347000000.0,
+    "net_income": 873000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-24",
+    "shares_outstanding": 325900000.0,
+    "revenue": 11408000000.0,
+    "net_income": 859000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 326300000.0,
+    "revenue": 11070000000.0,
+    "net_income": 761000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 328400000.0,
+    "revenue": 47182000000.0,
+    "net_income": 2745000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-25",
+    "shares_outstanding": 328300000.0,
+    "revenue": 11869000000.0,
+    "net_income": 727000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-25",
+    "shares_outstanding": 328800000.0,
+    "revenue": 11921000000.0,
+    "net_income": 781000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 328600000.0,
+    "revenue": 11293000000.0,
+    "net_income": 668000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 339900000.0,
+    "revenue": 46499000000.0,
+    "net_income": 2655000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 333600000.0,
+    "revenue": 12119000000.0,
+    "net_income": 700000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-27",
+    "shares_outstanding": 346600000.0,
+    "revenue": 11543000000.0,
+    "net_income": 742000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-27",
+    "shares_outstanding": 352600000.0,
+    "revenue": 10626000000.0,
+    "net_income": 530000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-21",
+    "shares_outstanding": 363900000.0,
+    "revenue": 11375000000.0,
+    "net_income": 571000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-29",
+    "shares_outstanding": 371700000.0,
+    "revenue": 11442000000.0,
+    "net_income": 825000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q1 2010",
+    "filing_date": "2010-04-21",
+    "shares_outstanding": 3000000.0,
+    "revenue": 10637000000.0,
+    "net_income": 547000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "FY 2009",
+    "filing_date": "2010-02-25",
+    "shares_outstanding": 4129000000.0,
+    "revenue": 45189000000.0,
+    "net_income": 3024000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-23",
+    "shares_outstanding": 3140000000.0,
+    "revenue": 11056000000.0,
+    "net_income": 797000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LMT",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-22",
+    "shares_outstanding": 2820000000.0,
+    "revenue": 11236000000.0,
+    "net_income": 734000000.0,
+    "market_cap": null
+  }
+]

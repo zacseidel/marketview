@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "HBAN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 1504836000.0,
+    "revenue": 1562000000.0,
+    "net_income": 2229000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 1504836000.0,
+    "revenue": 1562000000.0,
+    "net_income": 2229000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 1484587000.0,
+    "revenue": 424000000.0,
+    "net_income": 633000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-29",
+    "shares_outstanding": 1480996000.0,
+    "revenue": 377000000.0,
+    "net_income": 542000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 1481879000.0,
+    "revenue": 351000000.0,
+    "net_income": 531000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 1476982000.0,
+    "revenue": 362000000.0,
+    "net_income": 522000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 1474259000.0,
+    "revenue": 360000000.0,
+    "net_income": 480000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 1473335000.0,
+    "revenue": 336000000.0,
+    "net_income": 424000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 1468016000.0,
+    "revenue": 1400000000.0,
+    "net_income": 1971000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 1467611000.0,
+    "revenue": 338000000.0,
+    "net_income": 552000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 1465720000.0,
+    "revenue": 332000000.0,
+    "net_income": 565000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 1469279000.0,
+    "revenue": 377000000.0,
+    "net_income": 606000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-17",
+    "shares_outstanding": 1465220000.0,
+    "revenue": 1318000000.0,
+    "net_income": 2249000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 1465083000.0,
+    "revenue": 345000000.0,
+    "net_income": 597000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 1463293000.0,
+    "revenue": 322000000.0,
+    "net_income": 541000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 1464327000.0,
+    "revenue": 308000000.0,
+    "net_income": 462000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 1286733000.0,
+    "revenue": 1113000000.0,
+    "net_income": 1297000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 1487335000.0,
+    "revenue": 315000000.0,
+    "net_income": 378000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 1125039000.0,
+    "revenue": 257000000.0,
+    "net_income": -15000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 1041003000.0,
+    "revenue": 222000000.0,
+    "net_income": 532000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 1032683000.0,
+    "revenue": 884000000.0,
+    "net_income": 817000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 1031460000.0,
+    "revenue": 224000000.0,
+    "net_income": 303000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 1028683000.0,
+    "revenue": 201000000.0,
+    "net_income": 150000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 1034576000.0,
+    "revenue": 227000000.0,
+    "net_income": 48000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 1056079000.0,
+    "revenue": 939000000.0,
+    "net_income": 1411000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-28",
+    "shares_outstanding": 1051273000.0,
+    "revenue": 1052000000.0,
+    "net_income": 372000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-29",
+    "shares_outstanding": 1060280000.0,
+    "revenue": 1068000000.0,
+    "net_income": 364000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-29",
+    "shares_outstanding": 1066000000.0,
+    "revenue": 1070000000.0,
+    "net_income": 358000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2018",
+    "filing_date": "2019-02-15",
+    "shares_outstanding": 1105985000.0,
+    "revenue": 881000000.0,
+    "net_income": 1393000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 1103740000.0,
+    "revenue": 1007000000.0,
+    "net_income": 378000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-30",
+    "shares_outstanding": 1123000000.0,
+    "revenue": 972000000.0,
+    "net_income": 355000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-30",
+    "shares_outstanding": 1124778000.0,
+    "revenue": 914000000.0,
+    "net_income": 326000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 1136186000.0,
+    "revenue": 3433000000.0,
+    "net_income": 1186000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-30",
+    "shares_outstanding": 1106491000.0,
+    "revenue": 873000000.0,
+    "net_income": 275000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-31",
+    "shares_outstanding": 1108527000.0,
+    "revenue": 846000000.0,
+    "net_income": 272000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 1108617000.0,
+    "revenue": 820000000.0,
+    "net_income": 207000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2016",
+    "filing_date": "2017-02-22",
+    "shares_outstanding": 918790000.0,
+    "revenue": 2632113000.0,
+    "net_income": 711821000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 952081000.0,
+    "revenue": 694346000.0,
+    "net_income": 127004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 810371000.0,
+    "revenue": 565658000.0,
+    "net_income": 174540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 808349000.0,
+    "revenue": 557251000.0,
+    "net_income": 171314000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2015",
+    "filing_date": "2016-02-17",
+    "shares_outstanding": 817129000.0,
+    "revenue": 2114521000.0,
+    "net_income": 692957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 814326000.0,
+    "revenue": 538477000.0,
+    "net_income": 152588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 820238000.0,
+    "revenue": 529795000.0,
+    "net_income": 196206000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 823809000.0,
+    "revenue": 502096000.0,
+    "net_income": 165854000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2014",
+    "filing_date": "2015-02-13",
+    "shares_outstanding": 833081000.0,
+    "revenue": 1976462000.0,
+    "net_income": 632392000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-28",
+    "shares_outstanding": 829623000.0,
+    "revenue": 501060000.0,
+    "net_income": 155016000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 834687000.0,
+    "revenue": 495322000.0,
+    "net_income": 164619000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-28",
+    "shares_outstanding": 842677000.0,
+    "revenue": 472455000.0,
+    "net_income": 149143000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2013",
+    "filing_date": "2014-02-14",
+    "shares_outstanding": 843974000.0,
+    "revenue": 1860637000.0,
+    "net_income": 638741000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 841025000.0,
+    "revenue": 462912000.0,
+    "net_income": 178487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-29",
+    "shares_outstanding": 843840000.0,
+    "revenue": 462582000.0,
+    "net_income": 150651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-29",
+    "shares_outstanding": 848708000.0,
+    "revenue": 465319000.0,
+    "net_income": 151780000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2012",
+    "filing_date": "2013-02-15",
+    "shares_outstanding": 863402000.0,
+    "revenue": 1930263000.0,
+    "net_income": 641022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 863588000.0,
+    "revenue": 483787000.0,
+    "net_income": 167767000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-30",
+    "shares_outstanding": 867551.0,
+    "revenue": 487544000.0,
+    "net_income": 152706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-30",
+    "shares_outstanding": 869164.0,
+    "revenue": 479937000.0,
+    "net_income": 153270000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "FY 2011",
+    "filing_date": "2012-02-17",
+    "shares_outstanding": 867624000.0,
+    "revenue": 1970226000.0,
+    "net_income": 542613000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-31",
+    "shares_outstanding": 867633.0,
+    "revenue": 490996000.0,
+    "net_income": 143391000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 867469000.0,
+    "revenue": 492137000.0,
+    "net_income": 145918000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HBAN",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-29",
+    "shares_outstanding": 867237000.0,
+    "revenue": 501877000.0,
+    "net_income": 126446000.0,
+    "market_cap": null
+  }
+]

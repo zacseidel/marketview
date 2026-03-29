@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "SON",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 99571000.0,
+    "revenue": 7518753000.0,
+    "net_income": 1003386000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 99571000.0,
+    "revenue": 7518753000.0,
+    "net_income": 1003386000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-29",
+    "shares_outstanding": 99648000.0,
+    "revenue": 2131108000.0,
+    "net_income": 123065000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-28",
+    "shares_outstanding": 99539000.0,
+    "revenue": 1910441000.0,
+    "net_income": 493199000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 99342000.0,
+    "revenue": 1709228000.0,
+    "net_income": 54489000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 99290000.0,
+    "revenue": 5305365000.0,
+    "net_income": 163940000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 99267000.0,
+    "revenue": 1354652000.0,
+    "net_income": 51209000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 99241000.0,
+    "revenue": 1278801000.0,
+    "net_income": 90951000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 99159000.0,
+    "revenue": 1308636000.0,
+    "net_income": 65273000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 98890000.0,
+    "revenue": 6905475000.0,
+    "net_income": 475901000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 98912000.0,
+    "revenue": 1710419000.0,
+    "net_income": 131058000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 98872000.0,
+    "revenue": 1705290000.0,
+    "net_income": 114749000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 98615000.0,
+    "revenue": 1729783000.0,
+    "net_income": 148264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 98732000.0,
+    "revenue": 7401804000.0,
+    "net_income": 466980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 98762000.0,
+    "revenue": 1890216000.0,
+    "net_income": 122502000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 98686000.0,
+    "revenue": 1913332000.0,
+    "net_income": 131767000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 98554000.0,
+    "revenue": 1770982000.0,
+    "net_income": 115607000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2021",
+    "filing_date": "2022-02-28",
+    "shares_outstanding": 99608000.0,
+    "revenue": 5720438000.0,
+    "net_income": -82711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 99425000.0,
+    "revenue": 1415193000.0,
+    "net_income": 111555000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 100082000.0,
+    "revenue": 1382754000.0,
+    "net_income": -334239000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 101492000.0,
+    "revenue": 1353304000.0,
+    "net_income": 72293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 101209000.0,
+    "revenue": 5373674000.0,
+    "net_income": 207241000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 101245000.0,
+    "revenue": 1312314000.0,
+    "net_income": 83298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 101109000.0,
+    "revenue": 1245485000.0,
+    "net_income": 54990000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 101071000.0,
+    "revenue": 1303296000.0,
+    "net_income": 80236000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 101176000.0,
+    "revenue": 5522703000.0,
+    "net_income": 292668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 101186000.0,
+    "revenue": 1353931000.0,
+    "net_income": 92283000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 101178000.0,
+    "revenue": 1359721000.0,
+    "net_income": 81286000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 101072000.0,
+    "revenue": 1351705000.0,
+    "net_income": 73768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 101016000.0,
+    "revenue": 5531203000.0,
+    "net_income": 314739000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 101040000.0,
+    "revenue": 1364762000.0,
+    "net_income": 72820000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 101040000.0,
+    "revenue": 1366373000.0,
+    "net_income": 89645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 100896000.0,
+    "revenue": 1304187000.0,
+    "net_income": 74925000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 100852000.0,
+    "revenue": 5188107000.0,
+    "net_income": 177447000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 100684000.0,
+    "revenue": 1324634000.0,
+    "net_income": 73411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 100717000.0,
+    "revenue": 1240674000.0,
+    "net_income": 43656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 100980000.0,
+    "revenue": 1172324000.0,
+    "net_income": 54330000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 101782000.0,
+    "revenue": 4892538000.0,
+    "net_income": 287881000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 101579000.0,
+    "revenue": 1208724000.0,
+    "net_income": 65978000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 101873000.0,
+    "revenue": 1205680000.0,
+    "net_income": 56718000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 102329000.0,
+    "revenue": 1226276000.0,
+    "net_income": 60190000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 102392000.0,
+    "revenue": 4964369000.0,
+    "net_income": 250624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-28",
+    "shares_outstanding": 102405000.0,
+    "revenue": 1242592000.0,
+    "net_income": 43995000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-26",
+    "shares_outstanding": 102424000.0,
+    "revenue": 1248590000.0,
+    "net_income": 64629000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-29",
+    "shares_outstanding": 102167000.0,
+    "revenue": 1206052000.0,
+    "net_income": 87828000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 103172000.0,
+    "revenue": 5014534000.0,
+    "net_income": 240084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 103087000.0,
+    "revenue": 1263574000.0,
+    "net_income": 71734000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-29",
+    "shares_outstanding": 103446000.0,
+    "revenue": 1247380000.0,
+    "net_income": 61609000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 103767000.0,
+    "revenue": 1185626000.0,
+    "net_income": 52225000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 103248000.0,
+    "revenue": 4848092000.0,
+    "net_income": 220395000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 103510000.0,
+    "revenue": 1227749000.0,
+    "net_income": 61425000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 102977000.0,
+    "revenue": 1226256000.0,
+    "net_income": 55046000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 102814000.0,
+    "revenue": 1179213000.0,
+    "net_income": 47793000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 102573000.0,
+    "revenue": 4894698000.0,
+    "net_income": 196120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 102544000.0,
+    "revenue": 1195530000.0,
+    "net_income": 59029000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 102569000.0,
+    "revenue": 1202359000.0,
+    "net_income": 51351000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-01",
+    "shares_outstanding": 102600000.0,
+    "revenue": 1212370000.0,
+    "net_income": 42912000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 102173000.0,
+    "revenue": 4611081000.0,
+    "net_income": 218044000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 101959000.0,
+    "revenue": 1124171000.0,
+    "net_income": 77173000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 101982000.0,
+    "revenue": 1127865000.0,
+    "net_income": 53706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": 102754000.0,
+    "revenue": 1117323000.0,
+    "net_income": 57637000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "FY 2010",
+    "filing_date": "2011-02-28",
+    "shares_outstanding": 102543000.0,
+    "revenue": 4124121000.0,
+    "net_income": 201474000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-25",
+    "shares_outstanding": 102684000.0,
+    "revenue": 1051725000.0,
+    "net_income": 59221000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SON",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-29",
+    "shares_outstanding": 102484000.0,
+    "revenue": 1010116000.0,
+    "net_income": 58956000.0,
+    "market_cap": null
+  }
+]

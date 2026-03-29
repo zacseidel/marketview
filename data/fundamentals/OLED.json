@@ -1,0 +1,470 @@
+[
+  {
+    "ticker": "OLED",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 47658295.0,
+    "revenue": 650611000.0,
+    "net_income": 242075000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 47658295.0,
+    "revenue": 650611000.0,
+    "net_income": 242075000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 47676500.0,
+    "revenue": 139613000.0,
+    "net_income": 44025000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 47674886.0,
+    "revenue": 171794000.0,
+    "net_income": 67264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 47689657.0,
+    "revenue": 166277000.0,
+    "net_income": 64444000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 47652662.0,
+    "revenue": 647684000.0,
+    "net_income": 222079000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 47669439.0,
+    "revenue": 161627000.0,
+    "net_income": 66870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 47628113.0,
+    "revenue": 158505000.0,
+    "net_income": 52337000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 47628492.0,
+    "revenue": 165259000.0,
+    "net_income": 56853000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 47622763.0,
+    "revenue": 576429000.0,
+    "net_income": 203011000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 47632431.0,
+    "revenue": 141077000.0,
+    "net_income": 51516000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 47618115.0,
+    "revenue": 146565000.0,
+    "net_income": 49678000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 47567007.0,
+    "revenue": 130467000.0,
+    "net_income": 39839000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 47468507.0,
+    "revenue": 616619000.0,
+    "net_income": 210061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 47466934.0,
+    "revenue": 160556000.0,
+    "net_income": 53455000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 47457892.0,
+    "revenue": 136561000.0,
+    "net_income": 41502000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 47440281.0,
+    "revenue": 150470000.0,
+    "net_income": 49970000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 47365435.0,
+    "revenue": 553525000.0,
+    "net_income": 184213000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 47362575.0,
+    "revenue": 143618000.0,
+    "net_income": 46109000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 47356864.0,
+    "revenue": 129660000.0,
+    "net_income": 40541000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 47329704.0,
+    "revenue": 134000000.0,
+    "net_income": 51687000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2020",
+    "filing_date": "2021-02-18",
+    "shares_outstanding": 47236994.0,
+    "revenue": 428867000.0,
+    "net_income": 133372000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 47260331.0,
+    "revenue": 117079000.0,
+    "net_income": 40500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 47243991.0,
+    "revenue": 57968000.0,
+    "net_income": 815000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 47122829.0,
+    "revenue": 112277000.0,
+    "net_income": 38155000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 46995462.0,
+    "revenue": 405177000.0,
+    "net_income": 138304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 47013919.0,
+    "revenue": 97515000.0,
+    "net_income": 36962000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 46996702.0,
+    "revenue": 118168000.0,
+    "net_income": 43440000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 46931999.0,
+    "revenue": 87765000.0,
+    "net_income": 31474000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 46896766.0,
+    "revenue": 247414000.0,
+    "net_income": 58840000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 46914553.0,
+    "revenue": 77550000.0,
+    "net_income": 22818000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 46901098.0,
+    "revenue": 56149000.0,
+    "net_income": 10814000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 46848798.0,
+    "revenue": 43572000.0,
+    "net_income": 5959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 46805194.0,
+    "revenue": 335629000.0,
+    "net_income": 103885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 46871720.0,
+    "revenue": 61683000.0,
+    "net_income": 13520000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 46810238.0,
+    "revenue": 102513000.0,
+    "net_income": 47187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 46742894.0,
+    "revenue": 55566000.0,
+    "net_income": 10365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 46535980.0,
+    "revenue": 198886000.0,
+    "net_income": 48070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 46947621.0,
+    "revenue": 30214000.0,
+    "net_income": -1500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 47041854.0,
+    "revenue": 64392000.0,
+    "net_income": 21802000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 46907558.0,
+    "revenue": 29703000.0,
+    "net_income": 1949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 47494188.0,
+    "revenue": 191046000.0,
+    "net_income": 14678000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 46723373.0,
+    "revenue": 39419000.0,
+    "net_income": 7047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 46388218.0,
+    "revenue": 58092000.0,
+    "net_income": -11771000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 46214247.0,
+    "revenue": 31223000.0,
+    "net_income": 1314000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 46685145.0,
+    "revenue": 191031000.0,
+    "net_income": 41854000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 46633763.0,
+    "revenue": 32892000.0,
+    "net_income": 4284000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 46614726.0,
+    "revenue": 64127000.0,
+    "net_income": 20422000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 46651438.0,
+    "revenue": 37839000.0,
+    "net_income": 4022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 46543605.0,
+    "revenue": 146639000.0,
+    "net_income": 74052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 46594843.0,
+    "revenue": 32826000.0,
+    "net_income": 5542000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OLED",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 46496120.0,
+    "revenue": 49359000.0,
+    "net_income": 15382000.0,
+    "market_cap": null
+  }
+]

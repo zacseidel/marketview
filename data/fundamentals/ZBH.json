@@ -1,0 +1,398 @@
+[
+  {
+    "ticker": "ZBH",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 198700000.0,
+    "revenue": 8231500000.0,
+    "net_income": 705100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 198700000.0,
+    "revenue": 8231500000.0,
+    "net_income": 705100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 198800000.0,
+    "revenue": 2001400000.0,
+    "net_income": 231200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 198300000.0,
+    "revenue": 2077300000.0,
+    "net_income": 153400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-05",
+    "shares_outstanding": 199700000.0,
+    "revenue": 1909100000.0,
+    "net_income": 182600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 203900000.0,
+    "revenue": 7678600000.0,
+    "net_income": 905300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 203000000.0,
+    "revenue": 1824200000.0,
+    "net_income": 249300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 206400000.0,
+    "revenue": 1942000000.0,
+    "net_income": 243100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 206200000.0,
+    "revenue": 1889200000.0,
+    "net_income": 172800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 209700000.0,
+    "revenue": 7394200000.0,
+    "net_income": 1025100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 210000000.0,
+    "revenue": 1753600000.0,
+    "net_income": 162900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 209900000.0,
+    "revenue": 1869600000.0,
+    "net_income": 209800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 210400000.0,
+    "revenue": 1831000000.0,
+    "net_income": 232800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 210300000.0,
+    "revenue": 6939900000.0,
+    "net_income": 232400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 210300000.0,
+    "revenue": 1669800000.0,
+    "net_income": 194200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 210300000.0,
+    "revenue": 1781800000.0,
+    "net_income": 154000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 210100000.0,
+    "revenue": 1663200000.0,
+    "net_income": 14400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 210400000.0,
+    "revenue": 7836200000.0,
+    "net_income": 402100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 210600000.0,
+    "revenue": 1924000000.0,
+    "net_income": 145800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 210700000.0,
+    "revenue": 2026900000.0,
+    "net_income": 142500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 210200000.0,
+    "revenue": 1847400000.0,
+    "net_income": 197700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2020",
+    "filing_date": "2021-02-22",
+    "shares_outstanding": 207000000.0,
+    "revenue": 7024500000.0,
+    "net_income": -137400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 208500000.0,
+    "revenue": 1929300000.0,
+    "net_income": 246100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 206800000.0,
+    "revenue": 1226100000.0,
+    "net_income": -208200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 206500000.0,
+    "revenue": 1783800000.0,
+    "net_income": -509100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 206700000.0,
+    "revenue": 7982200000.0,
+    "net_income": 1131500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 207000000.0,
+    "revenue": 1892400000.0,
+    "net_income": 432000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-05",
+    "shares_outstanding": 206200000.0,
+    "revenue": 1988600000.0,
+    "net_income": 131900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-06",
+    "shares_outstanding": 205800000.0,
+    "revenue": 1975500000.0,
+    "net_income": 246200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 203500000.0,
+    "revenue": 7932900000.0,
+    "net_income": -379300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 205400000.0,
+    "revenue": 1836700000.0,
+    "net_income": 162100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-06",
+    "shares_outstanding": 204600000.0,
+    "revenue": 2007600000.0,
+    "net_income": 184900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 204600000.0,
+    "revenue": 2017600000.0,
+    "net_income": 176200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 203700000.0,
+    "revenue": 7824100000.0,
+    "net_income": 1813400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-06",
+    "shares_outstanding": 204000000.0,
+    "revenue": 1818100000.0,
+    "net_income": 98800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 203700000.0,
+    "revenue": 1954400000.0,
+    "net_income": 184100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 203100000.0,
+    "revenue": 1977300000.0,
+    "net_income": 299300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 202400000.0,
+    "revenue": 7683900000.0,
+    "net_income": 304600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 202900000.0,
+    "revenue": 1832800000.0,
+    "net_income": 157900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-08",
+    "shares_outstanding": 199400000.0,
+    "revenue": 1934000000.0,
+    "net_income": -31700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-10",
+    "shares_outstanding": 202200000.0,
+    "revenue": 1904000000.0,
+    "net_income": 108700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 189800000.0,
+    "revenue": 5997800000.0,
+    "net_income": 146200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 205700000.0,
+    "revenue": 1762200000.0,
+    "net_income": 22200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ZBH",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": 173000000.0,
+    "revenue": 1167600000.0,
+    "net_income": -173800000.0,
+    "market_cap": null
+  }
+]

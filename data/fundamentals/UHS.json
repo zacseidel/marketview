@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "UHS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 64462000.0,
+    "revenue": 17364829000.0,
+    "net_income": 1511182000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 64462000.0,
+    "revenue": 17364829000.0,
+    "net_income": 1511182000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 63663000.0,
+    "revenue": 4495245000.0,
+    "net_income": 379105000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 64991000.0,
+    "revenue": 4283816000.0,
+    "net_income": 362612000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 66037000.0,
+    "revenue": 4099720000.0,
+    "net_income": 321628000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 67896000.0,
+    "revenue": 15827935000.0,
+    "net_income": 1163109000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 68108000.0,
+    "revenue": 3963027000.0,
+    "net_income": 265910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 67920000.0,
+    "revenue": 3907604000.0,
+    "net_income": 294330000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 68482000.0,
+    "revenue": 3843582000.0,
+    "net_income": 265822000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 70125000.0,
+    "revenue": 14281976000.0,
+    "net_income": 719307000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 69624000.0,
+    "revenue": 3562774000.0,
+    "net_income": 168008000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 70839000.0,
+    "revenue": 3548138000.0,
+    "net_income": 169302000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-08",
+    "shares_outstanding": 71487000.0,
+    "revenue": 3467518000.0,
+    "net_income": 162375000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 73832000.0,
+    "revenue": 13399370000.0,
+    "net_income": 656982000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 73060000.0,
+    "revenue": 3336027000.0,
+    "net_income": 176811000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-08",
+    "shares_outstanding": 74435000.0,
+    "revenue": 3323407000.0,
+    "net_income": 158781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 76041000.0,
+    "revenue": 3292956000.0,
+    "net_income": 151021000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 83692000.0,
+    "revenue": 12642117000.0,
+    "net_income": 987632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-08",
+    "shares_outstanding": 83673000.0,
+    "revenue": 3155999000.0,
+    "net_income": 219375000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 85624000.0,
+    "revenue": 3197880000.0,
+    "net_income": 325276000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 85796000.0,
+    "revenue": 3012987000.0,
+    "net_income": 209070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 85587000.0,
+    "revenue": 11558897000.0,
+    "net_income": 952790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 85247000.0,
+    "revenue": 2912541000.0,
+    "net_income": 244092000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 85059000.0,
+    "revenue": 2729754000.0,
+    "net_income": 256504000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 86455000.0,
+    "revenue": 2829667000.0,
+    "net_income": 144460000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 89040000.0,
+    "revenue": 11378259000.0,
+    "net_income": 827543000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 88355000.0,
+    "revenue": 2822453000.0,
+    "net_income": 100870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 89235000.0,
+    "revenue": 2855168000.0,
+    "net_income": 241265000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 90967000.0,
+    "revenue": 2804391000.0,
+    "net_income": 237398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 93750000.0,
+    "revenue": 10772278000.0,
+    "net_income": 797883000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 93330000.0,
+    "revenue": 2648913000.0,
+    "net_income": 174881000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 94281000.0,
+    "revenue": 2681353000.0,
+    "net_income": 230711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 94683000.0,
+    "revenue": 2687516000.0,
+    "net_income": 228669000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 96325000.0,
+    "revenue": 10409865000.0,
+    "net_income": 771312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 95977000.0,
+    "revenue": 2541864000.0,
+    "net_income": 145362000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-07",
+    "shares_outstanding": 97042000.0,
+    "revenue": 2612356000.0,
+    "net_income": 190388000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 97372000.0,
+    "revenue": 2612858000.0,
+    "net_income": 210527000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 98380000.0,
+    "revenue": 9766210000.0,
+    "net_income": 747171000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 98321000.0,
+    "revenue": 2409872000.0,
+    "net_income": 157265000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 98389000.0,
+    "revenue": 2430855000.0,
+    "net_income": 195449000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 98895000.0,
+    "revenue": 2449798000.0,
+    "net_income": 215719000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 100694000.0,
+    "revenue": 9043451000.0,
+    "net_income": 750698000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 101159000.0,
+    "revenue": 2227655000.0,
+    "net_income": 163654000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 100927000.0,
+    "revenue": 2275204000.0,
+    "net_income": 201404000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 100647000.0,
+    "revenue": 2225353000.0,
+    "net_income": 194323000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 100544000.0,
+    "revenue": 8065326000.0,
+    "net_income": 604996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 101033000.0,
+    "revenue": 2017758000.0,
+    "net_income": 96038000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 100235000.0,
+    "revenue": 2019821000.0,
+    "net_income": 166614000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 100157000.0,
+    "revenue": 1920166000.0,
+    "net_income": 151852000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 99361000.0,
+    "revenue": 7283822000.0,
+    "net_income": 554023000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 99587000.0,
+    "revenue": 1816369000.0,
+    "net_income": 123099000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 99211000.0,
+    "revenue": 1834975000.0,
+    "net_income": 167803000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 98571000.0,
+    "revenue": 1831632000.0,
+    "net_income": 129935000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 97711000.0,
+    "revenue": 6961400000.0,
+    "net_income": 489047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 97611.0,
+    "revenue": 1680353000.0,
+    "net_income": 81373000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 97729000.0,
+    "revenue": 1723084000.0,
+    "net_income": 117444000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 97791000.0,
+    "revenue": 1793036000.0,
+    "net_income": 142570000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 98537000.0,
+    "revenue": 7500198000.0,
+    "net_income": 448870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 98598000.0,
+    "revenue": 1848662000.0,
+    "net_income": 94842000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 99258000.0,
+    "revenue": 1902234000.0,
+    "net_income": 116034000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 98868000.0,
+    "revenue": 1910528000.0,
+    "net_income": 129987000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 97935000.0,
+    "revenue": 1323264000.0,
+    "net_income": 65802000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UHS",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-09",
+    "shares_outstanding": 98054.0,
+    "revenue": 1338315000.0,
+    "net_income": 76415000.0,
+    "market_cap": null
+  }
+]

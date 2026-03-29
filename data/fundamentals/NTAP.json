@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2026",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 200000000.0,
+    "revenue": 1713000000.0,
+    "net_income": 334000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2026",
+    "filing_date": "2025-11-25",
+    "shares_outstanding": 202000000.0,
+    "revenue": 1705000000.0,
+    "net_income": 305000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2026",
+    "filing_date": "2025-08-27",
+    "shares_outstanding": 203000000.0,
+    "revenue": 1559000000.0,
+    "net_income": 233000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2025",
+    "filing_date": "2025-06-09",
+    "shares_outstanding": 209000000.0,
+    "revenue": 6572000000.0,
+    "net_income": 1186000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2025",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 208000000.0,
+    "revenue": 1641000000.0,
+    "net_income": 299000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2025",
+    "filing_date": "2024-11-25",
+    "shares_outstanding": 210000000.0,
+    "revenue": 1658000000.0,
+    "net_income": 299000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2025",
+    "filing_date": "2024-08-28",
+    "shares_outstanding": 212000000.0,
+    "revenue": 1541000000.0,
+    "net_income": 248000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2024",
+    "filing_date": "2024-06-10",
+    "shares_outstanding": 213000000.0,
+    "revenue": 6268000000.0,
+    "net_income": 986000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2024",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 211000000.0,
+    "revenue": 1606000000.0,
+    "net_income": 313000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2024",
+    "filing_date": "2023-11-30",
+    "shares_outstanding": 211000000.0,
+    "revenue": 1562000000.0,
+    "net_income": 233000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2024",
+    "filing_date": "2023-08-29",
+    "shares_outstanding": 216000000.0,
+    "revenue": 1432000000.0,
+    "net_income": 149000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2023",
+    "filing_date": "2023-06-14",
+    "shares_outstanding": 220000000.0,
+    "revenue": 6362000000.0,
+    "net_income": 1274000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2023",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 219000000.0,
+    "revenue": 1526000000.0,
+    "net_income": 65000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2023",
+    "filing_date": "2022-12-01",
+    "shares_outstanding": 220000000.0,
+    "revenue": 1663000000.0,
+    "net_income": 750000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2023",
+    "filing_date": "2022-08-30",
+    "shares_outstanding": 224000000.0,
+    "revenue": 1592000000.0,
+    "net_income": 214000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2022",
+    "filing_date": "2022-06-16",
+    "shares_outstanding": 229000000.0,
+    "revenue": 6318000000.0,
+    "net_income": 937000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2022",
+    "filing_date": "2022-03-02",
+    "shares_outstanding": 229000000.0,
+    "revenue": 796000000.0,
+    "net_income": 252000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2022",
+    "filing_date": "2021-12-02",
+    "shares_outstanding": 229000000.0,
+    "revenue": 1566000000.0,
+    "net_income": 224000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2022",
+    "filing_date": "2021-09-02",
+    "shares_outstanding": 229000000.0,
+    "revenue": 1458000000.0,
+    "net_income": 202000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2021",
+    "filing_date": "2021-06-21",
+    "shares_outstanding": 226000000.0,
+    "revenue": 5744000000.0,
+    "net_income": 730000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2021",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 227000000.0,
+    "revenue": 1470000000.0,
+    "net_income": 182000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2021",
+    "filing_date": "2020-12-03",
+    "shares_outstanding": 224000000.0,
+    "revenue": 1416000000.0,
+    "net_income": 137000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2021",
+    "filing_date": "2020-08-28",
+    "shares_outstanding": 222000000.0,
+    "revenue": 1303000000.0,
+    "net_income": 77000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2020",
+    "filing_date": "2020-06-15",
+    "shares_outstanding": 233000000.0,
+    "revenue": 5412000000.0,
+    "net_income": 819000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2020",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 229000000.0,
+    "revenue": 1404000000.0,
+    "net_income": 277000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2020",
+    "filing_date": "2019-11-18",
+    "shares_outstanding": 236000000.0,
+    "revenue": 1371000000.0,
+    "net_income": 243000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2020",
+    "filing_date": "2019-08-19",
+    "shares_outstanding": 243000000.0,
+    "revenue": 1236000000.0,
+    "net_income": 103000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2019",
+    "filing_date": "2019-06-18",
+    "shares_outstanding": 259000000.0,
+    "revenue": 6146000000.0,
+    "net_income": 1169000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2019",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 255000000.0,
+    "revenue": 1563000000.0,
+    "net_income": 249000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2019",
+    "filing_date": "2018-11-19",
+    "shares_outstanding": 264000000.0,
+    "revenue": 1517000000.0,
+    "net_income": 241000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2019",
+    "filing_date": "2018-08-21",
+    "shares_outstanding": 269000000.0,
+    "revenue": 1474000000.0,
+    "net_income": 283000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2018",
+    "filing_date": "2018-06-19",
+    "shares_outstanding": 276000000.0,
+    "revenue": 5911000000.0,
+    "net_income": 76000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2018",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 268000000.0,
+    "revenue": 1523000000.0,
+    "net_income": -506000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2018",
+    "filing_date": "2017-11-29",
+    "shares_outstanding": 275000000.0,
+    "revenue": 1422000000.0,
+    "net_income": 175000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2018",
+    "filing_date": "2017-08-29",
+    "shares_outstanding": 278000000.0,
+    "revenue": 1325000000.0,
+    "net_income": 136000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2017",
+    "filing_date": "2017-06-20",
+    "shares_outstanding": 281000000.0,
+    "revenue": 5519000000.0,
+    "net_income": 509000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2017",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 281000000.0,
+    "revenue": 1404000000.0,
+    "net_income": 146000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2017",
+    "filing_date": "2016-12-02",
+    "shares_outstanding": 284000000.0,
+    "revenue": 1340000000.0,
+    "net_income": 109000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2017",
+    "filing_date": "2016-09-02",
+    "shares_outstanding": 282000000.0,
+    "revenue": 1294000000.0,
+    "net_income": 64000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2016",
+    "filing_date": "2016-06-22",
+    "shares_outstanding": 297000000.0,
+    "revenue": 5546000000.0,
+    "net_income": 229000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2016",
+    "filing_date": "2016-03-07",
+    "shares_outstanding": 296000000.0,
+    "revenue": 1386000000.0,
+    "net_income": 153000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2016",
+    "filing_date": "2015-12-02",
+    "shares_outstanding": 296000000.0,
+    "revenue": 1445000000.0,
+    "net_income": 114000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2016",
+    "filing_date": "2015-09-08",
+    "shares_outstanding": 304000000.0,
+    "revenue": 1335000000.0,
+    "net_income": -30000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2015",
+    "filing_date": "2015-06-12",
+    "shares_outstanding": 320700000.0,
+    "revenue": 6122700000.0,
+    "net_income": 559900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2015",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 317100000.0,
+    "revenue": 1551300000.0,
+    "net_income": 176800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2015",
+    "filing_date": "2014-11-25",
+    "shares_outstanding": 323500000.0,
+    "revenue": 1542500000.0,
+    "net_income": 159800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2015",
+    "filing_date": "2014-08-28",
+    "shares_outstanding": 329100000.0,
+    "revenue": 1489200000.0,
+    "net_income": 88400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2014",
+    "filing_date": "2014-06-17",
+    "shares_outstanding": 347900000.0,
+    "revenue": 6325100000.0,
+    "net_income": 637500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2014",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 346200000.0,
+    "revenue": 1610000000.0,
+    "net_income": 192100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2014",
+    "filing_date": "2013-11-26",
+    "shares_outstanding": 349100000.0,
+    "revenue": 1549900000.0,
+    "net_income": 166800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2014",
+    "filing_date": "2013-08-29",
+    "shares_outstanding": 359900000.0,
+    "revenue": 1516200000.0,
+    "net_income": 81600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2013",
+    "filing_date": "2013-06-17",
+    "shares_outstanding": 368000000.0,
+    "revenue": 6332400000.0,
+    "net_income": 505300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2013",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 364700000.0,
+    "revenue": 1630100000.0,
+    "net_income": 158100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2013",
+    "filing_date": "2012-11-30",
+    "shares_outstanding": 368200000.0,
+    "revenue": 1541200000.0,
+    "net_income": 109600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2013",
+    "filing_date": "2012-08-30",
+    "shares_outstanding": 371200000.0,
+    "revenue": 1444600000.0,
+    "net_income": 63800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2012",
+    "filing_date": "2012-06-19",
+    "shares_outstanding": 384300000.0,
+    "revenue": 6233200000.0,
+    "net_income": 605400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2012",
+    "filing_date": "2012-03-05",
+    "shares_outstanding": 373700000.0,
+    "revenue": 1565500000.0,
+    "net_income": 119600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q2 2012",
+    "filing_date": "2011-12-05",
+    "shares_outstanding": 376000000.0,
+    "revenue": 1507000000.0,
+    "net_income": 165600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q1 2012",
+    "filing_date": "2011-09-01",
+    "shares_outstanding": 405500000.0,
+    "revenue": 1458200000.0,
+    "net_income": 139500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "FY 2011",
+    "filing_date": "2011-06-23",
+    "shares_outstanding": 393700000.0,
+    "revenue": 5122600000.0,
+    "net_income": 673100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTAP",
+    "period": "Q3 2011",
+    "filing_date": "2011-03-04",
+    "shares_outstanding": 406200000.0,
+    "revenue": 1289600000.0,
+    "net_income": 186400000.0,
+    "market_cap": null
+  }
+]

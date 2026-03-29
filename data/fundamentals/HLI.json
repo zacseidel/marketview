@@ -1,0 +1,380 @@
+[
+  {
+    "ticker": "HLI",
+    "period": "Q3 2026",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 68426644.0,
+    "revenue": 717072000.0,
+    "net_income": 116548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2026",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 68591031.0,
+    "revenue": 659452000.0,
+    "net_income": 111781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q1 2026",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 68887970.0,
+    "revenue": 605349000.0,
+    "net_income": 97533000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "FY 2025",
+    "filing_date": "2025-05-15",
+    "shares_outstanding": 68658347.0,
+    "revenue": 2389416000.0,
+    "net_income": 399711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q3 2025",
+    "filing_date": "2025-02-04",
+    "shares_outstanding": 68760959.0,
+    "revenue": 634428000.0,
+    "net_income": 95302000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2025",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 68422600.0,
+    "revenue": 574957000.0,
+    "net_income": 93549000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q1 2025",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 68501059.0,
+    "revenue": 513609000.0,
+    "net_income": 88940000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "FY 2024",
+    "filing_date": "2024-05-21",
+    "shares_outstanding": 68159390.0,
+    "revenue": 1914404000.0,
+    "net_income": 280301000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q3 2024",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 67886301.0,
+    "revenue": 511130000.0,
+    "net_income": 70803000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2024",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 67867381.0,
+    "revenue": 466989000.0,
+    "net_income": 67031000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q1 2024",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 68000392.0,
+    "revenue": 415829000.0,
+    "net_income": 61390000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "FY 2023",
+    "filing_date": "2023-05-25",
+    "shares_outstanding": 67586263.0,
+    "revenue": 1809447000.0,
+    "net_income": 254223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q3 2023",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 69725692.0,
+    "revenue": 456499000.0,
+    "net_income": 63051000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2023",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 69800028.0,
+    "revenue": 489537000.0,
+    "net_income": 60730000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q1 2023",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 68828246.0,
+    "revenue": 418644000.0,
+    "net_income": 70782000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "FY 2022",
+    "filing_date": "2022-05-27",
+    "shares_outstanding": 68259708.0,
+    "revenue": 2269958000.0,
+    "net_income": 438324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q3 2022",
+    "filing_date": "2022-02-08",
+    "shares_outstanding": 68279939.0,
+    "revenue": 888798000.0,
+    "net_income": 174308000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2022",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 68566127.0,
+    "revenue": 537272000.0,
+    "net_income": 112883000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q1 2022",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 68718629.0,
+    "revenue": 372722000.0,
+    "net_income": 85960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "FY 2021",
+    "filing_date": "2021-05-21",
+    "shares_outstanding": 68671248.0,
+    "revenue": 1525452000.0,
+    "net_income": 312771000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q3 2021",
+    "filing_date": "2021-02-04",
+    "shares_outstanding": 69356347.0,
+    "revenue": 537876000.0,
+    "net_income": 118515000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2021",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 69615060.0,
+    "revenue": 275736000.0,
+    "net_income": 48790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q1 2021",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 66798560.0,
+    "revenue": 211136000.0,
+    "net_income": 46100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "FY 2020",
+    "filing_date": "2020-05-15",
+    "shares_outstanding": 65725516.0,
+    "revenue": 1159368000.0,
+    "net_income": 183793000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q3 2020",
+    "filing_date": "2020-02-06",
+    "shares_outstanding": 65608026.0,
+    "revenue": 333515000.0,
+    "net_income": 48894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2020",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 66086210.0,
+    "revenue": 272810000.0,
+    "net_income": 33110000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q1 2020",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 65621103.0,
+    "revenue": 250349000.0,
+    "net_income": 42776000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "FY 2019",
+    "filing_date": "2019-05-24",
+    "shares_outstanding": 65846132.0,
+    "revenue": 1084385000.0,
+    "net_income": 159106000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q3 2019",
+    "filing_date": "2019-02-05",
+    "shares_outstanding": 65758679.0,
+    "revenue": 298013000.0,
+    "net_income": 43957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2019",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 66045921.0,
+    "revenue": 274992000.0,
+    "net_income": 40119000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q1 2019",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 66154212.0,
+    "revenue": 220002000.0,
+    "net_income": 29682000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "FY 2018",
+    "filing_date": "2018-05-25",
+    "shares_outstanding": 66324093.0,
+    "revenue": 963364000.0,
+    "net_income": 172283000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q3 2018",
+    "filing_date": "2018-02-07",
+    "shares_outstanding": 66122939.0,
+    "revenue": 258937000.0,
+    "net_income": 61583000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2018",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 66907890.0,
+    "revenue": 242183000.0,
+    "net_income": 33357000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q1 2018",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 66370249.0,
+    "revenue": 217491000.0,
+    "net_income": 39244000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "FY 2017",
+    "filing_date": "2017-06-13",
+    "shares_outstanding": 66579130.0,
+    "revenue": 872091000.0,
+    "net_income": 108343000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q3 2017",
+    "filing_date": "2017-02-06",
+    "shares_outstanding": 66692326.0,
+    "revenue": 247680000.0,
+    "net_income": 33980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2017",
+    "filing_date": "2016-11-14",
+    "shares_outstanding": 66816689.0,
+    "revenue": 186537000.0,
+    "net_income": 20876000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q1 2017",
+    "filing_date": "2016-08-11",
+    "shares_outstanding": 66345599.0,
+    "revenue": 180774000.0,
+    "net_income": 19411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "FY 2016",
+    "filing_date": "2016-06-23",
+    "shares_outstanding": 63475903.0,
+    "revenue": 693765000.0,
+    "net_income": 69767000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q3 2016",
+    "filing_date": "2016-02-11",
+    "shares_outstanding": 65405521.0,
+    "revenue": 205523000.0,
+    "net_income": 22661000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HLI",
+    "period": "Q2 2016",
+    "filing_date": "2015-11-13",
+    "shares_outstanding": 62696730.0,
+    "revenue": 158380000.0,
+    "net_income": 9255000.0,
+    "market_cap": null
+  }
+]

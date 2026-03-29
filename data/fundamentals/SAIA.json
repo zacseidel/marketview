@@ -1,0 +1,515 @@
+[
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 26790000.0,
+    "revenue": 839644000.0,
+    "net_income": 86316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-25",
+    "shares_outstanding": 26785000.0,
+    "revenue": 817115000.0,
+    "net_income": 71391000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-28",
+    "shares_outstanding": 26788000.0,
+    "revenue": 787575000.0,
+    "net_income": 49810000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2024",
+    "filing_date": "2025-02-24",
+    "shares_outstanding": 26802000.0,
+    "revenue": 3209074000.0,
+    "net_income": 362065000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-25",
+    "shares_outstanding": 26789000.0,
+    "revenue": 842103000.0,
+    "net_income": 92748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 26794000.0,
+    "revenue": 754775000.0,
+    "net_income": 90695000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 26763000.0,
+    "revenue": 2881433000.0,
+    "net_income": 354857000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 26779000.0,
+    "revenue": 775144000.0,
+    "net_income": 98213000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 26736000.0,
+    "revenue": 694622000.0,
+    "net_income": 91319000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 26702000.0,
+    "revenue": 660535000.0,
+    "net_income": 76097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 26674000.0,
+    "revenue": 2792057000.0,
+    "net_income": 357422000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 26676000.0,
+    "revenue": 729561000.0,
+    "net_income": 97891000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 26665000.0,
+    "revenue": 745554000.0,
+    "net_income": 109245000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-02",
+    "shares_outstanding": 26670000.0,
+    "revenue": 661216000.0,
+    "net_income": 79424000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 26707000.0,
+    "revenue": 2288704000.0,
+    "net_income": 253235000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 26713000.0,
+    "revenue": 616216000.0,
+    "net_income": 79709000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 26704000.0,
+    "revenue": 571333000.0,
+    "net_income": 62474000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 26671000.0,
+    "revenue": 484074000.0,
+    "net_income": 37291000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 26592000.0,
+    "revenue": 1822366000.0,
+    "net_income": 138340000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 26615000.0,
+    "revenue": 481374000.0,
+    "net_income": 41539000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 26569000.0,
+    "revenue": 418114000.0,
+    "net_income": 28454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 26492000.0,
+    "revenue": 446396000.0,
+    "net_income": 28111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 26435000.0,
+    "revenue": 1786735000.0,
+    "net_income": 113719000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 26460000.0,
+    "revenue": 468891000.0,
+    "net_income": 32968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 26406000.0,
+    "revenue": 464195000.0,
+    "net_income": 37073000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 26322000.0,
+    "revenue": 410584000.0,
+    "net_income": 22259000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2018",
+    "filing_date": "2019-02-25",
+    "shares_outstanding": 26291000.0,
+    "revenue": 1653849000.0,
+    "net_income": 104981000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 26354000.0,
+    "revenue": 425562000.0,
+    "net_income": 28195000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 26354000.0,
+    "revenue": 428732000.0,
+    "net_income": 30281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 26308000.0,
+    "revenue": 392805000.0,
+    "net_income": 21125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 26086000.0,
+    "revenue": 1378510000.0,
+    "net_income": 91156000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-27",
+    "shares_outstanding": 26113000.0,
+    "revenue": 350062000.0,
+    "net_income": 14407000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 26000000.0,
+    "revenue": 358160000.0,
+    "net_income": 17603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 25971000.0,
+    "revenue": 317037000.0,
+    "net_income": 11387000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 25680000.0,
+    "revenue": 1218481000.0,
+    "net_income": 48024000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-26",
+    "shares_outstanding": 25658000.0,
+    "revenue": 316442000.0,
+    "net_income": 13826000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 25583000.0,
+    "revenue": 311905000.0,
+    "net_income": 13275000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 25445000.0,
+    "revenue": 289911000.0,
+    "net_income": 10575000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 25471000.0,
+    "revenue": 1221311000.0,
+    "net_income": 55016000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 25555000.0,
+    "revenue": 317199000.0,
+    "net_income": 11777000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 25561000.0,
+    "revenue": 323480000.0,
+    "net_income": 19247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 25513000.0,
+    "revenue": 293022000.0,
+    "net_income": 12605000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 25463000.0,
+    "revenue": 1272321000.0,
+    "net_income": 51991000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 25505000.0,
+    "revenue": 332544000.0,
+    "net_income": 16278000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 25447000.0,
+    "revenue": 330399000.0,
+    "net_income": 13568000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 25361000.0,
+    "revenue": 299730000.0,
+    "net_income": 8576000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 25205000.0,
+    "revenue": 1139094000.0,
+    "net_income": 43627000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 25269000.0,
+    "revenue": 293087000.0,
+    "net_income": 12908000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 25218000.0,
+    "revenue": 292557000.0,
+    "net_income": 13500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 16632000.0,
+    "revenue": 273795000.0,
+    "net_income": 9155000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 16543000.0,
+    "revenue": 1098679000.0,
+    "net_income": 32048000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 16575000.0,
+    "revenue": 278024000.0,
+    "net_income": 9256000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 16514000.0,
+    "revenue": 287538000.0,
+    "net_income": 11851000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 16358000.0,
+    "revenue": 268690000.0,
+    "net_income": 5535000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "FY 2011",
+    "filing_date": "2012-03-02",
+    "shares_outstanding": 16136000.0,
+    "revenue": 1030224000.0,
+    "net_income": 11373000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-01",
+    "shares_outstanding": 16160.0,
+    "revenue": 268285000.0,
+    "net_income": 4829000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAIA",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-03",
+    "shares_outstanding": 16188.0,
+    "revenue": 265901000.0,
+    "net_income": 3358000.0,
+    "market_cap": null
+  }
+]

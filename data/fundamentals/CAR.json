@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "CAR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 35200000.0,
+    "revenue": 11652000000.0,
+    "net_income": -995000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 35200000.0,
+    "revenue": 11652000000.0,
+    "net_income": -995000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 35500000.0,
+    "revenue": 3519000000.0,
+    "net_income": 360000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 35400000.0,
+    "revenue": 3039000000.0,
+    "net_income": 5000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 35200000.0,
+    "revenue": 2430000000.0,
+    "net_income": -504000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 35700000.0,
+    "revenue": 3480000000.0,
+    "net_income": 238000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 35700000.0,
+    "revenue": 3048000000.0,
+    "net_income": 15000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 35600000.0,
+    "revenue": 2551000000.0,
+    "net_income": -113000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 38800000.0,
+    "revenue": 12008000000.0,
+    "net_income": 1635000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 37300000.0,
+    "revenue": 3564000000.0,
+    "net_income": 627000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 39500000.0,
+    "revenue": 3123000000.0,
+    "net_income": 436000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 40400000.0,
+    "revenue": 2557000000.0,
+    "net_income": 312000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 48400000.0,
+    "revenue": 11994000000.0,
+    "net_income": 2756000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 47700000.0,
+    "revenue": 3547000000.0,
+    "net_income": 1031000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 49500000.0,
+    "revenue": 3244000000.0,
+    "net_income": 774000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 54500000.0,
+    "revenue": 2432000000.0,
+    "net_income": 527000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 66100000.0,
+    "revenue": 9313000000.0,
+    "net_income": 1283000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 64600000.0,
+    "revenue": 3001000000.0,
+    "net_income": 674000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 70600000.0,
+    "revenue": 2371000000.0,
+    "net_income": 398000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 69900000.0,
+    "revenue": 1372000000.0,
+    "net_income": -170000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-17",
+    "shares_outstanding": 70500000.0,
+    "revenue": 5402000000.0,
+    "net_income": -684000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 70200000.0,
+    "revenue": 1534000000.0,
+    "net_income": 45000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 69600000.0,
+    "revenue": 760000000.0,
+    "net_income": -481000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 1700000.0,
+    "revenue": 1753000000.0,
+    "net_income": -158000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 75700000.0,
+    "revenue": 9172000000.0,
+    "net_income": 302000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 75700000.0,
+    "revenue": 2753000000.0,
+    "net_income": 189000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 76400000.0,
+    "revenue": 2337000000.0,
+    "net_income": 62000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 75800000.0,
+    "revenue": 1920000000.0,
+    "net_income": -91000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 80100000.0,
+    "revenue": 9124000000.0,
+    "net_income": 165000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 79500000.0,
+    "revenue": 2778000000.0,
+    "net_income": 213000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 81500000.0,
+    "revenue": 2328000000.0,
+    "net_income": 26000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 81000000.0,
+    "revenue": 1968000000.0,
+    "net_income": -87000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 84800000.0,
+    "revenue": 8848000000.0,
+    "net_income": 361000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 84000000.0,
+    "revenue": 2752000000.0,
+    "net_income": 245000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 85200000.0,
+    "revenue": 2238000000.0,
+    "net_income": 3000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 85700000.0,
+    "revenue": 1839000000.0,
+    "net_income": -107000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 93300000.0,
+    "revenue": 8659000000.0,
+    "net_income": 163000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 91800000.0,
+    "revenue": 2656000000.0,
+    "net_income": 209000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 95100000.0,
+    "revenue": 2243000000.0,
+    "net_income": 36000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 96300000.0,
+    "revenue": 1881000000.0,
+    "net_income": -51000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 105000000.0,
+    "revenue": 8502000000.0,
+    "net_income": 313000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 104000000.0,
+    "revenue": 2577000000.0,
+    "net_income": 184000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 106700000.0,
+    "revenue": 2173000000.0,
+    "net_income": 143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 106100000.0,
+    "revenue": 1850000000.0,
+    "net_income": -9000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-23",
+    "shares_outstanding": 110600000.0,
+    "revenue": 8485000000.0,
+    "net_income": 245000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 109900000.0,
+    "revenue": 2542000000.0,
+    "net_income": 192000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 111000000.0,
+    "revenue": 2194000000.0,
+    "net_income": 26000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 108600000.0,
+    "revenue": 1862000000.0,
+    "net_income": 4000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 111400000.0,
+    "revenue": 7937000000.0,
+    "net_income": 16000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 116200000.0,
+    "revenue": 2395000000.0,
+    "net_income": 118000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 108400000.0,
+    "revenue": 2002000000.0,
+    "net_income": -28000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 107700000.0,
+    "revenue": 1691000000.0,
+    "net_income": -46000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 121600000.0,
+    "revenue": 7357000000.0,
+    "net_income": 290000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-09",
+    "shares_outstanding": 118000000.0,
+    "revenue": 2170000000.0,
+    "net_income": 280000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 121900000.0,
+    "revenue": 1866000000.0,
+    "net_income": 79000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 105900000.0,
+    "revenue": 1623000000.0,
+    "net_income": -23000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 105200000.0,
+    "revenue": 5900000000.0,
+    "net_income": -29000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 128900000.0,
+    "revenue": 1623000000.0,
+    "net_income": 82000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 129000000.0,
+    "revenue": 1412000000.0,
+    "net_income": 52000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CAR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 106800000.0,
+    "revenue": 1235000000.0,
+    "net_income": 7000000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "WSO",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 37899859.0,
+    "revenue": 7239290000.0,
+    "net_income": 587588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 37899859.0,
+    "revenue": 7239290000.0,
+    "net_income": 587588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 37918392.0,
+    "revenue": 2067005000.0,
+    "net_income": 189230000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 3221819000.0,
+    "revenue": 2062442000.0,
+    "net_income": 216768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 3087860000.0,
+    "revenue": 1531086000.0,
+    "net_income": 94540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 3064238000.0,
+    "revenue": 7618317000.0,
+    "net_income": 635740000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 3044190000.0,
+    "revenue": 2139328000.0,
+    "net_income": 214651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 2927573000.0,
+    "revenue": 1564991000.0,
+    "net_income": 104262000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 2616190000.0,
+    "revenue": 7283767000.0,
+    "net_income": 634139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 2665762000.0,
+    "revenue": 2126845000.0,
+    "net_income": 200624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 2452050000.0,
+    "revenue": 2003084000.0,
+    "net_income": 205403000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 2308297000.0,
+    "revenue": 1550641000.0,
+    "net_income": 130371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 2248278000.0,
+    "revenue": 7274344000.0,
+    "net_income": 703696000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 2316153000.0,
+    "revenue": 2035796000.0,
+    "net_income": 186170000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 2219775000.0,
+    "revenue": 2133755000.0,
+    "net_income": 225506000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 2080715000.0,
+    "revenue": 1523570000.0,
+    "net_income": 134890000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 35423838.0,
+    "revenue": 6280192000.0,
+    "net_income": 498735000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 2021525000.0,
+    "revenue": 1782569000.0,
+    "net_income": 164844000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 35427718.0,
+    "revenue": 1849640000.0,
+    "net_income": 172133000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 35329833.0,
+    "revenue": 1136118000.0,
+    "net_income": 66127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 35150571.0,
+    "revenue": 5054928000.0,
+    "net_income": 323172000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 35237022.0,
+    "revenue": 1536671000.0,
+    "net_income": 126206000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 35064711.0,
+    "revenue": 1355385000.0,
+    "net_income": 104242000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 35023989.0,
+    "revenue": 1008156000.0,
+    "net_income": 36247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 34675641.0,
+    "revenue": 4770362000.0,
+    "net_income": 295775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 34788955.0,
+    "revenue": 1394915000.0,
+    "net_income": 99655000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 34462960.0,
+    "revenue": 1371854000.0,
+    "net_income": 107910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 34402602.0,
+    "revenue": 931278000.0,
+    "net_income": 43804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 34374269.0,
+    "revenue": 4546653000.0,
+    "net_income": 296529000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 34399389.0,
+    "revenue": 1296007000.0,
+    "net_income": 96886000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 34379195.0,
+    "revenue": 1332743000.0,
+    "net_income": 108264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 34320110.0,
+    "revenue": 926577000.0,
+    "net_income": 42377000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 32862633.0,
+    "revenue": 4341955000.0,
+    "net_income": 257290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 32746366.0,
+    "revenue": 1229591000.0,
+    "net_income": 80019000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 32708646.0,
+    "revenue": 1275924000.0,
+    "net_income": 90847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 32679806.0,
+    "revenue": 872095000.0,
+    "net_income": 33768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 32616504.0,
+    "revenue": 4220702000.0,
+    "net_income": 235983000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 32650153.0,
+    "revenue": 1241232000.0,
+    "net_income": 80518000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 32606336.0,
+    "revenue": 1214435000.0,
+    "net_income": 81424000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 32537225.0,
+    "revenue": 851424000.0,
+    "net_income": 34174000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 32480356.0,
+    "revenue": 4113239000.0,
+    "net_income": 226524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 32498857.0,
+    "revenue": 1177012000.0,
+    "net_income": 74644000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 32477262.0,
+    "revenue": 1223439000.0,
+    "net_income": 84241000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 32431077.0,
+    "revenue": 808972000.0,
+    "net_income": 31300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 32358854.0,
+    "revenue": 3944540000.0,
+    "net_income": 208702000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 32375939.0,
+    "revenue": 1134999000.0,
+    "net_income": 71131000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 32353045.0,
+    "revenue": 1170186000.0,
+    "net_income": 78385000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 32305445.0,
+    "revenue": 762568000.0,
+    "net_income": 24403000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 32258068.0,
+    "revenue": 3743330000.0,
+    "net_income": 187719000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 32276113.0,
+    "revenue": 1081893000.0,
+    "net_income": 66118000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 32248855.0,
+    "revenue": 1120452000.0,
+    "net_income": 72582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-30",
+    "shares_outstanding": 32213440.0,
+    "revenue": 713633000.0,
+    "net_income": 21089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 31744399.0,
+    "revenue": 3431712000.0,
+    "net_income": 157601000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 32168166.0,
+    "revenue": 1020859000.0,
+    "net_income": 59531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 31783707.0,
+    "revenue": 1011801000.0,
+    "net_income": 60901000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 30834468.0,
+    "revenue": 633512000.0,
+    "net_income": 13492000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 30753291.0,
+    "revenue": 2977759000.0,
+    "net_income": 137742000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 30694844.0,
+    "revenue": 914039000.0,
+    "net_income": 51818000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 30685087.0,
+    "revenue": 883548000.0,
+    "net_income": 52272000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": -41527.0,
+    "revenue": 534339000.0,
+    "net_income": 11122000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "FY 2010",
+    "filing_date": "2011-03-01",
+    "shares_outstanding": 928896000.0,
+    "revenue": 2844595000.0,
+    "net_income": 111722000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 936745000.0,
+    "revenue": 812787000.0,
+    "net_income": 43518000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WSO",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 919832000.0,
+    "revenue": 864805000.0,
+    "net_income": 48207000.0,
+    "market_cap": null
+  }
+]

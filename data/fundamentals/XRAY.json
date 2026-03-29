@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "XRAY",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 199400000.0,
+    "revenue": 3680000000.0,
+    "net_income": -598000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 199400000.0,
+    "revenue": 3680000000.0,
+    "net_income": -598000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 199500000.0,
+    "revenue": 904000000.0,
+    "net_income": -428000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 199300000.0,
+    "revenue": 936000000.0,
+    "net_income": -44000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 199800000.0,
+    "revenue": 879000000.0,
+    "net_income": 19000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 203200000.0,
+    "revenue": 3793000000.0,
+    "net_income": -910000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 201000000.0,
+    "revenue": 951000000.0,
+    "net_income": -495000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 205600000.0,
+    "revenue": 984000000.0,
+    "net_income": -4000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 208500000.0,
+    "revenue": 953000000.0,
+    "net_income": 17000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 212000000.0,
+    "revenue": 3965000000.0,
+    "net_income": -132000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 211800000.0,
+    "revenue": 947000000.0,
+    "net_income": -266000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-07",
+    "shares_outstanding": 213100000.0,
+    "revenue": 1028000000.0,
+    "net_income": 85000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 214500000.0,
+    "revenue": 978000000.0,
+    "net_income": -23000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 215500000.0,
+    "revenue": 3922000000.0,
+    "net_income": -950000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-14",
+    "shares_outstanding": 214900000.0,
+    "revenue": 947000000.0,
+    "net_income": -1077000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2022",
+    "filing_date": "2022-11-07",
+    "shares_outstanding": 215300000.0,
+    "revenue": 1023000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2022",
+    "filing_date": "2022-11-07",
+    "shares_outstanding": 217800000.0,
+    "revenue": 969000000.0,
+    "net_income": 69000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 220200000.0,
+    "revenue": 4251000000.0,
+    "net_income": 421000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 220500000.0,
+    "revenue": 1069000000.0,
+    "net_income": 103000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 220700000.0,
+    "revenue": 1067000000.0,
+    "net_income": 99000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 219900000.0,
+    "revenue": 1027000000.0,
+    "net_income": 117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 219200000.0,
+    "revenue": 3342000000.0,
+    "net_income": -83000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 219200000.0,
+    "revenue": 894800000.0,
+    "net_income": 54200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 218700000.0,
+    "revenue": 490600000.0,
+    "net_income": -95900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 220900000.0,
+    "revenue": 874300000.0,
+    "net_income": -139900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 224400000.0,
+    "revenue": 4029200000.0,
+    "net_income": 263100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 224900000.0,
+    "revenue": 962100000.0,
+    "net_income": 85000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 225700000.0,
+    "revenue": 1009400000.0,
+    "net_income": 36400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 225000000.0,
+    "revenue": 946200000.0,
+    "net_income": 39200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2018",
+    "filing_date": "2019-03-08",
+    "shares_outstanding": 224300000.0,
+    "revenue": 3986300000.0,
+    "net_income": -1010900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 223700000.0,
+    "revenue": 928400000.0,
+    "net_income": 27500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 225200000.0,
+    "revenue": 1042100000.0,
+    "net_income": -1121000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 229900000.0,
+    "revenue": 956100000.0,
+    "net_income": 81100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2017",
+    "filing_date": "2018-03-15",
+    "shares_outstanding": 229400000.0,
+    "revenue": 3993400000.0,
+    "net_income": -1550300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 233100000.0,
+    "revenue": 1009200000.0,
+    "net_income": 90500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 229400000.0,
+    "revenue": 992700000.0,
+    "net_income": -1050300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 234000000.0,
+    "revenue": 900500000.0,
+    "net_income": 59700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 221600000.0,
+    "revenue": 2000900000.0,
+    "net_income": 431400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 236300000.0,
+    "revenue": 954200000.0,
+    "net_income": 92300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 237400000.0,
+    "revenue": 1022000000.0,
+    "net_income": 105900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 178400000.0,
+    "revenue": 772600000.0,
+    "net_income": 125300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 708500000.0,
+    "revenue": 20563100000.0,
+    "net_income": 3357400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-22",
+    "shares_outstanding": 698700000.0,
+    "revenue": 5023400000.0,
+    "net_income": 1403300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-23",
+    "shares_outstanding": 719600000.0,
+    "revenue": 4960200000.0,
+    "net_income": 695700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-23",
+    "shares_outstanding": 718700000.0,
+    "revenue": 4694700000.0,
+    "net_income": 569800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 716100000.0,
+    "revenue": 19913800000.0,
+    "net_income": 2598400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-16",
+    "shares_outstanding": 716200000.0,
+    "revenue": 4870300000.0,
+    "net_income": 680600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-17",
+    "shares_outstanding": 715600000.0,
+    "revenue": 4963600000.0,
+    "net_income": 676400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-16",
+    "shares_outstanding": 714800000.0,
+    "revenue": 4662700000.0,
+    "net_income": 579700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 711000000.0,
+    "revenue": 19118000000.0,
+    "net_income": 2695000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-17",
+    "shares_outstanding": 711900000.0,
+    "revenue": 4669100000.0,
+    "net_income": 597000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-18",
+    "shares_outstanding": 709800000.0,
+    "revenue": 4737500000.0,
+    "net_income": 616800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-18",
+    "shares_outstanding": 708400000.0,
+    "revenue": 4444700000.0,
+    "net_income": 691900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 713100000.0,
+    "revenue": 18260400000.0,
+    "net_income": 2392200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-18",
+    "shares_outstanding": 713947000.0,
+    "revenue": 4415500000.0,
+    "net_income": 548700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-19",
+    "shares_outstanding": 714910000.0,
+    "revenue": 4553500000.0,
+    "net_income": 600200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-19",
+    "shares_outstanding": 714023000.0,
+    "revenue": 4316200000.0,
+    "net_income": 612900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 701191000.0,
+    "revenue": 16090540000.0,
+    "net_income": 2172264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-20",
+    "shares_outstanding": 710403000.0,
+    "revenue": 4445800000.0,
+    "net_income": 523400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-27",
+    "shares_outstanding": 694599000.0,
+    "revenue": 3635900000.0,
+    "net_income": 648800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-21",
+    "shares_outstanding": 688328000.0,
+    "revenue": 3292200000.0,
+    "net_income": 429400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-21",
+    "shares_outstanding": 683431000.0,
+    "revenue": 3190193000.0,
+    "net_income": 646435000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q1 2010",
+    "filing_date": "2010-04-22",
+    "shares_outstanding": 340061000.0,
+    "revenue": 3092220000.0,
+    "net_income": 300233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "FY 2009",
+    "filing_date": "2010-02-24",
+    "shares_outstanding": 335742000.0,
+    "revenue": 11184938000.0,
+    "net_income": 1151704000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-22",
+    "shares_outstanding": 336268000.0,
+    "revenue": 2750693000.0,
+    "net_income": 351363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "XRAY",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-23",
+    "shares_outstanding": 334540000.0,
+    "revenue": 2673609000.0,
+    "net_income": 295694000.0,
+    "market_cap": null
+  }
+]

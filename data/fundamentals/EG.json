@@ -1,0 +1,92 @@
+[
+  {
+    "ticker": "EG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 41600000.0,
+    "revenue": 17496000000.0,
+    "net_income": 1591000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 41600000.0,
+    "revenue": 17496000000.0,
+    "net_income": 1591000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EG",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 41400000.0,
+    "revenue": 4319000000.0,
+    "net_income": 255000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EG",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 41800000.0,
+    "revenue": 4491000000.0,
+    "net_income": 680000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EG",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 42300000.0,
+    "revenue": 4263000000.0,
+    "net_income": 210000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EG",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 42600000.0,
+    "revenue": 4285000000.0,
+    "net_income": 509000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EG",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 42800000.0,
+    "revenue": 4227000000.0,
+    "net_income": 724000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 42900000.0,
+    "revenue": 4133000000.0,
+    "net_income": 733000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 41300000.0,
+    "revenue": 14587000000.0,
+    "net_income": 2517000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EG",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 42900000.0,
+    "revenue": 3991000000.0,
+    "net_income": 678000000.0,
+    "market_cap": null
+  }
+]

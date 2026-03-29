@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "KIM",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 675279000.0,
+    "revenue": 2140116000.0,
+    "net_income": 592810000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 675279000.0,
+    "revenue": 2140116000.0,
+    "net_income": 592810000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 675423000.0,
+    "revenue": 535861000.0,
+    "net_income": 140055000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 675079000.0,
+    "revenue": 525175000.0,
+    "net_income": 164942000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 677299000.0,
+    "revenue": 536624000.0,
+    "net_income": 134503000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 672136000.0,
+    "revenue": 2037014000.0,
+    "net_income": 419439000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 671577000.0,
+    "revenue": 507632000.0,
+    "net_income": 138426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 671384000.0,
+    "revenue": 500231000.0,
+    "net_income": 122052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 670118000.0,
+    "revenue": 503754000.0,
+    "net_income": -9038000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2023",
+    "filing_date": "2024-02-26",
+    "shares_outstanding": 618199000.0,
+    "revenue": 1783400000.0,
+    "net_income": 665949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 617271000.0,
+    "revenue": 446065000.0,
+    "net_income": 120790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 617257000.0,
+    "revenue": 442840000.0,
+    "net_income": 109270000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 619628000.0,
+    "revenue": 442892000.0,
+    "net_income": 293776000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 617858000.0,
+    "revenue": 1727684000.0,
+    "net_income": 114534000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 618018000.0,
+    "revenue": 433403000.0,
+    "net_income": 56371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 615642000.0,
+    "revenue": 427198000.0,
+    "net_income": -130727000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 616758000.0,
+    "revenue": 427249000.0,
+    "net_income": 235959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 511385000.0,
+    "revenue": 1364585000.0,
+    "net_income": 849696000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 548766000.0,
+    "revenue": 368607000.0,
+    "net_income": 509204000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 432489000.0,
+    "revenue": 289016000.0,
+    "net_income": 117118000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 432264000.0,
+    "revenue": 282308000.0,
+    "net_income": 141425000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 431633000.0,
+    "revenue": 1057893000.0,
+    "net_income": 1002877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 429994000.0,
+    "revenue": 259792000.0,
+    "net_income": -37429000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 431170000.0,
+    "revenue": 238916000.0,
+    "net_income": 748118000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 430505000.0,
+    "revenue": 289744000.0,
+    "net_income": 90389000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 421799000.0,
+    "revenue": 1158884000.0,
+    "net_income": 413561000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 421002000.0,
+    "revenue": 282871000.0,
+    "net_income": 85453000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-26",
+    "shares_outstanding": 420646000.0,
+    "revenue": 284873000.0,
+    "net_income": 101387000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 420763000.0,
+    "revenue": 295010000.0,
+    "net_income": 116678000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2018",
+    "filing_date": "2019-02-15",
+    "shares_outstanding": 421379000.0,
+    "revenue": 1164762000.0,
+    "net_income": 498463000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-26",
+    "shares_outstanding": 419764000.0,
+    "revenue": 283080000.0,
+    "net_income": 100725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-27",
+    "shares_outstanding": 421928000.0,
+    "revenue": 293403000.0,
+    "net_income": 165809000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 424521000.0,
+    "revenue": 304078000.0,
+    "net_income": 143982000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 424019000.0,
+    "revenue": 1200834000.0,
+    "net_income": 439671000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-27",
+    "shares_outstanding": 424311000.0,
+    "revenue": 290919000.0,
+    "net_income": 122216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 424944000.0,
+    "revenue": 292843000.0,
+    "net_income": 154674000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 424146000.0,
+    "revenue": 289391000.0,
+    "net_income": 78215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 419709000.0,
+    "revenue": 1170792000.0,
+    "net_income": 386138000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 420073000.0,
+    "revenue": 279286000.0,
+    "net_income": -41548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 419302000.0,
+    "revenue": 287115000.0,
+    "net_income": 204846000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 414145000.0,
+    "revenue": 293091000.0,
+    "net_income": 142154000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 412851000.0,
+    "revenue": 1166769000.0,
+    "net_income": 900143000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 412686000.0,
+    "revenue": 283387000.0,
+    "net_income": 81084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-03",
+    "shares_outstanding": 413086000.0,
+    "revenue": 289080000.0,
+    "net_income": 127609000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 415396000.0,
+    "revenue": 275506000.0,
+    "net_income": 312739000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 411038000.0,
+    "revenue": 993897000.0,
+    "net_income": 435880000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-03",
+    "shares_outstanding": 411101000.0,
+    "revenue": 246555000.0,
+    "net_income": 197309000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 410005000.0,
+    "revenue": 237432000.0,
+    "net_income": 91950000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 409444000.0,
+    "revenue": 219152000.0,
+    "net_income": 95860000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 408614000.0,
+    "revenue": 946673000.0,
+    "net_income": 241353000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 408866000.0,
+    "revenue": 226536000.0,
+    "net_income": 57188000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 408831000.0,
+    "revenue": 225207000.0,
+    "net_income": 53272000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-06",
+    "shares_outstanding": 407666000.0,
+    "revenue": 220558000.0,
+    "net_income": 70508000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 406689000.0,
+    "revenue": 922304000.0,
+    "net_income": 280275000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 406747000.0,
+    "revenue": 220188000.0,
+    "net_income": 57084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 406476000.0,
+    "revenue": 220670000.0,
+    "net_income": 72387000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 407279000.0,
+    "revenue": 214851000.0,
+    "net_income": 59148000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 407669000.0,
+    "revenue": 873694000.0,
+    "net_income": 182090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 407292000.0,
+    "revenue": 214489000.0,
+    "net_income": 58593000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 407562000.0,
+    "revenue": 216989000.0,
+    "net_income": 41315000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 407361000.0,
+    "revenue": 219253000.0,
+    "net_income": 32022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-08",
+    "shares_outstanding": 406253000.0,
+    "revenue": 210520000.0,
+    "net_income": 32989000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-09",
+    "shares_outstanding": 406009000.0,
+    "revenue": 213955000.0,
+    "net_income": 27277000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-07",
+    "shares_outstanding": 405713000.0,
+    "revenue": 227004000.0,
+    "net_income": 54710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "FY 2009",
+    "filing_date": "2010-03-01",
+    "shares_outstanding": 350077000.0,
+    "revenue": 786887000.0,
+    "net_income": 6061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KIM",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-06",
+    "shares_outstanding": 368254000.0,
+    "revenue": 189285000.0,
+    "net_income": -131867000.0,
+    "market_cap": null
+  }
+]

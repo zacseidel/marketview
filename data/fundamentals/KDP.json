@@ -1,0 +1,263 @@
+[
+  {
+    "ticker": "KDP",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 1362900000.0,
+    "revenue": 4306000000.0,
+    "net_income": 662000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 1362800000.0,
+    "revenue": 4163000000.0,
+    "net_income": 547000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 1362200000.0,
+    "revenue": 3635000000.0,
+    "net_income": 517000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 1368300000.0,
+    "revenue": 15351000000.0,
+    "net_income": 1441000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 1361900000.0,
+    "revenue": 3891000000.0,
+    "net_income": 616000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 1361200000.0,
+    "revenue": 3922000000.0,
+    "net_income": 515000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 1387700000.0,
+    "revenue": 3468000000.0,
+    "net_income": 454000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 1408400000.0,
+    "revenue": 14814000000.0,
+    "net_income": 2181000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 1406200000.0,
+    "revenue": 3805000000.0,
+    "net_income": 518000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 1409100000.0,
+    "revenue": 3789000000.0,
+    "net_income": 503000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 1417000000.0,
+    "revenue": 3353000000.0,
+    "net_income": 467000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 1428500000.0,
+    "revenue": 14057000000.0,
+    "net_income": 1435000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 1427200000.0,
+    "revenue": 3622000000.0,
+    "net_income": 179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 1428600000.0,
+    "revenue": 3554000000.0,
+    "net_income": 218000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 1429700000.0,
+    "revenue": 3078000000.0,
+    "net_income": 585000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 1427900000.0,
+    "revenue": 12683000000.0,
+    "net_income": 2145000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 1428500000.0,
+    "revenue": 3250000000.0,
+    "net_income": 529000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 1428100000.0,
+    "revenue": 3140000000.0,
+    "net_income": 448000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 1425600000.0,
+    "revenue": 2902000000.0,
+    "net_income": 325000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 1422100000.0,
+    "revenue": 11618000000.0,
+    "net_income": 1325000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 1422900000.0,
+    "revenue": 3020000000.0,
+    "net_income": 443000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 1421500000.0,
+    "revenue": 2864000000.0,
+    "net_income": 298000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 1420100000.0,
+    "revenue": 2613000000.0,
+    "net_income": 156000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 1419100000.0,
+    "revenue": 11120000000.0,
+    "net_income": 1254000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 1419400000.0,
+    "revenue": 2870000000.0,
+    "net_income": 304000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 1419200000.0,
+    "revenue": 2812000000.0,
+    "net_income": 314000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 1417700000.0,
+    "revenue": 2504000000.0,
+    "net_income": 230000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 1097600000.0,
+    "revenue": 7442000000.0,
+    "net_income": 589000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KDP",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 1373600000.0,
+    "revenue": 2732000000.0,
+    "net_income": 149000000.0,
+    "market_cap": null
+  }
+]

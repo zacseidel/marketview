@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "DLR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 347810000.0,
+    "revenue": 6112692000.0,
+    "net_income": 1313165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 347810000.0,
+    "revenue": 6112692000.0,
+    "net_income": 1313165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 349234000.0,
+    "revenue": 1577234000.0,
+    "net_income": 63713000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 345734000.0,
+    "revenue": 1493150000.0,
+    "net_income": 1046946000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 344721000.0,
+    "revenue": 1407637000.0,
+    "net_income": 106395000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 331547000.0,
+    "revenue": 5554968000.0,
+    "net_income": 588327000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 327946000.0,
+    "revenue": 1356749000.0,
+    "net_income": 74668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 320798000.0,
+    "revenue": 1331143000.0,
+    "net_income": 287837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 309065000.0,
+    "revenue": 5477061000.0,
+    "net_income": 950312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 311341000.0,
+    "revenue": 1402432000.0,
+    "net_income": 745938000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 306819000.0,
+    "revenue": 1366267000.0,
+    "net_income": 115646000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 303065.0,
+    "revenue": 1338723000.0,
+    "net_income": 68837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 297919.0,
+    "revenue": 4691834000.0,
+    "net_income": 380325000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 296415000.0,
+    "revenue": 1192083000.0,
+    "net_income": 238791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 285110000.0,
+    "revenue": 1139322000.0,
+    "net_income": 63863000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 285025.0,
+    "revenue": 1127322000.0,
+    "net_income": 76910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 283221968.0,
+    "revenue": 4427882000.0,
+    "net_income": 1747412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 283799538.0,
+    "revenue": 1133136000.0,
+    "net_income": 136541000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 282433857.0,
+    "revenue": 1093188000.0,
+    "net_income": 125798000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 281916961.0,
+    "revenue": 1090391000.0,
+    "net_income": 394676000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 262522508.0,
+    "revenue": 3903609000.0,
+    "net_income": 362730000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 270214413.0,
+    "revenue": 1024668000.0,
+    "net_income": -1454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-10",
+    "shares_outstanding": 270744408.0,
+    "revenue": 992995000.0,
+    "net_income": 75978000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 224474295.0,
+    "revenue": 823337000.0,
+    "net_income": 228698000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 209462247.0,
+    "revenue": 3209241000.0,
+    "net_income": 599221000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 209801771.0,
+    "revenue": 806466000.0,
+    "net_income": 67574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 209435572.0,
+    "revenue": 800797000.0,
+    "net_income": 61324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-10",
+    "shares_outstanding": 208526249.0,
+    "revenue": 814515000.0,
+    "net_income": 120997000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-25",
+    "shares_outstanding": 206673471.0,
+    "revenue": 3046478000.0,
+    "net_income": 341115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 206766256.0,
+    "revenue": 768924000.0,
+    "net_income": 90264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 206563079.0,
+    "revenue": 754919000.0,
+    "net_income": 88159000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 206507476.0,
+    "revenue": 744368000.0,
+    "net_income": 110095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 174895098.0,
+    "revenue": 2457928000.0,
+    "net_income": 256267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 170194254.0,
+    "revenue": 609925000.0,
+    "net_income": 12475000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 161781867.0,
+    "revenue": 565989000.0,
+    "net_income": 79571000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 160421655.0,
+    "revenue": 550569000.0,
+    "net_income": 84563000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 150679688.0,
+    "revenue": 2142213000.0,
+    "net_income": 431852000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 149384871.0,
+    "revenue": 546293000.0,
+    "net_income": 222435000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 147808268.0,
+    "revenue": 514934000.0,
+    "net_income": 50944000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 147433194.0,
+    "revenue": 504199000.0,
+    "net_income": 62333000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 138865421.0,
+    "revenue": 1763336000.0,
+    "net_income": 301591000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 138259936.0,
+    "revenue": 435989000.0,
+    "net_income": 57842000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 136499004.0,
+    "revenue": 420295000.0,
+    "net_income": 137997000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 136128800.0,
+    "revenue": 406609000.0,
+    "net_income": 122325000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 133637235.0,
+    "revenue": 1616438000.0,
+    "net_income": 203415000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 135946533.0,
+    "revenue": 412186000.0,
+    "net_income": 130161000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 133977885.0,
+    "revenue": 401446000.0,
+    "net_income": 61332000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-12",
+    "shares_outstanding": 129136961.0,
+    "revenue": 390590000.0,
+    "net_income": 46717000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 128127641.0,
+    "revenue": 1482259000.0,
+    "net_income": 320449000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-12",
+    "shares_outstanding": 135301765.0,
+    "revenue": 379456000.0,
+    "net_income": 153480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 128623076.0,
+    "revenue": 363502000.0,
+    "net_income": 59621000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 126738339.0,
+    "revenue": 358370000.0,
+    "net_income": 51681000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 116006577.0,
+    "revenue": 1279067000.0,
+    "net_income": 216047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 122353511.0,
+    "revenue": 342479000.0,
+    "net_income": 56921000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 110166082.0,
+    "revenue": 303704000.0,
+    "net_income": 53968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 107584856.0,
+    "revenue": 283148000.0,
+    "net_income": 49263000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 99169749.0,
+    "revenue": 1062710000.0,
+    "net_income": 162126000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 101912342.0,
+    "revenue": 273476000.0,
+    "net_income": 37689000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 97511811.0,
+    "revenue": 267881000.0,
+    "net_income": 38228000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DLR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-09",
+    "shares_outstanding": -2498846.0,
+    "revenue": 250741000.0,
+    "net_income": 39012000.0,
+    "market_cap": null
+  }
+]

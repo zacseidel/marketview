@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "GME",
+    "period": "Q2 2026",
+    "filing_date": "2025-09-09",
+    "shares_outstanding": 546500000.0,
+    "revenue": 972200000.0,
+    "net_income": 168600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2026",
+    "filing_date": "2025-06-10",
+    "shares_outstanding": 497900000.0,
+    "revenue": 732400000.0,
+    "net_income": 44800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2025",
+    "filing_date": "2025-03-25",
+    "shares_outstanding": 394700000.0,
+    "revenue": 3823000000.0,
+    "net_income": 131300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2025",
+    "filing_date": "2024-09-10",
+    "shares_outstanding": 387200000.0,
+    "revenue": 798300000.0,
+    "net_income": 14800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2025",
+    "filing_date": "2024-06-11",
+    "shares_outstanding": 305900000.0,
+    "revenue": 881800000.0,
+    "net_income": -32300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2024",
+    "filing_date": "2024-03-26",
+    "shares_outstanding": 305200000.0,
+    "revenue": 5272800000.0,
+    "net_income": 6700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2024",
+    "filing_date": "2023-12-06",
+    "shares_outstanding": 305300000.0,
+    "revenue": 1078300000.0,
+    "net_income": -3100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2024",
+    "filing_date": "2023-09-06",
+    "shares_outstanding": 304800000.0,
+    "revenue": 1163800000.0,
+    "net_income": -2800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2024",
+    "filing_date": "2023-06-07",
+    "shares_outstanding": 304500000.0,
+    "revenue": 1237100000.0,
+    "net_income": -50500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2023",
+    "filing_date": "2023-03-28",
+    "shares_outstanding": 304200000.0,
+    "revenue": 5927200000.0,
+    "net_income": -313100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2023",
+    "filing_date": "2022-12-07",
+    "shares_outstanding": 304200000.0,
+    "revenue": 1186400000.0,
+    "net_income": -94700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2023",
+    "filing_date": "2022-09-07",
+    "shares_outstanding": 304200000.0,
+    "revenue": 1136000000.0,
+    "net_income": -108700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2023",
+    "filing_date": "2022-06-01",
+    "shares_outstanding": 75900000.0,
+    "revenue": 1378400000.0,
+    "net_income": -157900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2022",
+    "filing_date": "2022-03-17",
+    "shares_outstanding": 72600000.0,
+    "revenue": 6010700000.0,
+    "net_income": -381300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2022",
+    "filing_date": "2021-12-08",
+    "shares_outstanding": 75900000.0,
+    "revenue": 1296600000.0,
+    "net_income": -105400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2022",
+    "filing_date": "2021-09-08",
+    "shares_outstanding": 72600000.0,
+    "revenue": 1183400000.0,
+    "net_income": -61600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2022",
+    "filing_date": "2021-06-09",
+    "shares_outstanding": 66000000.0,
+    "revenue": 1276800000.0,
+    "net_income": -66800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2021",
+    "filing_date": "2021-03-23",
+    "shares_outstanding": 65000000.0,
+    "revenue": 5089800000.0,
+    "net_income": -215300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2021",
+    "filing_date": "2020-12-08",
+    "shares_outstanding": 65200000.0,
+    "revenue": 1004700000.0,
+    "net_income": -18800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2021",
+    "filing_date": "2020-09-09",
+    "shares_outstanding": 65000000.0,
+    "revenue": 942000000.0,
+    "net_income": -111300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2021",
+    "filing_date": "2020-06-09",
+    "shares_outstanding": 64500000.0,
+    "revenue": 1021000000.0,
+    "net_income": -165700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2020",
+    "filing_date": "2020-03-27",
+    "shares_outstanding": 87500000.0,
+    "revenue": 6466000000.0,
+    "net_income": -470900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2020",
+    "filing_date": "2019-12-11",
+    "shares_outstanding": 82100000.0,
+    "revenue": 1438500000.0,
+    "net_income": -83400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2020",
+    "filing_date": "2019-09-11",
+    "shares_outstanding": 100000000.0,
+    "revenue": 1285700000.0,
+    "net_income": -415300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2019",
+    "filing_date": "2019-04-02",
+    "shares_outstanding": 102100000.0,
+    "revenue": 8285300000.0,
+    "net_income": -673000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2019",
+    "filing_date": "2018-12-11",
+    "shares_outstanding": 102200000.0,
+    "revenue": 1935400000.0,
+    "net_income": -488600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2019",
+    "filing_date": "2018-09-11",
+    "shares_outstanding": 102100000.0,
+    "revenue": 1501100000.0,
+    "net_income": -24900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2019",
+    "filing_date": "2018-06-12",
+    "shares_outstanding": 102000000.0,
+    "revenue": 1785800000.0,
+    "net_income": 28200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2018",
+    "filing_date": "2018-04-02",
+    "shares_outstanding": 101500000.0,
+    "revenue": 9224600000.0,
+    "net_income": 34700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2018",
+    "filing_date": "2017-12-05",
+    "shares_outstanding": 101500000.0,
+    "revenue": 1988600000.0,
+    "net_income": 59400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2018",
+    "filing_date": "2017-09-06",
+    "shares_outstanding": 101500000.0,
+    "revenue": 1687600000.0,
+    "net_income": 22200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2018",
+    "filing_date": "2017-06-06",
+    "shares_outstanding": 101400000.0,
+    "revenue": 2045900000.0,
+    "net_income": 59000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2017",
+    "filing_date": "2017-03-27",
+    "shares_outstanding": 103800000.0,
+    "revenue": 8607900000.0,
+    "net_income": 353200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2017",
+    "filing_date": "2016-12-06",
+    "shares_outstanding": 104000000.0,
+    "revenue": 1959200000.0,
+    "net_income": 50800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2017",
+    "filing_date": "2016-09-07",
+    "shares_outstanding": 104300000.0,
+    "revenue": 1631800000.0,
+    "net_income": 27900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2017",
+    "filing_date": "2016-06-07",
+    "shares_outstanding": 104200000.0,
+    "revenue": 1971500000.0,
+    "net_income": 65800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2016",
+    "filing_date": "2016-03-28",
+    "shares_outstanding": 106700000.0,
+    "revenue": 9363800000.0,
+    "net_income": 402800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2016",
+    "filing_date": "2015-12-08",
+    "shares_outstanding": 106100000.0,
+    "revenue": 2016300000.0,
+    "net_income": 55900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2016",
+    "filing_date": "2015-09-09",
+    "shares_outstanding": 107200000.0,
+    "revenue": 1761900000.0,
+    "net_income": 25300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2016",
+    "filing_date": "2015-06-09",
+    "shares_outstanding": 108400000.0,
+    "revenue": 2060600000.0,
+    "net_income": 73800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2015",
+    "filing_date": "2015-03-30",
+    "shares_outstanding": 113200000.0,
+    "revenue": 9296000000.0,
+    "net_income": 393100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2015",
+    "filing_date": "2014-12-10",
+    "shares_outstanding": 112900000.0,
+    "revenue": 2092200000.0,
+    "net_income": 56400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2015",
+    "filing_date": "2014-09-08",
+    "shares_outstanding": 114300000.0,
+    "revenue": 1731400000.0,
+    "net_income": 24600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2015",
+    "filing_date": "2014-06-12",
+    "shares_outstanding": 115900000.0,
+    "revenue": 1996300000.0,
+    "net_income": 68000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2014",
+    "filing_date": "2014-04-02",
+    "shares_outstanding": 118400000.0,
+    "revenue": 9039500000.0,
+    "net_income": 354200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2014",
+    "filing_date": "2013-12-11",
+    "shares_outstanding": 118100000.0,
+    "revenue": 2106700000.0,
+    "net_income": 68600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2014",
+    "filing_date": "2013-09-11",
+    "shares_outstanding": 119200000.0,
+    "revenue": 1383700000.0,
+    "net_income": 10500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2014",
+    "filing_date": "2013-06-13",
+    "shares_outstanding": 119400000.0,
+    "revenue": 1865300000.0,
+    "net_income": 54600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2013",
+    "filing_date": "2013-04-03",
+    "shares_outstanding": 126400000.0,
+    "revenue": 8886700000.0,
+    "net_income": -269800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2013",
+    "filing_date": "2012-12-05",
+    "shares_outstanding": 122800000.0,
+    "revenue": 1772800000.0,
+    "net_income": -624300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2013",
+    "filing_date": "2012-09-05",
+    "shares_outstanding": 129100000.0,
+    "revenue": 1550200000.0,
+    "net_income": 21000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2013",
+    "filing_date": "2012-06-06",
+    "shares_outstanding": 134800000.0,
+    "revenue": 2002200000.0,
+    "net_income": 72400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2012",
+    "filing_date": "2012-03-27",
+    "shares_outstanding": 141000000.0,
+    "revenue": 9550500000.0,
+    "net_income": 338500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2012",
+    "filing_date": "2011-12-07",
+    "shares_outstanding": 139800000.0,
+    "revenue": 1946800000.0,
+    "net_income": 53700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2012",
+    "filing_date": "2011-06-08",
+    "shares_outstanding": 143700000.0,
+    "revenue": 2281400000.0,
+    "net_income": 80000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2011",
+    "filing_date": "2011-03-30",
+    "shares_outstanding": 154000000.0,
+    "revenue": 9473700000.0,
+    "net_income": 406800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2011",
+    "filing_date": "2010-12-08",
+    "shares_outstanding": 153276000.0,
+    "revenue": 1899152000.0,
+    "net_income": 54312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2011",
+    "filing_date": "2010-09-08",
+    "shares_outstanding": 154154000.0,
+    "revenue": 1799093000.0,
+    "net_income": 39828000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q1 2011",
+    "filing_date": "2010-06-09",
+    "shares_outstanding": 156484000.0,
+    "revenue": 2082697000.0,
+    "net_income": 74839000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "FY 2010",
+    "filing_date": "2010-03-30",
+    "shares_outstanding": 167875000.0,
+    "revenue": 9077997000.0,
+    "net_income": 375729000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q3 2010",
+    "filing_date": "2009-12-09",
+    "shares_outstanding": 168113000.0,
+    "revenue": 1834727000.0,
+    "net_income": 52225000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GME",
+    "period": "Q2 2010",
+    "filing_date": "2009-09-09",
+    "shares_outstanding": 167857000.0,
+    "revenue": 1738504000.0,
+    "net_income": 38685000.0,
+    "market_cap": null
+  }
+]

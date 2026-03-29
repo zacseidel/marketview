@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "ORI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 251313860.0,
+    "revenue": 9136300000.0,
+    "net_income": 941900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 251313860.0,
+    "revenue": 9136300000.0,
+    "net_income": 941900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 251319768.0,
+    "revenue": 2424300000.0,
+    "net_income": 280100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 251075011.0,
+    "revenue": 2208500000.0,
+    "net_income": 208400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 249640031.0,
+    "revenue": 2114000000.0,
+    "net_income": 246100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 262880631.0,
+    "revenue": 8231500000.0,
+    "net_income": 852700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 256862595.0,
+    "revenue": 2341700000.0,
+    "net_income": 338900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 265549655.0,
+    "revenue": 1871700000.0,
+    "net_income": 91800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 275432461.0,
+    "revenue": 2015900000.0,
+    "net_income": 316700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 285471064.0,
+    "revenue": 7258300000.0,
+    "net_income": 598600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 279924410.0,
+    "revenue": 1760100000.0,
+    "net_income": 52600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-07",
+    "shares_outstanding": 287882787.0,
+    "revenue": 1798300000.0,
+    "net_income": 155500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 293993474.0,
+    "revenue": 1758700000.0,
+    "net_income": 199800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 303296612.0,
+    "revenue": 8083700000.0,
+    "net_income": 686400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 303652802.0,
+    "revenue": 1721000000.0,
+    "net_income": -91700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 303793432.0,
+    "revenue": 1810300000.0,
+    "net_income": -40100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 305424592.0,
+    "revenue": 2206600000.0,
+    "net_income": 306300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-28",
+    "shares_outstanding": 303667669.0,
+    "revenue": 9341600000.0,
+    "net_income": 1534300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 303539358.0,
+    "revenue": 2012200000.0,
+    "net_income": 88700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 302328012.0,
+    "revenue": 2253700000.0,
+    "net_income": 316400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 299693514.0,
+    "revenue": 2355000000.0,
+    "net_income": 502100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 298898673.0,
+    "revenue": 7166000000.0,
+    "net_income": 558600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 297990822.0,
+    "revenue": 1951700000.0,
+    "net_income": 246000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 297776315.0,
+    "revenue": 2027000000.0,
+    "net_income": 397700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 300280398.0,
+    "revenue": 764000000.0,
+    "net_income": -604800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 301227715.0,
+    "revenue": 7213700000.0,
+    "net_income": 1056400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 301384364.0,
+    "revenue": 1771000000.0,
+    "net_income": 202800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 300752992.0,
+    "revenue": 1644700000.0,
+    "net_income": 165500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 300172853.0,
+    "revenue": 1868600000.0,
+    "net_income": 412200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 301016076.0,
+    "revenue": 6021800000.0,
+    "net_income": 370500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 300374004.0,
+    "revenue": 1779700000.0,
+    "net_income": 275200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 301075469.0,
+    "revenue": 1630700000.0,
+    "net_income": 197700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 279528034.0,
+    "revenue": 1330400000.0,
+    "net_income": 4000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 299387373.0,
+    "revenue": 6263100000.0,
+    "net_income": 560500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 298529626.0,
+    "revenue": 1593000000.0,
+    "net_income": 46100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 298313246.0,
+    "revenue": 1499000000.0,
+    "net_income": 101600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 298239349.0,
+    "revenue": 1444800000.0,
+    "net_income": 113100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 296379251.0,
+    "revenue": 5900500000.0,
+    "net_income": 466900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 296444432.0,
+    "revenue": 1496000000.0,
+    "net_income": 110900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 296069028.0,
+    "revenue": 1442200000.0,
+    "net_income": 101000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 295543808.0,
+    "revenue": 1413500000.0,
+    "net_income": 122900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 296088963.0,
+    "revenue": 5766100000.0,
+    "net_income": 422100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 295868117.0,
+    "revenue": 1545700000.0,
+    "net_income": 125900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 295987501.0,
+    "revenue": 1410000000.0,
+    "net_income": 102000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 295547223.0,
+    "revenue": 1330200000.0,
+    "net_income": 103400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 295073206.0,
+    "revenue": 5530700000.0,
+    "net_income": 409700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 295049613.0,
+    "revenue": 1391000000.0,
+    "net_income": 85800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 295051774.0,
+    "revenue": 1333900000.0,
+    "net_income": 66100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 294513903.0,
+    "revenue": 1430600000.0,
+    "net_income": 194400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 293684035.0,
+    "revenue": 5442700000.0,
+    "net_income": 447800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 293444269.0,
+    "revenue": 1379500000.0,
+    "net_income": 102900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 292842386.0,
+    "revenue": 1461500000.0,
+    "net_income": 193900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 292081785.0,
+    "revenue": 1269900000.0,
+    "net_income": 56200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 255812888.0,
+    "revenue": 4970100000.0,
+    "net_income": -68600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 255921356.0,
+    "revenue": 1304800000.0,
+    "net_income": -14800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 255747273.0,
+    "revenue": 1223900000.0,
+    "net_income": -34000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 255779449.0,
+    "revenue": 1158000000.0,
+    "net_income": 400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 255045210.0,
+    "revenue": 4645500000.0,
+    "net_income": -140500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 255137235.0,
+    "revenue": 1113500000.0,
+    "net_income": -116500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ORI",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 254769513.0,
+    "revenue": 1129500000.0,
+    "net_income": -12900000.0,
+    "market_cap": null
+  }
+]

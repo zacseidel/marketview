@@ -1,0 +1,389 @@
+[
+  {
+    "ticker": "WING",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 28074000.0,
+    "revenue": 696853000.0,
+    "net_income": 174267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 28074000.0,
+    "revenue": 696853000.0,
+    "net_income": 174267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 27991000.0,
+    "revenue": 175736000.0,
+    "net_income": 28478000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 27997000.0,
+    "revenue": 174329000.0,
+    "net_income": 26763000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 28509000.0,
+    "revenue": 171094000.0,
+    "net_income": 92265000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 29383000.0,
+    "revenue": 162498000.0,
+    "net_income": 25732000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 29457000.0,
+    "revenue": 155699000.0,
+    "net_income": 27485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 29478000.0,
+    "revenue": 145789000.0,
+    "net_income": 28747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 29856000.0,
+    "revenue": 460055000.0,
+    "net_income": 70175000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 29818000.0,
+    "revenue": 117104000.0,
+    "net_income": 19511000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 30049000.0,
+    "revenue": 107173000.0,
+    "net_income": 16181000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 30031000.0,
+    "revenue": 108721000.0,
+    "net_income": 15669000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 29963000.0,
+    "revenue": 357521000.0,
+    "net_income": 52947000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 29967000.0,
+    "revenue": 92672000.0,
+    "net_income": 13368000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 29914000.0,
+    "revenue": 83777000.0,
+    "net_income": 13307000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 29974000.0,
+    "revenue": 76205000.0,
+    "net_income": 8676000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 29944000.0,
+    "revenue": 282502000.0,
+    "net_income": 42658000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 29963000.0,
+    "revenue": 65784000.0,
+    "net_income": 11290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 29873000.0,
+    "revenue": 74000000.0,
+    "net_income": 11312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 29844000.0,
+    "revenue": 70690000.0,
+    "net_income": 13160000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "FY 2020",
+    "filing_date": "2021-02-18",
+    "shares_outstanding": 29804000.0,
+    "revenue": 248811000.0,
+    "net_income": 23306000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 29854000.0,
+    "revenue": 63988000.0,
+    "net_income": 10081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 29793000.0,
+    "revenue": 66105000.0,
+    "net_income": 11539000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 29742000.0,
+    "revenue": 55436000.0,
+    "net_income": 8096000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "FY 2019",
+    "filing_date": "2020-02-19",
+    "shares_outstanding": 29670000.0,
+    "revenue": 199676000.0,
+    "net_income": 20476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 29696000.0,
+    "revenue": 49875000.0,
+    "net_income": 5905000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 29667000.0,
+    "revenue": 48562000.0,
+    "net_income": 4918000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 29637000.0,
+    "revenue": 48053000.0,
+    "net_income": 6606000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 29587000.0,
+    "revenue": 153181000.0,
+    "net_income": 21719000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-29",
+    "shares_outstanding": 29584000.0,
+    "revenue": 38246000.0,
+    "net_income": 6293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 29528000.0,
+    "revenue": 37037000.0,
+    "net_income": 6839000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 29503000.0,
+    "revenue": 37389000.0,
+    "net_income": 6168000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 29424000.0,
+    "revenue": 105552000.0,
+    "net_income": 27304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 29384000.0,
+    "revenue": 26026000.0,
+    "net_income": 5012000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 29394000.0,
+    "revenue": 24672000.0,
+    "net_income": 5266000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 29336000.0,
+    "revenue": 26569000.0,
+    "net_income": 6530000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "FY 2016",
+    "filing_date": "2017-03-03",
+    "shares_outstanding": 28983000.0,
+    "revenue": 91359000.0,
+    "net_income": 15434000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 29014000.0,
+    "revenue": 21810000.0,
+    "net_income": 2753000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 28989000.0,
+    "revenue": 22723000.0,
+    "net_income": 4079000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 28967000.0,
+    "revenue": 22074000.0,
+    "net_income": 4290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "FY 2015",
+    "filing_date": "2016-03-04",
+    "shares_outstanding": 27816000.0,
+    "revenue": 77969000.0,
+    "net_income": 10106000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 28891000.0,
+    "revenue": 19134000.0,
+    "net_income": 3173000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WING",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 26970000.0,
+    "revenue": 19232000.0,
+    "net_income": 584000.0,
+    "market_cap": null
+  }
+]

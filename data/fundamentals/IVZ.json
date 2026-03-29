@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "IVZ",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 455000000.0,
+    "revenue": 6377100000.0,
+    "net_income": -174800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 455000000.0,
+    "revenue": 6377100000.0,
+    "net_income": -174800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 454600000.0,
+    "revenue": 1640400000.0,
+    "net_income": 356400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 455200000.0,
+    "revenue": 1515500000.0,
+    "net_income": 197400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-28",
+    "shares_outstanding": 454000000.0,
+    "revenue": 1529200000.0,
+    "net_income": 267300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 457700000.0,
+    "revenue": 6067000000.0,
+    "net_income": 752400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 455600000.0,
+    "revenue": 1515400000.0,
+    "net_income": 103600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 456100000.0,
+    "revenue": 1483300000.0,
+    "net_income": 195900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 453500000.0,
+    "revenue": 1475300000.0,
+    "net_income": 214200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 456200000.0,
+    "revenue": 5716400000.0,
+    "net_income": -168200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 453100000.0,
+    "revenue": 1442000000.0,
+    "net_income": 168700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 458800000.0,
+    "revenue": 1442800000.0,
+    "net_income": 164400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 458900000.0,
+    "revenue": 1418200000.0,
+    "net_income": 165800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 459500000.0,
+    "revenue": 6048900000.0,
+    "net_income": 925500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 459500000.0,
+    "revenue": 1445700000.0,
+    "net_income": 168300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 459500000.0,
+    "revenue": 1530400000.0,
+    "net_income": 218900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 462400000.0,
+    "revenue": 1629400000.0,
+    "net_income": 237500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 465400000.0,
+    "revenue": 6894500000.0,
+    "net_income": 1969400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 466000000.0,
+    "revenue": 1750000000.0,
+    "net_income": 545600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 466200000.0,
+    "revenue": 1721400000.0,
+    "net_income": 495100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 464700000.0,
+    "revenue": 1659700000.0,
+    "net_income": 371600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 462500000.0,
+    "revenue": 6145600000.0,
+    "net_income": 807500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 463500000.0,
+    "revenue": 1497600000.0,
+    "net_income": 294700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 463100000.0,
+    "revenue": 1419000000.0,
+    "net_income": 62000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-23",
+    "shares_outstanding": 458900000.0,
+    "revenue": 1598900000.0,
+    "net_income": 120000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 440500000.0,
+    "revenue": 6117400000.0,
+    "net_income": 737800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-23",
+    "shares_outstanding": 466900000.0,
+    "revenue": 1720600000.0,
+    "net_income": 242600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 433800000.0,
+    "revenue": 1439400000.0,
+    "net_income": 62000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 401900000.0,
+    "revenue": 1214600000.0,
+    "net_income": 190600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 412500000.0,
+    "revenue": 5314100000.0,
+    "net_income": 883100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-24",
+    "shares_outstanding": 414400000.0,
+    "revenue": 1341800000.0,
+    "net_income": 281200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 414100000.0,
+    "revenue": 1360600000.0,
+    "net_income": 241900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 411800000.0,
+    "revenue": 1355800000.0,
+    "net_income": 265200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 409900000.0,
+    "revenue": 5160300000.0,
+    "net_income": 1161000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 410500000.0,
+    "revenue": 1337700000.0,
+    "net_income": 274600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 410300000.0,
+    "revenue": 1254400000.0,
+    "net_income": 249600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 408000000.0,
+    "revenue": 1192600000.0,
+    "net_income": 214200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 415000000.0,
+    "revenue": 4734400000.0,
+    "net_income": 868300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 412900000.0,
+    "revenue": 1201600000.0,
+    "net_income": 255900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 419100000.0,
+    "revenue": 1189400000.0,
+    "net_income": 236500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 418900000.0,
+    "revenue": 1148700000.0,
+    "net_income": 157800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2015",
+    "filing_date": "2016-02-19",
+    "shares_outstanding": 429300000.0,
+    "revenue": 5122900000.0,
+    "net_income": 964100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 429100000.0,
+    "revenue": 1273500000.0,
+    "net_income": 241300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 432200000.0,
+    "revenue": 1318100000.0,
+    "net_income": 244000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 432500000.0,
+    "revenue": 1291600000.0,
+    "net_income": 284000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2014",
+    "filing_date": "2015-02-20",
+    "shares_outstanding": 435600000.0,
+    "revenue": 5147100000.0,
+    "net_income": 1001100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 434800000.0,
+    "revenue": 1311000000.0,
+    "net_income": 251600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 436400000.0,
+    "revenue": 1289900000.0,
+    "net_income": 316800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 437400000.0,
+    "revenue": 1269500000.0,
+    "net_income": 206800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 448500000.0,
+    "revenue": 4644600000.0,
+    "net_income": 982800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 448800000.0,
+    "revenue": 1171800000.0,
+    "net_income": 248700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 450100000.0,
+    "revenue": 1135500000.0,
+    "net_income": 203700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-30",
+    "shares_outstanding": -500000.0,
+    "revenue": 1141800000.0,
+    "net_income": 199600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 453800000.0,
+    "revenue": 4177000000.0,
+    "net_income": 587300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 9197400000.0,
+    "revenue": 1041400000.0,
+    "net_income": 156900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 9118800000.0,
+    "revenue": 1009000000.0,
+    "net_income": 227600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 464700000.0,
+    "revenue": 4092200000.0,
+    "net_income": 622000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 8967500000.0,
+    "revenue": 997800000.0,
+    "net_income": 83400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-29",
+    "shares_outstanding": 9197800000.0,
+    "revenue": 1070000000.0,
+    "net_income": 129400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-29",
+    "shares_outstanding": 9413200000.0,
+    "revenue": 1027300000.0,
+    "net_income": 99300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-04",
+    "shares_outstanding": 8000900000.0,
+    "revenue": 719100000.0,
+    "net_income": 214500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 7620800000.0,
+    "revenue": 2627300000.0,
+    "net_income": 209300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-30",
+    "shares_outstanding": 7424200000.0,
+    "revenue": 705800000.0,
+    "net_income": 104700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IVZ",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-31",
+    "shares_outstanding": 7202800000.0,
+    "revenue": 625100000.0,
+    "net_income": 28200000.0,
+    "market_cap": null
+  }
+]

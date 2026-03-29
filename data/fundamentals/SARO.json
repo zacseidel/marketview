@@ -1,0 +1,56 @@
+[
+  {
+    "ticker": "SARO",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 334321000.0,
+    "revenue": 6062513000.0,
+    "net_income": 277417000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SARO",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 334321000.0,
+    "revenue": 6062513000.0,
+    "net_income": 277417000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SARO",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-10",
+    "shares_outstanding": 334407000.0,
+    "revenue": 1497962000.0,
+    "net_income": 68120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SARO",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-14",
+    "shares_outstanding": 334300000.0,
+    "revenue": 1528943000.0,
+    "net_income": 67713000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SARO",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-13",
+    "shares_outstanding": 334162000.0,
+    "revenue": 1435588000.0,
+    "net_income": 62943000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SARO",
+    "period": "FY 2024",
+    "filing_date": "2025-03-12",
+    "shares_outstanding": 289799000.0,
+    "revenue": 5237161000.0,
+    "net_income": 10974000.0,
+    "market_cap": null
+  }
+]

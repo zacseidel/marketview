@@ -1,0 +1,434 @@
+[
+  {
+    "ticker": "ESNT",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 100023000.0,
+    "revenue": 1260935000.0,
+    "net_income": 689969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 100023000.0,
+    "revenue": 1260935000.0,
+    "net_income": 689969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 98519000.0,
+    "revenue": 311830000.0,
+    "net_income": 164215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 101059000.0,
+    "revenue": 319143000.0,
+    "net_income": 195339000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 103946000.0,
+    "revenue": 317558000.0,
+    "net_income": 175433000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 106554000.0,
+    "revenue": 316578000.0,
+    "net_income": 176175000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 106778000.0,
+    "revenue": 312942000.0,
+    "net_income": 203609000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 106770000.0,
+    "revenue": 298357000.0,
+    "net_income": 181719000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 107129000.0,
+    "revenue": 1109759000.0,
+    "net_income": 696386000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 107025000.0,
+    "revenue": 296108000.0,
+    "net_income": 177959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 107093000.0,
+    "revenue": 260128000.0,
+    "net_income": 172233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-10",
+    "shares_outstanding": 107585000.0,
+    "revenue": 256246000.0,
+    "net_income": 170827000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2022",
+    "filing_date": "2023-02-17",
+    "shares_outstanding": 107653000.0,
+    "revenue": 1000824000.0,
+    "net_income": 831353000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 107337000.0,
+    "revenue": 261767000.0,
+    "net_income": 178051000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-08",
+    "shares_outstanding": 107283000.0,
+    "revenue": 244409000.0,
+    "net_income": 231769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 108590000.0,
+    "revenue": 264611000.0,
+    "net_income": 274167000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 111555000.0,
+    "revenue": 1028510000.0,
+    "net_income": 681783000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-08",
+    "shares_outstanding": 111387000.0,
+    "revenue": 283536000.0,
+    "net_income": 205353000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 112454000.0,
+    "revenue": 243261000.0,
+    "net_income": 159795000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 112378000.0,
+    "revenue": 244797000.0,
+    "net_income": 135648000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 106376000.0,
+    "revenue": 955154000.0,
+    "net_income": 413041000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 112134000.0,
+    "revenue": 243038000.0,
+    "net_income": 124536000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-10",
+    "shares_outstanding": 102605000.0,
+    "revenue": 236077000.0,
+    "net_income": 15380000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 98326000.0,
+    "revenue": 228840000.0,
+    "net_income": 149523000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2019",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 98227000.0,
+    "revenue": 867567000.0,
+    "net_income": 555713000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 98257000.0,
+    "revenue": 226387000.0,
+    "net_income": 144630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-05",
+    "shares_outstanding": 98170000.0,
+    "revenue": 211892000.0,
+    "net_income": 136405000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-06",
+    "shares_outstanding": 98104000.0,
+    "revenue": 200526000.0,
+    "net_income": 127720000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2018",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 97974000.0,
+    "revenue": 719353000.0,
+    "net_income": 467363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-09",
+    "shares_outstanding": 98013000.0,
+    "revenue": 184998000.0,
+    "net_income": 116011000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-06",
+    "shares_outstanding": 97866000.0,
+    "revenue": 173768000.0,
+    "net_income": 111755000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 97951000.0,
+    "revenue": 167463000.0,
+    "net_income": 111069000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2017",
+    "filing_date": "2018-02-20",
+    "shares_outstanding": 95211000.0,
+    "revenue": 576511000.0,
+    "net_income": 379747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 96094000.0,
+    "revenue": 150203000.0,
+    "net_income": 78393000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-07",
+    "shares_outstanding": 93162000.0,
+    "revenue": 137606000.0,
+    "net_income": 72118000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 93023000.0,
+    "revenue": 127592000.0,
+    "net_income": 66598000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2016",
+    "filing_date": "2017-02-16",
+    "shares_outstanding": 92245000.0,
+    "revenue": 458258000.0,
+    "net_income": 222606000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 92399000.0,
+    "revenue": 121254000.0,
+    "net_income": 59711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 92138000.0,
+    "revenue": 108165000.0,
+    "net_income": 52258000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 91859000.0,
+    "revenue": 102466000.0,
+    "net_income": 47951000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 91738000.0,
+    "revenue": 353290000.0,
+    "net_income": 157331000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 91841000.0,
+    "revenue": 91736000.0,
+    "net_income": 40821000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": 91674000.0,
+    "revenue": 84067000.0,
+    "net_income": 37193000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-11",
+    "shares_outstanding": 91514000.0,
+    "revenue": 80011000.0,
+    "net_income": 34838000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 85602000.0,
+    "revenue": 239467000.0,
+    "net_income": 88497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-14",
+    "shares_outstanding": 85028000.0,
+    "revenue": 64621000.0,
+    "net_income": 25070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-14",
+    "shares_outstanding": 84706000.0,
+    "revenue": 54283000.0,
+    "net_income": 19555000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESNT",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-15",
+    "shares_outstanding": 84696000.0,
+    "revenue": 47821000.0,
+    "net_income": 15006000.0,
+    "market_cap": null
+  }
+]

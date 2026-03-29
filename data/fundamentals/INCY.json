@@ -1,0 +1,524 @@
+[
+  {
+    "ticker": "INCY",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 201429000.0,
+    "revenue": 1365980000.0,
+    "net_income": 424169000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-29",
+    "shares_outstanding": 198744000.0,
+    "revenue": 1215529000.0,
+    "net_income": 404999000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 198197000.0,
+    "revenue": 1052898000.0,
+    "net_income": 158203000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 195838000.0,
+    "revenue": 1137871000.0,
+    "net_income": 106456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 218175000.0,
+    "revenue": 1043759000.0,
+    "net_income": -444601000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 227219000.0,
+    "revenue": 880889000.0,
+    "net_income": 169548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2023",
+    "filing_date": "2024-02-13",
+    "shares_outstanding": 225928000.0,
+    "revenue": 3695649000.0,
+    "net_income": 597599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 226167000.0,
+    "revenue": 919025000.0,
+    "net_income": 171269000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 225649000.0,
+    "revenue": 954610000.0,
+    "net_income": 203548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 225589000.0,
+    "revenue": 808673000.0,
+    "net_income": 21703000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2022",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 223958000.0,
+    "revenue": 3394635000.0,
+    "net_income": 340660000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 224175000.0,
+    "revenue": 823303000.0,
+    "net_income": 112775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 223661000.0,
+    "revenue": 911397000.0,
+    "net_income": 161432000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 222950000.0,
+    "revenue": 733235000.0,
+    "net_income": 37992000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2021",
+    "filing_date": "2022-02-08",
+    "shares_outstanding": 222074000.0,
+    "revenue": 2986267000.0,
+    "net_income": 948581000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 222248000.0,
+    "revenue": 812987000.0,
+    "net_income": 181739000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 222250000.0,
+    "revenue": 705709000.0,
+    "net_income": 149456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 221867000.0,
+    "revenue": 604718000.0,
+    "net_income": 53535000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2020",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 218073000.0,
+    "revenue": 2666702000.0,
+    "net_income": -295697000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 218784000.0,
+    "revenue": 620643000.0,
+    "net_income": -15203000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 220434000.0,
+    "revenue": 688043000.0,
+    "net_income": 290298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 216721000.0,
+    "revenue": 568507000.0,
+    "net_income": -720642000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2019",
+    "filing_date": "2020-02-13",
+    "shares_outstanding": 217657000.0,
+    "revenue": 2158759000.0,
+    "net_income": 446906000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-29",
+    "shares_outstanding": 217791000.0,
+    "revenue": 551581000.0,
+    "net_income": 128271000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 217483000.0,
+    "revenue": 529932000.0,
+    "net_income": 105318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 217061000.0,
+    "revenue": 497857000.0,
+    "net_income": 102312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2018",
+    "filing_date": "2019-02-14",
+    "shares_outstanding": 215635000.0,
+    "revenue": 1881883000.0,
+    "net_income": 109493000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 215964000.0,
+    "revenue": 449683000.0,
+    "net_income": 29176000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-31",
+    "shares_outstanding": 215103000.0,
+    "revenue": 521516000.0,
+    "net_income": 52394000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-01",
+    "shares_outstanding": 211681000.0,
+    "revenue": 382282000.0,
+    "net_income": -41140000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2017",
+    "filing_date": "2018-02-15",
+    "shares_outstanding": 204580000.0,
+    "revenue": 1536216000.0,
+    "net_income": -313142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 212610000.0,
+    "revenue": 381534000.0,
+    "net_income": 36054000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 205141000.0,
+    "revenue": 326444000.0,
+    "net_income": -12484000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 195260000.0,
+    "revenue": 384082000.0,
+    "net_income": -187083000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2016",
+    "filing_date": "2017-02-14",
+    "shares_outstanding": 194125000.0,
+    "revenue": 1105719000.0,
+    "net_income": 104222000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 194265000.0,
+    "revenue": 269469000.0,
+    "net_income": 36877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 193015000.0,
+    "revenue": 246288000.0,
+    "net_income": 34425000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 192625000.0,
+    "revenue": 263464000.0,
+    "net_income": 24047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2015",
+    "filing_date": "2016-02-12",
+    "shares_outstanding": 187302000.0,
+    "revenue": 753751000.0,
+    "net_income": 6531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 181387000.0,
+    "revenue": 187611000.0,
+    "net_income": -39582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 186493000.0,
+    "revenue": 162984000.0,
+    "net_income": 9294000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 172070000.0,
+    "revenue": 159275000.0,
+    "net_income": -18359000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2014",
+    "filing_date": "2015-02-17",
+    "shares_outstanding": 692241000.0,
+    "revenue": 511495000.0,
+    "net_income": -48481000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 189046000.0,
+    "revenue": 198147000.0,
+    "net_income": 59293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 167914000.0,
+    "revenue": 99582000.0,
+    "net_income": -36873000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 165357000.0,
+    "revenue": 89792000.0,
+    "net_income": -33957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": -193108000.0,
+    "revenue": 354947000.0,
+    "net_income": -83147000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 28791000.0,
+    "revenue": 85123000.0,
+    "net_income": -22037000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 142284000.0,
+    "revenue": 101675000.0,
+    "net_income": -2571000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-02",
+    "shares_outstanding": -3969000.0,
+    "revenue": 71077000.0,
+    "net_income": -15669000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 535141000.0,
+    "revenue": 297059000.0,
+    "net_income": -44320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 130851000.0,
+    "revenue": 60492000.0,
+    "net_income": -21710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 137969000.0,
+    "revenue": 86542000.0,
+    "net_income": 4037000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 127203000.0,
+    "revenue": 36179000.0,
+    "net_income": -45426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "FY 2011",
+    "filing_date": "2012-02-22",
+    "shares_outstanding": 125362000.0,
+    "revenue": 94455000.0,
+    "net_income": -186540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 126260000.0,
+    "revenue": 16782000.0,
+    "net_income": -53078000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 125330000.0,
+    "revenue": 16811000.0,
+    "net_income": -51870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INCY",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": 123467000.0,
+    "revenue": 31973000.0,
+    "net_income": -26512000.0,
+    "market_cap": null
+  }
+]

@@ -481,9 +481,20 @@ if __name__ == "__main__":
                         choices=["knn", "gbm", "cluster", "ensemble"])
     parser.add_argument("--backfill", action="store_true",
                         help="One-time: download extended price history via yfinance and save to cache")
+    parser.add_argument("--refresh-cache", action="store_true",
+                        help="Append any new local price files to the recent prices cache")
     args = parser.parse_args()
 
-    if args.backfill:
+    if args.refresh_cache:
+        if not _RECENT_PRICES_FILE.exists():
+            print("No price cache found — skipping (run --backfill locally first)")
+        else:
+            import pandas as _pd
+            df = _pd.read_parquet(_RECENT_PRICES_FILE)
+            df["date"] = _pd.to_datetime(df["date"])
+            updated = _append_local_prices(df)
+            print(f"Price cache updated: {len(updated)} rows")
+    elif args.backfill:
         import json as _json
         with open(_UNIVERSE_FILE) as f:
             constituents = _json.load(f)

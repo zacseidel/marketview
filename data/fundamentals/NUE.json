@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "NUE",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 231000000.0,
+    "revenue": 32494000000.0,
+    "net_income": 2038000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 231000000.0,
+    "revenue": 32494000000.0,
+    "net_income": 2038000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-12",
+    "shares_outstanding": 230200000.0,
+    "revenue": 8521000000.0,
+    "net_income": 683000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-14",
+    "shares_outstanding": 232900000.0,
+    "revenue": 7830000000.0,
+    "net_income": 226000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 238500000.0,
+    "revenue": 30734000000.0,
+    "net_income": 2319000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 236768000.0,
+    "revenue": 7444000000.0,
+    "net_income": 303000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 239935000.0,
+    "revenue": 8077000000.0,
+    "net_income": 712000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 243497000.0,
+    "revenue": 8137000000.0,
+    "net_income": 959000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 250412000.0,
+    "revenue": 34713501000.0,
+    "net_income": 4912791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 248916000.0,
+    "revenue": 8775734000.0,
+    "net_income": 1221255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 250524000.0,
+    "revenue": 9523256000.0,
+    "net_income": 1587075000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-10",
+    "shares_outstanding": 254397000.0,
+    "revenue": 8709980000.0,
+    "net_income": 1231629000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 263176000.0,
+    "revenue": 41512467000.0,
+    "net_income": 8079640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 259526000.0,
+    "revenue": 10500755000.0,
+    "net_income": 1799043000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-10",
+    "shares_outstanding": 263719000.0,
+    "revenue": 11794474000.0,
+    "net_income": 2727237000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-11",
+    "shares_outstanding": 272094000.0,
+    "revenue": 10493282000.0,
+    "net_income": 2227115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2021",
+    "filing_date": "2022-02-28",
+    "shares_outstanding": 293390000.0,
+    "revenue": 36483939000.0,
+    "net_income": 7122370000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-10",
+    "shares_outstanding": 291152000.0,
+    "revenue": 10313223000.0,
+    "net_income": 2223265000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-11",
+    "shares_outstanding": 297529000.0,
+    "revenue": 8789164000.0,
+    "net_income": 1571459000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-12",
+    "shares_outstanding": 302518000.0,
+    "revenue": 7017140000.0,
+    "net_income": 987514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 303271000.0,
+    "revenue": 20139658000.0,
+    "net_income": 836028000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-12",
+    "shares_outstanding": 303441000.0,
+    "revenue": 4927960000.0,
+    "net_income": 222630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-12",
+    "shares_outstanding": 302933000.0,
+    "revenue": 4327306000.0,
+    "net_income": 133153000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-13",
+    "shares_outstanding": 302932000.0,
+    "revenue": 5624337000.0,
+    "net_income": 54379000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 305503000.0,
+    "revenue": 22588858000.0,
+    "net_income": 1370910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 304980000.0,
+    "revenue": 5464502000.0,
+    "net_income": 293587000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 305952000.0,
+    "revenue": 5895986000.0,
+    "net_income": 412277000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 307180000.0,
+    "revenue": 6096624000.0,
+    "net_income": 530793000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 316733000.0,
+    "revenue": 25067279000.0,
+    "net_income": 2481084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 316798000.0,
+    "revenue": 6742202000.0,
+    "net_income": 706287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 319391000.0,
+    "revenue": 6460774000.0,
+    "net_income": 713615000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 320474000.0,
+    "revenue": 5568419000.0,
+    "net_income": 380112000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 320773000.0,
+    "revenue": 20252393000.0,
+    "net_income": 1380571000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 320763000.0,
+    "revenue": 5170117000.0,
+    "net_income": 266105000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 321226000.0,
+    "revenue": 5174769000.0,
+    "net_income": 341724000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 321146000.0,
+    "revenue": 4815179000.0,
+    "net_income": 377648000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 319822000.0,
+    "revenue": 16208122000.0,
+    "net_income": 900416000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 320028000.0,
+    "revenue": 4290236000.0,
+    "net_income": 331365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-10",
+    "shares_outstanding": 319578000.0,
+    "revenue": 4245772000.0,
+    "net_income": 271369000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-11",
+    "shares_outstanding": 319294000.0,
+    "revenue": 3715576000.0,
+    "net_income": 122497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 320693000.0,
+    "revenue": 16439276000.0,
+    "net_income": 496084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-12",
+    "shares_outstanding": 320900000.0,
+    "revenue": 4225514000.0,
+    "net_income": 267736000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-12",
+    "shares_outstanding": 320708000.0,
+    "revenue": 4357609000.0,
+    "net_income": 159344000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-13",
+    "shares_outstanding": 320483000.0,
+    "revenue": 4399440000.0,
+    "net_income": 84292000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 320127000.0,
+    "revenue": 21105141000.0,
+    "net_income": 815790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-12",
+    "shares_outstanding": 320337000.0,
+    "revenue": 5701869000.0,
+    "net_income": 274201000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-13",
+    "shares_outstanding": 319981000.0,
+    "revenue": 5291075000.0,
+    "net_income": 166935000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-14",
+    "shares_outstanding": 319768000.0,
+    "revenue": 5108444000.0,
+    "net_income": 129696000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 319266000.0,
+    "revenue": 19052046000.0,
+    "net_income": 585529000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 319526000.0,
+    "revenue": 4940936000.0,
+    "net_income": 178115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 319023000.0,
+    "revenue": 4665588000.0,
+    "net_income": 106270000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 318842000.0,
+    "revenue": 4550772000.0,
+    "net_income": 110728000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 318240000.0,
+    "revenue": 19429273000.0,
+    "net_income": 593126000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 318520000.0,
+    "revenue": 4801206000.0,
+    "net_income": 129892000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 318040000.0,
+    "revenue": 5104199000.0,
+    "net_income": 139567000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 317779000.0,
+    "revenue": 5072594000.0,
+    "net_income": 163412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 317161000.0,
+    "revenue": 20023564000.0,
+    "net_income": 860984000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 317287000.0,
+    "revenue": 5252144000.0,
+    "net_income": 200111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-10",
+    "shares_outstanding": 317022000.0,
+    "revenue": 5107809000.0,
+    "net_income": 321578000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-11",
+    "shares_outstanding": 316874000.0,
+    "revenue": 4833934000.0,
+    "net_income": 181122000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-11",
+    "shares_outstanding": 316228000.0,
+    "revenue": 3654842000.0,
+    "net_income": 41194000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "FY 2009",
+    "filing_date": "2010-02-25",
+    "shares_outstanding": 7584289000.0,
+    "revenue": 11190296000.0,
+    "net_income": -237178000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-10",
+    "shares_outstanding": 315173000.0,
+    "revenue": 3120005000.0,
+    "net_income": -5311000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NUE",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-11",
+    "shares_outstanding": 314752000.0,
+    "revenue": 2478028000.0,
+    "net_income": -133337000.0,
+    "market_cap": null
+  }
+]

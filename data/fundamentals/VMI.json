@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "VMI",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 19876000.0,
+    "revenue": 1045980000.0,
+    "net_income": 101092000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 19809000.0,
+    "revenue": 1050548000.0,
+    "net_income": -3291000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 20196000.0,
+    "revenue": 969314000.0,
+    "net_income": 86663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 20261000.0,
+    "revenue": 4075034000.0,
+    "net_income": 350624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 20234000.0,
+    "revenue": 1020175000.0,
+    "net_income": 82610000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 20292000.0,
+    "revenue": 1039737000.0,
+    "net_income": 101150000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 20321000.0,
+    "revenue": 977828000.0,
+    "net_income": 88429000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 21159000.0,
+    "revenue": 4174598000.0,
+    "net_income": 144912000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-06",
+    "shares_outstanding": 20951.0,
+    "revenue": 1050295000.0,
+    "net_income": -50315000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 21229.0,
+    "revenue": 1046296000.0,
+    "net_income": 88798000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 21512000.0,
+    "revenue": 1062481000.0,
+    "net_income": 72345000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 21580000.0,
+    "revenue": 4345250000.0,
+    "net_income": 254251000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 21605000.0,
+    "revenue": 1097382000.0,
+    "net_income": 72930000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 21541000.0,
+    "revenue": 1135532000.0,
+    "net_income": 77207000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 21492000.0,
+    "revenue": 980820000.0,
+    "net_income": 62906000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 21493000.0,
+    "revenue": 3501575000.0,
+    "net_income": 197725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 21552000.0,
+    "revenue": 868782000.0,
+    "net_income": 52253000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 21469000.0,
+    "revenue": 894629000.0,
+    "net_income": 62657000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 21429000.0,
+    "revenue": 774886000.0,
+    "net_income": 55001000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 21425000.0,
+    "revenue": 2895355000.0,
+    "net_income": 142149000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 21416000.0,
+    "revenue": 733970000.0,
+    "net_income": 40228000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 21393000.0,
+    "revenue": 688808000.0,
+    "net_income": 22754000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 21549000.0,
+    "revenue": 674200000.0,
+    "net_income": 42721000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 21769000.0,
+    "revenue": 2766976000.0,
+    "net_income": 159466000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 21684000.0,
+    "revenue": 690340000.0,
+    "net_income": 42263000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 21831000.0,
+    "revenue": 700871000.0,
+    "net_income": 42346000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 21964000.0,
+    "revenue": 692139000.0,
+    "net_income": 37455000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 22446000.0,
+    "revenue": 2757144000.0,
+    "net_income": 100306000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 22352000.0,
+    "revenue": 678692000.0,
+    "net_income": 6991000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 22573000.0,
+    "revenue": 682405000.0,
+    "net_income": 34680000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 22796000.0,
+    "revenue": 698684000.0,
+    "net_income": 40480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 22738000.0,
+    "revenue": 2745967000.0,
+    "net_income": 122319000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 22751000.0,
+    "revenue": 680779000.0,
+    "net_income": 36666000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 22740000.0,
+    "revenue": 712737000.0,
+    "net_income": 47322000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 22660000.0,
+    "revenue": 637473000.0,
+    "net_income": 39961000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 22709000.0,
+    "revenue": 2521676000.0,
+    "net_income": 178391000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 22659000.0,
+    "revenue": 610247000.0,
+    "net_income": 29521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 22749000.0,
+    "revenue": 640249000.0,
+    "net_income": 43442000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 22816000.0,
+    "revenue": 596605000.0,
+    "net_income": 34171000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 23405000.0,
+    "revenue": 2618924000.0,
+    "net_income": 45333000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 23170000.0,
+    "revenue": 632575000.0,
+    "net_income": 13549000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-29",
+    "shares_outstanding": 23450000.0,
+    "revenue": 682123000.0,
+    "net_income": 29439000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 23982000.0,
+    "revenue": 670398000.0,
+    "net_income": 31507000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 25932000.0,
+    "revenue": 3123143000.0,
+    "net_income": 189318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 25513000.0,
+    "revenue": 765668000.0,
+    "net_income": 25285000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 26856000.0,
+    "revenue": 842599000.0,
+    "net_income": 65852000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 26950000.0,
+    "revenue": 751740000.0,
+    "net_income": 56563000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 26899000.0,
+    "revenue": 3304211000.0,
+    "net_income": 280460000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 26919000.0,
+    "revenue": 778032000.0,
+    "net_income": 58891000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 26910000.0,
+    "revenue": 878659000.0,
+    "net_income": 91316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-02",
+    "shares_outstanding": 26859000.0,
+    "revenue": 819630000.0,
+    "net_income": 78140000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 26764000.0,
+    "revenue": 3169556000.0,
+    "net_income": 238916000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-29",
+    "shares_outstanding": 26806000.0,
+    "revenue": 729839000.0,
+    "net_income": 58442000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 26758000.0,
+    "revenue": 767315000.0,
+    "net_income": 61159000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-30",
+    "shares_outstanding": 26678000.0,
+    "revenue": 717350000.0,
+    "net_income": 52588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 26550000.0,
+    "revenue": 2767778000.0,
+    "net_income": 237226000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 26579000.0,
+    "revenue": 702352000.0,
+    "net_income": 44414000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-29",
+    "shares_outstanding": 26585000.0,
+    "revenue": 694960000.0,
+    "net_income": 47991000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-29",
+    "shares_outstanding": 26537000.0,
+    "revenue": 567949000.0,
+    "net_income": 26873000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VMI",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-03",
+    "shares_outstanding": 26448000.0,
+    "revenue": 481559000.0,
+    "net_income": 19134000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "PRU",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 353700000.0,
+    "revenue": 60774000000.0,
+    "net_income": 3732000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 353700000.0,
+    "revenue": 60774000000.0,
+    "net_income": 3732000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 353000000.0,
+    "revenue": 17888000000.0,
+    "net_income": 1483000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 354900000.0,
+    "revenue": 13726000000.0,
+    "net_income": 566000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 356100000.0,
+    "revenue": 13470000000.0,
+    "net_income": 742000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 359300000.0,
+    "revenue": 70405000000.0,
+    "net_income": 2846000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 358700000.0,
+    "revenue": 19490000000.0,
+    "net_income": 451000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 360500000.0,
+    "revenue": 14883000000.0,
+    "net_income": 1171000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 360500000.0,
+    "revenue": 23509000000.0,
+    "net_income": 1151000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 364600000.0,
+    "revenue": 53979000000.0,
+    "net_income": 2508000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 362600000.0,
+    "revenue": 8352000000.0,
+    "net_income": -791000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 366100000.0,
+    "revenue": 13498000000.0,
+    "net_income": 496000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 367700000.0,
+    "revenue": 17045000000.0,
+    "net_income": 1477000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 372300000.0,
+    "revenue": 60050000000.0,
+    "net_income": -1462000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 371000000.0,
+    "revenue": 20480000000.0,
+    "net_income": -290000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 374400000.0,
+    "revenue": 13021000000.0,
+    "net_income": -572000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 376100000.0,
+    "revenue": 13215000000.0,
+    "net_income": -44000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 390100000.0,
+    "revenue": 70934000000.0,
+    "net_income": 7794000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 386800000.0,
+    "revenue": 21641000000.0,
+    "net_income": 1565000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 394100000.0,
+    "revenue": 15917000000.0,
+    "net_income": 2183000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 398800000.0,
+    "revenue": 16952000000.0,
+    "net_income": 2804000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 395800000.0,
+    "revenue": 57033000000.0,
+    "net_income": -146000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 397100000.0,
+    "revenue": 15425000000.0,
+    "net_income": 1507000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 394600000.0,
+    "revenue": 12115000000.0,
+    "net_income": -2405000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 397000000.0,
+    "revenue": 13464000000.0,
+    "net_income": -270000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 410900000.0,
+    "revenue": 64807000000.0,
+    "net_income": 4238000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 408500000.0,
+    "revenue": 15105000000.0,
+    "net_income": 1425000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 413900000.0,
+    "revenue": 15388000000.0,
+    "net_income": 738000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 417600000.0,
+    "revenue": 15091000000.0,
+    "net_income": 937000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2018",
+    "filing_date": "2019-02-15",
+    "shares_outstanding": 426200000.0,
+    "revenue": 62992000000.0,
+    "net_income": 4088000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 424700000.0,
+    "revenue": 16148000000.0,
+    "net_income": 1675000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 428000000.0,
+    "revenue": 14655000000.0,
+    "net_income": 200000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 430900000.0,
+    "revenue": 13757000000.0,
+    "net_income": 1364000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 436000000.0,
+    "revenue": 59689000000.0,
+    "net_income": 7974000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 435000000.0,
+    "revenue": 16313000000.0,
+    "net_income": 2241000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 437200000.0,
+    "revenue": 13441000000.0,
+    "net_income": 496000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 439100000.0,
+    "revenue": 13670000000.0,
+    "net_income": 1372000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 46088000000.0,
+    "revenue": 58779000000.0,
+    "net_income": 4419000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 56974000000.0,
+    "revenue": 16961000000.0,
+    "net_income": 1832000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 55178000000.0,
+    "revenue": 14439000000.0,
+    "net_income": 925000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 49265000000.0,
+    "revenue": 14329000000.0,
+    "net_income": 1369000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2015",
+    "filing_date": "2016-02-19",
+    "shares_outstanding": 41923000000.0,
+    "revenue": 57119000000.0,
+    "net_income": 5712000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 42770000000.0,
+    "revenue": 13599000000.0,
+    "net_income": 1467000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 42292000000.0,
+    "revenue": 13712000000.0,
+    "net_income": 1459000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 45574000000.0,
+    "revenue": 15552000000.0,
+    "net_income": 2046000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2014",
+    "filing_date": "2015-02-20",
+    "shares_outstanding": 42349000000.0,
+    "revenue": 54105000000.0,
+    "net_income": 1438000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 42352000000.0,
+    "revenue": 12380000000.0,
+    "net_income": 523000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 41807000000.0,
+    "revenue": 13146000000.0,
+    "net_income": 1113000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 38864000000.0,
+    "revenue": 12854000000.0,
+    "net_income": 1249000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 35881000000.0,
+    "revenue": 41461000000.0,
+    "net_income": -560000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 35116000000.0,
+    "revenue": 11310000000.0,
+    "net_income": 1040000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 35908000000.0,
+    "revenue": 10041000000.0,
+    "net_income": -487000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 40666000000.0,
+    "revenue": 10171000000.0,
+    "net_income": -685000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 39291000000.0,
+    "revenue": 84815000000.0,
+    "net_income": 547000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 39366000000.0,
+    "revenue": 13144000000.0,
+    "net_income": -559000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 38630000000.0,
+    "revenue": 16136000000.0,
+    "net_income": 2239000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 35538000000.0,
+    "revenue": 9623000000.0,
+    "net_income": -928000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 37811000000.0,
+    "revenue": 49045000000.0,
+    "net_income": 3738000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 37804000000.0,
+    "revenue": 14917000000.0,
+    "net_income": 1544000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 35636000000.0,
+    "revenue": 12247000000.0,
+    "net_income": 867000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 33246000000.0,
+    "revenue": 10186000000.0,
+    "net_income": 633000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 34068000000.0,
+    "revenue": 9962000000.0,
+    "net_income": 1242000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-07",
+    "shares_outstanding": 27506000000.0,
+    "revenue": 9292000000.0,
+    "net_income": 671000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 25729000000.0,
+    "revenue": 32688000000.0,
+    "net_income": 3090000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-06",
+    "shares_outstanding": 24847000000.0,
+    "revenue": 8564000000.0,
+    "net_income": 1032000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PRU",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-07",
+    "shares_outstanding": 18675000000.0,
+    "revenue": 6906000000.0,
+    "net_income": 163000000.0,
+    "market_cap": null
+  }
+]

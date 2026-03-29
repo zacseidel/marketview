@@ -1,0 +1,488 @@
+[
+  {
+    "ticker": "PSX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 408053000.0,
+    "revenue": 132376000000.0,
+    "net_income": 4528000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 408053000.0,
+    "revenue": 132376000000.0,
+    "net_income": 4528000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-28",
+    "shares_outstanding": 407929000.0,
+    "revenue": 33323000000.0,
+    "net_income": 908000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-25",
+    "shares_outstanding": 410505000.0,
+    "revenue": 30430000000.0,
+    "net_income": 526000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 418803000.0,
+    "revenue": 35528000000.0,
+    "net_income": 369000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 425734000.0,
+    "revenue": 38129000000.0,
+    "net_income": 1020000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-29",
+    "shares_outstanding": 431906000.0,
+    "revenue": 35811000000.0,
+    "net_income": 761000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 453210000.0,
+    "revenue": 147399000000.0,
+    "net_income": 7239000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 447258000.0,
+    "revenue": 39643000000.0,
+    "net_income": 2143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 456168000.0,
+    "revenue": 35090000000.0,
+    "net_income": 1734000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 467034000.0,
+    "revenue": 34396000000.0,
+    "net_income": 2077000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 473731000.0,
+    "revenue": 169990000000.0,
+    "net_income": 11391000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 483036000.0,
+    "revenue": 44955000000.0,
+    "net_income": 5540000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 485035000.0,
+    "revenue": 48577000000.0,
+    "net_income": 3182000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 450011000.0,
+    "revenue": 36179000000.0,
+    "net_income": 657000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 440364000.0,
+    "revenue": 111476000000.0,
+    "net_income": 1594000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 440368000.0,
+    "revenue": 30243000000.0,
+    "net_income": 488000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 440396000.0,
+    "revenue": 27002000000.0,
+    "net_income": 374000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 439504000.0,
+    "revenue": 21627000000.0,
+    "net_income": -639000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 439530000.0,
+    "revenue": 64129000000.0,
+    "net_income": -3714000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 438916000.0,
+    "revenue": 15929000000.0,
+    "net_income": -726000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 438756000.0,
+    "revenue": 10913000000.0,
+    "net_income": -67000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 441345000.0,
+    "revenue": 20878000000.0,
+    "net_income": -2427000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 453888000.0,
+    "revenue": 107293000000.0,
+    "net_income": 3377000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 451001000.0,
+    "revenue": 27218000000.0,
+    "net_income": 793000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-26",
+    "shares_outstanding": 455585000.0,
+    "revenue": 27847000000.0,
+    "net_income": 1504000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 459289000.0,
+    "revenue": 23103000000.0,
+    "net_income": 270000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 474047000.0,
+    "revenue": 111461000000.0,
+    "net_income": 5873000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-26",
+    "shares_outstanding": 469440000.0,
+    "revenue": 29788000000.0,
+    "net_income": 1568000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-27",
+    "shares_outstanding": 471638000.0,
+    "revenue": 28980000000.0,
+    "net_income": 1404000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 489668000.0,
+    "revenue": 23595000000.0,
+    "net_income": 585000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 518508000.0,
+    "revenue": 102354000000.0,
+    "net_income": 5248000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-27",
+    "shares_outstanding": 515960000.0,
+    "revenue": 25627000000.0,
+    "net_income": 849000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 520160000.0,
+    "revenue": 24087000000.0,
+    "net_income": 581000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 524520000.0,
+    "revenue": 22894000000.0,
+    "net_income": 563000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 530066000.0,
+    "revenue": 84279000000.0,
+    "net_income": 1644000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 528798000.0,
+    "revenue": 21624000000.0,
+    "net_income": 536000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 531060000.0,
+    "revenue": 21849000000.0,
+    "net_income": 516000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 534709000.0,
+    "revenue": 17409000000.0,
+    "net_income": 398000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-19",
+    "shares_outstanding": 546977000.0,
+    "revenue": 98975000000.0,
+    "net_income": 4280000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 544696000.0,
+    "revenue": 25792000000.0,
+    "net_income": 1592000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 548926000.0,
+    "revenue": 28512000000.0,
+    "net_income": 1025000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 552337000.0,
+    "revenue": 22778000000.0,
+    "net_income": 997000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-20",
+    "shares_outstanding": 571504000.0,
+    "revenue": 161212000000.0,
+    "net_income": 4797000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 564958000.0,
+    "revenue": 40417000000.0,
+    "net_income": 1189000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 571285000.0,
+    "revenue": 45549000000.0,
+    "net_income": 872000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 589575000.0,
+    "revenue": 40283000000.0,
+    "net_income": 1578000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 618989000.0,
+    "revenue": 171596000000.0,
+    "net_income": 3743000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 614519000.0,
+    "revenue": 44201000000.0,
+    "net_income": 540000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 624907000.0,
+    "revenue": 43240000000.0,
+    "net_income": 960000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-02",
+    "shares_outstanding": 631288000.0,
+    "revenue": 41263000000.0,
+    "net_income": 1410000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 636764000.0,
+    "revenue": 179460000000.0,
+    "net_income": 4131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 637913000.0,
+    "revenue": 42945000000.0,
+    "net_income": 1601000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSX",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 635157000.0,
+    "revenue": 46747000000.0,
+    "net_income": 1182000000.0,
+    "market_cap": null
+  }
+]

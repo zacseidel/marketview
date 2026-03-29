@@ -1,0 +1,173 @@
+[
+  {
+    "ticker": "RYAN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 1254051000.0,
+    "revenue": 3051126000.0,
+    "net_income": 214157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 1254051000.0,
+    "revenue": 3051126000.0,
+    "net_income": 214157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 1231871000.0,
+    "revenue": 754577000.0,
+    "net_income": 62603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 1182149000.0,
+    "revenue": 855170000.0,
+    "net_income": 124705000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 1057313000.0,
+    "revenue": 690166000.0,
+    "net_income": -4389000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 1098285000.0,
+    "revenue": 2515710000.0,
+    "net_income": 229913000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 1101532000.0,
+    "revenue": 604694000.0,
+    "net_income": 28643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 1073236000.0,
+    "revenue": 695441000.0,
+    "net_income": 118038000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 974753000.0,
+    "revenue": 552046000.0,
+    "net_income": 40677000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 979644000.0,
+    "revenue": 2077549000.0,
+    "net_income": 194480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 941241000.0,
+    "revenue": 501938000.0,
+    "net_income": 15703000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 943918000.0,
+    "revenue": 585149000.0,
+    "net_income": 83817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 851598000.0,
+    "revenue": 457599000.0,
+    "net_income": 36457000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 817812000.0,
+    "revenue": 1725193000.0,
+    "net_income": 163257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-10",
+    "shares_outstanding": 757524000.0,
+    "revenue": 411996000.0,
+    "net_income": 29279000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-12",
+    "shares_outstanding": 701514000.0,
+    "revenue": 491292000.0,
+    "net_income": 70120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-13",
+    "shares_outstanding": 624039000.0,
+    "revenue": 386890000.0,
+    "net_income": 18076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "FY 2021",
+    "filing_date": "2022-03-16",
+    "shares_outstanding": 594777000.0,
+    "revenue": 1432771000.0,
+    "net_income": 56632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RYAN",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-12",
+    "shares_outstanding": 555098000.0,
+    "revenue": 352766000.0,
+    "net_income": -32590000.0,
+    "market_cap": null
+  }
+]

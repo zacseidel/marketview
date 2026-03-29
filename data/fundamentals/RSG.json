@@ -1,0 +1,614 @@
+[
+  {
+    "ticker": "RSG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 312200000.0,
+    "revenue": 19027000000.0,
+    "net_income": 2139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 312200000.0,
+    "revenue": 19027000000.0,
+    "net_income": 2139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 312000000.0,
+    "revenue": 4827000000.0,
+    "net_income": 550000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 313400000.0,
+    "revenue": 4882000000.0,
+    "net_income": 550000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-25",
+    "shares_outstanding": 313300000.0,
+    "revenue": 4593000000.0,
+    "net_income": 495000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2024",
+    "filing_date": "2025-02-14",
+    "shares_outstanding": 314800000.0,
+    "revenue": 18418000000.0,
+    "net_income": 2044000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 314400000.0,
+    "revenue": 4680200000.0,
+    "net_income": 565900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 315200000.0,
+    "revenue": 4663200000.0,
+    "net_income": 511900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 315700000.0,
+    "revenue": 4439200000.0,
+    "net_income": 453700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 316700000.0,
+    "revenue": 17278700000.0,
+    "net_income": 1731400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 316600000.0,
+    "revenue": 4414200000.0,
+    "net_income": 480300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 317300000.0,
+    "revenue": 4321200000.0,
+    "net_income": 427600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 317100000.0,
+    "revenue": 4147200000.0,
+    "net_income": 383900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 317100000.0,
+    "revenue": 15645100000.0,
+    "net_income": 1487600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 317000000.0,
+    "revenue": 4153200000.0,
+    "net_income": 416900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 317000000.0,
+    "revenue": 3957300000.0,
+    "net_income": 371800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 317200000.0,
+    "revenue": 3466300000.0,
+    "net_income": 351900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2021",
+    "filing_date": "2022-02-11",
+    "shares_outstanding": 319400000.0,
+    "revenue": 13321800000.0,
+    "net_income": 1292300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 319400000.0,
+    "revenue": 3461300000.0,
+    "net_income": 350800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 320000000.0,
+    "revenue": 3334000000.0,
+    "net_income": 332000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 319800000.0,
+    "revenue": 3057600000.0,
+    "net_income": 296400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 319800000.0,
+    "revenue": 12031700000.0,
+    "net_income": 969600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 319700000.0,
+    "revenue": 2572100000.0,
+    "net_income": 260200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 319600000.0,
+    "revenue": 2454400000.0,
+    "net_income": 226300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 320200000.0,
+    "revenue": 2553900000.0,
+    "net_income": 246800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 322000000.0,
+    "revenue": 12193000000.0,
+    "net_income": 1073800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 321700000.0,
+    "revenue": 2646900000.0,
+    "net_income": 298000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-26",
+    "shares_outstanding": 322800000.0,
+    "revenue": 2605300000.0,
+    "net_income": 250900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-26",
+    "shares_outstanding": 323500000.0,
+    "revenue": 2470600000.0,
+    "net_income": 234900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2018",
+    "filing_date": "2019-02-08",
+    "shares_outstanding": 328400000.0,
+    "revenue": 11891900000.0,
+    "net_income": 1037600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-26",
+    "shares_outstanding": 326900000.0,
+    "revenue": 2565700000.0,
+    "net_income": 262900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-27",
+    "shares_outstanding": 328800000.0,
+    "revenue": 2517800000.0,
+    "net_income": 235700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 332200000.0,
+    "revenue": 2427500000.0,
+    "net_income": 237900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2017",
+    "filing_date": "2018-02-09",
+    "shares_outstanding": 339000000.0,
+    "revenue": 10041500000.0,
+    "net_income": 1279000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 338500000.0,
+    "revenue": 2562000000.0,
+    "net_income": 223300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 339972000.0,
+    "revenue": 2526700000.0,
+    "net_income": 203400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 341876000.0,
+    "revenue": 2392800000.0,
+    "net_income": 187800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 344390000.0,
+    "revenue": 11355400000.0,
+    "net_income": 613200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 343980000.0,
+    "revenue": 2409300000.0,
+    "net_income": 85700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 345220000.0,
+    "revenue": 2350700000.0,
+    "net_income": 181000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 346725000.0,
+    "revenue": 2248600000.0,
+    "net_income": 156900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2015",
+    "filing_date": "2016-02-12",
+    "shares_outstanding": 351388000.0,
+    "revenue": 11013500000.0,
+    "net_income": 750400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 350281000.0,
+    "revenue": 2344000000.0,
+    "net_income": 215200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-24",
+    "shares_outstanding": 352025000.0,
+    "revenue": 2311400000.0,
+    "net_income": 190300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-24",
+    "shares_outstanding": 354810000.0,
+    "revenue": 2169400000.0,
+    "net_income": 172500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2014",
+    "filing_date": "2015-02-23",
+    "shares_outstanding": 358107000.0,
+    "revenue": 10611000000.0,
+    "net_income": 547900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 357740000.0,
+    "revenue": 2264100000.0,
+    "net_income": 185800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-25",
+    "shares_outstanding": 357582000.0,
+    "revenue": 2225300000.0,
+    "net_income": 179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-25",
+    "shares_outstanding": 360968000.0,
+    "revenue": 2073700000.0,
+    "net_income": 132600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2013",
+    "filing_date": "2014-02-13",
+    "shares_outstanding": 363422000.0,
+    "revenue": 10144700000.0,
+    "net_income": 589100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 363002000.0,
+    "revenue": 2165400000.0,
+    "net_income": 171100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-26",
+    "shares_outstanding": 364387000.0,
+    "revenue": 2111700000.0,
+    "net_income": 56400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-26",
+    "shares_outstanding": 364092000.0,
+    "revenue": 1998600000.0,
+    "net_income": 124900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2012",
+    "filing_date": "2013-02-15",
+    "shares_outstanding": 368020000.0,
+    "revenue": 8118300000.0,
+    "net_income": 572100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 366431000.0,
+    "revenue": 2046900000.0,
+    "net_income": 152800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 368871000.0,
+    "revenue": 2060600000.0,
+    "net_income": 149500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-27",
+    "shares_outstanding": 372490000.0,
+    "revenue": 1982400000.0,
+    "net_income": 142800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2011",
+    "filing_date": "2012-02-17",
+    "shares_outstanding": 377600000.0,
+    "revenue": 8192900000.0,
+    "net_income": 588900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 374695000.0,
+    "revenue": 2116200000.0,
+    "net_income": 193600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-29",
+    "shares_outstanding": 380166000.0,
+    "revenue": 2086600000.0,
+    "net_income": 46200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-29",
+    "shares_outstanding": 384000000.0,
+    "revenue": 1964900000.0,
+    "net_income": 158100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2010",
+    "filing_date": "2011-02-18",
+    "shares_outstanding": 385100000.0,
+    "revenue": 8106600000.0,
+    "net_income": 507500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 386078000.0,
+    "revenue": 2061700000.0,
+    "net_income": 134500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-30",
+    "shares_outstanding": 384710000.0,
+    "revenue": 2066400000.0,
+    "net_income": 159900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q1 2010",
+    "filing_date": "2010-04-30",
+    "shares_outstanding": 383300000.0,
+    "revenue": 1957700000.0,
+    "net_income": 65200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "FY 2009",
+    "filing_date": "2010-02-24",
+    "shares_outstanding": 381000000.0,
+    "revenue": 8199100000.0,
+    "net_income": 496500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-04",
+    "shares_outstanding": 381100000.0,
+    "revenue": 2073500000.0,
+    "net_income": 121000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RSG",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-07",
+    "shares_outstanding": 379900000.0,
+    "revenue": 2066100000.0,
+    "net_income": 226200000.0,
+    "market_cap": null
+  }
+]

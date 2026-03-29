@@ -1,0 +1,24 @@
+[
+  {
+    "ticker": "PSKY",
+    "period": "Q3 2025",
+    "announcement_date": null,
+    "filing_date": "2025-11-10",
+    "event_date": "2025-11-10",
+    "eps_estimate": null,
+    "eps_actual": null,
+    "eps_surprise_pct": null,
+    "revenue": 6702000000.0,
+    "net_income": 194000000.0,
+    "shares_outstanding": 1773000000.0,
+    "ni_yoy_growth": null,
+    "rev_yoy_growth": null,
+    "ni_qoq_growth": null,
+    "ni_acceleration": null,
+    "price_on_event_date": 15.1136,
+    "price_5d_after": 15.5894,
+    "price_20d_after": 14.5091,
+    "earn_ret_5d": 0.031,
+    "earn_ret_5d_to_20d": -0.0718
+  }
+]

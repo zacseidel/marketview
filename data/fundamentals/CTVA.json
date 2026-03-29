@@ -1,0 +1,254 @@
+[
+  {
+    "ticker": "CTVA",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 681400000.0,
+    "revenue": 17401000000.0,
+    "net_income": 1105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 681400000.0,
+    "revenue": 17401000000.0,
+    "net_income": 1105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 678700000.0,
+    "revenue": 2618000000.0,
+    "net_income": -318000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 683100000.0,
+    "revenue": 6456000000.0,
+    "net_income": 1316000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 686600000.0,
+    "revenue": 4417000000.0,
+    "net_income": 656000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "FY 2024",
+    "filing_date": "2025-02-14",
+    "shares_outstanding": 696000000.0,
+    "revenue": 16908000000.0,
+    "net_income": 919000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 691100000.0,
+    "revenue": 2326000000.0,
+    "net_income": -521000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 698100000.0,
+    "revenue": 6112000000.0,
+    "net_income": 1056000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 702800000.0,
+    "revenue": 4492000000.0,
+    "net_income": 423000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "FY 2023",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 711900000.0,
+    "revenue": 17226000000.0,
+    "net_income": 747000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 708400000.0,
+    "revenue": 2590000000.0,
+    "net_income": -318000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 713700000.0,
+    "revenue": 6045000000.0,
+    "net_income": 717000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 716200000.0,
+    "revenue": 4884000000.0,
+    "net_income": 599000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 724500000.0,
+    "revenue": 17455000000.0,
+    "net_income": 1158000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 718700000.0,
+    "revenue": 2777000000.0,
+    "net_income": -328000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 726700000.0,
+    "revenue": 6252000000.0,
+    "net_income": 972000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 730900000.0,
+    "revenue": 4601000000.0,
+    "net_income": 567000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "FY 2021",
+    "filing_date": "2022-02-10",
+    "shares_outstanding": 741600000.0,
+    "revenue": 15655000000.0,
+    "net_income": 1769000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 739500000.0,
+    "revenue": 2371000000.0,
+    "net_income": 32000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 743300000.0,
+    "revenue": 5627000000.0,
+    "net_income": 973000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 749600000.0,
+    "revenue": 4178000000.0,
+    "net_income": 603000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "FY 2020",
+    "filing_date": "2021-02-11",
+    "shares_outstanding": 751200000.0,
+    "revenue": 14217000000.0,
+    "net_income": 701000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 749500000.0,
+    "revenue": 1863000000.0,
+    "net_income": -390000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 751600000.0,
+    "revenue": 5191000000.0,
+    "net_income": 766000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 752500000.0,
+    "revenue": 3956000000.0,
+    "net_income": 282000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 749500000.0,
+    "revenue": 13846000000.0,
+    "net_income": -941000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 749500000.0,
+    "revenue": 1911000000.0,
+    "net_income": -505000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTVA",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 750000000.0,
+    "revenue": 5556000000.0,
+    "net_income": -594000000.0,
+    "market_cap": null
+  }
+]

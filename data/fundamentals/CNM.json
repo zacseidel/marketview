@@ -1,0 +1,155 @@
+[
+  {
+    "ticker": "CNM",
+    "period": "Q2 2026",
+    "filing_date": "2025-09-09",
+    "shares_outstanding": 198302610.0,
+    "revenue": 2093000000.0,
+    "net_income": 141000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q1 2026",
+    "filing_date": "2025-06-10",
+    "shares_outstanding": 198700476.0,
+    "revenue": 1911000000.0,
+    "net_income": 105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "FY 2025",
+    "filing_date": "2025-03-25",
+    "shares_outstanding": 201442750.0,
+    "revenue": 7441000000.0,
+    "net_income": 434000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q3 2025",
+    "filing_date": "2024-12-03",
+    "shares_outstanding": 201165553.0,
+    "revenue": 2038000000.0,
+    "net_income": 140000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q2 2025",
+    "filing_date": "2024-09-04",
+    "shares_outstanding": 202667354.0,
+    "revenue": 1964000000.0,
+    "net_income": 126000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q1 2025",
+    "filing_date": "2024-06-04",
+    "shares_outstanding": 202615824.0,
+    "revenue": 1741000000.0,
+    "net_income": 101000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "FY 2024",
+    "filing_date": "2024-03-19",
+    "shares_outstanding": 227818077.0,
+    "revenue": 6702000000.0,
+    "net_income": 531000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q3 2024",
+    "filing_date": "2023-12-05",
+    "shares_outstanding": 224686413.0,
+    "revenue": 1827000000.0,
+    "net_income": 158000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q2 2024",
+    "filing_date": "2023-09-06",
+    "shares_outstanding": 228983281.0,
+    "revenue": 1861000000.0,
+    "net_income": 164000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q1 2024",
+    "filing_date": "2023-06-06",
+    "shares_outstanding": 243716764.0,
+    "revenue": 1574000000.0,
+    "net_income": 133000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "FY 2023",
+    "filing_date": "2023-03-28",
+    "shares_outstanding": 246217004.0,
+    "revenue": 6651000000.0,
+    "net_income": 581000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q3 2023",
+    "filing_date": "2022-12-13",
+    "shares_outstanding": 246262224.0,
+    "revenue": 1818000000.0,
+    "net_income": 178000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q2 2023",
+    "filing_date": "2022-09-13",
+    "shares_outstanding": 246175878.0,
+    "revenue": 1861000000.0,
+    "net_income": 182000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q1 2023",
+    "filing_date": "2022-06-14",
+    "shares_outstanding": 246145536.0,
+    "revenue": 1598000000.0,
+    "net_income": 137000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "FY 2022",
+    "filing_date": "2022-03-30",
+    "shares_outstanding": 244451678.0,
+    "revenue": 5004000000.0,
+    "net_income": 225000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q3 2022",
+    "filing_date": "2021-12-07",
+    "shares_outstanding": 244582116.0,
+    "revenue": 1404800000.0,
+    "net_income": 109300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNM",
+    "period": "Q2 2022",
+    "filing_date": "2021-09-14",
+    "shares_outstanding": 138978366.0,
+    "revenue": 1297600000.0,
+    "net_income": 9500000.0,
+    "market_cap": null
+  }
+]

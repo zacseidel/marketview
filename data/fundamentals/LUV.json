@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "LUV",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 558000000.0,
+    "revenue": 28063000000.0,
+    "net_income": 441000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2025",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 558000000.0,
+    "revenue": 28063000000.0,
+    "net_income": 441000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 541000000.0,
+    "revenue": 7244000000.0,
+    "net_income": 213000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-25",
+    "shares_outstanding": 584000000.0,
+    "revenue": 6428000000.0,
+    "net_income": -149000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2024",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 643000000.0,
+    "revenue": 27483000000.0,
+    "net_income": 465000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-29",
+    "shares_outstanding": 643000000.0,
+    "revenue": 7354000000.0,
+    "net_income": 367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 597000000.0,
+    "revenue": 6329000000.0,
+    "net_income": -231000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2023",
+    "filing_date": "2024-02-06",
+    "shares_outstanding": 640000000.0,
+    "revenue": 26091000000.0,
+    "net_income": 465000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-30",
+    "shares_outstanding": 640000000.0,
+    "revenue": 6525000000.0,
+    "net_income": 193000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 639000000.0,
+    "revenue": 7037000000.0,
+    "net_income": 683000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 594000000.0,
+    "revenue": 5706000000.0,
+    "net_income": -159000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2022",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 642000000.0,
+    "revenue": 23814000000.0,
+    "net_income": 539000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-31",
+    "shares_outstanding": 639000000.0,
+    "revenue": 6220000000.0,
+    "net_income": 277000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 635000000.0,
+    "revenue": 6728000000.0,
+    "net_income": 760000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-02",
+    "shares_outstanding": 592000000.0,
+    "revenue": 4694000000.0,
+    "net_income": -278000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2021",
+    "filing_date": "2022-02-07",
+    "shares_outstanding": 609000000.0,
+    "revenue": 15790000000.0,
+    "net_income": 977000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-26",
+    "shares_outstanding": 607000000.0,
+    "revenue": 4679000000.0,
+    "net_income": 446000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-27",
+    "shares_outstanding": 615000000.0,
+    "revenue": 4008000000.0,
+    "net_income": 348000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-27",
+    "shares_outstanding": 609000000.0,
+    "revenue": 2052000000.0,
+    "net_income": 116000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2020",
+    "filing_date": "2021-02-08",
+    "shares_outstanding": 565000000.0,
+    "revenue": 9048000000.0,
+    "net_income": -3074000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-27",
+    "shares_outstanding": 590000000.0,
+    "revenue": 1793000000.0,
+    "net_income": -1157000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-27",
+    "shares_outstanding": 10878000000.0,
+    "revenue": 1008000000.0,
+    "net_income": -915000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-28",
+    "shares_outstanding": 515000000.0,
+    "revenue": 4234000000.0,
+    "net_income": -94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2019",
+    "filing_date": "2020-02-04",
+    "shares_outstanding": 539000000.0,
+    "revenue": 22428000000.0,
+    "net_income": 2300000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 534000000.0,
+    "revenue": 5639000000.0,
+    "net_income": 659000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 542000000.0,
+    "revenue": 5909000000.0,
+    "net_income": 741000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 552000000.0,
+    "revenue": 5149000000.0,
+    "net_income": 387000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2018",
+    "filing_date": "2019-02-05",
+    "shares_outstanding": 574000000.0,
+    "revenue": 21965000000.0,
+    "net_income": 2465000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 569000000.0,
+    "revenue": 5575000000.0,
+    "net_income": 615000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 579000000.0,
+    "revenue": 5742000000.0,
+    "net_income": 733000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-01",
+    "shares_outstanding": 588000000.0,
+    "revenue": 4944000000.0,
+    "net_income": 463000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2017",
+    "filing_date": "2018-02-07",
+    "shares_outstanding": 603000000.0,
+    "revenue": 21171000000.0,
+    "net_income": 3488000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 598000000.0,
+    "revenue": 5271000000.0,
+    "net_income": 503000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 605000000.0,
+    "revenue": 5744000000.0,
+    "net_income": 746000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 614000000.0,
+    "revenue": 4883000000.0,
+    "net_income": 351000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2016",
+    "filing_date": "2017-02-07",
+    "shares_outstanding": 633000000.0,
+    "revenue": 20425000000.0,
+    "net_income": 2244000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-31",
+    "shares_outstanding": 625000000.0,
+    "revenue": 5139000000.0,
+    "net_income": 388000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 639000000.0,
+    "revenue": 5384000000.0,
+    "net_income": 820000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 648000000.0,
+    "revenue": 4826000000.0,
+    "net_income": 513000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2015",
+    "filing_date": "2016-02-03",
+    "shares_outstanding": 669000000.0,
+    "revenue": 19820000000.0,
+    "net_income": 2181000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 663000000.0,
+    "revenue": 5318000000.0,
+    "net_income": 584000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 673000000.0,
+    "revenue": 5111000000.0,
+    "net_income": 608000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 682000000.0,
+    "revenue": 4414000000.0,
+    "net_income": 453000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2014",
+    "filing_date": "2015-02-06",
+    "shares_outstanding": 696000000.0,
+    "revenue": 18605000000.0,
+    "net_income": 1136000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 691000000.0,
+    "revenue": 4800000000.0,
+    "net_income": 329000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 698000000.0,
+    "revenue": 5011000000.0,
+    "net_income": 465000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 707000000.0,
+    "revenue": 4166000000.0,
+    "net_income": 152000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2013",
+    "filing_date": "2014-02-04",
+    "shares_outstanding": 718000000.0,
+    "revenue": 17699000000.0,
+    "net_income": 754000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 711000000.0,
+    "revenue": 4545000000.0,
+    "net_income": 259000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 722000000.0,
+    "revenue": 4643000000.0,
+    "net_income": 224000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-02",
+    "shares_outstanding": 727000000.0,
+    "revenue": 4084000000.0,
+    "net_income": 59000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2012",
+    "filing_date": "2013-02-07",
+    "shares_outstanding": 757000000.0,
+    "revenue": 17088000000.0,
+    "net_income": 421000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 740000000.0,
+    "revenue": 4309000000.0,
+    "net_income": 16000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 764000000.0,
+    "revenue": 4616000000.0,
+    "net_income": 228000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-25",
+    "shares_outstanding": 772000000.0,
+    "revenue": 3991000000.0,
+    "net_income": 98000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "FY 2011",
+    "filing_date": "2012-02-09",
+    "shares_outstanding": 775000000.0,
+    "revenue": 15658000000.0,
+    "net_income": 178000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-25",
+    "shares_outstanding": 792.0,
+    "revenue": 4311000000.0,
+    "net_income": -140000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 787.0,
+    "revenue": 4136000000.0,
+    "net_income": 161000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LUV",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-25",
+    "shares_outstanding": 749000000.0,
+    "revenue": 3103000000.0,
+    "net_income": 5000000.0,
+    "market_cap": null
+  }
+]

@@ -10,7 +10,9 @@ computes portfolio-level metrics by treating each evaluation date as a
 
 from __future__ import annotations
 
+import json
 import math
+from pathlib import Path
 from typing import Callable
 
 import numpy as np
@@ -31,12 +33,14 @@ def evaluate_model(
     model_name: str,
     top_n: int = _TOP_N,
     min_score_threshold: float | None = None,
+    forward_days: int = _FORWARD_DAYS,
+    target_col: str = "fwd_log_ret_20d",
 ) -> dict:
     """
     Evaluate a model on the validation set.
 
     Args:
-        val_df: DataFrame with columns [date, ticker, <features>, fwd_log_ret_20d]
+        val_df: DataFrame with columns [date, ticker, <features>, <target_col>]
                 filtered to split=='val' only.
         score_fn: callable(df) -> np.ndarray of scores (higher = better), same length as df.
         model_name: name for logging.
@@ -45,6 +49,10 @@ def evaluate_model(
             Periods with no qualifying tickers are skipped (not counted as flat periods).
             This is the right mode for filter-style models (e.g. cluster) where a
             score of NaN / below threshold means "don't buy anything today".
+        forward_days: rebalance cadence in trading days (default 20). Use 10 for
+            models trained on 10-day forward returns.
+        target_col: column name for the forward return used in evaluation
+            (default "fwd_log_ret_20d"). Set to "fwd_log_ret_10d" for v2 models.
 
     Returns:
         dict with metrics.
@@ -52,9 +60,9 @@ def evaluate_model(
     val_df = val_df.copy()
 
     # Pre-filter to non-overlapping eval dates before scoring — avoids scoring
-    # 440K rows when only ~39K (every 20th day × all tickers) are actually needed.
+    # all rows when only every Nth day × all tickers are actually needed.
     all_dates = sorted(val_df["date"].unique())
-    eval_dates = all_dates[::_FORWARD_DAYS]
+    eval_dates = all_dates[::forward_days]
     eval_date_set = set(eval_dates)
 
     # Keep SPY rows (needed for excess return) + rows on eval dates only
@@ -66,12 +74,13 @@ def evaluate_model(
         rows_to_score=len(score_df),
         eval_dates=len(eval_dates),
         min_score_threshold=min_score_threshold,
+        forward_days=forward_days,
     )
     score_df["score"] = score_fn(score_df)
 
     spy_returns = (
         score_df[score_df["ticker"] == _SPY_TICKER]
-        .set_index("date")["fwd_log_ret_20d"]
+        .set_index("date")[target_col]
         .to_dict()
     )
 
@@ -93,7 +102,7 @@ def evaluate_model(
                 continue
             top = day_df.nlargest(top_n, "score")
 
-        actual_rets = top["fwd_log_ret_20d"].dropna()
+        actual_rets = top[target_col].dropna()
         if len(actual_rets) < max(1, top_n // 2 if min_score_threshold is None else 1):
             continue
 
@@ -114,7 +123,7 @@ def evaluate_model(
     excess = port_arr[: len(spy_arr)] - spy_arr
 
     # Annualized Sharpe on 20-day non-overlapping periods
-    periods_per_year = _TRADING_DAYS_PER_YEAR / _FORWARD_DAYS
+    periods_per_year = _TRADING_DAYS_PER_YEAR / forward_days
     sharpe = (
         float(excess.mean() / excess.std() * math.sqrt(periods_per_year))
         if excess.std() > 0
@@ -133,6 +142,21 @@ def evaluate_model(
 
     log.info("evaluate.result", **{k: v for k, v in metrics.items() if v is not None})
     return metrics
+
+
+_VAL_METRICS_FILE = Path("data/quant/val_metrics.json")
+
+
+def save_val_metrics(result: dict) -> None:
+    """Upsert one model's val metrics into data/quant/val_metrics.json."""
+    existing: dict = {}
+    if _VAL_METRICS_FILE.exists():
+        with open(_VAL_METRICS_FILE) as f:
+            existing = json.load(f)
+    existing[result["model"]] = result
+    _VAL_METRICS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(_VAL_METRICS_FILE, "w") as f:
+        json.dump(existing, f, indent=2)
 
 
 def print_comparison(results: list[dict]) -> None:

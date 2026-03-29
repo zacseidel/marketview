@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "BMY",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 2039000000.0,
+    "revenue": 48194000000.0,
+    "net_income": 7055000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 2039000000.0,
+    "revenue": 48194000000.0,
+    "net_income": 7055000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 2039000000.0,
+    "revenue": 12222000000.0,
+    "net_income": 2195000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 2038000000.0,
+    "revenue": 12269000000.0,
+    "net_income": 1313000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 2040000000.0,
+    "revenue": 11201000000.0,
+    "net_income": 2462000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2024",
+    "filing_date": "2025-02-12",
+    "shares_outstanding": 2027000000.0,
+    "revenue": 48300000000.0,
+    "net_income": -8933000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 2031000000.0,
+    "revenue": 11892000000.0,
+    "net_income": 1215000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 2023000000.0,
+    "revenue": 11865000000.0,
+    "net_income": -11908000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2023",
+    "filing_date": "2024-02-13",
+    "shares_outstanding": 2078000000.0,
+    "revenue": 45006000000.0,
+    "net_income": 8040000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 2064000000.0,
+    "revenue": 10966000000.0,
+    "net_income": 1934000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 2102000000.0,
+    "revenue": 11226000000.0,
+    "net_income": 2077000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 2113000000.0,
+    "revenue": 11337000000.0,
+    "net_income": 2267000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2022",
+    "filing_date": "2023-02-14",
+    "shares_outstanding": 2146000000.0,
+    "revenue": 46159000000.0,
+    "net_income": 6345000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 2148000000.0,
+    "revenue": 11218000000.0,
+    "net_income": 1608000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 2149000000.0,
+    "revenue": 11887000000.0,
+    "net_income": 1429000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 2164000000.0,
+    "revenue": 11648000000.0,
+    "net_income": 1283000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2021",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 2245000000.0,
+    "revenue": 46385000000.0,
+    "net_income": 7014000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 2243000000.0,
+    "revenue": 11624000000.0,
+    "net_income": 1552000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 2252000000.0,
+    "revenue": 11703000000.0,
+    "net_income": 1061000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 2265000000.0,
+    "revenue": 11073000000.0,
+    "net_income": 2029000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2020",
+    "filing_date": "2021-02-10",
+    "shares_outstanding": 2258000000.0,
+    "revenue": 42518000000.0,
+    "net_income": -8995000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 2290000000.0,
+    "revenue": 10540000000.0,
+    "net_income": 1878000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 2263000000.0,
+    "revenue": 10129000000.0,
+    "net_income": -80000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 2258000000.0,
+    "revenue": 10781000000.0,
+    "net_income": -766000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 1712000000.0,
+    "revenue": 26145000000.0,
+    "net_income": 3460000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 1634000000.0,
+    "revenue": 6007000000.0,
+    "net_income": 1366000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 1637000000.0,
+    "revenue": 6273000000.0,
+    "net_income": 1439000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 1637000000.0,
+    "revenue": 5920000000.0,
+    "net_income": 1715000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2018",
+    "filing_date": "2019-02-25",
+    "shares_outstanding": 1637000000.0,
+    "revenue": 22561000000.0,
+    "net_income": 4947000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 1636000000.0,
+    "revenue": 5691000000.0,
+    "net_income": 1912000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 1636000000.0,
+    "revenue": 5704000000.0,
+    "net_income": 382000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 1640000000.0,
+    "revenue": 5193000000.0,
+    "net_income": 1495000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2017",
+    "filing_date": "2018-02-13",
+    "shares_outstanding": 1652000000.0,
+    "revenue": 20776000000.0,
+    "net_income": 975000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 1645000000.0,
+    "revenue": 5254000000.0,
+    "net_income": 856000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 1650000000.0,
+    "revenue": 5144000000.0,
+    "net_income": 922000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 1671000000.0,
+    "revenue": 4929000000.0,
+    "net_income": 1526000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 1680000000.0,
+    "revenue": 19427000000.0,
+    "net_income": 4507000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 1679000000.0,
+    "revenue": 4922000000.0,
+    "net_income": 1215000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 1679000000.0,
+    "revenue": 4871000000.0,
+    "net_income": 1188000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 1680000000.0,
+    "revenue": 4391000000.0,
+    "net_income": 1206000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2015",
+    "filing_date": "2016-02-12",
+    "shares_outstanding": 1679000000.0,
+    "revenue": 16560000000.0,
+    "net_income": 1631000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-27",
+    "shares_outstanding": 1678000000.0,
+    "revenue": 4069000000.0,
+    "net_income": 730000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-23",
+    "shares_outstanding": 1667000000.0,
+    "revenue": 4163000000.0,
+    "net_income": -110000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-28",
+    "shares_outstanding": 1676000000.0,
+    "revenue": 4041000000.0,
+    "net_income": 1199000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2014",
+    "filing_date": "2015-02-13",
+    "shares_outstanding": 1670000000.0,
+    "revenue": 15879000000.0,
+    "net_income": 2029000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-24",
+    "shares_outstanding": 1670000000.0,
+    "revenue": 3921000000.0,
+    "net_income": 732000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-24",
+    "shares_outstanding": 1669000000.0,
+    "revenue": 3889000000.0,
+    "net_income": 334000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-29",
+    "shares_outstanding": 1666000000.0,
+    "revenue": 3811000000.0,
+    "net_income": 936000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2013",
+    "filing_date": "2014-02-14",
+    "shares_outstanding": 1662000000.0,
+    "revenue": 16385000000.0,
+    "net_income": 2580000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-23",
+    "shares_outstanding": 1662000000.0,
+    "revenue": 4065000000.0,
+    "net_income": 692000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 1660000000.0,
+    "revenue": 4048000000.0,
+    "net_income": 530000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 1655000000.0,
+    "revenue": 3831000000.0,
+    "net_income": 623000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2012",
+    "filing_date": "2013-02-15",
+    "shares_outstanding": 1688000000.0,
+    "revenue": 17621000000.0,
+    "net_income": 2501000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-24",
+    "shares_outstanding": 1666000000.0,
+    "revenue": 3736000000.0,
+    "net_income": -713000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-25",
+    "shares_outstanding": 1701000000.0,
+    "revenue": 4443000000.0,
+    "net_income": 808000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 1706000000.0,
+    "revenue": 5251000000.0,
+    "net_income": 1482000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2011",
+    "filing_date": "2012-02-17",
+    "shares_outstanding": 1717000000.0,
+    "revenue": 21244000000.0,
+    "net_income": 5260000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 1715000000.0,
+    "revenue": 5345000000.0,
+    "net_income": 1355000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 1722000000.0,
+    "revenue": 5434000000.0,
+    "net_income": 1307000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-28",
+    "shares_outstanding": 1714000000.0,
+    "revenue": 5011000000.0,
+    "net_income": 1367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q1 2010",
+    "filing_date": "2010-04-29",
+    "shares_outstanding": 15233000000.0,
+    "revenue": 4807000000.0,
+    "net_income": 1101000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "FY 2009",
+    "filing_date": "2010-02-19",
+    "shares_outstanding": 14785000000.0,
+    "revenue": 18808000000.0,
+    "net_income": 11862000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-22",
+    "shares_outstanding": 14371000000.0,
+    "revenue": 5487000000.0,
+    "net_income": 1290000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BMY",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-23",
+    "shares_outstanding": 13936000000.0,
+    "revenue": 5384000000.0,
+    "net_income": 983000000.0,
+    "market_cap": null
+  }
+]

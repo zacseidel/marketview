@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "ULS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 203000000.0,
+    "revenue": 3053000000.0,
+    "net_income": 345000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ULS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 203000000.0,
+    "revenue": 3053000000.0,
+    "net_income": 345000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ULS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 203000000.0,
+    "revenue": 783000000.0,
+    "net_income": 106000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ULS",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 203000000.0,
+    "revenue": 776000000.0,
+    "net_income": 97000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ULS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 203000000.0,
+    "revenue": 705000000.0,
+    "net_income": 71000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ULS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 201000000.0,
+    "revenue": 2870000000.0,
+    "net_income": 345000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ULS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 202000000.0,
+    "revenue": 731000000.0,
+    "net_income": 94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ULS",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 201000000.0,
+    "revenue": 730000000.0,
+    "net_income": 106000000.0,
+    "market_cap": null
+  }
+]

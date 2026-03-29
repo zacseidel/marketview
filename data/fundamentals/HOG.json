@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "HOG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 121257000.0,
+    "revenue": 4473175000.0,
+    "net_income": 329154000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 121257000.0,
+    "revenue": 4473175000.0,
+    "net_income": 329154000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 121676000.0,
+    "revenue": 1340710000.0,
+    "net_income": 375165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 122203000.0,
+    "revenue": 1307098000.0,
+    "net_income": 105745000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 124724000.0,
+    "revenue": 1329209000.0,
+    "net_income": 130797000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 132288000.0,
+    "revenue": 5186802000.0,
+    "net_income": 445175000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 130962000.0,
+    "revenue": 1150695000.0,
+    "net_income": 115967000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 134109000.0,
+    "revenue": 1618893000.0,
+    "net_income": 215406000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-06",
+    "shares_outstanding": 136921000.0,
+    "revenue": 1729607000.0,
+    "net_income": 232233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 145103000.0,
+    "revenue": 5836478000.0,
+    "net_income": 695046000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 144321000.0,
+    "revenue": 1549059000.0,
+    "net_income": 196103000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 145787000.0,
+    "revenue": 1445523000.0,
+    "net_income": 173830000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-10",
+    "shares_outstanding": 148931000.0,
+    "revenue": 1788686000.0,
+    "net_income": 301829000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 149351000.0,
+    "revenue": 5755130000.0,
+    "net_income": 739214000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 147073000.0,
+    "revenue": 1648575000.0,
+    "net_income": 261186000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 147835000.0,
+    "revenue": 1469087000.0,
+    "net_income": 215849000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 153924000.0,
+    "revenue": 1495186000.0,
+    "net_income": 222502000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 154980000.0,
+    "revenue": 5336308000.0,
+    "net_income": 650024000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 155117000.0,
+    "revenue": 1365310000.0,
+    "net_income": 162973000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 155093000.0,
+    "revenue": 1532058000.0,
+    "net_income": 206340000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 154490000.0,
+    "revenue": 1422507000.0,
+    "net_income": 259144000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 153908000.0,
+    "revenue": 4054377000.0,
+    "net_income": 1298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 153915000.0,
+    "revenue": 1165684000.0,
+    "net_income": 120218000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 153199000.0,
+    "revenue": 865227000.0,
+    "net_income": -92217000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 153744000.0,
+    "revenue": 1298244000.0,
+    "net_income": 69695000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2019",
+    "filing_date": "2020-02-19",
+    "shares_outstanding": 157804000.0,
+    "revenue": 5361789000.0,
+    "net_income": 423635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 156944000.0,
+    "revenue": 1272519000.0,
+    "net_income": 86563000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 159425000.0,
+    "revenue": 1632619000.0,
+    "net_income": 195631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 160026000.0,
+    "revenue": 1384380000.0,
+    "net_income": 127945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 166504000.0,
+    "revenue": 5716875000.0,
+    "net_income": 531451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 166664000.0,
+    "revenue": 1315669000.0,
+    "net_income": 113855000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 167204000.0,
+    "revenue": 1713223000.0,
+    "net_income": 242338000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 169174000.0,
+    "revenue": 1542121000.0,
+    "net_income": 174763000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2017",
+    "filing_date": "2018-02-21",
+    "shares_outstanding": 172932000.0,
+    "revenue": 5647224000.0,
+    "net_income": 521759000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 170688000.0,
+    "revenue": 1151195000.0,
+    "net_income": 68209000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 175324000.0,
+    "revenue": 1765169000.0,
+    "net_income": 258867000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 177070000.0,
+    "revenue": 1501932000.0,
+    "net_income": 186369000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 180535000.0,
+    "revenue": 5996458000.0,
+    "net_income": 692164000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 179320000.0,
+    "revenue": 1274813000.0,
+    "net_income": 114065000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 181339000.0,
+    "revenue": 1861077000.0,
+    "net_income": 280431000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 184204000.0,
+    "revenue": 1749968000.0,
+    "net_income": 250489000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2015",
+    "filing_date": "2016-02-18",
+    "shares_outstanding": 203686000.0,
+    "revenue": 5995402000.0,
+    "net_income": 752207000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 204580000.0,
+    "revenue": 1140300000.0,
+    "net_income": 140300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 208590000.0,
+    "revenue": 1650800000.0,
+    "net_income": 299800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 211788000.0,
+    "revenue": 1510600000.0,
+    "net_income": 269900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2014",
+    "filing_date": "2015-02-19",
+    "shares_outstanding": 217706000.0,
+    "revenue": 6228508000.0,
+    "net_income": 844611000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 216893000.0,
+    "revenue": 1130600000.0,
+    "net_income": 150100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 219161000.0,
+    "revenue": 1834300000.0,
+    "net_income": 354200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 220493000.0,
+    "revenue": 1571700000.0,
+    "net_income": 265900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2013",
+    "filing_date": "2014-02-20",
+    "shares_outstanding": 224071000.0,
+    "revenue": 5899872000.0,
+    "net_income": 733993000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 223486000.0,
+    "revenue": 1180284000.0,
+    "net_income": 162716000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 224470000.0,
+    "revenue": 1631466000.0,
+    "net_income": 271739000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 226148000.0,
+    "revenue": 1414248000.0,
+    "net_income": 224129000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 229229000.0,
+    "revenue": 5580506000.0,
+    "net_income": 623925000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 226020000.0,
+    "revenue": 1089300.0,
+    "net_income": 134000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 228838000.0,
+    "revenue": 1569000.0,
+    "net_income": 247300.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 228988000.0,
+    "revenue": 1273400.0,
+    "net_income": 172000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 232889000.0,
+    "revenue": 5311713000.0,
+    "net_income": 599114000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 233800000.0,
+    "revenue": 1397256000.0,
+    "net_income": 183594000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 234336000.0,
+    "revenue": 1505597000.0,
+    "net_income": 190580000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-04",
+    "shares_outstanding": 233820.0,
+    "revenue": 1224930000.0,
+    "net_income": 119260000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-03",
+    "shares_outstanding": 2189950000.0,
+    "revenue": 1259960000.0,
+    "net_income": 88829000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 2137004000.0,
+    "revenue": 1308806000.0,
+    "net_income": 71157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-06",
+    "shares_outstanding": 2087399000.0,
+    "revenue": 1207172000.0,
+    "net_income": 33325000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "FY 2009",
+    "filing_date": "2010-02-23",
+    "shares_outstanding": 2108118000.0,
+    "revenue": 4781909000.0,
+    "net_income": -55116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-30",
+    "shares_outstanding": 2289972000.0,
+    "revenue": 1121275000.0,
+    "net_income": 26483000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HOG",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-31",
+    "shares_outstanding": 2252783000.0,
+    "revenue": 1153645000.0,
+    "net_income": 19750000.0,
+    "market_cap": null
+  }
+]

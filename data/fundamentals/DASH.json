@@ -1,0 +1,200 @@
+[
+  {
+    "ticker": "DASH",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 439686000.0,
+    "revenue": 13717000000.0,
+    "net_income": 932000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 439686000.0,
+    "revenue": 13717000000.0,
+    "net_income": 932000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 441812000.0,
+    "revenue": 3446000000.0,
+    "net_income": 243000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 438377000.0,
+    "revenue": 3284000000.0,
+    "net_income": 284000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 435563000.0,
+    "revenue": 3032000000.0,
+    "net_income": 192000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-14",
+    "shares_outstanding": 430242000.0,
+    "revenue": 10722000000.0,
+    "net_income": 117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 427962000.0,
+    "revenue": 2706000000.0,
+    "net_income": 161000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 410482000.0,
+    "revenue": 2630000000.0,
+    "net_income": -158000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 405482000.0,
+    "revenue": 2513000000.0,
+    "net_income": -25000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 392948000.0,
+    "revenue": 8635000000.0,
+    "net_income": -565000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 393217000.0,
+    "revenue": 2164000000.0,
+    "net_income": -75000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 388737000.0,
+    "revenue": 2133000000.0,
+    "net_income": -172000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 390397000.0,
+    "revenue": 2035000000.0,
+    "net_income": -162000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 371413000.0,
+    "revenue": 6583000000.0,
+    "net_income": -1368000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 384756000.0,
+    "revenue": 1701000000.0,
+    "net_income": -296000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 363961000.0,
+    "revenue": 1608000000.0,
+    "net_income": -263000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 349219000.0,
+    "revenue": 1456000000.0,
+    "net_income": -167000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 336847000.0,
+    "revenue": 4888000000.0,
+    "net_income": -468000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-10",
+    "shares_outstanding": 340169000.0,
+    "revenue": 1275000000.0,
+    "net_income": -101000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-13",
+    "shares_outstanding": 334707000.0,
+    "revenue": 1236000000.0,
+    "net_income": -102000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-14",
+    "shares_outstanding": -3427000.0,
+    "revenue": 1077000000.0,
+    "net_income": -110000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DASH",
+    "period": "FY 2020",
+    "filing_date": "2021-03-05",
+    "shares_outstanding": 4700000000.0,
+    "revenue": 2886000000.0,
+    "net_income": -461000000.0,
+    "market_cap": null
+  }
+]

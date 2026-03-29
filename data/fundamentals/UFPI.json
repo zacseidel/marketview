@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "UFPI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 56795000.0,
+    "revenue": 6320343000.0,
+    "net_income": 295992000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 56795000.0,
+    "revenue": 6320343000.0,
+    "net_income": 295992000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 56350000.0,
+    "revenue": 1559627000.0,
+    "net_income": 75542000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 57187000.0,
+    "revenue": 1835374000.0,
+    "net_income": 100871000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 58460000.0,
+    "revenue": 1595519000.0,
+    "net_income": 79423000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 58878000.0,
+    "revenue": 6652309000.0,
+    "net_income": 418733000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 58547000.0,
+    "revenue": 1649383000.0,
+    "net_income": 101619000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 59159000.0,
+    "revenue": 1901959000.0,
+    "net_income": 126232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 59262000.0,
+    "revenue": 1638966000.0,
+    "net_income": 121099000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 60639000.0,
+    "revenue": 7218384000.0,
+    "net_income": 514457000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 60621000.0,
+    "revenue": 1827637000.0,
+    "net_income": 134183000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 60544000.0,
+    "revenue": 2043918000.0,
+    "net_income": 150788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-10",
+    "shares_outstanding": 60803000.0,
+    "revenue": 1822476000.0,
+    "net_income": 125578000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 60653000.0,
+    "revenue": 9626739000.0,
+    "net_income": 704964000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 60192000.0,
+    "revenue": 2322855000.0,
+    "net_income": 172101000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 60416000.0,
+    "revenue": 2900874000.0,
+    "net_income": 207853000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 60973000.0,
+    "revenue": 2489313000.0,
+    "net_income": 193131000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 60354000.0,
+    "revenue": 8636134000.0,
+    "net_income": 552364000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 60401000.0,
+    "revenue": 2093784000.0,
+    "net_income": 125747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 60363000.0,
+    "revenue": 2700541000.0,
+    "net_income": 175360000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 60015000.0,
+    "revenue": 1825004000.0,
+    "net_income": 104251000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2020",
+    "filing_date": "2021-03-03",
+    "shares_outstanding": 59928000.0,
+    "revenue": 5153998000.0,
+    "net_income": 253882000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 59818000.0,
+    "revenue": 1486227000.0,
+    "net_income": 78861000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 59766000.0,
+    "revenue": 1242001000.0,
+    "net_income": 69694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 60230000.0,
+    "revenue": 1032062000.0,
+    "net_income": 40570000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 60130000.0,
+    "revenue": 4492184000.0,
+    "net_income": 182404000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 60195000.0,
+    "revenue": 1163026000.0,
+    "net_income": 52581000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 60148000.0,
+    "revenue": 1239817000.0,
+    "net_income": 55145000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 59954000.0,
+    "revenue": 1015125000.0,
+    "net_income": 36002000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 60433000.0,
+    "revenue": 4565749000.0,
+    "net_income": 152412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 60614000.0,
+    "revenue": 1212702000.0,
+    "net_income": 42068000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 60549000.0,
+    "revenue": 1294440000.0,
+    "net_income": 45130000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 60363000.0,
+    "revenue": 993857000.0,
+    "net_income": 33582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 60363000.0,
+    "revenue": 3941182000.0,
+    "net_income": 124040000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 20116000.0,
+    "revenue": 1056586000.0,
+    "net_income": 34669000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 20170000.0,
+    "revenue": 1072375000.0,
+    "net_income": 34574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 20152000.0,
+    "revenue": 846130000.0,
+    "net_income": 21634000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 20075000.0,
+    "revenue": 3240493000.0,
+    "net_income": 105497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 20095000.0,
+    "revenue": 826665000.0,
+    "net_income": 28764000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-27",
+    "shares_outstanding": 20078000.0,
+    "revenue": 872093000.0,
+    "net_income": 34237000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 20020000.0,
+    "revenue": 682151000.0,
+    "net_income": 20255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 19955000.0,
+    "revenue": 2887071000.0,
+    "net_income": 85132000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 19978000.0,
+    "revenue": 762275000.0,
+    "net_income": 26883000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-29",
+    "shares_outstanding": 19961000.0,
+    "revenue": 838171000.0,
+    "net_income": 26884000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 19877000.0,
+    "revenue": 633025000.0,
+    "net_income": 10804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 19854000.0,
+    "revenue": 2660329000.0,
+    "net_income": 61564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 19932000.0,
+    "revenue": 713489000.0,
+    "net_income": 20492000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 19964000.0,
+    "revenue": 772752000.0,
+    "net_income": 22449000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 19905000.0,
+    "revenue": 553998000.0,
+    "net_income": 7668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 19815000.0,
+    "revenue": 2470448000.0,
+    "net_income": 45804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 19800000.0,
+    "revenue": 651780000.0,
+    "net_income": 15015000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 19786000.0,
+    "revenue": 738436000.0,
+    "net_income": 16373000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-30",
+    "shares_outstanding": 19736000.0,
+    "revenue": 554494000.0,
+    "net_income": 5756000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 19633000.0,
+    "revenue": 2054933000.0,
+    "net_income": 26010000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-30",
+    "shares_outstanding": 19674000.0,
+    "revenue": 533366000.0,
+    "net_income": 4756000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 19643000.0,
+    "revenue": 593693000.0,
+    "net_income": 18010000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-30",
+    "shares_outstanding": 19700000.0,
+    "revenue": 457111000.0,
+    "net_income": 4386000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "FY 2011",
+    "filing_date": "2012-03-14",
+    "shares_outstanding": 19533.0,
+    "revenue": 1822336000.0,
+    "net_income": 5971000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-24",
+    "shares_outstanding": 19546.0,
+    "revenue": 468941000.0,
+    "net_income": 5988000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UFPI",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-01",
+    "shares_outstanding": 19546.0,
+    "revenue": 544139000.0,
+    "net_income": 4478000.0,
+    "market_cap": null
+  }
+]

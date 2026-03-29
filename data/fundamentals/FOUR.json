@@ -1,0 +1,209 @@
+[
+  {
+    "ticker": "FOUR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 1333686.0,
+    "revenue": 4180000000.0,
+    "net_income": 147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 1333686.0,
+    "revenue": 4180000000.0,
+    "net_income": 147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 2204000000.0,
+    "revenue": 1176900000.0,
+    "net_income": 33400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 1990600000.0,
+    "revenue": 966200000.0,
+    "net_income": 41100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 1016000000.0,
+    "revenue": 848300000.0,
+    "net_income": 19500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-12",
+    "shares_outstanding": 1047800000.0,
+    "revenue": 909200000.0,
+    "net_income": 72200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-09",
+    "shares_outstanding": 958800000.0,
+    "revenue": 827000000.0,
+    "net_income": 54500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-10",
+    "shares_outstanding": 895800000.0,
+    "revenue": 707400000.0,
+    "net_income": 28500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 868400000.0,
+    "revenue": 2564800000.0,
+    "net_income": 122900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 541000000.0,
+    "revenue": 675400000.0,
+    "net_income": 46500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 479200000.0,
+    "revenue": 637000000.0,
+    "net_income": 36800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 526400000.0,
+    "revenue": 547000000.0,
+    "net_income": 20400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 480600000.0,
+    "revenue": 1993600000.0,
+    "net_income": 86700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 420800000.0,
+    "revenue": 547300000.0,
+    "net_income": 46400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 267400000.0,
+    "revenue": 506700000.0,
+    "net_income": 15000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 418200000.0,
+    "revenue": 401900000.0,
+    "net_income": -13200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 399700000.0,
+    "revenue": 1367500000.0,
+    "net_income": -74000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-12",
+    "shares_outstanding": 435400000.0,
+    "revenue": 377800000.0,
+    "net_income": -13800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 446200000.0,
+    "revenue": 351000000.0,
+    "net_income": 4500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 549100000.0,
+    "revenue": 239300000.0,
+    "net_income": -51000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "FY 2020",
+    "filing_date": "2021-03-08",
+    "shares_outstanding": 670000000.0,
+    "revenue": 766900000.0,
+    "net_income": -111400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 557500000.0,
+    "revenue": 214800000.0,
+    "net_income": -9800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FOUR",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-12",
+    "shares_outstanding": 470600000.0,
+    "revenue": 141800000.0,
+    "net_income": -74800000.0,
+    "market_cap": null
+  }
+]

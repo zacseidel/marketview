@@ -1,0 +1,137 @@
+[
+  {
+    "ticker": "ESAB",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 61266294.0,
+    "revenue": 2842555000.0,
+    "net_income": 233232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 61266294.0,
+    "revenue": 2842555000.0,
+    "net_income": 233232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 61312744.0,
+    "revenue": 715586000.0,
+    "net_income": 68104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 61281118.0,
+    "revenue": 678138000.0,
+    "net_income": 69832000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 61102063.0,
+    "revenue": 2740803000.0,
+    "net_income": 270748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 61086129.0,
+    "revenue": 673250000.0,
+    "net_income": 69833000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 61078456.0,
+    "revenue": 707053000.0,
+    "net_income": 84369000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 60987957.0,
+    "revenue": 689744000.0,
+    "net_income": 61594000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 60655746.0,
+    "revenue": 2774766000.0,
+    "net_income": 211024000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 60730713.0,
+    "revenue": 680996000.0,
+    "net_income": 59113000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 60561339.0,
+    "revenue": 720422000.0,
+    "net_income": 67223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 60486226.0,
+    "revenue": 684000000.0,
+    "net_income": 33216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "FY 2022",
+    "filing_date": "2023-03-07",
+    "shares_outstanding": 60153059000.0,
+    "revenue": 2593480000.0,
+    "net_income": 228013000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 60163221.0,
+    "revenue": 620265000.0,
+    "net_income": 53316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ESAB",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 60185520.0,
+    "revenue": 661177000.0,
+    "net_income": 56024000.0,
+    "market_cap": null
+  }
+]

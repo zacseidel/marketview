@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2026",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 72413000.0,
+    "revenue": 619334000.0,
+    "net_income": 124668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2026",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 72909000.0,
+    "revenue": 644738000.0,
+    "net_income": 143986000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2025",
+    "filing_date": "2025-08-25",
+    "shares_outstanding": 73045000.0,
+    "revenue": 2375288000.0,
+    "net_income": 455748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2025",
+    "filing_date": "2025-05-12",
+    "shares_outstanding": 73013000.0,
+    "revenue": 585087000.0,
+    "net_income": 111108000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2025",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 73082000.0,
+    "revenue": 573848000.0,
+    "net_income": 97845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2025",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 73078000.0,
+    "revenue": 600982000.0,
+    "net_income": 119191000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2024",
+    "filing_date": "2024-08-26",
+    "shares_outstanding": 73025000.0,
+    "revenue": 2215543000.0,
+    "net_income": 381816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2024",
+    "filing_date": "2024-05-09",
+    "shares_outstanding": 73031000.0,
+    "revenue": 538562000.0,
+    "net_income": 87099000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2024",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 72984000.0,
+    "revenue": 545701000.0,
+    "net_income": 91965000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2024",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 73014000.0,
+    "revenue": 571368000.0,
+    "net_income": 101679000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2023",
+    "filing_date": "2023-08-24",
+    "shares_outstanding": 73096000.0,
+    "revenue": 2077702000.0,
+    "net_income": 366646000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2023",
+    "filing_date": "2023-05-08",
+    "shares_outstanding": 73074000.0,
+    "revenue": 508552000.0,
+    "net_income": 81549000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2023",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 73144000.0,
+    "revenue": 505314000.0,
+    "net_income": 80775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2023",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 73138000.0,
+    "revenue": 529202000.0,
+    "net_income": 106549000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2022",
+    "filing_date": "2022-08-25",
+    "shares_outstanding": 73486000.0,
+    "revenue": 1942884000.0,
+    "net_income": 362916000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 73019000.0,
+    "revenue": 478260000.0,
+    "net_income": 84707000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2022",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 73697000.0,
+    "revenue": 493896000.0,
+    "net_income": 95670000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2022",
+    "filing_date": "2021-11-09",
+    "shares_outstanding": 74142000.0,
+    "revenue": 488056000.0,
+    "net_income": 102114000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2021",
+    "filing_date": "2021-08-25",
+    "shares_outstanding": 75658000.0,
+    "revenue": 1758225000.0,
+    "net_income": 311469000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 75431000.0,
+    "revenue": 433776000.0,
+    "net_income": 71409000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2021",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 76280000.0,
+    "revenue": 422361000.0,
+    "net_income": 71982000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2021",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 76713000.0,
+    "revenue": 451800000.0,
+    "net_income": 91216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2020",
+    "filing_date": "2020-08-25",
+    "shares_outstanding": 76934000.0,
+    "revenue": 1697067000.0,
+    "net_income": 296668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 76884000.0,
+    "revenue": 429406000.0,
+    "net_income": 73855000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2020",
+    "filing_date": "2020-02-07",
+    "shares_outstanding": 76935000.0,
+    "revenue": 419119000.0,
+    "net_income": 72098000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2020",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 77067000.0,
+    "revenue": 438005000.0,
+    "net_income": 89370000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2019",
+    "filing_date": "2019-08-26",
+    "shares_outstanding": 77347000.0,
+    "revenue": 1552691000.0,
+    "net_income": 271885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 77286000.0,
+    "revenue": 380364000.0,
+    "net_income": 59252000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2019",
+    "filing_date": "2019-02-07",
+    "shares_outstanding": 77409000.0,
+    "revenue": 386275000.0,
+    "net_income": 68089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2019",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 77537000.0,
+    "revenue": 392543000.0,
+    "net_income": 83551000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2018",
+    "filing_date": "2018-08-24",
+    "shares_outstanding": 77585000.0,
+    "revenue": 1536603000.0,
+    "net_income": 376660000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 77546000.0,
+    "revenue": 384684000.0,
+    "net_income": 72395000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2018",
+    "filing_date": "2018-02-08",
+    "shares_outstanding": 77565000.0,
+    "revenue": 374756000.0,
+    "net_income": 155574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2018",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 77646000.0,
+    "revenue": 359934000.0,
+    "net_income": 63411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2017",
+    "filing_date": "2017-08-25",
+    "shares_outstanding": 78255000.0,
+    "revenue": 1431117000.0,
+    "net_income": 245793000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 77932000.0,
+    "revenue": 353767000.0,
+    "net_income": 60044000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2017",
+    "filing_date": "2017-02-09",
+    "shares_outstanding": 78180000.0,
+    "revenue": 348553000.0,
+    "net_income": 58814000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2017",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 78844000.0,
+    "revenue": 345028000.0,
+    "net_income": 62244000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2016",
+    "filing_date": "2016-08-29",
+    "shares_outstanding": 79734000.0,
+    "revenue": 1354646000.0,
+    "net_income": 248867000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 79167000.0,
+    "revenue": 333186000.0,
+    "net_income": 53883000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2016",
+    "filing_date": "2016-02-05",
+    "shares_outstanding": 79770000.0,
+    "revenue": 332872000.0,
+    "net_income": 59348000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2016",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 80735000.0,
+    "revenue": 321618000.0,
+    "net_income": 51366000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2015",
+    "filing_date": "2015-09-11",
+    "shares_outstanding": 81601000.0,
+    "revenue": 1256190000.0,
+    "net_income": 211221000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2015",
+    "filing_date": "2015-06-25",
+    "shares_outstanding": 81094000.0,
+    "revenue": 309709000.0,
+    "net_income": 50712000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2015",
+    "filing_date": "2015-06-25",
+    "shares_outstanding": 81634000.0,
+    "revenue": 311294000.0,
+    "net_income": 53882000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2015",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 82589000.0,
+    "revenue": 301474000.0,
+    "net_income": 46088000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2014",
+    "filing_date": "2014-08-27",
+    "shares_outstanding": 85396000.0,
+    "revenue": 1210053000.0,
+    "net_income": 201136000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 85467000.0,
+    "revenue": 300929000.0,
+    "net_income": 46757000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2014",
+    "filing_date": "2014-02-06",
+    "shares_outstanding": 85986000.0,
+    "revenue": 302525000.0,
+    "net_income": 53982000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2014",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 85854000.0,
+    "revenue": 295661000.0,
+    "net_income": 49788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2013",
+    "filing_date": "2013-08-27",
+    "shares_outstanding": 86619000.0,
+    "revenue": 1129386000.0,
+    "net_income": 176645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2013",
+    "filing_date": "2013-05-06",
+    "shares_outstanding": 86705000.0,
+    "revenue": 281543000.0,
+    "net_income": 45996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2013",
+    "filing_date": "2013-02-07",
+    "shares_outstanding": 86639000.0,
+    "revenue": 278694000.0,
+    "net_income": 40505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2013",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 86605000.0,
+    "revenue": 271001000.0,
+    "net_income": 42475000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "FY 2012",
+    "filing_date": "2012-08-27",
+    "shares_outstanding": 87287000.0,
+    "revenue": 1027109000.0,
+    "net_income": 154984000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 87592000.0,
+    "revenue": 256304000.0,
+    "net_income": 36657000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q2 2012",
+    "filing_date": "2012-02-06",
+    "shares_outstanding": 87371000.0,
+    "revenue": 255858000.0,
+    "net_income": 38525000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q1 2012",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 87134000.0,
+    "revenue": 248338000.0,
+    "net_income": 36475000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JKHY",
+    "period": "Q3 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 86972000.0,
+    "revenue": 240185000.0,
+    "net_income": 33081000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "LEA",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 53590776.0,
+    "revenue": 23259100000.0,
+    "net_income": 527100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 53590776.0,
+    "revenue": 23259100000.0,
+    "net_income": 527100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 53653263.0,
+    "revenue": 5679800000.0,
+    "net_income": 126400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-25",
+    "shares_outstanding": 54056107.0,
+    "revenue": 6030400000.0,
+    "net_income": 191900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 54227394.0,
+    "revenue": 5560300000.0,
+    "net_income": 102500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 56373835.0,
+    "revenue": 5584400000.0,
+    "net_income": 156000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 57234459.0,
+    "revenue": 6012400000.0,
+    "net_income": 194400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 57569739.0,
+    "revenue": 5994600000.0,
+    "net_income": 126900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2023",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 59116375.0,
+    "revenue": 23466900000.0,
+    "net_income": 645700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 59075638.0,
+    "revenue": 5781000000.0,
+    "net_income": 152100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 59366167.0,
+    "revenue": 5999200000.0,
+    "net_income": 187200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 59558966.0,
+    "revenue": 5845500000.0,
+    "net_income": 163400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 59920529.0,
+    "revenue": 20891500000.0,
+    "net_income": 408700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 59785860.0,
+    "revenue": 5241200000.0,
+    "net_income": 119200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 60095641.0,
+    "revenue": 5071000000.0,
+    "net_income": 85600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 60210979.0,
+    "revenue": 5208400000.0,
+    "net_income": 66600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2021",
+    "filing_date": "2022-02-10",
+    "shares_outstanding": 60420484.0,
+    "revenue": 19263100000.0,
+    "net_income": 461600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 59906531.0,
+    "revenue": 4268200000.0,
+    "net_income": -8700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 60611505.0,
+    "revenue": 4760700000.0,
+    "net_income": 194900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 60560859.0,
+    "revenue": 5354400000.0,
+    "net_income": 225800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2020",
+    "filing_date": "2021-02-10",
+    "shares_outstanding": 60426962.0,
+    "revenue": 17045500000.0,
+    "net_income": 233900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 60330941.0,
+    "revenue": 4900100000.0,
+    "net_income": 197100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 60102925.0,
+    "revenue": 2444500000.0,
+    "net_income": -269500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 60678590.0,
+    "revenue": 4457700000.0,
+    "net_income": 83600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2019",
+    "filing_date": "2020-02-04",
+    "shares_outstanding": 61923528.0,
+    "revenue": 19810300000.0,
+    "net_income": 830700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 61330086.0,
+    "revenue": 4825000000.0,
+    "net_income": 238600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-26",
+    "shares_outstanding": 62354334.0,
+    "revenue": 5007600000.0,
+    "net_income": 202000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-26",
+    "shares_outstanding": 63123197.0,
+    "revenue": 5160100000.0,
+    "net_income": 246100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2018",
+    "filing_date": "2019-02-05",
+    "shares_outstanding": 66161816.0,
+    "revenue": 21148500000.0,
+    "net_income": 1246700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 65868660.0,
+    "revenue": 4891600000.0,
+    "net_income": 274700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 66708040.0,
+    "revenue": 5580800000.0,
+    "net_income": 355000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 67562452.0,
+    "revenue": 5733700000.0,
+    "net_income": 374200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2017",
+    "filing_date": "2018-02-06",
+    "shares_outstanding": 69277981.0,
+    "revenue": 20467000000.0,
+    "net_income": 1380900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-25",
+    "shares_outstanding": 68834279.0,
+    "revenue": 4981500000.0,
+    "net_income": 315000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-26",
+    "shares_outstanding": 69448798.0,
+    "revenue": 5123200000.0,
+    "net_income": 327000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-26",
+    "shares_outstanding": 70327348.0,
+    "revenue": 4998500000.0,
+    "net_income": 318500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2016",
+    "filing_date": "2017-02-07",
+    "shares_outstanding": 73124949.0,
+    "revenue": 18557600000.0,
+    "net_income": 1040500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-26",
+    "shares_outstanding": 72052270.0,
+    "revenue": 4526400000.0,
+    "net_income": 235000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 73864457.0,
+    "revenue": 4724800000.0,
+    "net_income": 294500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 75474339.0,
+    "revenue": 4662900000.0,
+    "net_income": 262500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2015",
+    "filing_date": "2016-02-09",
+    "shares_outstanding": 77767017.0,
+    "revenue": 18211400000.0,
+    "net_income": 795800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-23",
+    "shares_outstanding": 77416102.0,
+    "revenue": 4330300000.0,
+    "net_income": 193300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-24",
+    "shares_outstanding": 78076247.0,
+    "revenue": 4635100000.0,
+    "net_income": 192900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-24",
+    "shares_outstanding": 79079598.0,
+    "revenue": 4521400000.0,
+    "net_income": 156700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2014",
+    "filing_date": "2015-02-10",
+    "shares_outstanding": 81728479.0,
+    "revenue": 17727300000.0,
+    "net_income": 702300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-24",
+    "shares_outstanding": 81403225.0,
+    "revenue": 4232700000.0,
+    "net_income": 147900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-25",
+    "shares_outstanding": 81940772.0,
+    "revenue": 4585100000.0,
+    "net_income": 157800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-25",
+    "shares_outstanding": 82761597.0,
+    "revenue": 4359800000.0,
+    "net_income": 128600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2013",
+    "filing_date": "2014-02-11",
+    "shares_outstanding": 86415786.0,
+    "revenue": 16234000000.0,
+    "net_income": 455800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-25",
+    "shares_outstanding": 81754163.0,
+    "revenue": 3917700000.0,
+    "net_income": 116700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-26",
+    "shares_outstanding": 85550974.0,
+    "revenue": 4113100000.0,
+    "net_income": 142300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 95871104.0,
+    "revenue": 3947100000.0,
+    "net_income": 116900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2012",
+    "filing_date": "2013-02-12",
+    "shares_outstanding": 99825686.0,
+    "revenue": 14567000000.0,
+    "net_income": 1317200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 98864873.0,
+    "revenue": 3538600000.0,
+    "net_income": 128100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 100611799.0,
+    "revenue": 3665000000.0,
+    "net_income": 154600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 101929401.0,
+    "revenue": 3644000000.0,
+    "net_income": 144400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "FY 2011",
+    "filing_date": "2012-02-17",
+    "shares_outstanding": 106344367.0,
+    "revenue": 14156500000.0,
+    "net_income": 570400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-31",
+    "shares_outstanding": 105808749.0,
+    "revenue": 3460000000.0,
+    "net_income": 108100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 107413536.0,
+    "revenue": 3676300000.0,
+    "net_income": 185700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LEA",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-29",
+    "shares_outstanding": 414613.0,
+    "revenue": 3511700000.0,
+    "net_income": 162700000.0,
+    "market_cap": null
+  }
+]

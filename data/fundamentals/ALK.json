@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "ALK",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 119926000.0,
+    "revenue": 14239000000.0,
+    "net_income": 100000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 119926000.0,
+    "revenue": 14239000000.0,
+    "net_income": 100000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 117500000.0,
+    "revenue": 3766000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 120930000.0,
+    "revenue": 3704000000.0,
+    "net_income": 172000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 123134000.0,
+    "revenue": 3137000000.0,
+    "net_income": -166000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 128590000.0,
+    "revenue": 3072000000.0,
+    "net_income": 236000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 128310000.0,
+    "revenue": 2897000000.0,
+    "net_income": 220000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 125970000.0,
+    "revenue": 2232000000.0,
+    "net_income": -132000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 128708000.0,
+    "revenue": 10426000000.0,
+    "net_income": 235000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 129188000.0,
+    "revenue": 2839000000.0,
+    "net_income": 139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 128919000.0,
+    "revenue": 2838000000.0,
+    "net_income": 240000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 127501000.0,
+    "revenue": 2196000000.0,
+    "net_income": -142000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2022",
+    "filing_date": "2023-02-13",
+    "shares_outstanding": 127899000.0,
+    "revenue": 9646000000.0,
+    "net_income": 58000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 128370000.0,
+    "revenue": 2828000000.0,
+    "net_income": 40000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 127795000.0,
+    "revenue": 2658000000.0,
+    "net_income": 139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 125984000.0,
+    "revenue": 1681000000.0,
+    "net_income": -143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2021",
+    "filing_date": "2022-02-11",
+    "shares_outstanding": 126775000.0,
+    "revenue": 6176000000.0,
+    "net_income": 478000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 127188000.0,
+    "revenue": 1953000000.0,
+    "net_income": 194000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 126825000.0,
+    "revenue": 1527000000.0,
+    "net_income": 397000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 124299000.0,
+    "revenue": 797000000.0,
+    "net_income": -131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 123450000.0,
+    "revenue": 3566000000.0,
+    "net_income": -1324000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 123647000.0,
+    "revenue": 701000000.0,
+    "net_income": -431000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 123965000.0,
+    "revenue": 421000000.0,
+    "net_income": -214000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-14",
+    "shares_outstanding": 124123000.0,
+    "revenue": 1636000000.0,
+    "net_income": -232000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2019",
+    "filing_date": "2020-02-12",
+    "shares_outstanding": 124289000.0,
+    "revenue": 8781000000.0,
+    "net_income": 769000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 124067000.0,
+    "revenue": 2389000000.0,
+    "net_income": 322000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 124301000.0,
+    "revenue": 2288000000.0,
+    "net_income": 262000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 123915000.0,
+    "revenue": 1876000000.0,
+    "net_income": 4000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2018",
+    "filing_date": "2019-02-15",
+    "shares_outstanding": 123975000.0,
+    "revenue": 8264000000.0,
+    "net_income": 437000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 123864000.0,
+    "revenue": 2212000000.0,
+    "net_income": 217000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 124036000.0,
+    "revenue": 2156000000.0,
+    "net_income": 193000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 123630000.0,
+    "revenue": 1832000000.0,
+    "net_income": 4000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2017",
+    "filing_date": "2018-02-15",
+    "shares_outstanding": 123854000.0,
+    "revenue": 7933000000.0,
+    "net_income": 1034000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 124220000.0,
+    "revenue": 2120000000.0,
+    "net_income": 266000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 124332000.0,
+    "revenue": 2102000000.0,
+    "net_income": 296000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 124299000.0,
+    "revenue": 1749000000.0,
+    "net_income": 99000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 124389000.0,
+    "revenue": 5931000000.0,
+    "net_income": 814000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 123833000.0,
+    "revenue": 1566000000.0,
+    "net_income": 256000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-02",
+    "shares_outstanding": 123988000.0,
+    "revenue": 1494000000.0,
+    "net_income": 260000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 125328000.0,
+    "revenue": 1347000000.0,
+    "net_income": 184000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2015",
+    "filing_date": "2016-02-11",
+    "shares_outstanding": 129372000.0,
+    "revenue": 5598000000.0,
+    "net_income": 848000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 128205000.0,
+    "revenue": 1515000000.0,
+    "net_income": 274000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 130255000.0,
+    "revenue": 1437000000.0,
+    "net_income": 234000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 132230000.0,
+    "revenue": 1269000000.0,
+    "net_income": 149000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2014",
+    "filing_date": "2015-02-11",
+    "shares_outstanding": 136801000.0,
+    "revenue": 5368000000.0,
+    "net_income": 605000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 136158064.0,
+    "revenue": 1465000000.0,
+    "net_income": 198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 138711132.0,
+    "revenue": 1375000000.0,
+    "net_income": 165000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-09",
+    "shares_outstanding": 69410618.0,
+    "revenue": 1222000000.0,
+    "net_income": 94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2013",
+    "filing_date": "2014-02-13",
+    "shares_outstanding": 70939000.0,
+    "revenue": 5156000000.0,
+    "net_income": 508000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 70692000.0,
+    "revenue": 1557000000.0,
+    "net_income": 289000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 71159000.0,
+    "revenue": 1256000000.0,
+    "net_income": 104000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 71414000.0,
+    "revenue": 1133000000.0,
+    "net_income": 37000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2012",
+    "filing_date": "2013-02-14",
+    "shares_outstanding": 71784000.0,
+    "revenue": 4657000000.0,
+    "net_income": 316000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 71883000.0,
+    "revenue": 1272200000.0,
+    "net_income": 163400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 72200000.0,
+    "revenue": 1213200000.0,
+    "net_income": 67500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 72659000.0,
+    "revenue": 1039300000.0,
+    "net_income": 40800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "FY 2011",
+    "filing_date": "2012-02-21",
+    "shares_outstanding": 36710000.0,
+    "revenue": 4317800000.0,
+    "net_income": 244500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q4 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 36619000.0,
+    "revenue": 1198100000.0,
+    "net_income": 77500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-04",
+    "shares_outstanding": 36841000.0,
+    "revenue": 965200000.0,
+    "net_income": 74200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ALK",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 36830000.0,
+    "revenue": 1067500000.0,
+    "net_income": 122400000.0,
+    "market_cap": null
+  }
+]

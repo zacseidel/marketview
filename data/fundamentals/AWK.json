@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "AWK",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 195000000.0,
+    "revenue": 5121000000.0,
+    "net_income": 1111000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 195000000.0,
+    "revenue": 5121000000.0,
+    "net_income": 1111000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 195000000.0,
+    "revenue": 1272000000.0,
+    "net_income": 289000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 195000000.0,
+    "revenue": 1134000000.0,
+    "net_income": 205000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 195000000.0,
+    "revenue": 1328000000.0,
+    "net_income": 350000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 195000000.0,
+    "revenue": 1140000000.0,
+    "net_income": 277000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 195000000.0,
+    "revenue": 1003000000.0,
+    "net_income": 185000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 193000000.0,
+    "revenue": 4217000000.0,
+    "net_income": 944000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 195000000.0,
+    "revenue": 1167000000.0,
+    "net_income": 323000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 195000000.0,
+    "revenue": 1097000000.0,
+    "net_income": 280000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 186000000.0,
+    "revenue": 938000000.0,
+    "net_income": 170000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2022",
+    "filing_date": "2023-02-15",
+    "shares_outstanding": 182000000.0,
+    "revenue": 3763000000.0,
+    "net_income": 820000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-31",
+    "shares_outstanding": 182000000.0,
+    "revenue": 1082000000.0,
+    "net_income": 297000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 182000000.0,
+    "revenue": 937000000.0,
+    "net_income": 218000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 182000000.0,
+    "revenue": 842000000.0,
+    "net_income": 158000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 182000000.0,
+    "revenue": 3914000000.0,
+    "net_income": 1263000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 182000000.0,
+    "revenue": 1092000000.0,
+    "net_income": 278000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-02",
+    "shares_outstanding": 182000000.0,
+    "revenue": 999000000.0,
+    "net_income": 207000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-03",
+    "shares_outstanding": 182000000.0,
+    "revenue": 888000000.0,
+    "net_income": 133000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 182000000.0,
+    "revenue": 3743000000.0,
+    "net_income": 709000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 182000000.0,
+    "revenue": 1079000000.0,
+    "net_income": 264000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 181000000.0,
+    "revenue": 931000000.0,
+    "net_income": 176000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 181000000.0,
+    "revenue": 844000000.0,
+    "net_income": 124000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2019",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 181000000.0,
+    "revenue": 3587000000.0,
+    "net_income": 621000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 181000000.0,
+    "revenue": 1013000000.0,
+    "net_income": 240000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 181000000.0,
+    "revenue": 882000000.0,
+    "net_income": 170000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 181000000.0,
+    "revenue": 813000000.0,
+    "net_income": 113000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2018",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 180000000.0,
+    "revenue": 3417000000.0,
+    "net_income": 565000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 181000000.0,
+    "revenue": 976000000.0,
+    "net_income": 185000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 179000000.0,
+    "revenue": 853000000.0,
+    "net_income": 162000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 179000000.0,
+    "revenue": 761000000.0,
+    "net_income": 106000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2017",
+    "filing_date": "2018-02-20",
+    "shares_outstanding": 179000000.0,
+    "revenue": 3357000000.0,
+    "net_income": 426000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 179000000.0,
+    "revenue": 936000000.0,
+    "net_income": 203000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 179000000.0,
+    "revenue": 844000000.0,
+    "net_income": 131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 179000000.0,
+    "revenue": 756000000.0,
+    "net_income": 93000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 179000000.0,
+    "revenue": 3302000000.0,
+    "net_income": 468000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 178000000.0,
+    "revenue": 930000000.0,
+    "net_income": 148000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 178000000.0,
+    "revenue": 827000000.0,
+    "net_income": 137000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 179000000.0,
+    "revenue": 743000000.0,
+    "net_income": 82000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 180000000.0,
+    "revenue": 3159000000.0,
+    "net_income": 476000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 180353000.0,
+    "revenue": 896000000.0,
+    "net_income": 173894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 180371000.0,
+    "revenue": 782000000.0,
+    "net_income": 123000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 180295000.0,
+    "revenue": 698000000.0,
+    "net_income": 80000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 179806000.0,
+    "revenue": 3011328000.0,
+    "net_income": 423108000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 179948000.0,
+    "revenue": 846169000.0,
+    "net_income": 152185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 179693000.0,
+    "revenue": 754778000.0,
+    "net_income": 109299000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 179457000.0,
+    "revenue": 679003000.0,
+    "net_income": 68123000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 179056000.0,
+    "revenue": 2901858000.0,
+    "net_income": 369264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 179154000.0,
+    "revenue": 829196000.0,
+    "net_income": 150665000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 178910000.0,
+    "revenue": 724265000.0,
+    "net_income": 101263000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 178465000.0,
+    "revenue": 636137000.0,
+    "net_income": 57643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 177671000.0,
+    "revenue": 2876889000.0,
+    "net_income": 358070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 177841000.0,
+    "revenue": 831815000.0,
+    "net_income": 153812000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 177491000.0,
+    "revenue": 745607000.0,
+    "net_income": 107026000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-02",
+    "shares_outstanding": 177028000.0,
+    "revenue": 618554000.0,
+    "net_income": 41754000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 176531000.0,
+    "revenue": 2666236000.0,
+    "net_income": 309613000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 176593000.0,
+    "revenue": 760869000.0,
+    "net_income": 137422000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-03",
+    "shares_outstanding": 176419000.0,
+    "revenue": 668873000.0,
+    "net_income": 81110000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-04",
+    "shares_outstanding": 176048000.0,
+    "revenue": 596715000.0,
+    "net_income": 26233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AWK",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-03",
+    "shares_outstanding": 175062000.0,
+    "revenue": 786946000.0,
+    "net_income": 124114000.0,
+    "market_cap": null
+  }
+]

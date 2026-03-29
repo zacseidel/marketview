@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "TMO",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 378000000.0,
+    "revenue": 44556000000.0,
+    "net_income": 6721000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 378000000.0,
+    "revenue": 44556000000.0,
+    "net_income": 6721000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 378000000.0,
+    "revenue": 11122000000.0,
+    "net_income": 1621000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 378000000.0,
+    "revenue": 10855000000.0,
+    "net_income": 1618000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 379000000.0,
+    "revenue": 10364000000.0,
+    "net_income": 1511000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 383000000.0,
+    "revenue": 42879000000.0,
+    "net_income": 6338000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 384000000.0,
+    "revenue": 10598000000.0,
+    "net_income": 1629000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 383000000.0,
+    "revenue": 10541000000.0,
+    "net_income": 1553000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 384000000.0,
+    "revenue": 10345000000.0,
+    "net_income": 1331000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 388000000.0,
+    "revenue": 42857000000.0,
+    "net_income": 5955000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 388000000.0,
+    "revenue": 10574000000.0,
+    "net_income": 1695000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 388000000.0,
+    "revenue": 10687000000.0,
+    "net_income": 1362000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 388000000.0,
+    "revenue": 10710000000.0,
+    "net_income": 1292000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 394000000.0,
+    "revenue": 44915000000.0,
+    "net_income": 6960000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 395000000.0,
+    "revenue": 10677000000.0,
+    "net_income": 1498000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 394000000.0,
+    "revenue": 10970000000.0,
+    "net_income": 1668000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 395000000.0,
+    "revenue": 11818000000.0,
+    "net_income": 2220000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 397000000.0,
+    "revenue": 39211000000.0,
+    "net_income": 7728000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 397000000.0,
+    "revenue": 9330000000.0,
+    "net_income": 1902000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 396000000.0,
+    "revenue": 9273000000.0,
+    "net_income": 1828000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 397000000.0,
+    "revenue": 9906000000.0,
+    "net_income": 2337000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 399000000.0,
+    "revenue": 32218000000.0,
+    "net_income": 6375000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 399000000.0,
+    "revenue": 8521000000.0,
+    "net_income": 1933000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 398000000.0,
+    "revenue": 6917000000.0,
+    "net_income": 1156000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 400000000.0,
+    "revenue": 6230000000.0,
+    "net_income": 788000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 403000000.0,
+    "revenue": 25542000000.0,
+    "net_income": 3696000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 404000000.0,
+    "revenue": 6272000000.0,
+    "net_income": 760000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 403000000.0,
+    "revenue": 6316000000.0,
+    "net_income": 1119000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 403000000.0,
+    "revenue": 6125000000.0,
+    "net_income": 815000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 406000000.0,
+    "revenue": 24358000000.0,
+    "net_income": 2938000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 406000000.0,
+    "revenue": 5920000000.0,
+    "net_income": 709000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 406000000.0,
+    "revenue": 6078000000.0,
+    "net_income": 752000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 406000000.0,
+    "revenue": 5853000000.0,
+    "net_income": 579000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 398000000.0,
+    "revenue": 20918000000.0,
+    "net_income": 2225000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 399600000.0,
+    "revenue": 5116000000.0,
+    "net_income": 534000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 393300000.0,
+    "revenue": 4990000000.0,
+    "net_income": 612000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 394100000.0,
+    "revenue": 4765000000.0,
+    "net_income": 551000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 397400000.0,
+    "revenue": 18274100000.0,
+    "net_income": 2021800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 397400000.0,
+    "revenue": 4490900000.0,
+    "net_income": 473500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 396700000.0,
+    "revenue": 4535200000.0,
+    "net_income": 516600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 398700000.0,
+    "revenue": 4294800000.0,
+    "net_income": 402200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 401900000.0,
+    "revenue": 16965400000.0,
+    "net_income": 1975400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 402000000.0,
+    "revenue": 4123200000.0,
+    "net_income": 476100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 401500000.0,
+    "revenue": 4270900000.0,
+    "net_income": 511600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 401400000.0,
+    "revenue": 3918800000.0,
+    "net_income": 385100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 402300000.0,
+    "revenue": 16889600000.0,
+    "net_income": 1894400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 403700000.0,
+    "revenue": 4171400000.0,
+    "net_income": 471600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 403100000.0,
+    "revenue": 4321900000.0,
+    "net_income": 278500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 398400000.0,
+    "revenue": 3903500000.0,
+    "net_income": 543100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 365800000.0,
+    "revenue": 13090300000.0,
+    "net_income": 1273300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 367300000.0,
+    "revenue": 3191800000.0,
+    "net_income": 317600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 363500000.0,
+    "revenue": 3240100000.0,
+    "net_income": 277400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 361700000.0,
+    "revenue": 3191500000.0,
+    "net_income": 336200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 366600000.0,
+    "revenue": 12509900000.0,
+    "net_income": 1177900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 365400000.0,
+    "revenue": 3085700000.0,
+    "net_income": 290400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 369200000.0,
+    "revenue": 3108100000.0,
+    "net_income": 233800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 370100000.0,
+    "revenue": 3056800000.0,
+    "net_income": 277300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 384800000.0,
+    "revenue": 11725900000.0,
+    "net_income": 1329900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 382700000.0,
+    "revenue": 2973500000.0,
+    "net_income": 265400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 385900000.0,
+    "revenue": 2897400000.0,
+    "net_income": 523400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TMO",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 394600000.0,
+    "revenue": 2721400000.0,
+    "net_income": 252200000.0,
+    "market_cap": null
+  }
+]

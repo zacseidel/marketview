@@ -1,0 +1,461 @@
+[
+  {
+    "ticker": "SNA",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 53000000.0,
+    "revenue": 5156100000.0,
+    "net_income": 1042300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2026",
+    "filing_date": "2025-10-16",
+    "shares_outstanding": 52900000.0,
+    "revenue": 1291900000.0,
+    "net_income": 271800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2026",
+    "filing_date": "2025-07-17",
+    "shares_outstanding": 53000000.0,
+    "revenue": 1281100000.0,
+    "net_income": 256800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q4 2025",
+    "filing_date": "2025-04-17",
+    "shares_outstanding": 53300000.0,
+    "revenue": 1243200000.0,
+    "net_income": 246700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 53500000.0,
+    "revenue": 5108400000.0,
+    "net_income": 1068900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-17",
+    "shares_outstanding": 53400000.0,
+    "revenue": 1247400000.0,
+    "net_income": 257500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-18",
+    "shares_outstanding": 53500000.0,
+    "revenue": 1279900000.0,
+    "net_income": 277600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-18",
+    "shares_outstanding": 53671031.0,
+    "revenue": 1281900000.0,
+    "net_income": 269600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 53900000.0,
+    "revenue": 5108300000.0,
+    "net_income": 1034600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-19",
+    "shares_outstanding": 53900000.0,
+    "revenue": 1254200000.0,
+    "net_income": 249100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-20",
+    "shares_outstanding": 54000000.0,
+    "revenue": 1284700000.0,
+    "net_income": 269900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-20",
+    "shares_outstanding": 54100000.0,
+    "revenue": 1275600000.0,
+    "net_income": 254300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 54200000.0,
+    "revenue": 4842500000.0,
+    "net_income": 933900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-20",
+    "shares_outstanding": 54100000.0,
+    "revenue": 1189800000.0,
+    "net_income": 229500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-21",
+    "shares_outstanding": 54200000.0,
+    "revenue": 1223000000.0,
+    "net_income": 237200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-21",
+    "shares_outstanding": 54300000.0,
+    "revenue": 1185500000.0,
+    "net_income": 222700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2020",
+    "filing_date": "2021-02-11",
+    "shares_outstanding": 54800000.0,
+    "revenue": 3942200000.0,
+    "net_income": 646400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2021",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 54800000.0,
+    "revenue": 1027400000.0,
+    "net_income": 184700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2021",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 54800000.0,
+    "revenue": 808900000.0,
+    "net_income": 105900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q4 2020",
+    "filing_date": "2020-04-21",
+    "shares_outstanding": 55000000.0,
+    "revenue": 938100000.0,
+    "net_income": 142000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2019",
+    "filing_date": "2020-02-13",
+    "shares_outstanding": 55900000.0,
+    "revenue": 4067700000.0,
+    "net_income": 711200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-17",
+    "shares_outstanding": 55700000.0,
+    "revenue": 985900000.0,
+    "net_income": 169200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-18",
+    "shares_outstanding": 56000000.0,
+    "revenue": 1035400000.0,
+    "net_income": 184900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-18",
+    "shares_outstanding": 56300000.0,
+    "revenue": 1007300000.0,
+    "net_income": 182100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2018",
+    "filing_date": "2019-02-14",
+    "shares_outstanding": 57300000.0,
+    "revenue": 4070400000.0,
+    "net_income": 696200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-18",
+    "shares_outstanding": 57300000.0,
+    "revenue": 980100000.0,
+    "net_income": 167400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-19",
+    "shares_outstanding": 57300000.0,
+    "revenue": 1036600000.0,
+    "net_income": 182700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-19",
+    "shares_outstanding": 57765229.0,
+    "revenue": 1018500000.0,
+    "net_income": 166800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2017",
+    "filing_date": "2018-02-15",
+    "shares_outstanding": 58600000.0,
+    "revenue": 4000300000.0,
+    "net_income": 572200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-19",
+    "shares_outstanding": 58300000.0,
+    "revenue": 903800000.0,
+    "net_income": 137100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-20",
+    "shares_outstanding": 59000000.0,
+    "revenue": 921400000.0,
+    "net_income": 156800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-20",
+    "shares_outstanding": 59300000.0,
+    "revenue": 887100000.0,
+    "net_income": 145100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2016",
+    "filing_date": "2017-02-09",
+    "shares_outstanding": 59400000.0,
+    "revenue": 3711800000.0,
+    "net_income": 559600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-20",
+    "shares_outstanding": 59264914.0,
+    "revenue": 834100000.0,
+    "net_income": 135200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-21",
+    "shares_outstanding": 59390986.0,
+    "revenue": 872300000.0,
+    "net_income": 143400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-21",
+    "shares_outstanding": 59452274.0,
+    "revenue": 834200000.0,
+    "net_income": 131300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2014",
+    "filing_date": "2015-02-12",
+    "shares_outstanding": 59100000.0,
+    "revenue": 3492600000.0,
+    "net_income": 432100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2015",
+    "filing_date": "2014-10-16",
+    "shares_outstanding": 59013052.0,
+    "revenue": 859900000.0,
+    "net_income": 106400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2015",
+    "filing_date": "2014-07-17",
+    "shares_outstanding": 58998476.0,
+    "revenue": 878200000.0,
+    "net_income": 108800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q4 2014",
+    "filing_date": "2014-04-17",
+    "shares_outstanding": 59077255.0,
+    "revenue": 787500000.0,
+    "net_income": 98200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2013",
+    "filing_date": "2014-02-14",
+    "shares_outstanding": 59100000.0,
+    "revenue": 3237500000.0,
+    "net_income": 359700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-17",
+    "shares_outstanding": 59001101.0,
+    "revenue": 753200000.0,
+    "net_income": 87000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-18",
+    "shares_outstanding": 58964323.0,
+    "revenue": 764100000.0,
+    "net_income": 90700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2012",
+    "filing_date": "2013-02-14",
+    "shares_outstanding": 58900000.0,
+    "revenue": 3099200000.0,
+    "net_income": 314600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-18",
+    "shares_outstanding": 58857636.0,
+    "revenue": 711600000.0,
+    "net_income": 76400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-19",
+    "shares_outstanding": 58813662.0,
+    "revenue": 737900000.0,
+    "net_income": 78500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-19",
+    "shares_outstanding": 58772611.0,
+    "revenue": 735200000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "FY 2011",
+    "filing_date": "2012-02-16",
+    "shares_outstanding": 58700000.0,
+    "revenue": 2978500000.0,
+    "net_income": 283800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-20",
+    "shares_outstanding": 58679875.0,
+    "revenue": 697200000.0,
+    "net_income": 69800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-21",
+    "shares_outstanding": 58779788.0,
+    "revenue": 726700000.0,
+    "net_income": 79900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SNA",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-21",
+    "shares_outstanding": 58700000.0,
+    "revenue": 693700000.0,
+    "net_income": 58000000.0,
+    "market_cap": null
+  }
+]

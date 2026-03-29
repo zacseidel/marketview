@@ -1,0 +1,245 @@
+[
+  {
+    "ticker": "PSN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 109693000.0,
+    "revenue": 6364245000.0,
+    "net_income": 308864000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 109693000.0,
+    "revenue": 6364245000.0,
+    "net_income": 308864000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 109078000.0,
+    "revenue": 1621748000.0,
+    "net_income": 81794000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 110102000.0,
+    "revenue": 1584323000.0,
+    "net_income": 70489000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 111026.0,
+    "revenue": 1554360000.0,
+    "net_income": 81787000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 111086000.0,
+    "revenue": 1810116000.0,
+    "net_income": 85589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 110524000.0,
+    "revenue": 1670467000.0,
+    "net_income": 80719000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 106037000.0,
+    "revenue": 1535676000.0,
+    "net_income": -92112000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 115082000.0,
+    "revenue": 5442749000.0,
+    "net_income": 207915000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 115065069.0,
+    "revenue": 1418571000.0,
+    "net_income": 59811000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 114707259.0,
+    "revenue": 1356486000.0,
+    "net_income": 54771000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 114753467.0,
+    "revenue": 1173466000.0,
+    "net_income": 35276000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-17",
+    "shares_outstanding": 113483000.0,
+    "revenue": 4195272000.0,
+    "net_income": 126565000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 113442755.0,
+    "revenue": 1134370000.0,
+    "net_income": 43595000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 113250101.0,
+    "revenue": 1008721000.0,
+    "net_income": 22780000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 113465000.0,
+    "revenue": 949069000.0,
+    "net_income": 23843000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 112127000.0,
+    "revenue": 3660771000.0,
+    "net_income": 88952000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 112146432.0,
+    "revenue": 956050000.0,
+    "net_income": 26769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 112170097.0,
+    "revenue": 879356000.0,
+    "net_income": 12027000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 111865501.0,
+    "revenue": 874697000.0,
+    "net_income": 14014000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 101205000.0,
+    "revenue": 3918946000.0,
+    "net_income": 118921000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 105573613.0,
+    "revenue": 1004236000.0,
+    "net_income": 46520000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 100985587.0,
+    "revenue": 979459000.0,
+    "net_income": 31125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 100899324.0,
+    "revenue": 970993000.0,
+    "net_income": 14371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "FY 2019",
+    "filing_date": "2020-03-10",
+    "shares_outstanding": 92753000.0,
+    "revenue": 3954812000.0,
+    "net_income": 137128000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-12",
+    "shares_outstanding": 99434877.0,
+    "revenue": 1023277000.0,
+    "net_income": 61293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSN",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-13",
+    "shares_outstanding": 92336119.0,
+    "revenue": 989742000.0,
+    "net_income": 40145000.0,
+    "market_cap": null
+  }
+]

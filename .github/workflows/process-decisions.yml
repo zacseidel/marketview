@@ -6,6 +6,9 @@ on:
       - "decisions/pending/**"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   process-decisions:
     runs-on: ubuntu-latest

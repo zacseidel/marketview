@@ -1,0 +1,200 @@
+[
+  {
+    "ticker": "MP",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 170126753.0,
+    "revenue": 224441000.0,
+    "net_income": -85874000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 170126753.0,
+    "revenue": 224441000.0,
+    "net_income": -85874000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 175034287.0,
+    "revenue": 53553000.0,
+    "net_income": -41780000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 163834693.0,
+    "revenue": 57393000.0,
+    "net_income": -30872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 163764345.0,
+    "revenue": 60810000.0,
+    "net_income": -22648000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 169882640.0,
+    "revenue": 203855000.0,
+    "net_income": -65424000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 164149348.0,
+    "revenue": 62927000.0,
+    "net_income": -25516000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 165344511.0,
+    "revenue": 31258000.0,
+    "net_income": -34055000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 186791826.0,
+    "revenue": 48684000.0,
+    "net_income": 16489000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 178152212.0,
+    "revenue": 253445000.0,
+    "net_income": 24307000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 177231717.0,
+    "revenue": 52516000.0,
+    "net_income": -4276000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 177859118.0,
+    "revenue": 64024000.0,
+    "net_income": 7395000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 193613539.0,
+    "revenue": 95700000.0,
+    "net_income": 37447000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 193453087.0,
+    "revenue": 527510000.0,
+    "net_income": 289004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 193409857.0,
+    "revenue": 124445000.0,
+    "net_income": 63177000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 193414563.0,
+    "revenue": 143562000.0,
+    "net_income": 73269000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 193490330.0,
+    "revenue": 166258000.0,
+    "net_income": 85551000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "FY 2021",
+    "filing_date": "2022-02-28",
+    "shares_outstanding": 189844028.0,
+    "revenue": 331952000.0,
+    "net_income": 135037000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-10",
+    "shares_outstanding": 193215313.0,
+    "revenue": 99754000.0,
+    "net_income": 42763000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": 193145644.0,
+    "revenue": 73118000.0,
+    "net_income": 27166000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-13",
+    "shares_outstanding": 179319489.0,
+    "revenue": 59971000.0,
+    "net_income": 16119000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MP",
+    "period": "FY 2020",
+    "filing_date": "2021-03-22",
+    "shares_outstanding": 853877000.0,
+    "revenue": 134310000.0,
+    "net_income": -21825000.0,
+    "market_cap": null
+  }
+]

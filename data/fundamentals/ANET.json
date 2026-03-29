@@ -1,0 +1,425 @@
+[
+  {
+    "ticker": "ANET",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 1275700000.0,
+    "revenue": 9005700000.0,
+    "net_income": 3511400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 1275700000.0,
+    "revenue": 9005700000.0,
+    "net_income": 3511400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 1276600000.0,
+    "revenue": 2308300000.0,
+    "net_income": 853000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 1271200000.0,
+    "revenue": 2204800000.0,
+    "net_income": 888800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 1279200000.0,
+    "revenue": 2004800000.0,
+    "net_income": 813800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 320448000.0,
+    "revenue": 1810936000.0,
+    "net_income": 747938000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 319921000.0,
+    "revenue": 1690400000.0,
+    "net_income": 665428000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 319865000.0,
+    "revenue": 1571374000.0,
+    "net_income": 637692000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2023",
+    "filing_date": "2024-02-13",
+    "shares_outstanding": 317135000.0,
+    "revenue": 5860168000.0,
+    "net_income": 2087321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 317631000.0,
+    "revenue": 1509456000.0,
+    "net_income": 545327000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 316485000.0,
+    "revenue": 1458924000.0,
+    "net_income": 491885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 315578000.0,
+    "revenue": 1351351000.0,
+    "net_income": 436473000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2022",
+    "filing_date": "2023-02-14",
+    "shares_outstanding": 316459000.0,
+    "revenue": 4381310000.0,
+    "net_income": 1352446000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 314401000.0,
+    "revenue": 1176801000.0,
+    "net_income": 353999000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 316581000.0,
+    "revenue": 1051891000.0,
+    "net_income": 299099000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 319652000.0,
+    "revenue": 877066000.0,
+    "net_income": 272259000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2021",
+    "filing_date": "2022-02-15",
+    "shares_outstanding": 319238000.0,
+    "revenue": 2948037000.0,
+    "net_income": 840854000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 79909000.0,
+    "revenue": 748697000.0,
+    "net_income": 224305000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 79710000.0,
+    "revenue": 707319000.0,
+    "net_income": 196888000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 79623000.0,
+    "revenue": 667562000.0,
+    "net_income": 180366000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 79465000.0,
+    "revenue": 2317512000.0,
+    "net_income": 634557000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 79313000.0,
+    "revenue": 605431000.0,
+    "net_income": 168375000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 79298000.0,
+    "revenue": 540570000.0,
+    "net_income": 144793000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 79939000.0,
+    "revenue": 523029000.0,
+    "net_income": 138431000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 80879000.0,
+    "revenue": 2410706000.0,
+    "net_income": 859867000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 80753000.0,
+    "revenue": 654415000.0,
+    "net_income": 208895000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 81335000.0,
+    "revenue": 608321000.0,
+    "net_income": 189251000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-06",
+    "shares_outstanding": 81201000.0,
+    "revenue": 595424000.0,
+    "net_income": 201029000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2018",
+    "filing_date": "2019-02-15",
+    "shares_outstanding": 80844000.0,
+    "revenue": 2151369000.0,
+    "net_income": 328115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 81018000.0,
+    "revenue": 563309000.0,
+    "net_income": 168524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 74503000.0,
+    "revenue": 519845000.0,
+    "net_income": -155269000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 80721000.0,
+    "revenue": 472489000.0,
+    "net_income": 144538000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2017",
+    "filing_date": "2018-02-20",
+    "shares_outstanding": 78977000.0,
+    "revenue": 1646186000.0,
+    "net_income": 423201000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 79322000.0,
+    "revenue": 437633000.0,
+    "net_income": 133722000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 78756000.0,
+    "revenue": 405211000.0,
+    "net_income": 102685000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 77516000.0,
+    "revenue": 335475000.0,
+    "net_income": 82961000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 73222000.0,
+    "revenue": 1129167000.0,
+    "net_income": 184189000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 73453000.0,
+    "revenue": 290261000.0,
+    "net_income": 51257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 72817000.0,
+    "revenue": 268741000.0,
+    "net_income": 38904000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 72214000.0,
+    "revenue": 242196000.0,
+    "net_income": 35245000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 71411000.0,
+    "revenue": 837591000.0,
+    "net_income": 121102000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 71887000.0,
+    "revenue": 217548000.0,
+    "net_income": 28690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 71215000.0,
+    "revenue": 195552000.0,
+    "net_income": 23996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-15",
+    "shares_outstanding": 70722000.0,
+    "revenue": 179045000.0,
+    "net_income": 24492000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "FY 2014",
+    "filing_date": "2015-03-12",
+    "shares_outstanding": 54590000.0,
+    "revenue": 584106000.0,
+    "net_income": 86850000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 69737000.0,
+    "revenue": 155463000.0,
+    "net_income": 21866000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ANET",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 44057000.0,
+    "revenue": 137947000.0,
+    "net_income": 21618000.0,
+    "market_cap": null
+  }
+]

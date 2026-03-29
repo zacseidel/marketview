@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "DKS",
+    "period": "Q3 2026",
+    "filing_date": "2025-12-05",
+    "shares_outstanding": 87115000.0,
+    "revenue": 4167773000.0,
+    "net_income": 75212000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2026",
+    "filing_date": "2025-08-28",
+    "shares_outstanding": 81041000.0,
+    "revenue": 3646616000.0,
+    "net_income": 381402000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2026",
+    "filing_date": "2025-06-09",
+    "shares_outstanding": 81478000.0,
+    "revenue": 3174677000.0,
+    "net_income": 264288000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2025",
+    "filing_date": "2025-03-27",
+    "shares_outstanding": 82929000.0,
+    "revenue": 13442849000.0,
+    "net_income": 1165308000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2025",
+    "filing_date": "2024-09-04",
+    "shares_outstanding": 82814000.0,
+    "revenue": 3473635000.0,
+    "net_income": 362230000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2024",
+    "filing_date": "2024-03-28",
+    "shares_outstanding": 85925000.0,
+    "revenue": 12984399000.0,
+    "net_income": 1046519000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2024",
+    "filing_date": "2023-11-22",
+    "shares_outstanding": 84291000.0,
+    "revenue": 3042405000.0,
+    "net_income": 201106000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2024",
+    "filing_date": "2023-08-23",
+    "shares_outstanding": 86783000.0,
+    "revenue": 3223643000.0,
+    "net_income": 244331000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2024",
+    "filing_date": "2023-05-24",
+    "shares_outstanding": 89664000.0,
+    "revenue": 2842181000.0,
+    "net_income": 304649000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2023",
+    "filing_date": "2023-03-23",
+    "shares_outstanding": 99274000.0,
+    "revenue": 12368198000.0,
+    "net_income": 1043138000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2023",
+    "filing_date": "2022-11-23",
+    "shares_outstanding": 96681000.0,
+    "revenue": 2958861000.0,
+    "net_income": 228456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2023",
+    "filing_date": "2022-08-24",
+    "shares_outstanding": 100389000.0,
+    "revenue": 3112419000.0,
+    "net_income": 318502000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2023",
+    "filing_date": "2022-05-25",
+    "shares_outstanding": 108629000.0,
+    "revenue": 2700205000.0,
+    "net_income": 260559000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2022",
+    "filing_date": "2022-03-23",
+    "shares_outstanding": 109578000.0,
+    "revenue": 12293368000.0,
+    "net_income": 1519871000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2022",
+    "filing_date": "2021-11-23",
+    "shares_outstanding": 113664000.0,
+    "revenue": 2747647000.0,
+    "net_income": 316513000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2022",
+    "filing_date": "2021-08-25",
+    "shares_outstanding": 109271000.0,
+    "revenue": 3274842000.0,
+    "net_income": 495509000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2022",
+    "filing_date": "2021-05-26",
+    "shares_outstanding": 106010000.0,
+    "revenue": 2918719000.0,
+    "net_income": 361756000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2021",
+    "filing_date": "2021-03-24",
+    "shares_outstanding": 92639000.0,
+    "revenue": 9584019000.0,
+    "net_income": 530251000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2021",
+    "filing_date": "2020-11-25",
+    "shares_outstanding": 96571000.0,
+    "revenue": 2412112000.0,
+    "net_income": 177216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2021",
+    "filing_date": "2020-08-26",
+    "shares_outstanding": 88826000.0,
+    "revenue": 2713372000.0,
+    "net_income": 276843000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2021",
+    "filing_date": "2020-06-03",
+    "shares_outstanding": 83734000.0,
+    "revenue": 1333228000.0,
+    "net_income": -143422000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2020",
+    "filing_date": "2020-03-20",
+    "shares_outstanding": 89066000.0,
+    "revenue": 8750743000.0,
+    "net_income": 297462000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2020",
+    "filing_date": "2019-11-26",
+    "shares_outstanding": 86601000.0,
+    "revenue": 1962204000.0,
+    "net_income": 57584000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2020",
+    "filing_date": "2019-08-29",
+    "shares_outstanding": 89400000.0,
+    "revenue": 2259212000.0,
+    "net_income": 112534000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2020",
+    "filing_date": "2019-05-30",
+    "shares_outstanding": 94388000.0,
+    "revenue": 1920677000.0,
+    "net_income": 57525000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2019",
+    "filing_date": "2019-03-29",
+    "shares_outstanding": 98781000.0,
+    "revenue": 8436570000.0,
+    "net_income": 319864000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2019",
+    "filing_date": "2018-11-29",
+    "shares_outstanding": 97890000.0,
+    "revenue": 1857273000.0,
+    "net_income": 37827000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2019",
+    "filing_date": "2018-08-30",
+    "shares_outstanding": 99591000.0,
+    "revenue": 2177488000.0,
+    "net_income": 119397000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2019",
+    "filing_date": "2018-05-31",
+    "shares_outstanding": 102153000.0,
+    "revenue": 1909719000.0,
+    "net_income": 60085000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2018",
+    "filing_date": "2018-03-30",
+    "shares_outstanding": 107586000.0,
+    "revenue": 8590472000.0,
+    "net_income": 323445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2018",
+    "filing_date": "2017-11-22",
+    "shares_outstanding": 105814000.0,
+    "revenue": 1944187000.0,
+    "net_income": 36913000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2018",
+    "filing_date": "2017-08-24",
+    "shares_outstanding": 108679000.0,
+    "revenue": 2156911000.0,
+    "net_income": 112385000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2018",
+    "filing_date": "2017-05-25",
+    "shares_outstanding": 111406000.0,
+    "revenue": 1825252000.0,
+    "net_income": 58195000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2017",
+    "filing_date": "2017-03-24",
+    "shares_outstanding": 112216000.0,
+    "revenue": 7921981000.0,
+    "net_income": 287396000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2017",
+    "filing_date": "2016-11-21",
+    "shares_outstanding": 111826000.0,
+    "revenue": 1810347000.0,
+    "net_income": 48914000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2017",
+    "filing_date": "2016-08-25",
+    "shares_outstanding": 112118000.0,
+    "revenue": 1967857000.0,
+    "net_income": 91417000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2017",
+    "filing_date": "2016-05-25",
+    "shares_outstanding": 113276000.0,
+    "revenue": 1660343000.0,
+    "net_income": 56877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2016",
+    "filing_date": "2016-03-25",
+    "shares_outstanding": 116794000.0,
+    "revenue": 7270965000.0,
+    "net_income": 330391000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2016",
+    "filing_date": "2015-11-25",
+    "shares_outstanding": 116506000.0,
+    "revenue": 1642627000.0,
+    "net_income": 47215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2016",
+    "filing_date": "2015-08-27",
+    "shares_outstanding": 117805000.0,
+    "revenue": 1822979000.0,
+    "net_income": 90839000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2016",
+    "filing_date": "2015-05-28",
+    "shares_outstanding": 118906000.0,
+    "revenue": 1565308000.0,
+    "net_income": 63345000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2015",
+    "filing_date": "2015-03-27",
+    "shares_outstanding": 121238000.0,
+    "revenue": 6814479000.0,
+    "net_income": 344198000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2015",
+    "filing_date": "2014-11-26",
+    "shares_outstanding": 120002000.0,
+    "revenue": 1526675000.0,
+    "net_income": 49211000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2015",
+    "filing_date": "2014-08-28",
+    "shares_outstanding": 121840000.0,
+    "revenue": 1688890000.0,
+    "net_income": 69467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2015",
+    "filing_date": "2014-05-29",
+    "shares_outstanding": 123360000.0,
+    "revenue": 1438908000.0,
+    "net_income": 69984000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2014",
+    "filing_date": "2014-03-28",
+    "shares_outstanding": 125628000.0,
+    "revenue": 6213173000.0,
+    "net_income": 337598000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2014",
+    "filing_date": "2013-11-27",
+    "shares_outstanding": 125842000.0,
+    "revenue": 1400623000.0,
+    "net_income": 49977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2014",
+    "filing_date": "2013-08-30",
+    "shares_outstanding": 125593000.0,
+    "revenue": 1531431000.0,
+    "net_income": 84163000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2014",
+    "filing_date": "2013-05-31",
+    "shares_outstanding": 125862000.0,
+    "revenue": 1333701000.0,
+    "net_income": 64821000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2013",
+    "filing_date": "2013-03-22",
+    "shares_outstanding": 125995000.0,
+    "revenue": 5836119000.0,
+    "net_income": 290709000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2013",
+    "filing_date": "2012-11-21",
+    "shares_outstanding": 125938000.0,
+    "revenue": 1312072000.0,
+    "net_income": 50139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2013",
+    "filing_date": "2012-08-23",
+    "shares_outstanding": 124533000.0,
+    "revenue": 1437041000.0,
+    "net_income": 53663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2013",
+    "filing_date": "2012-05-24",
+    "shares_outstanding": 127003000.0,
+    "revenue": 1281704000.0,
+    "net_income": 57157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2012",
+    "filing_date": "2012-03-16",
+    "shares_outstanding": 125768000.0,
+    "revenue": 5211802000.0,
+    "net_income": 263906000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2012",
+    "filing_date": "2011-11-23",
+    "shares_outstanding": 125552000.0,
+    "revenue": 1179702000.0,
+    "net_income": 41484000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2012",
+    "filing_date": "2011-08-24",
+    "shares_outstanding": 125836000.0,
+    "revenue": 1306695000.0,
+    "net_income": 73848000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q1 2012",
+    "filing_date": "2011-05-23",
+    "shares_outstanding": 125367000.0,
+    "revenue": 1113849000.0,
+    "net_income": 37498000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "FY 2011",
+    "filing_date": "2011-03-18",
+    "shares_outstanding": 121724000.0,
+    "revenue": 4871492000.0,
+    "net_income": 182077000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q3 2011",
+    "filing_date": "2010-11-23",
+    "shares_outstanding": 121408000.0,
+    "revenue": 1078984000.0,
+    "net_income": 16863000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DKS",
+    "period": "Q2 2011",
+    "filing_date": "2010-08-27",
+    "shares_outstanding": 121039000.0,
+    "revenue": 1226063000.0,
+    "net_income": 51516000.0,
+    "market_cap": null
+  }
+]

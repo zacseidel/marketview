@@ -1,0 +1,218 @@
+[
+  {
+    "ticker": "CARR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 862400000.0,
+    "revenue": 21747000000.0,
+    "net_income": 1587000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 862400000.0,
+    "revenue": 21747000000.0,
+    "net_income": 1587000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 858600000.0,
+    "revenue": 5579000000.0,
+    "net_income": 455000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-29",
+    "shares_outstanding": 866300000.0,
+    "revenue": 6113000000.0,
+    "net_income": 633000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 878300000.0,
+    "revenue": 5218000000.0,
+    "net_income": 437000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-11",
+    "shares_outstanding": 911700000.0,
+    "revenue": 22486000000.0,
+    "net_income": 5708000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-25",
+    "shares_outstanding": 915000000.0,
+    "revenue": 5984000000.0,
+    "net_income": 481000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 915300000.0,
+    "revenue": 5934000000.0,
+    "net_income": 2369000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 913000000.0,
+    "revenue": 5420000000.0,
+    "net_income": 289000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-06",
+    "shares_outstanding": 853000000.0,
+    "revenue": 22098000000.0,
+    "net_income": 1440000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 854700000.0,
+    "revenue": 5731000000.0,
+    "net_income": 381000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 850900000.0,
+    "revenue": 5992000000.0,
+    "net_income": 233000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 852200000.0,
+    "revenue": 5273000000.0,
+    "net_income": 387000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 861200000.0,
+    "revenue": 20421000000.0,
+    "net_income": 3584000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 856500000.0,
+    "revenue": 5451000000.0,
+    "net_income": 1332000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 862700000.0,
+    "revenue": 5211000000.0,
+    "net_income": 587000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 874100000.0,
+    "revenue": 4654000000.0,
+    "net_income": 1387000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-08",
+    "shares_outstanding": 890300000.0,
+    "revenue": 20613000000.0,
+    "net_income": 1701000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 892000000.0,
+    "revenue": 5341000000.0,
+    "net_income": 480000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 890900000.0,
+    "revenue": 5440000000.0,
+    "net_income": 497000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 889800000.0,
+    "revenue": 4699000000.0,
+    "net_income": 392000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 880200000.0,
+    "revenue": 17456000000.0,
+    "net_income": 2006000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 881500000.0,
+    "revenue": 5002000000.0,
+    "net_income": 748000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CARR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 870900000.0,
+    "revenue": 3972000000.0,
+    "net_income": 269000000.0,
+    "market_cap": null
+  }
+]

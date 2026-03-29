@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "REGN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 108600000.0,
+    "revenue": 14342900000.0,
+    "net_income": 4504900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 108600000.0,
+    "revenue": 14342900000.0,
+    "net_income": 4504900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 107200000.0,
+    "revenue": 3754300000.0,
+    "net_income": 1460000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 108600000.0,
+    "revenue": 3675600000.0,
+    "net_income": 1391600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 111200000.0,
+    "revenue": 3028700000.0,
+    "net_income": 808700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2024",
+    "filing_date": "2025-02-05",
+    "shares_outstanding": 115100000.0,
+    "revenue": 14202000000.0,
+    "net_income": 4412600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 116200000.0,
+    "revenue": 3720700000.0,
+    "net_income": 1340600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 115400000.0,
+    "revenue": 3547100000.0,
+    "net_income": 1432300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 115100000.0,
+    "revenue": 3145000000.0,
+    "net_income": 722000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-05",
+    "shares_outstanding": 113700000.0,
+    "revenue": 13117200000.0,
+    "net_income": 3953600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 113400000.0,
+    "revenue": 3362700000.0,
+    "net_income": 1007800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 113900000.0,
+    "revenue": 3158100000.0,
+    "net_income": 968400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 114000000.0,
+    "revenue": 3162100000.0,
+    "net_income": 817800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-06",
+    "shares_outstanding": 113500000.0,
+    "revenue": 12172900000.0,
+    "net_income": 4338400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 112800000.0,
+    "revenue": 2936200000.0,
+    "net_income": 1315700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 114000000.0,
+    "revenue": 2857200000.0,
+    "net_income": 852100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 113100000.0,
+    "revenue": 2965100000.0,
+    "net_income": 973500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2021",
+    "filing_date": "2022-02-07",
+    "shares_outstanding": 112200000.0,
+    "revenue": 16071700000.0,
+    "net_income": 8075300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 113900000.0,
+    "revenue": 3452800000.0,
+    "net_income": 1632200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 110800000.0,
+    "revenue": 5138500000.0,
+    "net_income": 3098900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 110500000.0,
+    "revenue": 2528700000.0,
+    "net_income": 1115200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2020",
+    "filing_date": "2021-02-08",
+    "shares_outstanding": 115100000.0,
+    "revenue": 8497100000.0,
+    "net_income": 3513200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 113900000.0,
+    "revenue": 2294000000.0,
+    "net_income": 842100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 117900000.0,
+    "revenue": 1952000000.0,
+    "net_income": 897300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 115100000.0,
+    "revenue": 1828200000.0,
+    "net_income": 624600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2019",
+    "filing_date": "2020-02-07",
+    "shares_outstanding": 114600000.0,
+    "revenue": 7863400000.0,
+    "net_income": 2115800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 114200000.0,
+    "revenue": 2048400000.0,
+    "net_income": 669600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 114600000.0,
+    "revenue": 1933700000.0,
+    "net_income": 193100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 115500000.0,
+    "revenue": 1711800000.0,
+    "net_income": 461100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2018",
+    "filing_date": "2019-02-07",
+    "shares_outstanding": 114800000.0,
+    "revenue": 6710800000.0,
+    "net_income": 2444400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 115088000.0,
+    "revenue": 1663500000.0,
+    "net_income": 594700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 114477000.0,
+    "revenue": 1608000000.0,
+    "net_income": 551400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 114906000.0,
+    "revenue": 1511500000.0,
+    "net_income": 478000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2017",
+    "filing_date": "2018-02-08",
+    "shares_outstanding": 115954000.0,
+    "revenue": 5872227000.0,
+    "net_income": 1198511000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 117028000.0,
+    "revenue": 1500673000.0,
+    "net_income": 388317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 116137000.0,
+    "revenue": 1470116000.0,
+    "net_income": 387744000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 115106000.0,
+    "revenue": 1318991000.0,
+    "net_income": 248931000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2016",
+    "filing_date": "2017-02-09",
+    "shares_outstanding": 116367000.0,
+    "revenue": 4860427000.0,
+    "net_income": 895522000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 116466000.0,
+    "revenue": 1220122000.0,
+    "net_income": 264804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 116231000.0,
+    "revenue": 1212629000.0,
+    "net_income": 196218000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 114228000.0,
+    "revenue": 1200849000.0,
+    "net_income": 181385000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2015",
+    "filing_date": "2016-02-11",
+    "shares_outstanding": 115230000.0,
+    "revenue": 4103728000.0,
+    "net_income": 636056000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 115944000.0,
+    "revenue": 1137422000.0,
+    "net_income": 210398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 115259000.0,
+    "revenue": 998617000.0,
+    "net_income": 194643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 114519000.0,
+    "revenue": 869612000.0,
+    "net_income": 76021000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2014",
+    "filing_date": "2015-02-12",
+    "shares_outstanding": 113413000.0,
+    "revenue": 2819557000.0,
+    "net_income": 348074000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 117423000.0,
+    "revenue": 725788000.0,
+    "net_income": 79720000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 113032000.0,
+    "revenue": 665700000.0,
+    "net_income": 92735000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 112151000.0,
+    "revenue": 625740000.0,
+    "net_income": 65443000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2013",
+    "filing_date": "2014-02-13",
+    "shares_outstanding": 111290000.0,
+    "revenue": 2104745000.0,
+    "net_income": 424362000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 116713000.0,
+    "revenue": 597027000.0,
+    "net_income": 141306000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 111060000.0,
+    "revenue": 457642000.0,
+    "net_income": 87376000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 109369000.0,
+    "revenue": 439664000.0,
+    "net_income": 98874000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2012",
+    "filing_date": "2013-02-15",
+    "shares_outstanding": 115382000.0,
+    "revenue": 1378477000.0,
+    "net_income": 750269000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-24",
+    "shares_outstanding": 115830000.0,
+    "revenue": 427687000.0,
+    "net_income": 191468000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-25",
+    "shares_outstanding": 110167000.0,
+    "revenue": 304399000.0,
+    "net_income": 76743000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 107734000.0,
+    "revenue": 231789000.0,
+    "net_income": 11651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "FY 2011",
+    "filing_date": "2012-02-21",
+    "shares_outstanding": 485732000.0,
+    "revenue": 445824000.0,
+    "net_income": -221760000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 428253000.0,
+    "revenue": 102833000.0,
+    "net_income": -62365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 478034000.0,
+    "revenue": 107810000.0,
+    "net_income": -62505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "REGN",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": 518091000.0,
+    "revenue": 112204000.0,
+    "net_income": -43447000.0,
+    "market_cap": null
+  }
+]

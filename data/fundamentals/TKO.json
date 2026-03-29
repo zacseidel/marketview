@@ -1,0 +1,101 @@
+[
+  {
+    "ticker": "TKO",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 194011072.0,
+    "revenue": 4735151000.0,
+    "net_income": 546290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TKO",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 194011072.0,
+    "revenue": 4735151000.0,
+    "net_income": 546290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TKO",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 199061830.0,
+    "revenue": 1119914000.0,
+    "net_income": 106790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TKO",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 199279343.0,
+    "revenue": 1308442000.0,
+    "net_income": 273097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TKO",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 181520718.0,
+    "revenue": 1268800000.0,
+    "net_income": 165556000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TKO",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 171874540.0,
+    "revenue": 2804341000.0,
+    "net_income": 6377000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TKO",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 171601095.0,
+    "revenue": 681273000.0,
+    "net_income": 57722000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TKO",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 81851388.0,
+    "revenue": 851161000.0,
+    "net_income": 150664000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TKO",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 82351654.0,
+    "revenue": 629711000.0,
+    "net_income": -249510000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TKO",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 82808019.0,
+    "revenue": 1674968000.0,
+    "net_income": 175722864.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TKO",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 83161406.0,
+    "revenue": 449058000.0,
+    "net_income": 22020000.0,
+    "market_cap": null
+  }
+]

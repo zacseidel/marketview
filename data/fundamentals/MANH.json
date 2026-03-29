@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "MANH",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 61054000.0,
+    "revenue": 1081392000.0,
+    "net_income": 219948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 61054000.0,
+    "revenue": 1081392000.0,
+    "net_income": 219948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-24",
+    "shares_outstanding": 60954000.0,
+    "revenue": 275795000.0,
+    "net_income": 58633000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-25",
+    "shares_outstanding": 61074000.0,
+    "revenue": 272421000.0,
+    "net_income": 56780000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-25",
+    "shares_outstanding": 61527000.0,
+    "revenue": 262787000.0,
+    "net_income": 52582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 62183000.0,
+    "revenue": 1042352000.0,
+    "net_income": 218364000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-25",
+    "shares_outstanding": 61948000.0,
+    "revenue": 266681000.0,
+    "net_income": 63781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 62493000.0,
+    "revenue": 254552000.0,
+    "net_income": 53801000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-06",
+    "shares_outstanding": 62608000.0,
+    "revenue": 928725000.0,
+    "net_income": 176568000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 62310000.0,
+    "revenue": 238441000.0,
+    "net_income": 49421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 62432000.0,
+    "revenue": 231016000.0,
+    "net_income": 39620000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 62767000.0,
+    "revenue": 221013000.0,
+    "net_income": 38791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2022",
+    "filing_date": "2023-02-06",
+    "shares_outstanding": 63408000.0,
+    "revenue": 767084000.0,
+    "net_income": 128959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 63165000.0,
+    "revenue": 198101000.0,
+    "net_income": 29674000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 63419000.0,
+    "revenue": 191924000.0,
+    "net_income": 30825000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 63871000.0,
+    "revenue": 178956000.0,
+    "net_income": 30592000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2021",
+    "filing_date": "2022-02-07",
+    "shares_outstanding": 64323000.0,
+    "revenue": 663643000.0,
+    "net_income": 110472000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 64238000.0,
+    "revenue": 169185000.0,
+    "net_income": 36654000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 64276000.0,
+    "revenue": 166114000.0,
+    "net_income": 30593000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 64466000.0,
+    "revenue": 156850000.0,
+    "net_income": 22643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2020",
+    "filing_date": "2021-02-05",
+    "shares_outstanding": 64333000.0,
+    "revenue": 586372000.0,
+    "net_income": 87240000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 64427000.0,
+    "revenue": 149757000.0,
+    "net_income": 24966000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-27",
+    "shares_outstanding": 64126000.0,
+    "revenue": 135630000.0,
+    "net_income": 19204000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 64342000.0,
+    "revenue": 153903000.0,
+    "net_income": 22530000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2019",
+    "filing_date": "2020-02-10",
+    "shares_outstanding": 65103000.0,
+    "revenue": 617949000.0,
+    "net_income": 85762000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 64992000.0,
+    "revenue": 162275000.0,
+    "net_income": 27107000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 65093000.0,
+    "revenue": 154341000.0,
+    "net_income": 20925000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 65204000.0,
+    "revenue": 148404000.0,
+    "net_income": 20972000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2018",
+    "filing_date": "2019-02-08",
+    "shares_outstanding": 66434000.0,
+    "revenue": 559157000.0,
+    "net_income": 104690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 65901000.0,
+    "revenue": 142351000.0,
+    "net_income": 28455000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 66535000.0,
+    "revenue": 141871000.0,
+    "net_income": 27668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 67736000.0,
+    "revenue": 130569000.0,
+    "net_income": 22652000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2017",
+    "filing_date": "2018-02-09",
+    "shares_outstanding": 69424000.0,
+    "revenue": 594599000.0,
+    "net_income": 116481000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-30",
+    "shares_outstanding": 69135000.0,
+    "revenue": 152883000.0,
+    "net_income": 32599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-24",
+    "shares_outstanding": 69421000.0,
+    "revenue": 154141000.0,
+    "net_income": 31144000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-24",
+    "shares_outstanding": 70247000.0,
+    "revenue": 143489000.0,
+    "net_income": 28224000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2016",
+    "filing_date": "2017-02-03",
+    "shares_outstanding": 72060000.0,
+    "revenue": 604557000.0,
+    "net_income": 124234000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-21",
+    "shares_outstanding": 71743000.0,
+    "revenue": 152213000.0,
+    "net_income": 33496000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-22",
+    "shares_outstanding": 72228000.0,
+    "revenue": 154892000.0,
+    "net_income": 33341000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-22",
+    "shares_outstanding": 73020000.0,
+    "revenue": 149860000.0,
+    "net_income": 27480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2015",
+    "filing_date": "2016-02-05",
+    "shares_outstanding": 74038000.0,
+    "revenue": 131300000.0,
+    "net_income": 103475000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-26",
+    "shares_outstanding": 73761000.0,
+    "revenue": 142304000.0,
+    "net_income": 27897000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-28",
+    "shares_outstanding": 74126000.0,
+    "revenue": 139109000.0,
+    "net_income": 26004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-28",
+    "shares_outstanding": 74607000.0,
+    "revenue": 133523000.0,
+    "net_income": 23204000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2014",
+    "filing_date": "2015-02-05",
+    "shares_outstanding": 75841000.0,
+    "revenue": 134600000.0,
+    "net_income": 82000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 75466000.0,
+    "revenue": 125608000.0,
+    "net_income": 22340000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-29",
+    "shares_outstanding": 76037000.0,
+    "revenue": 122530000.0,
+    "net_income": 20594000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-29",
+    "shares_outstanding": 76795000.0,
+    "revenue": 113563000.0,
+    "net_income": 18712000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2013",
+    "filing_date": "2014-02-06",
+    "shares_outstanding": 77932000.0,
+    "revenue": 110800000.0,
+    "net_income": 67296000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 77552000.0,
+    "revenue": 107802000.0,
+    "net_income": 19688000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 78036000.0,
+    "revenue": 102516000.0,
+    "net_income": 17407000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-30",
+    "shares_outstanding": 78740000.0,
+    "revenue": 96601000.0,
+    "net_income": 13355000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 20271000.0,
+    "revenue": 376248000.0,
+    "net_income": 51853000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 20130000.0,
+    "revenue": 95841000.0,
+    "net_income": 13809000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 20351000.0,
+    "revenue": 93567000.0,
+    "net_income": 14172000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 20637000.0,
+    "revenue": 91481000.0,
+    "net_income": 11402000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 21492000.0,
+    "revenue": 329253000.0,
+    "net_income": 44907000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 21125000.0,
+    "revenue": 85602000.0,
+    "net_income": 14877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MANH",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-29",
+    "shares_outstanding": 21775000.0,
+    "revenue": 88402000.0,
+    "net_income": 12339000.0,
+    "market_cap": null
+  }
+]

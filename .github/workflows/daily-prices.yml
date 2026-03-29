@@ -5,6 +5,9 @@ on:
     - cron: "30 22 * * 1-5"  # Weekdays 6:30 PM ET (UTC-4)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   fetch-prices:
     runs-on: ubuntu-latest
@@ -23,10 +26,13 @@ jobs:
           POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
         run: python -m src.universe.ingestion
 
+      - name: Append today's prices to quant price cache
+        run: python -m src.selection.quant --refresh-cache
+
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/prices/ data/splits/ data/queue/
+          git add data/quant/recent_prices.parquet data/quant/history_gaps.json || true
           git diff --staged --quiet || git commit -m "chore: daily prices $(date -u +%Y-%m-%d) [skip ci]"
           git push

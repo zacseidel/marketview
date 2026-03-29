@@ -25,7 +25,7 @@ import numpy as np
 import pandas as pd
 import structlog
 
-from src.quant_research.evaluate import evaluate_model, print_comparison
+from src.quant_research.evaluate import evaluate_model, print_comparison, save_val_metrics
 from src.quant_research.features import FEATURE_COLS
 
 log = structlog.get_logger()
@@ -278,6 +278,7 @@ def train_all(models: list[str] = ("knn", "gbm", "cluster")) -> None:
     if "gbm" in models:
         train_gbm(train)
         result = evaluate_model(val, score_gbm, model_name="gbm")
+        save_val_metrics(result)
         results.append(result)
 
     if "cluster" in models:

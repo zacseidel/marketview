@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "VTR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 462615000.0,
+    "revenue": 5833980000.0,
+    "net_income": 261518000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 462615000.0,
+    "revenue": 5833980000.0,
+    "net_income": 261518000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 463415000.0,
+    "revenue": 1488996000.0,
+    "net_income": 68708000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 459088000.0,
+    "revenue": 1420893000.0,
+    "net_income": 71462000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 446424000.0,
+    "revenue": 1358074000.0,
+    "net_income": 48356000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 416366000.0,
+    "revenue": 4924266000.0,
+    "net_income": 88351000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 419474000.0,
+    "revenue": 1236315000.0,
+    "net_income": 20996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 411823000.0,
+    "revenue": 1200980000.0,
+    "net_income": 21168000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 407227000.0,
+    "revenue": 1199914000.0,
+    "net_income": -12540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 405670000.0,
+    "revenue": 4497827000.0,
+    "net_income": -30297000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 406655000.0,
+    "revenue": 1149832000.0,
+    "net_income": -69559000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 404122000.0,
+    "revenue": 1106358000.0,
+    "net_income": 105066000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 403792000.0,
+    "revenue": 1077245000.0,
+    "net_income": 18912000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-10",
+    "shares_outstanding": 403454000.0,
+    "revenue": 4129193000.0,
+    "net_income": -40931000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 403543000.0,
+    "revenue": 1037276000.0,
+    "net_income": 3063000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 403526000.0,
+    "revenue": 1022938000.0,
+    "net_income": -41202000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 403260000.0,
+    "revenue": 1017554000.0,
+    "net_income": 40592000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 386304000.0,
+    "revenue": 3828007000.0,
+    "net_income": 56559000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 385523000.0,
+    "revenue": 976078000.0,
+    "net_income": 62774000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 378408000.0,
+    "revenue": 919194000.0,
+    "net_income": 88288000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 377922000.0,
+    "revenue": 910291000.0,
+    "net_income": -55398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 376503000.0,
+    "revenue": 3795357000.0,
+    "net_income": 441185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 376295000.0,
+    "revenue": 918940000.0,
+    "net_income": 13737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 376024000.0,
+    "revenue": 943198000.0,
+    "net_income": -159235000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 375997000.0,
+    "revenue": 1012054000.0,
+    "net_income": 474730000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 369886000.0,
+    "revenue": 3872750000.0,
+    "net_income": 439297000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 376625000.0,
+    "revenue": 983155000.0,
+    "net_income": 86918000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-26",
+    "shares_outstanding": 365553000.0,
+    "revenue": 950717000.0,
+    "net_income": 211898000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-29",
+    "shares_outstanding": 360619000.0,
+    "revenue": 942874000.0,
+    "net_income": 127588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-08",
+    "shares_outstanding": 359301000.0,
+    "revenue": 3745810000.0,
+    "net_income": 415981000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-26",
+    "shares_outstanding": 359355000.0,
+    "revenue": 936538000.0,
+    "net_income": 103281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-27",
+    "shares_outstanding": 359000000.0,
+    "revenue": 942304000.0,
+    "net_income": 169300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 358853000.0,
+    "revenue": 943705000.0,
+    "net_income": 80098000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-09",
+    "shares_outstanding": 358566000.0,
+    "revenue": 3574149000.0,
+    "net_income": 1361112000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-27",
+    "shares_outstanding": 359333000.0,
+    "revenue": 899928000.0,
+    "net_income": 615191000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 358311000.0,
+    "revenue": 895490000.0,
+    "net_income": 152968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 357572000.0,
+    "revenue": 883443000.0,
+    "net_income": 199148000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-14",
+    "shares_outstanding": 348390000.0,
+    "revenue": 3443522000.0,
+    "net_income": 651490000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 354186000.0,
+    "revenue": 867116000.0,
+    "net_income": 150184000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 342571000.0,
+    "revenue": 848404000.0,
+    "net_income": 143440000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 339202000.0,
+    "revenue": 852289000.0,
+    "net_income": 149034000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-12",
+    "shares_outstanding": 334007000.0,
+    "revenue": 3286398000.0,
+    "net_income": 419222000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-26",
+    "shares_outstanding": 336338000.0,
+    "revenue": 827606000.0,
+    "net_income": 23117000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-27",
+    "shares_outstanding": 334026000.0,
+    "revenue": 811920000.0,
+    "net_income": 150350000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-24",
+    "shares_outstanding": 329203000.0,
+    "revenue": 805598000.0,
+    "net_income": 120807000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-13",
+    "shares_outstanding": 296677000.0,
+    "revenue": 3075746000.0,
+    "net_income": 477186000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-24",
+    "shares_outstanding": 296495000.0,
+    "revenue": 779035000.0,
+    "net_income": 109701000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-11",
+    "shares_outstanding": 296504000.0,
+    "revenue": 751254000.0,
+    "net_income": 138566000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-29",
+    "shares_outstanding": 296245000.0,
+    "revenue": 741470000.0,
+    "net_income": 121274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-18",
+    "shares_outstanding": 295110000.0,
+    "revenue": 2810053000.0,
+    "net_income": 454889000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-25",
+    "shares_outstanding": 295190000.0,
+    "revenue": 710924000.0,
+    "net_income": 118599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-26",
+    "shares_outstanding": 295123000.0,
+    "revenue": 683764000.0,
+    "net_income": 114533000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-26",
+    "shares_outstanding": 293924000.0,
+    "revenue": 682509000.0,
+    "net_income": 113098000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-19",
+    "shares_outstanding": 294488000.0,
+    "revenue": 2485299000.0,
+    "net_income": 361775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 297407000.0,
+    "revenue": 641520000.0,
+    "net_income": 111821000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 292592000.0,
+    "revenue": 614502000.0,
+    "net_income": 73736000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-27",
+    "shares_outstanding": 290813000.0,
+    "revenue": 568566000.0,
+    "net_income": 90092000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-22",
+    "shares_outstanding": 230790000.0,
+    "revenue": 1764991000.0,
+    "net_income": 363261000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 290794000.0,
+    "revenue": 562528000.0,
+    "net_income": 101984000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 177945000.0,
+    "revenue": 362630000.0,
+    "net_income": 19734000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 162023000.0,
+    "revenue": 268432000.0,
+    "net_income": 49046000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 157941000.0,
+    "revenue": 264665000.0,
+    "net_income": 58894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-30",
+    "shares_outstanding": 157441000.0,
+    "revenue": 243978000.0,
+    "net_income": 58965000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q1 2010",
+    "filing_date": "2010-04-30",
+    "shares_outstanding": 156967000.0,
+    "revenue": 241545000.0,
+    "net_income": 53168000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "FY 2009",
+    "filing_date": "2010-02-19",
+    "shares_outstanding": 152758000.0,
+    "revenue": 936094000.0,
+    "net_income": 269360000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-04",
+    "shares_outstanding": 156516000.0,
+    "revenue": 235830000.0,
+    "net_income": 50430000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VTR",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-05",
+    "shares_outstanding": 154510000.0,
+    "revenue": 231988000.0,
+    "net_income": 89183000.0,
+    "market_cap": null
+  }
+]

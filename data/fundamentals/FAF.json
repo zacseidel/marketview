@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "FAF",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 103700000.0,
+    "revenue": 7452200000.0,
+    "net_income": 625200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 103700000.0,
+    "revenue": 7452200000.0,
+    "net_income": 625200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-24",
+    "shares_outstanding": 103100000.0,
+    "revenue": 1978900000.0,
+    "net_income": 189900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-25",
+    "shares_outstanding": 103800000.0,
+    "revenue": 1841300000.0,
+    "net_income": 147100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-25",
+    "shares_outstanding": 104200000.0,
+    "revenue": 1582300000.0,
+    "net_income": 74800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-25",
+    "shares_outstanding": 103600000.0,
+    "revenue": 1406100000.0,
+    "net_income": -103400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 104400000.0,
+    "revenue": 1424600000.0,
+    "net_income": 46700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 104600000.0,
+    "revenue": 6003500000.0,
+    "net_income": 215500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 104200000.0,
+    "revenue": 1481200000.0,
+    "net_income": -1200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 104500000.0,
+    "revenue": 1646900000.0,
+    "net_income": 136400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 104800000.0,
+    "revenue": 1446100000.0,
+    "net_income": 46000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2022",
+    "filing_date": "2023-02-15",
+    "shares_outstanding": 107300000.0,
+    "revenue": 7605000000.0,
+    "net_income": 265000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 105500000.0,
+    "revenue": 1824000000.0,
+    "net_income": 3000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 108100000.0,
+    "revenue": 2062000000.0,
+    "net_income": 110000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 110800000.0,
+    "revenue": 2034000000.0,
+    "net_income": 98000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 111400000.0,
+    "revenue": 9221000000.0,
+    "net_income": 1249000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-22",
+    "shares_outstanding": 111368000.0,
+    "revenue": 2555928000.0,
+    "net_income": 450465000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-23",
+    "shares_outstanding": 111177000.0,
+    "revenue": 2266375000.0,
+    "net_income": 303408000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-23",
+    "shares_outstanding": 111414000.0,
+    "revenue": 2025745000.0,
+    "net_income": 234458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2020",
+    "filing_date": "2021-02-17",
+    "shares_outstanding": 113020000.0,
+    "revenue": 7086667000.0,
+    "net_income": 700496000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 112843000.0,
+    "revenue": 1913721000.0,
+    "net_income": 183591000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-23",
+    "shares_outstanding": 112555000.0,
+    "revenue": 1608729000.0,
+    "net_income": 171694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 113959000.0,
+    "revenue": 1412943000.0,
+    "net_income": 63846000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2019",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 113655000.0,
+    "revenue": 6202061000.0,
+    "net_income": 709848000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 113741000.0,
+    "revenue": 1671196000.0,
+    "net_income": 188167000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 113498000.0,
+    "revenue": 1498620000.0,
+    "net_income": 187271000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 113224000.0,
+    "revenue": 1303581000.0,
+    "net_income": 109804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2018",
+    "filing_date": "2019-02-20",
+    "shares_outstanding": 113279000.0,
+    "revenue": 5747844000.0,
+    "net_income": 475898000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 113365000.0,
+    "revenue": 1542186000.0,
+    "net_income": 151461000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 113117000.0,
+    "revenue": 1491157000.0,
+    "net_income": 155091000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 113035000.0,
+    "revenue": 1297388000.0,
+    "net_income": 76172000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 112435000.0,
+    "revenue": 5772363000.0,
+    "net_income": 421863000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 112575000.0,
+    "revenue": 1519568000.0,
+    "net_income": 21186000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 112199000.0,
+    "revenue": 1454429000.0,
+    "net_income": 121895000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 111822000.0,
+    "revenue": 1317043000.0,
+    "net_income": 58069000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 111156000.0,
+    "revenue": 5575846000.0,
+    "net_income": 343476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-20",
+    "shares_outstanding": 111251000.0,
+    "revenue": 1508344000.0,
+    "net_income": 107392000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-21",
+    "shares_outstanding": 110978000.0,
+    "revenue": 1361533000.0,
+    "net_income": 102451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-21",
+    "shares_outstanding": 110670000.0,
+    "revenue": 1201712000.0,
+    "net_income": 52672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2015",
+    "filing_date": "2016-02-19",
+    "shares_outstanding": 109826000.0,
+    "revenue": 5175456000.0,
+    "net_income": 288870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-22",
+    "shares_outstanding": 110004000.0,
+    "revenue": 1383915000.0,
+    "net_income": 75759000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-23",
+    "shares_outstanding": 109796000.0,
+    "revenue": 1323789000.0,
+    "net_income": 93579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-23",
+    "shares_outstanding": 109444000.0,
+    "revenue": 1111084000.0,
+    "net_income": 37796000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2014",
+    "filing_date": "2015-02-23",
+    "shares_outstanding": 108688000.0,
+    "revenue": 4677949000.0,
+    "net_income": 234215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-23",
+    "shares_outstanding": 108863000.0,
+    "revenue": 1259730000.0,
+    "net_income": 80937000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-24",
+    "shares_outstanding": 108647000.0,
+    "revenue": 1149969000.0,
+    "net_income": 50688000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-24",
+    "shares_outstanding": 108276000.0,
+    "revenue": 1012799000.0,
+    "net_income": 21852000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 109102000.0,
+    "revenue": 4956077000.0,
+    "net_income": 187064000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 108437000.0,
+    "revenue": 1300978000.0,
+    "net_income": 64095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 110311000.0,
+    "revenue": 1288464000.0,
+    "net_income": 34948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-26",
+    "shares_outstanding": 109993000.0,
+    "revenue": 1146763000.0,
+    "net_income": 36232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 108542000.0,
+    "revenue": 4541821000.0,
+    "net_income": 301728000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 108709000.0,
+    "revenue": 1208402000.0,
+    "net_income": 103900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-30",
+    "shares_outstanding": 107945000.0,
+    "revenue": 1089833000.0,
+    "net_income": 73517000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-01",
+    "shares_outstanding": 107480000.0,
+    "revenue": 966763000.0,
+    "net_income": 31109000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 106914000.0,
+    "revenue": 3820574000.0,
+    "net_income": 78579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 107005000.0,
+    "revenue": 964965000.0,
+    "net_income": 21295000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-02",
+    "shares_outstanding": 106838000.0,
+    "revenue": 927343000.0,
+    "net_income": 32147000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-02",
+    "shares_outstanding": 104660000.0,
+    "revenue": 931700000.0,
+    "net_income": -15241000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FAF",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-09",
+    "shares_outstanding": 106128000.0,
+    "revenue": 969924000.0,
+    "net_income": 34140000.0,
+    "market_cap": null
+  }
+]

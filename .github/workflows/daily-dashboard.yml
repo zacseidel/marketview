@@ -5,6 +5,9 @@ on:
     - cron: "0 1 * * 2-6"  # Weekdays 9:00 PM ET (UTC-4), runs Tue–Sat UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-dashboard:
     runs-on: ubuntu-latest

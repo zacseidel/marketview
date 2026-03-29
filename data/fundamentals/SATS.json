@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "SATS",
+    "period": "TTM 2025",
+    "filing_date": "2026-03-02",
+    "shares_outstanding": 287589000.0,
+    "revenue": 15004989000.0,
+    "net_income": -14506939000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2025",
+    "filing_date": "2026-03-02",
+    "shares_outstanding": 287589000.0,
+    "revenue": 15004989000.0,
+    "net_income": -14506939000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 288051.0,
+    "revenue": 3614258000.0,
+    "net_income": -12781348000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 287505.0,
+    "revenue": 3724959000.0,
+    "net_income": -306844000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 286513.0,
+    "revenue": 3869758000.0,
+    "net_income": -203281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-12",
+    "shares_outstanding": 271736.0,
+    "revenue": 3890984000.0,
+    "net_income": -143801000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-09",
+    "shares_outstanding": 271592.0,
+    "revenue": 3952751000.0,
+    "net_income": -207458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 271519.0,
+    "revenue": 4014843000.0,
+    "net_income": -108375000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 270842000.0,
+    "revenue": 17015598000.0,
+    "net_income": -1634824000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-06",
+    "shares_outstanding": 83850000.0,
+    "revenue": 4108874000.0,
+    "net_income": -118737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 83770000.0,
+    "revenue": 4356462000.0,
+    "net_income": 232692000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 83333000.0,
+    "revenue": 4387666000.0,
+    "net_income": 272845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 84123000.0,
+    "revenue": 1998093000.0,
+    "net_income": 166548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 83140000.0,
+    "revenue": 497387000.0,
+    "net_income": 19550000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 84317000.0,
+    "revenue": 499316000.0,
+    "net_income": 10473000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 85879000.0,
+    "revenue": 501534000.0,
+    "net_income": 88945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 89941000.0,
+    "revenue": 1985720000.0,
+    "net_income": 62721000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-09",
+    "shares_outstanding": 88512000.0,
+    "revenue": 504660000.0,
+    "net_income": 30217000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 90714000.0,
+    "revenue": 499834000.0,
+    "net_income": 35015000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 93896000.0,
+    "revenue": 482582000.0,
+    "net_income": 77572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 3607250000.0,
+    "revenue": 1887907000.0,
+    "net_income": -51904000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 3613136000.0,
+    "revenue": 473502000.0,
+    "net_income": 23273000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 3584268000.0,
+    "revenue": 459466000.0,
+    "net_income": -14843000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 3605575000.0,
+    "revenue": 465666000.0,
+    "net_income": -57737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 96738000.0,
+    "revenue": 1886081000.0,
+    "net_income": -74252000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 97455000.0,
+    "revenue": 472262000.0,
+    "net_income": -21106000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 96415000.0,
+    "revenue": 460431000.0,
+    "net_income": -5060000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 95677000.0,
+    "revenue": 454382000.0,
+    "net_income": 15008000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 96250000.0,
+    "revenue": 2091363000.0,
+    "net_income": -38633000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 96880000.0,
+    "revenue": 532953000.0,
+    "net_income": 16502000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 96946000.0,
+    "revenue": 525957000.0,
+    "net_income": 77684000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 95888000.0,
+    "revenue": 501792000.0,
+    "net_income": -21171000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 96741000.0,
+    "revenue": 1885508000.0,
+    "net_income": 393489000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 96890000.0,
+    "revenue": 481233000.0,
+    "net_income": 35201000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 96785000.0,
+    "revenue": 465076000.0,
+    "net_income": 7122000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 95893000.0,
+    "revenue": 433151000.0,
+    "net_income": 37352000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 94410000.0,
+    "revenue": 3056730000.0,
+    "net_income": 180692000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 94401000.0,
+    "revenue": 742349000.0,
+    "net_income": 37410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 94330000.0,
+    "revenue": 757629000.0,
+    "net_income": 55909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-10",
+    "shares_outstanding": 93852000.0,
+    "revenue": 816359000.0,
+    "net_income": 48443000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 93466000.0,
+    "revenue": 3143714000.0,
+    "net_income": 149371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 93493000.0,
+    "revenue": 760879000.0,
+    "net_income": 28358000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 93514000.0,
+    "revenue": 793595000.0,
+    "net_income": 31013000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 93357000.0,
+    "revenue": 798653000.0,
+    "net_income": 27598000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2014",
+    "filing_date": "2015-02-20",
+    "shares_outstanding": 92616000.0,
+    "revenue": 3445578000.0,
+    "net_income": 147549000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 92971000.0,
+    "revenue": 895840000.0,
+    "net_income": 58437000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 92714000.0,
+    "revenue": 879828000.0,
+    "net_income": 29614000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-09",
+    "shares_outstanding": 92336000.0,
+    "revenue": 826023000.0,
+    "net_income": 12030000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 90952000.0,
+    "revenue": 3282452000.0,
+    "net_income": 3401000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-12",
+    "shares_outstanding": 91266000.0,
+    "revenue": 848908000.0,
+    "net_income": 4637000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 88179000.0,
+    "revenue": 830003000.0,
+    "net_income": -9583000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 89600000.0,
+    "revenue": 795454000.0,
+    "net_income": 3498000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2012",
+    "filing_date": "2013-02-20",
+    "shares_outstanding": 87959000.0,
+    "revenue": 3121704000.0,
+    "net_income": 211013000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 87998000.0,
+    "revenue": 764721000.0,
+    "net_income": 22269000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 87814000.0,
+    "revenue": 806004000.0,
+    "net_income": 35450000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 87326000.0,
+    "revenue": 764780000.0,
+    "net_income": 126501000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "FY 2011",
+    "filing_date": "2012-03-07",
+    "shares_outstanding": 87089000.0,
+    "revenue": 2761431000.0,
+    "net_income": 4274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 86507000.0,
+    "revenue": 863163000.0,
+    "net_income": -18847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 87697000.0,
+    "revenue": 584233000.0,
+    "net_income": 18574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-02",
+    "shares_outstanding": 92331000.0,
+    "revenue": 479826000.0,
+    "net_income": 17159000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 85250000.0,
+    "revenue": 607040000.0,
+    "net_income": 5151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SATS",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-09",
+    "shares_outstanding": 85102.0,
+    "revenue": 603049000.0,
+    "net_income": -41477000.0,
+    "market_cap": null
+  }
+]

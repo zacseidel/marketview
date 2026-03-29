@@ -36,9 +36,14 @@ ENV/
 data/**/*.json
 data/**/*.csv
 !data/**/.gitkeep
+!data/fundamentals/*.json
+!data/earnings/*.json
 
 # Quant research data (large files — parquet, model artifacts)
 data/quant/
+!data/quant/recent_prices.parquet
+!data/quant/history_gaps.json
+!data/quant/artifacts/
 
 # Decisions pending (committed by bot, not ignored)
 # decisions/pending/*.md are intentionally tracked

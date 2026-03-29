@@ -1,0 +1,524 @@
+[
+  {
+    "ticker": "GNRC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 59275781.0,
+    "revenue": 4209147000.0,
+    "net_income": 161354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 59275781.0,
+    "revenue": 4209147000.0,
+    "net_income": 161354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 59122849.0,
+    "revenue": 1114353000.0,
+    "net_income": 66580000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 59017823.0,
+    "revenue": 1061169000.0,
+    "net_income": 74430000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 59747589.0,
+    "revenue": 942121000.0,
+    "net_income": 44278000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 60312393.0,
+    "revenue": 1173563000.0,
+    "net_income": 113778000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 60641740.0,
+    "revenue": 998197000.0,
+    "net_income": 59053000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 60486125.0,
+    "revenue": 889273000.0,
+    "net_income": 26478000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 62058387.0,
+    "revenue": 4022667000.0,
+    "net_income": 217120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 62091163.0,
+    "revenue": 1070667000.0,
+    "net_income": 60634000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 62348184.0,
+    "revenue": 1000420000.0,
+    "net_income": 45515000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 62294447.0,
+    "revenue": 887910000.0,
+    "net_income": 14161000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 64681357.0,
+    "revenue": 4564737000.0,
+    "net_income": 408870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-07",
+    "shares_outstanding": 64267638.0,
+    "revenue": 1088258000.0,
+    "net_income": 60446000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-08",
+    "shares_outstanding": 64713748.0,
+    "revenue": 1291391000.0,
+    "net_income": 157637000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-09",
+    "shares_outstanding": 64828819.0,
+    "revenue": 1135856000.0,
+    "net_income": 116896000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 64253408.0,
+    "revenue": 3737184000.0,
+    "net_income": 556569000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 64208116.0,
+    "revenue": 942698000.0,
+    "net_income": 132753000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 64088709.0,
+    "revenue": 919981000.0,
+    "net_income": 127909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 64099073.0,
+    "revenue": 807434000.0,
+    "net_income": 149945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 63737734.0,
+    "revenue": 2485200000.0,
+    "net_income": 347218000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 63761380.0,
+    "revenue": 701355000.0,
+    "net_income": 115235000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 63364253.0,
+    "revenue": 546848000.0,
+    "net_income": 63592000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 63283737.0,
+    "revenue": 475915000.0,
+    "net_income": 43411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 62865446.0,
+    "revenue": 2204336000.0,
+    "net_income": 252308000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 62770592.0,
+    "revenue": 601135000.0,
+    "net_income": 74897000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 62405863.0,
+    "revenue": 541916000.0,
+    "net_income": 61706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 62223638.0,
+    "revenue": 470353000.0,
+    "net_income": 45769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 62233225.0,
+    "revenue": 2023464000.0,
+    "net_income": 241220000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 62220298.0,
+    "revenue": 562388000.0,
+    "net_income": 76522000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 62054447.0,
+    "revenue": 497581000.0,
+    "net_income": 54231000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 62474936.0,
+    "revenue": 400091000.0,
+    "net_income": 33770000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2017",
+    "filing_date": "2018-02-26",
+    "shares_outstanding": 62642872.0,
+    "revenue": 1672445000.0,
+    "net_income": 161135000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-06",
+    "shares_outstanding": 62316788.0,
+    "revenue": 457253000.0,
+    "net_income": 40050000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 62635437.0,
+    "revenue": 395376000.0,
+    "net_income": 25745000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 62936126.0,
+    "revenue": 331814000.0,
+    "net_income": 12849000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 65382774.0,
+    "revenue": 1444453000.0,
+    "net_income": 98812000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 65126117.0,
+    "revenue": 373121000.0,
+    "net_income": 26012000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 66388581.0,
+    "revenue": 367376000.0,
+    "net_income": 20943000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 66600040.0,
+    "revenue": 286535000.0,
+    "net_income": 10212000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 69200297.0,
+    "revenue": 1317299000.0,
+    "net_income": 77747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 69182465.0,
+    "revenue": 359291000.0,
+    "net_income": 34036000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 70063063.0,
+    "revenue": 288360000.0,
+    "net_income": 14844000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 70088935.0,
+    "revenue": 311818000.0,
+    "net_income": 19685000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 70171044.0,
+    "revenue": 1460919000.0,
+    "net_income": 174613000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 70033224.0,
+    "revenue": 352305000.0,
+    "net_income": 36497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 70087976.0,
+    "revenue": 362609000.0,
+    "net_income": 54025000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 70008490.0,
+    "revenue": 342008000.0,
+    "net_income": 34701000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 69667529.0,
+    "revenue": 1485765000.0,
+    "net_income": 174539000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 69887025.0,
+    "revenue": 363269000.0,
+    "net_income": 47093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 69809599.0,
+    "revenue": 346688000.0,
+    "net_income": 28254000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 69554941.0,
+    "revenue": 399572000.0,
+    "net_income": 50674000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2012",
+    "filing_date": "2013-03-13",
+    "shares_outstanding": 463628000.0,
+    "revenue": 1176306000.0,
+    "net_income": 93223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 68645533.0,
+    "revenue": 239137000.0,
+    "net_income": 9335000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 68637927.0,
+    "revenue": 294561000.0,
+    "net_income": 30060000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "FY 2011",
+    "filing_date": "2012-03-09",
+    "shares_outstanding": 768889000.0,
+    "revenue": 791976000.0,
+    "net_income": 324643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-14",
+    "shares_outstanding": 501861000.0,
+    "revenue": 239324000.0,
+    "net_income": 37379000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GNRC",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-12",
+    "shares_outstanding": 67718654.0,
+    "revenue": 161363000.0,
+    "net_income": 15289000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "EME",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 45145767.0,
+    "revenue": 16986422000.0,
+    "net_income": 1272817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 45145767.0,
+    "revenue": 16986422000.0,
+    "net_income": 1272817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 44968308.0,
+    "revenue": 4301529000.0,
+    "net_income": 295373000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 44990388.0,
+    "revenue": 4304400000.0,
+    "net_income": 302160000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 45784235.0,
+    "revenue": 3867372000.0,
+    "net_income": 240677000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 46808293.0,
+    "revenue": 14566116000.0,
+    "net_income": 1007145000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 46588760.0,
+    "revenue": 3696924000.0,
+    "net_income": 270263000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 47159660.0,
+    "revenue": 3666897000.0,
+    "net_income": 247572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 47316497.0,
+    "revenue": 3432276000.0,
+    "net_income": 197149000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 47564258.0,
+    "revenue": 12582873000.0,
+    "net_income": 633329000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 47398197.0,
+    "revenue": 3207598000.0,
+    "net_income": 169746000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 47588669.0,
+    "revenue": 3045622000.0,
+    "net_income": 140595000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 47945815.0,
+    "revenue": 2890432000.0,
+    "net_income": 111473000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 50136262.0,
+    "revenue": 11076120000.0,
+    "net_income": 406122000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 49050151.0,
+    "revenue": 2826361000.0,
+    "net_income": 105772000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 50711770.0,
+    "revenue": 2707388000.0,
+    "net_income": 100664000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 52916559.0,
+    "revenue": 2592549000.0,
+    "net_income": 73386000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 54347534.0,
+    "revenue": 9903580000.0,
+    "net_income": 383701000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 53984658.0,
+    "revenue": 2521672000.0,
+    "net_income": 99740000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 54587813.0,
+    "revenue": 2437666000.0,
+    "net_income": 97348000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 55135304.0,
+    "revenue": 2304049000.0,
+    "net_income": 84945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 55421271.0,
+    "revenue": 8797061000.0,
+    "net_income": 132943000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 55200245.0,
+    "revenue": 2201714000.0,
+    "net_income": 61186000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-03",
+    "shares_outstanding": 54937038.0,
+    "revenue": 2014021000.0,
+    "net_income": -83689000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 56210728.0,
+    "revenue": 2299832000.0,
+    "net_income": 75665000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 56519281.0,
+    "revenue": 9174611000.0,
+    "net_income": 325140000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-29",
+    "shares_outstanding": 56558450.0,
+    "revenue": 2287741000.0,
+    "net_income": 81834000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 56499514.0,
+    "revenue": 2324202000.0,
+    "net_income": 83972000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 56424222.0,
+    "revenue": 2158728000.0,
+    "net_income": 72410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 58443467.0,
+    "revenue": 8130631000.0,
+    "net_income": 283577000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 58541310.0,
+    "revenue": 2047049000.0,
+    "net_income": 79421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 58670595.0,
+    "revenue": 1953886000.0,
+    "net_income": 70816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 59064164.0,
+    "revenue": 1900388000.0,
+    "net_income": 55374000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 59618969.0,
+    "revenue": 7686999000.0,
+    "net_income": 227193000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 59419200.0,
+    "revenue": 1886691000.0,
+    "net_income": 64597000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 59639061.0,
+    "revenue": 1895937000.0,
+    "net_income": 56788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 60111602.0,
+    "revenue": 1891732000.0,
+    "net_income": 52610000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 61206792.0,
+    "revenue": 7551524000.0,
+    "net_income": 182153000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 61318057.0,
+    "revenue": 1923174000.0,
+    "net_income": 51557000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 61204221.0,
+    "revenue": 1933416000.0,
+    "net_income": 55355000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 61350610.0,
+    "revenue": 1744970000.0,
+    "net_income": 34354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 63307512.0,
+    "revenue": 6718726000.0,
+    "net_income": 172507000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 63392483.0,
+    "revenue": 1699128000.0,
+    "net_income": 41907000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 63330253.0,
+    "revenue": 1652585000.0,
+    "net_income": 46836000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 63611011.0,
+    "revenue": 1589187000.0,
+    "net_income": 32710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 67062509.0,
+    "revenue": 6424965000.0,
+    "net_income": 173427000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-28",
+    "shares_outstanding": 67417547.0,
+    "revenue": 1566711000.0,
+    "net_income": 46777000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-29",
+    "shares_outstanding": 68000361.0,
+    "revenue": 1552919000.0,
+    "net_income": 41000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-29",
+    "shares_outstanding": 68001205.0,
+    "revenue": 1590539000.0,
+    "net_income": 41842000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 68076841.0,
+    "revenue": 6417158000.0,
+    "net_income": 127354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 68163701.0,
+    "revenue": 1629067000.0,
+    "net_income": 28893000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 68095577.0,
+    "revenue": 1556753000.0,
+    "net_income": 21474000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 68099121.0,
+    "revenue": 1568401000.0,
+    "net_income": 30718000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 67738418.0,
+    "revenue": 6346679000.0,
+    "net_income": 148886000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-25",
+    "shares_outstanding": 67511707.0,
+    "revenue": 1606242000.0,
+    "net_income": 40310000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-26",
+    "shares_outstanding": 67695536.0,
+    "revenue": 1590035000.0,
+    "net_income": 33980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 67946245.0,
+    "revenue": 1538521000.0,
+    "net_income": 27808000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 68375502.0,
+    "revenue": 5613459000.0,
+    "net_income": 133671000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 68415196.0,
+    "revenue": 1482241000.0,
+    "net_income": 41483000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-29",
+    "shares_outstanding": 68591770.0,
+    "revenue": 1348013000.0,
+    "net_income": 29322000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-28",
+    "shares_outstanding": -5106.0,
+    "revenue": 1265243000.0,
+    "net_income": 25376000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "FY 2010",
+    "filing_date": "2011-02-25",
+    "shares_outstanding": 1162845000.0,
+    "revenue": 5121285000.0,
+    "net_income": -82684000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-02",
+    "shares_outstanding": 1118111000.0,
+    "revenue": 1277277000.0,
+    "net_income": -174564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EME",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-29",
+    "shares_outstanding": 1288463000.0,
+    "revenue": 1275649000.0,
+    "net_income": 28556000.0,
+    "market_cap": null
+  }
+]

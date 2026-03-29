@@ -1,0 +1,110 @@
+[
+  {
+    "ticker": "KNF",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 56895000.0,
+    "revenue": 3146012000.0,
+    "net_income": 157074000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 56895000.0,
+    "revenue": 3146012000.0,
+    "net_income": 157074000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 56884000.0,
+    "revenue": 1203717000.0,
+    "net_income": 143151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 56912000.0,
+    "revenue": 833759000.0,
+    "net_income": 50603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 56626000.0,
+    "revenue": 353471000.0,
+    "net_income": -68710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 56844000.0,
+    "revenue": 2899005000.0,
+    "net_income": 201678000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-04",
+    "shares_outstanding": 56871000.0,
+    "revenue": 1105293000.0,
+    "net_income": 148104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 56811000.0,
+    "revenue": 806906000.0,
+    "net_income": 77929000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 56590000.0,
+    "revenue": 329590000.0,
+    "net_income": -47629000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 56668000.0,
+    "revenue": 2830350000.0,
+    "net_income": 182872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-06",
+    "shares_outstanding": 56735000.0,
+    "revenue": 1090372000.0,
+    "net_income": 146655000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KNF",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 56599000.0,
+    "revenue": 785189000.0,
+    "net_income": 56836000.0,
+    "market_cap": null
+  }
+]

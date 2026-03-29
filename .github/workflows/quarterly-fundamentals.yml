@@ -1,67 +1,22 @@
 name: Quarterly Fundamentals Refresh
 
+# Fundamentals are maintained locally and committed to the repo.
+# Run locally every few weeks (caps at 100 tickers per run to stay within rate limits):
+#
+#   python -m src.collection.fundamentals
+#   git add data/fundamentals/
+#   git commit -m "chore: fundamentals refresh YYYY-MM-DD"
+#   git push
+#
+# This workflow is intentionally disabled — fetching ~900 tickers at 5 calls/min
+# would take hours and is better suited to a background local process.
+
 on:
-  # Run manually or on a quarterly schedule (1st of Jan, Apr, Jul, Oct at 10 AM ET)
-  schedule:
-    - cron: "0 14 1 1,4,7,10 *"
-  workflow_dispatch:
+  workflow_dispatch:  # manual trigger only, for emergencies
 
 jobs:
   refresh-fundamentals:
     runs-on: ubuntu-latest
-    # Fundamentals fetch is slow (~3,000 tickers at 5/min).
-    # This workflow fetches only the tickers missing data or stale > 90 days.
-    # Heavy full refreshes should be run locally: python -m src.collection.fundamentals
-    timeout-minutes: 120
+    if: false  # disabled — run locally instead
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Refresh fundamentals (stale tickers only)
-        env:
-          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
-        run: |
-          python - <<'EOF'
-          import json
-          from datetime import date, timedelta
-          from pathlib import Path
-          from dotenv import load_dotenv
-          load_dotenv()
-          from src.collection.fundamentals import fetch_and_save
-          from src.collection.polygon_client import PolygonClient
-
-          client = PolygonClient()
-          universe_file = Path("data/universe/constituents.json")
-          if not universe_file.exists():
-              print("No universe file. Exiting.")
-              exit(0)
-
-          with open(universe_file) as f:
-              constituents = json.load(f)
-
-          stale_cutoff = (date.today() - timedelta(days=90)).isoformat()
-          stale = [
-              t for t, r in constituents.items()
-              if r.get("status") == "active"
-              and (not r.get("last_financials_fetch") or r["last_financials_fetch"] < stale_cutoff)
-          ]
-
-          print(f"Stale tickers: {len(stale)}")
-          for ticker in stale[:200]:   # cap at 200 per run (~40 min at 5/min)
-              n = fetch_and_save(ticker, client)
-              print(f"{ticker}: {n} quarters")
-          EOF
-
-      - name: Commit fundamentals data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/fundamentals/ data/universe/
-          git diff --staged --quiet || git commit -m "chore: fundamentals refresh $(date -u +%Y-%m-%d) [skip ci]"
-          git push
+      - run: echo "Run python -m src.collection.fundamentals locally instead."

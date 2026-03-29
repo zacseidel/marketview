@@ -1,0 +1,182 @@
+[
+  {
+    "ticker": "TNL",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 66900000.0,
+    "revenue": 4021000000.0,
+    "net_income": 230000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 66900000.0,
+    "revenue": 4021000000.0,
+    "net_income": 230000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-22",
+    "shares_outstanding": 66100000.0,
+    "revenue": 1044000000.0,
+    "net_income": 111000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-23",
+    "shares_outstanding": 66500000.0,
+    "revenue": 1018000000.0,
+    "net_income": 108000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-23",
+    "shares_outstanding": 68200000.0,
+    "revenue": 934000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 70200000.0,
+    "revenue": 993000000.0,
+    "net_income": 97000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 71000000.0,
+    "revenue": 985000000.0,
+    "net_income": 129000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 72000000.0,
+    "revenue": 916000000.0,
+    "net_income": 66000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 75000000.0,
+    "revenue": 3750000000.0,
+    "net_income": 396000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 73600000.0,
+    "revenue": 986000000.0,
+    "net_income": 110000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 75500000.0,
+    "revenue": 949000000.0,
+    "net_income": 94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 78300000.0,
+    "revenue": 879000000.0,
+    "net_income": 64000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 84200000.0,
+    "revenue": 3567000000.0,
+    "net_income": 357000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 83600000.0,
+    "revenue": 937000000.0,
+    "net_income": 116000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 85700000.0,
+    "revenue": 922000000.0,
+    "net_income": 100000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 87000000.0,
+    "revenue": 809000000.0,
+    "net_income": 51000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 87300000.0,
+    "revenue": 3134000000.0,
+    "net_income": 308000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 87400000.0,
+    "revenue": 839000000.0,
+    "net_income": 101000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 87400000.0,
+    "revenue": 797000000.0,
+    "net_income": 72000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TNL",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 86900000.0,
+    "revenue": 628000000.0,
+    "net_income": 29000000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "HXL",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 80000000.0,
+    "revenue": 1893900000.0,
+    "net_income": 109400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 80000000.0,
+    "revenue": 1893900000.0,
+    "net_income": 109400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-22",
+    "shares_outstanding": 80300000.0,
+    "revenue": 456200000.0,
+    "net_income": 20600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 80600000.0,
+    "revenue": 489900000.0,
+    "net_income": 13500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-21",
+    "shares_outstanding": 81700000.0,
+    "revenue": 456500000.0,
+    "net_income": 28900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2024",
+    "filing_date": "2025-02-05",
+    "shares_outstanding": 83000000.0,
+    "revenue": 1903000000.0,
+    "net_income": 132100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-18",
+    "shares_outstanding": 83200000.0,
+    "revenue": 500400000.0,
+    "net_income": 50000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-22",
+    "shares_outstanding": 84800000.0,
+    "revenue": 472300000.0,
+    "net_income": 36500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2023",
+    "filing_date": "2024-02-07",
+    "shares_outstanding": 85500000.0,
+    "revenue": 1789000000.0,
+    "net_income": 105700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-23",
+    "shares_outstanding": 85600000.0,
+    "revenue": 419500000.0,
+    "net_income": 38700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-24",
+    "shares_outstanding": 85600000.0,
+    "revenue": 454300000.0,
+    "net_income": 42500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-24",
+    "shares_outstanding": 85500000.0,
+    "revenue": 457700000.0,
+    "net_income": 42700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2022",
+    "filing_date": "2023-02-08",
+    "shares_outstanding": 85000000.0,
+    "revenue": 1577700000.0,
+    "net_income": 126300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-24",
+    "shares_outstanding": 85100000.0,
+    "revenue": 364700000.0,
+    "net_income": 26800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-25",
+    "shares_outstanding": 85000000.0,
+    "revenue": 393000000.0,
+    "net_income": 44700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-25",
+    "shares_outstanding": 84900000.0,
+    "revenue": 390600000.0,
+    "net_income": 17800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2021",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 84600000.0,
+    "revenue": 1324700000.0,
+    "net_income": 16100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-18",
+    "shares_outstanding": 84700000.0,
+    "revenue": 333800000.0,
+    "net_income": 9000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-26",
+    "shares_outstanding": 84700000.0,
+    "revenue": 320300000.0,
+    "net_income": 2200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-19",
+    "shares_outstanding": 84000000.0,
+    "revenue": 310300000.0,
+    "net_income": -14000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2020",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 84000000.0,
+    "revenue": 1502400000.0,
+    "net_income": 31700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-19",
+    "shares_outstanding": 84000000.0,
+    "revenue": 286900000.0,
+    "net_income": 9700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-27",
+    "shares_outstanding": 83700000.0,
+    "revenue": 378700000.0,
+    "net_income": -1000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-20",
+    "shares_outstanding": 84300000.0,
+    "revenue": 541000000.0,
+    "net_income": 42400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2019",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 85800000.0,
+    "revenue": 2355700000.0,
+    "net_income": 306600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-21",
+    "shares_outstanding": 86100000.0,
+    "revenue": 572500000.0,
+    "net_income": 80300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-22",
+    "shares_outstanding": 86200000.0,
+    "revenue": 609000000.0,
+    "net_income": 80900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-23",
+    "shares_outstanding": 86000000.0,
+    "revenue": 609900000.0,
+    "net_income": 72200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2018",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 89000000.0,
+    "revenue": 2189100000.0,
+    "net_income": 276600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-22",
+    "shares_outstanding": 88100000.0,
+    "revenue": 540500000.0,
+    "net_income": 80100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-23",
+    "shares_outstanding": 89900000.0,
+    "revenue": 547500000.0,
+    "net_income": 68800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-23",
+    "shares_outstanding": 91200000.0,
+    "revenue": 540100000.0,
+    "net_income": 61600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2017",
+    "filing_date": "2018-02-07",
+    "shares_outstanding": 91900000.0,
+    "revenue": 1973300000.0,
+    "net_income": 284000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-18",
+    "shares_outstanding": 91400000.0,
+    "revenue": 491500000.0,
+    "net_income": 69700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-24",
+    "shares_outstanding": 92000000.0,
+    "revenue": 491300000.0,
+    "net_income": 61600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-19",
+    "shares_outstanding": 92900000.0,
+    "revenue": 478800000.0,
+    "net_income": 64600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2016",
+    "filing_date": "2017-02-09",
+    "shares_outstanding": 94200000.0,
+    "revenue": 2004300000.0,
+    "net_income": 249800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-19",
+    "shares_outstanding": 94100000.0,
+    "revenue": 500500000.0,
+    "net_income": 68200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-20",
+    "shares_outstanding": 94600000.0,
+    "revenue": 522600000.0,
+    "net_income": 66100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-20",
+    "shares_outstanding": 94800000.0,
+    "revenue": 497700000.0,
+    "net_income": 56000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2015",
+    "filing_date": "2016-02-04",
+    "shares_outstanding": 97200000.0,
+    "revenue": 1861200000.0,
+    "net_income": 237200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-19",
+    "shares_outstanding": 97300000.0,
+    "revenue": 448800000.0,
+    "net_income": 53500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-20",
+    "shares_outstanding": 98200000.0,
+    "revenue": 475700000.0,
+    "net_income": 61700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-20",
+    "shares_outstanding": 97900000.0,
+    "revenue": 471800000.0,
+    "net_income": 68100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2014",
+    "filing_date": "2015-02-05",
+    "shares_outstanding": 98700000.0,
+    "revenue": 1855500000.0,
+    "net_income": 209400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-20",
+    "shares_outstanding": 97700000.0,
+    "revenue": 451900000.0,
+    "net_income": 55800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-21",
+    "shares_outstanding": 99200000.0,
+    "revenue": 470100000.0,
+    "net_income": 50600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-21",
+    "shares_outstanding": 100600000.0,
+    "revenue": 461700000.0,
+    "net_income": 50100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2013",
+    "filing_date": "2014-02-05",
+    "shares_outstanding": 102100000.0,
+    "revenue": 1678200000.0,
+    "net_income": 187900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-21",
+    "shares_outstanding": 101700000.0,
+    "revenue": 412300000.0,
+    "net_income": 48700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-22",
+    "shares_outstanding": 101800000.0,
+    "revenue": 422600000.0,
+    "net_income": 48500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-22",
+    "shares_outstanding": 102100000.0,
+    "revenue": 416500000.0,
+    "net_income": 43600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2012",
+    "filing_date": "2013-02-08",
+    "shares_outstanding": 102000000.0,
+    "revenue": 1578200000.0,
+    "net_income": 164300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-22",
+    "shares_outstanding": 102100000.0,
+    "revenue": 391600000.0,
+    "net_income": 39800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-23",
+    "shares_outstanding": 102000000.0,
+    "revenue": 399200000.0,
+    "net_income": 48000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-23",
+    "shares_outstanding": 101700000.0,
+    "revenue": 400100000.0,
+    "net_income": 39600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2011",
+    "filing_date": "2012-02-07",
+    "shares_outstanding": 100700000.0,
+    "revenue": 1392400000.0,
+    "net_income": 135500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-24",
+    "shares_outstanding": 101100000.0,
+    "revenue": 351800000.0,
+    "net_income": 32200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-25",
+    "shares_outstanding": 100700000.0,
+    "revenue": 353700000.0,
+    "net_income": 37400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-25",
+    "shares_outstanding": 100400000.0,
+    "revenue": 331600000.0,
+    "net_income": 26400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HXL",
+    "period": "FY 2010",
+    "filing_date": "2011-02-10",
+    "shares_outstanding": 99900000.0,
+    "revenue": 1173600000.0,
+    "net_income": 77400000.0,
+    "market_cap": null
+  }
+]
