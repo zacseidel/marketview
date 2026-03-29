@@ -17,6 +17,8 @@ import os
 import sys
 from pathlib import Path
 
+import yaml
+
 # Always run relative to the repo root, regardless of where python was invoked
 _ROOT = Path(__file__).parent.resolve()
 os.chdir(_ROOT)
@@ -26,6 +28,7 @@ os.chdir(_ROOT)
 # ---------------------------------------------------------------------------
 
 _MODELS_DIR       = _ROOT / "data/models"
+_MODELS_CONFIG    = _ROOT / "config/models.yaml"
 _UNIVERSE_FILE    = _ROOT / "data/universe/constituents.json"
 _FUNDAMENTALS_DIR = _ROOT / "data/fundamentals"
 _PRICES_DIR       = _ROOT / "data/prices"
@@ -33,13 +36,12 @@ _DECISIONS_DIR    = _ROOT / "decisions/pending"
 _POSITIONS_FILE   = _ROOT / "data/positions/positions.json"
 
 _MODEL_DESCRIPTIONS = {
-    "momentum":   "Top 10 S&P 500 by trailing 12-month return, rank-stable. Pure price momentum.",
-    "munger":     "Top 100 by market cap; buy when price dips to SMA200 then recovers above EMA15. Quality on dips.",
-    "repurchase": "Top 5 by trailing 12-month share buyback %; above 21d EMA. Aggressive capital return.",
-    "quant_gbm":  "LightGBM on 15 technical factors; predicts 20-day forward return. Val Sharpe: 0.794.",
-    "quant_knn":  "KNN (K=50) finds 50 most historically similar setups, averages forward returns. Val Sharpe: 0.373.",
-    "watchlist":  "User-curated tickers.",
-    "composite":  "Tickers where 2+ models agree, conviction-weighted.",
+    "momentum":     "Top 10 S&P 500 by trailing 12-month return, rank-stable. Pure price momentum.",
+    "munger":       "Top 100 by market cap; buy when price dips to SMA200 then recovers above EMA15. Quality on dips.",
+    "repurchase":   "Top 5 by trailing 12-month share buyback %; above 21d EMA. Aggressive capital return.",
+    "quant_gbm_v2": "LightGBM v2: 27 features + SPY market state + sector + earnings/buyback; predicts 10d forward return. Val Sharpe: 0.973.",
+    "quant_gbm_v3": "LightGBM v3: 28 features (incl. log_ret_756d) + sector + earnings; predicts 10d forward return. Val Sharpe: 1.125.",
+    "watchlist":    "User-curated tickers.",
 }
 
 _FEATURE_LABELS = {
@@ -113,13 +115,23 @@ def _recent_return(ticker: str, n_days: int = 5) -> float | None:
     return prices[0] / prices[min(n_days, len(prices) - 1)] - 1
 
 
-def _load_model_holdings(eval_date: str) -> dict[str, list[dict]]:
+def _load_enabled_model_names() -> set[str]:
+    if not _MODELS_CONFIG.exists():
+        return set()
+    with open(_MODELS_CONFIG) as f:
+        cfg = yaml.safe_load(f)
+    return {name for name, mc in cfg.get("models", {}).items() if mc.get("enabled", False)}
+
+
+def _load_model_holdings(eval_date: str, enabled_only: set[str] | None = None) -> dict[str, list[dict]]:
     model_dir = _MODELS_DIR / eval_date
     if not model_dir.exists():
         return {}
     result = {}
     for f in sorted(model_dir.glob("*.json")):
         if f.stem.endswith("_ranks"):
+            continue
+        if enabled_only is not None and f.stem not in enabled_only:
             continue
         with open(f) as fp:
             result[f.stem] = json.load(fp)
@@ -394,8 +406,18 @@ def _prompt_section(
                 if t in tickers:
                     selected.add(t)
                     print(f"    Added {t}")
+                elif t in already_selected:
+                    print(f"    {t} already approved")
                 else:
-                    print(f"    '{t}' not in this section — ignored")
+                    is_hold = any(
+                        h["ticker"] == t and h.get("status") == "hold"
+                        for hs in all_holdings.values()
+                        for h in hs
+                    )
+                    if is_hold:
+                        print(f"    {t} is an existing hold, not a new buy here — use ?{t} to research")
+                    else:
+                        print(f"    {t} not in pending buys — may be approved in another session")
 
     return selected
 
@@ -441,7 +463,8 @@ def main() -> None:
     decision_file = _DECISIONS_DIR / f"{eval_date}.md"
 
     universe = _load_universe()
-    all_holdings = _load_model_holdings(eval_date)
+    enabled_models = _load_enabled_model_names()
+    all_holdings = _load_model_holdings(eval_date, enabled_only=enabled_models)
     open_positions = _load_open_positions()
     decision_state = _parse_decision_file(decision_file)
 
@@ -488,7 +511,9 @@ def main() -> None:
     else:
         pending_set = set(pending_buys)
         for model_name, picks in model_new_buys.items():
-            model_selectable = [t for t, _, st in picks if st == "new_buy" and t in pending_set]
+            new_buy_picks = [(t, c, s) for t, c, s in picks if s == "new_buy"]
+            hold_picks    = [(t, c, s) for t, c, s in picks if s == "hold"]
+            model_selectable = [t for t, _, _ in new_buy_picks if t in pending_set]
 
             print(f"\n{_hr()}")
             print(f"  MODEL: {model_name.upper()}")
@@ -498,30 +523,34 @@ def main() -> None:
                 print(f"  {desc}")
             print()
 
-            print(f"  {'Ticker':<8} {'Conv':>5}  {'5d':>7}  {'Also in':<28}  {'Status'}")
-            print(f"  {'─'*8} {'─'*5}  {'─'*7}  {'─'*28}  {'─'*14}")
-            for ticker, conviction, model_status in picks:
-                other_models = [
-                    m for m, holdings in all_holdings.items()
-                    if m != model_name
-                    and any(h["ticker"] == ticker and h.get("status") != "sell" for h in holdings)
-                ]
-                r5 = _recent_return(ticker, 5)
-                others = ", ".join(other_models) if other_models else "—"
-                if model_status == "hold":
-                    status = "  holding"
-                elif ticker in approved:
-                    status = "✓ approved"
-                elif ticker not in pending_set:
-                    status = "— skipped"
-                else:
-                    status = "  new"
-                print(f"  {ticker:<8} {conviction:>5.2f}  {_ret_str(r5):>7}  {others:<28}  {status}")
+            if new_buy_picks:
+                print(f"  {'Ticker':<8} {'Conv':>5}  {'5d':>7}  {'Also in':<28}  {'Status'}")
+                print(f"  {'─'*8} {'─'*5}  {'─'*7}  {'─'*28}  {'─'*14}")
+                for ticker, conviction, _ in new_buy_picks:
+                    other_models = [
+                        m for m, holdings in all_holdings.items()
+                        if m != model_name
+                        and any(h["ticker"] == ticker and h.get("status") != "sell" for h in holdings)
+                    ]
+                    r5 = _recent_return(ticker, 5)
+                    others = ", ".join(other_models) if other_models else "—"
+                    if ticker in approved:
+                        status = "✓ approved"
+                    elif ticker not in pending_set:
+                        status = "— skipped"
+                    else:
+                        status = "  new"
+                    print(f"  {ticker:<8} {conviction:>5.2f}  {_ret_str(r5):>7}  {others:<28}  {status}")
+
+            if hold_picks:
+                hold_str = "  ".join(t for t, _, _ in hold_picks)
+                print(f"\n  Continuing to hold ({len(hold_picks)}): {hold_str}")
 
             if not model_selectable:
-                input("  (press Enter to continue) ")
+                input("\n  (press Enter to continue) ")
                 continue
 
+            print()
             tickers = model_selectable
             selected = _prompt_section(model_name, tickers, approved, universe, all_holdings)
             approved.update(selected)

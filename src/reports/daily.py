@@ -11,6 +11,7 @@ Entry point:
 from __future__ import annotations
 
 import json
+import math
 from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
@@ -22,6 +23,7 @@ log = structlog.get_logger()
 _DOCS_DIR = Path("docs")
 _UNIVERSE_FILE = Path("data/universe/constituents.json")
 _PRICES_DIR = Path("data/prices")
+_RECENT_PRICES_FILE = Path("data/quant/recent_prices.parquet")
 _MODELS_DIR = Path("data/models")
 _DECISIONS_DIR = Path("data/decisions")
 _POSITIONS_FILE = Path("data/positions/positions.json")
@@ -49,20 +51,80 @@ def _load_universe_stats() -> dict:
     }
 
 
-def _load_spy_qqq() -> dict:
+def _load_benchmarks() -> dict:
+    """
+    Load close + 5d and 252d log returns for SPY and QQQ.
+    Tries recent_prices.parquet first (has full history), then falls back to price files
+    (populated once ingestion includes benchmark tickers).
+    """
+    def _build_entry(closes: list[float], date_str: str) -> dict:
+        close = closes[-1]
+        ret_5d   = math.log(closes[-1] / closes[-6])   if len(closes) >= 6   else None
+        ret_252d = math.log(closes[-1] / closes[-253]) if len(closes) >= 253 else None
+        return {"close": close, "date": date_str, "ret_5d": ret_5d, "ret_252d": ret_252d}
+
+    # --- parquet path (local runs + fresh quant cache) ---
+    if _RECENT_PRICES_FILE.exists():
+        try:
+            import pandas as pd
+            df = pd.read_parquet(_RECENT_PRICES_FILE)
+            out: dict = {"date": None, "spy": None, "qqq": None}
+            for ticker, key in (("SPY", "spy"), ("QQQ", "qqq")):
+                t = df[df["ticker"] == ticker].sort_values("date").reset_index(drop=True)
+                if len(t) < 2:
+                    continue
+                closes = t["close"].tolist()
+                date_str = str(t.iloc[-1]["date"])[:10]
+                out[key] = _build_entry(closes, date_str)
+                if out["date"] is None:
+                    out["date"] = date_str
+            if out["spy"] or out["qqq"]:
+                return out
+        except Exception:
+            pass
+
+    # --- price file fallback (GitHub Actions, after ingestion includes benchmarks) ---
     files = sorted(f for f in _PRICES_DIR.glob("*.json") if f.stem[0].isdigit())
-    for f in reversed(files):
+    spy_closes: list[float] = []
+    qqq_closes: list[float] = []
+    last_date: str | None = None
+    for f in files[-253:]:
         with open(f) as fp:
-            records = json.load(fp)
-        lookup = {r["ticker"]: r for r in records}
-        spy = lookup.get("SPY")
-        qqq = lookup.get("QQQ")
-        if spy or qqq:
-            return {"date": f.stem, "spy": spy, "qqq": qqq}
-    return {"date": None, "spy": None, "qqq": None}
+            lookup = {r["ticker"]: r for r in json.load(fp)}
+        if "SPY" in lookup:
+            spy_closes.append(lookup["SPY"]["close"])
+            last_date = f.stem
+        if "QQQ" in lookup:
+            qqq_closes.append(lookup["QQQ"]["close"])
+
+    return {
+        "date": last_date,
+        "spy": _build_entry(spy_closes, last_date) if spy_closes else None,
+        "qqq": _build_entry(qqq_closes, last_date) if qqq_closes else None,
+    }
 
 
-def _load_latest_model_eval() -> dict:
+def _load_week_price_changes() -> dict[str, float]:
+    """
+    Returns {ticker: log_return} over the last ~5 trading days.
+    Uses the earliest and latest of the 6 most recent daily price files.
+    """
+    files = sorted(f for f in _PRICES_DIR.glob("*.json") if f.stem[0].isdigit())
+    files = files[-6:]
+    if len(files) < 2:
+        return {}
+    with open(files[0]) as f:
+        early = {r["ticker"]: r["close"] for r in json.load(f) if r.get("close")}
+    with open(files[-1]) as f:
+        latest = {r["ticker"]: r["close"] for r in json.load(f) if r.get("close")}
+    return {
+        t: math.log(latest[t] / early[t])
+        for t in latest
+        if t in early and early[t] > 0
+    }
+
+
+def _load_latest_model_eval(price_changes: dict[str, float]) -> dict:
     """Load summary stats for the latest eval — used in the overview card."""
     if not _MODELS_DIR.exists():
         return {"eval_date": None, "models": {}}
@@ -80,14 +142,12 @@ def _load_latest_model_eval() -> dict:
             holdings = json.load(f)
         active = [h for h in holdings if h.get("status") != "sell"]
         new_buys = [h for h in active if h.get("status") == "new_buy"]
-        avg_conviction = (
-            round(sum(h.get("conviction", 0) for h in active) / len(active), 2)
-            if active else 0.0
-        )
+        rets = [price_changes[h["ticker"]] for h in active if h["ticker"] in price_changes]
+        avg_log_ret_1w = round(sum(rets) / len(rets), 4) if rets else None
         models[model_name] = {
             "total": len(active),
             "new_buys": len(new_buys),
-            "avg_conviction": avg_conviction,
+            "avg_log_ret_1w": avg_log_ret_1w,
             "top": sorted(active, key=lambda h: h.get("conviction", 0), reverse=True)[:5],
         }
     return {"eval_date": latest_dir.name, "models": models}
@@ -190,12 +250,6 @@ def _pct_color(pct: float) -> str:
     return "#8b949e"
 
 
-def _conviction_bar(conviction: float, width: int = 20) -> str:
-    filled = round(conviction * width)
-    color = "#f0883e" if conviction >= 0.7 else "#58a6ff" if conviction >= 0.5 else "#8b949e"
-    return f'<span style="color:{color};font-family:monospace">{"█" * filled}{"░" * (width - filled)}</span>'
-
-
 def _status_badge(status: str) -> str:
     styles = {
         "new_buy": "background:#1f3a1f;color:#3fb950",
@@ -212,33 +266,42 @@ def _render_market_row(ticker: str, data: dict | None) -> str:
     if not data:
         return f'<tr><td class="ticker">{ticker}</td><td colspan="3" class="muted">—</td></tr>'
     close = data.get("close", 0)
-    ohlc = data.get("ohlc_avg", close)
-    vol = data.get("volume", 0)
+    ret_5d   = data.get("ret_5d")
+    ret_252d = data.get("ret_252d")
+    def _fmt_ret(r: float | None) -> str:
+        if r is None:
+            return '<span class="muted">—</span>'
+        color = _pct_color(r)
+        return f'<span style="color:{color}">{r:+.2%}</span>'
     return (
         f'<tr>'
         f'<td class="ticker">{ticker}</td>'
         f'<td>${close:,.2f}</td>'
-        f'<td>${ohlc:,.2f}</td>'
-        f'<td>{vol:,.0f}</td>'
+        f'<td>{_fmt_ret(ret_5d)}</td>'
+        f'<td>{_fmt_ret(ret_252d)}</td>'
         f'</tr>'
     )
 
 
 def _render_model_summary_row(name: str, stats: dict) -> str:
-    bar = _conviction_bar(stats["avg_conviction"], width=15)
     new_badge = f' <span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.1rem 0.4rem;font-weight:600">+{stats["new_buys"]} new</span>' if stats["new_buys"] else ""
     top_tickers = ", ".join(h["ticker"] for h in stats["top"][:5])
+    ret = stats.get("avg_log_ret_1w")
+    if ret is not None:
+        ret_str = f'<span style="color:{_pct_color(ret)};font-family:monospace">{ret:+.4f}</span>'
+    else:
+        ret_str = '<span class="muted">—</span>'
     return (
         f'<tr>'
         f'<td class="ticker">{name}</td>'
         f'<td>{stats["total"]}{new_badge}</td>'
-        f'<td>{bar} {stats["avg_conviction"]:.2f}</td>'
+        f'<td>{ret_str}</td>'
         f'<td class="muted small">{top_tickers}</td>'
         f'</tr>'
     )
 
 
-def _render_holdings_card(model_name: str, holdings: list[dict]) -> str:
+def _render_holdings_card(model_name: str, holdings: list[dict], price_changes: dict[str, float]) -> str:
     _DISPLAY_MAX = 10
     total_count = len(holdings)
     display = holdings[:_DISPLAY_MAX]
@@ -250,15 +313,19 @@ def _render_holdings_card(model_name: str, holdings: list[dict]) -> str:
         rows = ""
         for h in display:
             status = h.get("status", "hold")
-            conviction = h.get("conviction", 0)
             rationale = h.get("rationale", "")
             if len(rationale) > 110:
                 rationale = rationale[:107] + "…"
+            ret = price_changes.get(h["ticker"])
+            if ret is not None:
+                ret_cell = f'<span style="color:{_pct_color(ret)};font-family:monospace">{ret:+.4f}</span>'
+            else:
+                ret_cell = '<span class="muted">—</span>'
             rows += (
                 f'<tr>'
                 f'<td class="ticker">{h["ticker"]}</td>'
                 f'<td>{_status_badge(status)}</td>'
-                f'<td>{_conviction_bar(conviction, width=12)} {conviction:.2f}</td>'
+                f'<td>{ret_cell}</td>'
                 f'<td class="muted small">{rationale}</td>'
                 f'</tr>'
             )
@@ -278,7 +345,7 @@ def _render_holdings_card(model_name: str, holdings: list[dict]) -> str:
         <thead><tr>
           <td class="muted small">Ticker</td>
           <td class="muted small">Status</td>
-          <td class="muted small">Conviction</td>
+          <td class="muted small">1W Log Ret</td>
           <td class="muted small">Rationale</td>
         </tr></thead>
         <tbody>{body}</tbody>
@@ -404,7 +471,7 @@ def _render_position_row(p: dict) -> str:
     pnl_str = f'${pnl:+.2f}' if pnl is not None else "—"
     pnl_color = _pct_color(pnl or 0)
     strategy = p.get("strategy", "stock")
-    models = ", ".join(p.get("recommending_models", [])) or "—"
+    models = ", ".join(p.get("originating_models", [])) or "—"
     return (
         f'<tr>'
         f'<td class="ticker">{p["ticker"]}</td>'
@@ -446,13 +513,12 @@ def _render_quant_scorecard(metrics: dict) -> str:
         return ""
 
     _MODEL_LABELS = {
-        "gbm":    ("quant_gbm",    "15 technical features, 20d target"),
         "gbm_v2": ("quant_gbm_v2", "27 features + SPY/earnings/buyback/sector, 10d target"),
-        "gbm_v3": ("quant_gbm_v3", "28 features + log_ret_756d, 10d target"),
+        "gbm_v3": ("quant_gbm_v3", "28 features + log_ret_756d + sector/earnings, 10d target"),
     }
 
     rows = ""
-    for key in ("gbm", "gbm_v2", "gbm_v3"):
+    for key in ("gbm_v2", "gbm_v3"):
         m = metrics.get(key)
         if not m or "error" in m:
             continue
@@ -463,7 +529,7 @@ def _render_quant_scorecard(metrics: dict) -> str:
         excess_color = _pct_color(excess)
         hit = m.get("hit_rate", 0)
         periods = m.get("eval_periods", 0)
-        cadence = "20d" if key == "gbm" else "10d"
+        cadence = "10d"
         rows += (
             f'<tr>'
             f'<td class="ticker">{label}</td>'
@@ -535,6 +601,7 @@ def _build_html(
     strategy_returns: dict,
     history_gaps: dict,
     quant_metrics: dict,
+    price_changes: dict[str, float],
 ) -> str:
 
     market_rows = (
@@ -557,7 +624,7 @@ def _build_html(
     holdings_cards = ""
     if all_holdings:
         for model_name, holdings in all_holdings.items():
-            holdings_cards += _render_holdings_card(model_name, holdings)
+            holdings_cards += _render_holdings_card(model_name, holdings, price_changes)
     else:
         holdings_cards = '<div class="card wide"><h2>Model Holdings</h2><p class="muted">No model evaluations yet</p></div>'
 
@@ -663,8 +730,8 @@ def _build_html(
         <thead><tr>
           <td class="muted small">Ticker</td>
           <td class="muted small">Close</td>
-          <td class="muted small">OHLC Avg</td>
-          <td class="muted small">Volume</td>
+          <td class="muted small">5d</td>
+          <td class="muted small">12m</td>
         </tr></thead>
         <tbody>{market_rows}</tbody>
       </table>
@@ -683,7 +750,7 @@ def _build_html(
         <thead><tr>
           <td class="muted small">Model</td>
           <td class="muted small">Holdings</td>
-          <td class="muted small">Avg Conviction</td>
+          <td class="muted small">Avg 1W Log Ret</td>
           <td class="muted small">Top Picks</td>
         </tr></thead>
         <tbody>{model_summary_rows}</tbody>
@@ -767,8 +834,9 @@ def generate_daily_dashboard(as_of_date: str | None = None) -> None:
 
     generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     universe = _load_universe_stats()
-    market = _load_spy_qqq()
-    model_eval = _load_latest_model_eval()
+    market = _load_benchmarks()
+    price_changes = _load_week_price_changes()
+    model_eval = _load_latest_model_eval(price_changes)
     eval_date, all_holdings = _load_all_model_holdings()
     decisions = _load_recent_decisions()
     positions = _load_open_positions()
@@ -780,7 +848,7 @@ def generate_daily_dashboard(as_of_date: str | None = None) -> None:
     html = _build_html(
         generated_at, universe, market, model_eval,
         all_holdings, decisions, positions, queue, strategy_returns, history_gaps,
-        quant_metrics,
+        quant_metrics, price_changes,
     )
 
     out = _DOCS_DIR / "index.html"

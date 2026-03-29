@@ -21,6 +21,7 @@ log = structlog.get_logger()
 _PRICES_DIR = Path("data/prices")
 _UNIVERSE_FILE = Path("data/universe/constituents.json")
 _SPLIT_THRESHOLD = 0.40  # ±40% single-day move flags a potential split
+_BENCHMARK_TICKERS = {"SPY", "QQQ"}  # always stored alongside universe tickers
 
 
 @dataclass
@@ -87,7 +88,7 @@ def ingest_daily(target_date: str | None = None, client: PolygonClient | None = 
         log.error("ingestion.empty_universe")
         return IngestResult(date=target_date, records_written=0, tickers_flagged_for_split=[])
 
-    universe_tickers = {t for t, r in universe.items() if r.get("status") == "active"}
+    universe_tickers = {t for t, r in universe.items() if r.get("status") == "active"} | _BENCHMARK_TICKERS
     log.info("ingestion.starting", date=target_date, universe_size=len(universe_tickers))
 
     if client is None:

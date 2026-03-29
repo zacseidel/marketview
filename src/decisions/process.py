@@ -55,7 +55,7 @@ def _next_trading_day(eval_date: str) -> str:
 
 def _parse_models(line: str) -> list[str]:
     """Extract model names from a line like '- [x] AAPL — momentum (0.90) + buyback (0.72)'."""
-    model_pattern = re.compile(r'\b(momentum|buyback|watchlist|composite|quant|thirteen_f|earnings)\b')
+    model_pattern = re.compile(r'\b(momentum|buyback|watchlist|quant|thirteen_f|earnings)\b')
     return model_pattern.findall(line)
 
 

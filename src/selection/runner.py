@@ -3,7 +3,7 @@ src/selection/runner.py
 
 Entry point for the model evaluation run (called by run-models.yml).
 Loads all enabled models from config/models.yaml, runs each, saves outputs,
-then runs the composite model, and finally generates the decision markdown.
+and generates the decision markdown.
 
 Usage:
     python -m src.selection.runner [--eval-date YYYY-MM-DD]
@@ -150,13 +150,8 @@ def run_models(eval_date: str | None = None) -> None:
 
     dal = DataAccessLayer()
 
-    # Run non-composite models first
-    composite_cfg = None
     for model_name, model_cfg in models_cfg["models"].items():
         if not model_cfg.get("enabled", False):
-            continue
-        if model_name == "composite":
-            composite_cfg = model_cfg
             continue
 
         log.info("runner.running_model", model=model_name)
@@ -172,20 +167,6 @@ def run_models(eval_date: str | None = None) -> None:
         prev_tickers = _prev_holdings_tickers(model_name, eval_date, dal)
         holdings = _assign_statuses(holdings, prev_tickers, eval_date, model_name, dal)
         dal.save_model_output(holdings, eval_date, model_name)
-
-    # Run composite last (needs other models' outputs to be saved first)
-    if composite_cfg:
-        log.info("runner.running_model", model="composite")
-        try:
-            ModelClass = _load_model_class(composite_cfg["module"], composite_cfg["class"])
-            instance = ModelClass()
-            config = {**composite_cfg.get("params", {}), "eval_date": eval_date}
-            holdings = instance.run(config, dal)
-            prev_tickers = _prev_holdings_tickers("composite", eval_date, dal)
-            holdings = _assign_statuses(holdings, prev_tickers, eval_date, "composite", dal)
-            dal.save_model_output(holdings, eval_date, "composite")
-        except Exception as exc:
-            log.error("runner.composite_error", error=str(exc))
 
     # Check strategy observation expirations for all currently held positions
     _check_strategy_expirations(eval_date, dal)

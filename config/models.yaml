@@ -50,31 +50,20 @@ models:
     params:
       watchlist_path: "config/watchlist.yaml"
 
-  composite:
-    enabled: true
-    module: "src.selection.composite"
-    class: "CompositeModel"
-    description: "Meta-model: flags tickers where 2+ enabled models agree, weighted by conviction"
-    params:
-      min_models_agreeing: 2
-      conviction_weights:
-        momentum: 1.0
-        watchlist: 0.5
-
   quant_gbm:
-    enabled: true
+    enabled: false
     module: "src.selection.quant"
     class: "QuantModel"
-    description: "LightGBM regression on 15 technical factors; trained on 10yr SP500/400 history; predicts 20d forward log return. Val Sharpe: 0.794, excess return +1.46%/period vs SPY."
+    description: "LightGBM regression on 15 technical factors; trained on 10yr SP500/400 history; predicts 20d forward log return. Val Sharpe: 0.794, excess return +1.46%/period vs SPY. Superseded by quant_gbm_v2/v3."
     params:
       model: "gbm"
       max_holdings: 20
 
   quant_knn:
-    enabled: true
+    enabled: false
     module: "src.selection.quant"
     class: "QuantModel"
-    description: "KNN analog matching (K=50, BallTree) on 15 technical factors; trained on 10yr SP500/400 history; predicts 20d forward log return. Val Sharpe: 0.373, excess return +0.64%/period vs SPY."
+    description: "KNN analog matching (K=50, BallTree) on 15 technical factors; trained on 10yr SP500/400 history; predicts 20d forward log return. Val Sharpe: 0.373, excess return +0.64%/period vs SPY. Superseded by quant_gbm_v2/v3."
     params:
       model: "knn"
       max_holdings: 20

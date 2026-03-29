@@ -52,8 +52,9 @@ def download(tickers: list[str] | None = None) -> None:
 
     if tickers is None:
         tickers = _get_universe_tickers()
-        if "SPY" not in tickers:
-            tickers = ["SPY"] + tickers  # always include SPY for benchmark comparison
+        for benchmark in ("SPY", "QQQ"):
+            if benchmark not in tickers:
+                tickers = [benchmark] + tickers  # always include benchmarks
 
     already_done = _load_existing()
     remaining = [t for t in tickers if t not in already_done]
