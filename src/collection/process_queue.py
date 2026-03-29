@@ -215,9 +215,9 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
         # If this was a strategy_entry request, create new observations
         obs = load_observations(ticker, stock_entry_date)
         if not obs:
-            # Find originating models from position
-            models = []
-            if positions_file.exists():
+            # Originating models: task metadata takes precedence over position lookup
+            models = task.metadata.get("originating_models", [])
+            if not models and positions_file.exists():
                 with open(positions_file) as f:
                     positions = json.load(f)
                 for pos in positions:

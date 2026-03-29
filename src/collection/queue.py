@@ -40,6 +40,7 @@ class QueueItem:
     retry_count: int = 0
     data_path: str | None = None
     error_msg: str | None = None
+    metadata: dict = field(default_factory=dict)
 
 
 def _now_iso() -> str:
@@ -93,6 +94,7 @@ class WorkQueue:
         requested_date: str,
         requested_by: str,
         priority: Priority = "normal",
+        metadata: dict | None = None,
     ) -> str:
         """
         Add a task to the queue. Deduplicates by (task_type, ticker, requested_date).
@@ -114,6 +116,7 @@ class WorkQueue:
             requested_date=requested_date,
             requested_by=requested_by,
             priority=priority,
+            metadata=metadata or {},
         )
         items.append(new_item)
         self._save_pending(items)
