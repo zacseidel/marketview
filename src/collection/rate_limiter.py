@@ -4,6 +4,8 @@ src/collection/rate_limiter.py
 Token bucket rate limiter for Polygon.io free tier (5 calls/minute).
 """
 
+from __future__ import annotations
+
 import threading
 import time
 
@@ -30,8 +32,10 @@ class RateLimiter:
                 wait = (1.0 - self._tokens) / self._refill_rate
                 log.debug("rate_limiter.waiting", wait_seconds=round(wait, 2))
                 self._lock.release()
-                time.sleep(wait)
-                self._lock.acquire()
+                try:
+                    time.sleep(wait)
+                finally:
+                    self._lock.acquire()
                 self._refill()
             self._tokens -= 1.0
 

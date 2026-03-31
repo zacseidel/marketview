@@ -101,8 +101,10 @@ def _append_history(perf: PortfolioPerformance) -> None:
     history.append(snapshot)
     history.sort(key=lambda h: h["as_of_date"])
 
-    with open(_PORTFOLIO_HISTORY_FILE, "w") as f:
+    tmp = _PORTFOLIO_HISTORY_FILE.with_suffix(".tmp")
+    with open(tmp, "w") as f:
         json.dump(history, f, indent=2)
+    tmp.replace(_PORTFOLIO_HISTORY_FILE)
 
 
 if __name__ == "__main__":

@@ -68,12 +68,12 @@ All models implement `SelectionModel.run(config, dal) -> list[HoldingRecord]`.
 - `base.py` — `HoldingRecord`, `DataAccessLayer`, `SelectionModel` ABC
 - `momentum.py` — `MomentumModel`: top 10 S&P 500 by trailing 252-day log return; rank-stability filter (rank must not drop week-over-week). Saves full ranking sidecar to `data/models/{date}/momentum_ranks.json`.
 - `munger.py` — `MungerModel`: top 100 S&P 500 by market cap; buy if price touched ≤ SMA200 in last 21 days AND currently above EMA15; sell if drops below EMA15.
-- `repurchase.py` — `RepurchaseModel`: top 5 by trailing-12-month share buyback % (shares repurchased / shares outstanding); must be above 21-day EMA; sell if drops out of top 5 or below EMA. Currently covers S&P 400 universe (where fundamentals data exists); will expand to S&P 500 once fundamentals bulk fetch is run.
+- `repurchase.py` — `RepurchaseModel`: top 5 by trailing-12-month share buyback % (shares repurchased / shares outstanding); must be above 21-day EMA; sell if drops out of top 5 or below EMA.
 - `buyback.py` — `BuybackModel`: 2+ consecutive quarters of declining share count ≥1%/quarter
 - `watchlist.py` — `WatchlistModel`: reads `config/watchlist.yaml`
 - `composite.py` — `CompositeModel`: flags tickers where 2+ enabled models agree
-- `earnings.py` — `EarningsModel`: YoY/QoQ net income growth, revenue growth, acceleration (enabled: false — needs fundamentals bulk fetch first)
-- `quant.py` — `QuantModel`: loads trained artifacts from `data/quant/artifacts/`, downloads recent prices via yfinance, returns top-N picks with predicted 20d log return. Supports `model: gbm | knn`. Wired in as two separate pipeline entries (`quant_gbm`, `quant_knn`).
+- `earnings.py` — `EarningsModel`: YoY/QoQ net income growth, revenue growth, acceleration (removed — earnings signals subsumed by `quant_gbm_v3`)
+- `quant.py` — `QuantModel`: loads trained artifacts from `data/quant/artifacts/`, downloads recent prices via yfinance, returns top-N picks with predicted 20d log return. Supports `model: gbm`. Wired in as `quant_gbm`.
 - `thirteen_f.py` — stub (enabled: false)
 - `runner.py` — Loads enabled models from `config/models.yaml`, runs them, assigns new_buy/hold/sell statuses, calls `generate_decision_file`. `_prev_holdings_tickers` excludes sell-status records to prevent duplicate sell signals.
 
@@ -124,9 +124,9 @@ Standalone research pipeline — runs locally, not wired into GitHub Actions.
 | `watchlist` | `WatchlistModel` | User-curated tickers | — |
 | `composite` | `CompositeModel` | 2+ models agree | — |
 | `quant_gbm` | `QuantModel` | LightGBM on 15 technical factors | 0.794 |
-| `quant_knn` | `QuantModel` | KNN analog matching (K=50) | 0.373 |
+| `quant_gbm_v3` | `QuantModelV3` | LightGBM v3: 28 features incl. earnings + sector | 1.125 |
 
-Disabled: `earnings` (needs fundamentals), `thirteen_f` (stub), `quant` (superseded by `quant_gbm`/`quant_knn`).
+Disabled: `thirteen_f` (stub), `buyback` (disabled).
 
 ---
 
@@ -165,7 +165,6 @@ Disabled: `earnings` (needs fundamentals), `thirteen_f` (stub), `quant` (superse
 python -m src.collection.process_queue
 
 # Fetch fundamentals for entire universe (slow — 5 calls/min, ~3 hrs, resumable)
-# Required to expand repurchase model to S&P 500 and enable earnings model
 python -m src.collection.fundamentals
 
 # Run selection models for today
@@ -198,8 +197,6 @@ python -m src.reports.daily
 | Fundamentals | Bulk fetch run for S&P 400 only (~360 files). S&P 500 not yet fetched. |
 | Quant artifacts | GBM and KNN trained and deployed; cluster dropped (no val-set edge) |
 | Scorecards | Populated for enabled models |
-
-**Pending operational step:** Run `python -m src.collection.fundamentals` to populate S&P 500 fundamentals. Needed to: (1) expand `repurchase` model to large caps, (2) enable `earnings` model. Takes ~3 hours, resumable.
 
 ---
 

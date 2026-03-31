@@ -41,8 +41,10 @@ def _load_positions() -> list[dict]:
 
 def _save_positions(positions: list[dict]) -> None:
     _POSITIONS_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(_POSITIONS_FILE, "w") as f:
+    tmp = _POSITIONS_FILE.with_suffix(".tmp")
+    with open(tmp, "w") as f:
         json.dump(positions, f, indent=2)
+    tmp.replace(_POSITIONS_FILE)
 
 
 def _load_close_prices(as_of_date: str) -> dict[str, float]:

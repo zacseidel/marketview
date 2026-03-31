@@ -65,5 +65,10 @@ class WatchlistModel(SelectionModel):
                 metadata={"notes": notes, "source": "manual"},
             ))
 
+        max_holdings = int(cfg.get("max_holdings", len(results)))
+        if len(results) > max_holdings:
+            results.sort(key=lambda r: r.conviction, reverse=True)
+            results = results[:max_holdings]
+
         log.info("watchlist.complete", holdings=len(results))
         return results

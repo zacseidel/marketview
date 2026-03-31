@@ -98,12 +98,11 @@ def load_observations(ticker: str, stock_entry_date: str) -> list[StrategyObserv
 
 def save_observations(ticker: str, stock_entry_date: str, observations: list[StrategyObservation]) -> None:
     path = _obs_path(ticker, stock_entry_date)
-    data = []
-    for obs in observations:
-        d = asdict(obs)
-        data.append(d)
-    with open(path, "w") as f:
+    data = [asdict(obs) for obs in observations]
+    tmp = path.with_suffix(".tmp")
+    with open(tmp, "w") as f:
         json.dump(data, f, indent=2)
+    tmp.replace(path)
 
 
 def load_all_observations() -> list[StrategyObservation]:

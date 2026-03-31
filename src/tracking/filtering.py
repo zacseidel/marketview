@@ -140,8 +140,10 @@ def get_all_filtering_analysis(as_of_date: str | None = None) -> dict[str, Filte
         result[model_name] = compute_filtering_value_add(model_name, as_of_date)
 
     _FILTERING_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(_FILTERING_FILE, "w") as f:
+    tmp = _FILTERING_FILE.with_suffix(".tmp")
+    with open(tmp, "w") as f:
         json.dump({k: asdict(v) for k, v in result.items()}, f, indent=2)
+    tmp.replace(_FILTERING_FILE)
 
     return result
 

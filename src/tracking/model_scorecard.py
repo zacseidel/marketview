@@ -196,8 +196,10 @@ def update_model_scorecard(model_name: str) -> ModelScorecard:
 def _save_scorecard(sc: ModelScorecard) -> None:
     _SCORECARDS_DIR.mkdir(parents=True, exist_ok=True)
     path = _SCORECARDS_DIR / f"{sc.model}.json"
-    with open(path, "w") as f:
+    tmp = path.with_suffix(".tmp")
+    with open(tmp, "w") as f:
         json.dump(asdict(sc), f, indent=2)
+    tmp.replace(path)
 
 
 def get_all_scorecards() -> dict[str, ModelScorecard]:

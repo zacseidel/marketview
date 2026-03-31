@@ -39,8 +39,10 @@ def _load_constituents() -> dict[str, dict]:
 
 def _save_constituents(constituents: dict[str, dict]) -> None:
     _UNIVERSE_DIR.mkdir(parents=True, exist_ok=True)
-    with open(_UNIVERSE_FILE, "w") as f:
+    tmp = _UNIVERSE_FILE.with_suffix(".tmp")
+    with open(tmp, "w") as f:
         json.dump(constituents, f, indent=2)
+    tmp.replace(_UNIVERSE_FILE)
 
 
 def reconcile() -> dict:

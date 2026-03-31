@@ -15,3 +15,5 @@ Phase 3 implementation will provide:
 All functions are pure (no I/O) and operate on numeric inputs.
 Used by: covered_call.py, leap.py, diagonal.py, csp.py
 """
+
+from __future__ import annotations

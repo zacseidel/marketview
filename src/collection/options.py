@@ -15,3 +15,5 @@ Phase 3 implementation will:
 Entry point:
     fetch_options_chain(ticker: str, date: str | None = None) -> str  # returns data path
 """
+
+from __future__ import annotations

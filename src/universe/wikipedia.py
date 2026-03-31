@@ -4,6 +4,8 @@ src/universe/wikipedia.py
 Scrapes S&P 500 and S&P 400 constituent lists from Wikipedia.
 """
 
+from __future__ import annotations
+
 import re
 
 import pandas as pd

@@ -8,7 +8,7 @@ Strategy:
   - Rank all tickers by trailing 12-month return (252 trading days)
   - Rank stability filter: ticker must not have dropped in rank vs. the
     most recent prior run (rank must be same or better)
-  - Select top 10 from the passing set
+  - Select top 5 from the passing set
 
 Persistence:
   - Standard HoldingRecord output → data/models/{eval_date}/momentum.json
@@ -32,7 +32,7 @@ _MODELS_DIR = Path("data/models")
 _LOOKBACK = 252  # trading days ≈ 12 months
 
 _DEFAULT_CONFIG = {
-    "max_holdings": 10,
+    "max_holdings": 5,
 }
 
 
@@ -100,8 +100,10 @@ def _save_ranks(ranks: list[dict], eval_date: str) -> None:
     out_dir = _MODELS_DIR / eval_date
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / "momentum_ranks.json"
-    with open(path, "w") as f:
+    tmp = path.with_suffix(".tmp")
+    with open(tmp, "w") as f:
         json.dump(ranks, f, indent=2)
+    tmp.replace(path)
     log.info("momentum.ranks_saved", path=str(path), count=len(ranks))
 
 

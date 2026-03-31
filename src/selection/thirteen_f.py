@@ -13,3 +13,5 @@ Currently a stub. Set enabled: false in config/models.yaml.
 
 Implements: SelectionModel from src/selection/base.py
 """
+
+from __future__ import annotations

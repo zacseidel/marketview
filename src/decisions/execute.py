@@ -56,8 +56,10 @@ def _load_positions() -> list[dict]:
 
 def _save_positions(positions: list[dict]) -> None:
     _POSITIONS_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(_POSITIONS_FILE, "w") as f:
+    tmp = _POSITIONS_FILE.with_suffix(".tmp")
+    with open(tmp, "w") as f:
         json.dump(positions, f, indent=2)
+    tmp.replace(_POSITIONS_FILE)
 
 
 def _load_ohlc(execution_date: str) -> dict[str, float]:
@@ -103,8 +105,10 @@ def _save_decision_updates(eval_date: str, updates: dict[str, dict]) -> None:
         key = (r["ticker"], r["action"])
         if key in updates:
             r.update(updates[key])
-    with open(path, "w") as f:
+    tmp = path.with_suffix(".tmp")
+    with open(tmp, "w") as f:
         json.dump(records, f, indent=2)
+    tmp.replace(path)
 
 
 def record_executions(execution_date: str | None = None) -> ExecutionResult:

@@ -179,21 +179,23 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
         from src.strategy.snapshot import (
             create_observation_set, save_observations,
             load_observations, close_awaiting_chain,
+            reopen_expired_strategies,
         )
 
-        # Load metadata stored in task (if any)
-        reason = "strategy_entry"  # default
-        stock_entry_date = task.requested_date
+        reason = task.metadata.get("reason", "strategy_entry")
 
-        # Try to find the stock entry date from open positions
-        positions_file = Path("data/positions/positions.json")
-        if positions_file.exists():
-            with open(positions_file) as f:
-                positions = json.load(f)
-            for pos in positions:
-                if pos.get("ticker") == ticker and pos.get("status") == "open":
-                    stock_entry_date = pos.get("entry_date", task.requested_date)
-                    break
+        # stock_entry_date: use metadata if present (reopen tasks set this explicitly),
+        # otherwise look up from the open position record.
+        stock_entry_date = task.metadata.get("stock_entry_date", task.requested_date)
+        if stock_entry_date == task.requested_date:
+            positions_file = Path("data/positions/positions.json")
+            if positions_file.exists():
+                with open(positions_file) as f:
+                    positions = json.load(f)
+                for pos in positions:
+                    if pos.get("ticker") == ticker and pos.get("status") == "open":
+                        stock_entry_date = pos.get("entry_date", task.requested_date)
+                        break
 
         if stock_price is None:
             log.warning("process_queue.no_stock_price", ticker=ticker, date=task.requested_date)
@@ -201,7 +203,7 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
             processed += 1
             continue
 
-        # Close any awaiting_chain observations
+        # Close any awaiting_chain observations regardless of reason
         resolved = close_awaiting_chain(
             ticker=ticker,
             stock_entry_date=stock_entry_date,
@@ -212,28 +214,49 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
         if resolved:
             log.info("process_queue.resolved_awaiting", ticker=ticker, resolved=resolved)
 
-        # If this was a strategy_entry request, create new observations
-        obs = load_observations(ticker, stock_entry_date)
-        if not obs:
-            # Originating models: task metadata takes precedence over position lookup
-            models = task.metadata.get("originating_models", [])
-            if not models and positions_file.exists():
-                with open(positions_file) as f:
-                    positions = json.load(f)
-                for pos in positions:
-                    if pos.get("ticker") == ticker and pos.get("entry_date") == stock_entry_date:
-                        models = pos.get("originating_models", [])
-                        break
+        if reason == "reopen":
+            # Expired legs were already closed by strategy_runner; open new generation legs
+            strategies_to_reopen = task.metadata.get("strategies_to_reopen", [])
+            originating_models = task.metadata.get("originating_models", [])
+            if strategies_to_reopen:
+                reopen_expired_strategies(
+                    ticker=ticker,
+                    stock_entry_date=stock_entry_date,
+                    strategies_to_reopen=strategies_to_reopen,
+                    eval_date=task.requested_date,
+                    stock_price=stock_price,
+                    chain=chain,
+                    originating_models=originating_models,
+                )
+                log.info(
+                    "process_queue.strategies_reopened",
+                    ticker=ticker,
+                    strategies=strategies_to_reopen,
+                )
 
-            new_obs = create_observation_set(
-                ticker=ticker,
-                stock_price=stock_price,
-                chain=chain,
-                entry_date=stock_entry_date,
-                originating_models=models,
-            )
-            save_observations(ticker, stock_entry_date, new_obs)
-            log.info("process_queue.strategy_snapshots_created", ticker=ticker, count=len(new_obs))
+        else:
+            # strategy_entry: create initial observations if none exist yet
+            obs = load_observations(ticker, stock_entry_date)
+            if not obs:
+                positions_file = Path("data/positions/positions.json")
+                models = task.metadata.get("originating_models", [])
+                if not models and positions_file.exists():
+                    with open(positions_file) as f:
+                        positions = json.load(f)
+                    for pos in positions:
+                        if pos.get("ticker") == ticker and pos.get("entry_date") == stock_entry_date:
+                            models = pos.get("originating_models", [])
+                            break
+
+                new_obs = create_observation_set(
+                    ticker=ticker,
+                    stock_price=stock_price,
+                    chain=chain,
+                    entry_date=stock_entry_date,
+                    originating_models=models,
+                )
+                save_observations(ticker, stock_entry_date, new_obs)
+                log.info("process_queue.strategy_snapshots_created", ticker=ticker, count=len(new_obs))
 
         queue.mark_complete(task.task_id, data_path=str(chain_path))
         processed += 1

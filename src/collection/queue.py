@@ -70,8 +70,10 @@ class WorkQueue:
         return [QueueItem(**r) for r in raw]
 
     def _save_pending(self, items: list[QueueItem]) -> None:
-        with open(self._pending_path, "w") as f:
+        tmp = self._pending_path.with_suffix(".tmp")
+        with open(tmp, "w") as f:
             json.dump([asdict(i) for i in items], f, indent=2)
+        tmp.replace(self._pending_path)
 
     def _load_completed(self) -> list[dict]:
         if not self._completed_path.exists():
@@ -80,8 +82,10 @@ class WorkQueue:
             return json.load(f)
 
     def _save_completed(self, records: list[dict]) -> None:
-        with open(self._completed_path, "w") as f:
+        tmp = self._completed_path.with_suffix(".tmp")
+        with open(tmp, "w") as f:
             json.dump(records, f, indent=2)
+        tmp.replace(self._completed_path)
 
     # ------------------------------------------------------------------
     # Public API
