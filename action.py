@@ -27,6 +27,7 @@ STEPS = [
     ("Download prices",         ["python", "-m", "src.universe.ingestion"]),
     ("Process work queue",      ["python", "-m", "src.collection.process_queue"]),
     ("Run selection models",    ["python", "-m", "src.selection.runner"]),
+    ("Evaluate strategies",     ["python", "-m", "src.strategy.runner"]),
     ("Regenerate dashboard",    ["python", "-m", "src.reports.daily"]),
 ]
 
