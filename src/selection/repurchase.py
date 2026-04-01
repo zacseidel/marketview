@@ -40,7 +40,7 @@ def _compute_ema(closes: list[float], period: int) -> float | None:
     return ema
 
 
-def _trailing_buyback_pct(quarters: list[dict], cutoff_date: str) -> float | None:
+def _trailing_buyback_pct(quarters: list[dict], cutoff_date: str) -> tuple[float | None, list[dict]]:
     """
     Compute shares repurchased as a fraction of shares outstanding 12 months ago.
 
@@ -60,7 +60,7 @@ def _trailing_buyback_pct(quarters: list[dict], cutoff_date: str) -> float | Non
         and not q.get("period", "").startswith("FY")    # skip full-year summaries
     ]
     if len(valid) < _MIN_QUARTERS:
-        return None
+        return None, []
 
     # Sort most-recent first
     valid.sort(key=lambda q: q["filing_date"], reverse=True)
@@ -71,16 +71,16 @@ def _trailing_buyback_pct(quarters: list[dict], cutoff_date: str) -> float | Non
     # Find most recent quarter filed on or before baseline_cutoff
     baseline_candidates = [q for q in valid if q["filing_date"] <= baseline_cutoff]
     if not baseline_candidates:
-        return None
+        return None, []
 
     baseline = baseline_candidates[0]
     baseline_shares = baseline["shares_outstanding"]
     current_shares = current["shares_outstanding"]
 
     if baseline_shares <= 0:
-        return None
+        return None, []
 
-    return (baseline_shares - current_shares) / baseline_shares
+    return (baseline_shares - current_shares) / baseline_shares, valid
 
 
 class RepurchaseModel(SelectionModel):
@@ -100,7 +100,7 @@ class RepurchaseModel(SelectionModel):
                 continue
 
             try:
-                buyback_pct = _trailing_buyback_pct(quarters, cutoff_date)
+                buyback_pct, valid = _trailing_buyback_pct(quarters, cutoff_date)
             except Exception as exc:
                 log.debug("repurchase.buyback_error", ticker=ticker, error=str(exc))
                 continue
@@ -122,16 +122,7 @@ class RepurchaseModel(SelectionModel):
             if current_price <= ema21:
                 continue  # below EMA — not a buy
 
-            # Build metadata from most recent valid quarter
-            valid = [
-                q for q in quarters
-                if (q.get("shares_outstanding") or 0) > 0
-                and q.get("filing_date", "") <= cutoff_date
-                and not q.get("period", "").startswith("TTM")
-                and not q.get("period", "").startswith("FY")
-            ]
-            valid.sort(key=lambda q: q["filing_date"], reverse=True)
-            latest = valid[0]
+            latest = valid[0]  # already filtered and sorted by _trailing_buyback_pct
 
             meta = {
                 "buyback_pct_12m": round(buyback_pct * 100, 3),

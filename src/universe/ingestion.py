@@ -100,6 +100,9 @@ def ingest_daily(target_date: str | None = None, client: PolygonClient | None = 
 
     if not bars:
         log.warning("ingestion.no_bars", date=target_date, status=raw.get("status"))
+        # Write an empty file so backfill doesn't retry this date (likely a market holiday)
+        with open(out_file, "w") as f:
+            json.dump([], f)
         return IngestResult(date=target_date, records_written=0, tickers_flagged_for_split=[])
 
     log.info("ingestion.bars_received", date=target_date, total_bars=len(bars))
@@ -183,13 +186,38 @@ def ingest_daily(target_date: str | None = None, client: PolygonClient | None = 
     )
 
 
+def _missing_weekdays(lookback_days: int = 7) -> list[str]:
+    """Return ISO date strings for weekdays in the past lookback_days that have no price file."""
+    today = date.today()
+    missing = []
+    for offset in range(1, lookback_days + 1):
+        d = today - timedelta(days=offset)
+        if d.weekday() >= 5:  # skip weekends
+            continue
+        if not (_PRICES_DIR / f"{d.isoformat()}.json").exists():
+            missing.append(d.isoformat())
+    return missing
+
+
 if __name__ == "__main__":
     import sys
     from dotenv import load_dotenv
 
     load_dotenv()
     target = sys.argv[1] if len(sys.argv) > 1 else None
-    result = ingest_daily(target)
+
+    client = PolygonClient()
+
+    # Backfill any missing weekdays in the past 7 days before the primary ingest
+    missing = _missing_weekdays()
+    if target:
+        # Explicit date passed — skip backfill, just run that date
+        missing = []
+    for d in sorted(missing):
+        log.info("ingestion.backfill", date=d)
+        ingest_daily(d, client=client)
+
+    result = ingest_daily(target, client=client)
     print(f"Ingested {result.records_written} records for {result.date}")
     if result.tickers_flagged_for_split:
         print(f"Split flags: {result.tickers_flagged_for_split}")

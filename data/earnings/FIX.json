@@ -15,11 +15,11 @@
     "rev_yoy_growth": 0.303,
     "ni_qoq_growth": 0.2337,
     "ni_acceleration": -0.0966,
-    "price_on_event_date": 824.0633,
-    "price_5d_after": 962.2062,
-    "price_20d_after": 875.735,
-    "earn_ret_5d": 0.155,
-    "earn_ret_5d_to_20d": -0.0942
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -37,11 +37,11 @@
     "rev_yoy_growth": 0.3464,
     "ni_qoq_growth": 0.3102,
     "ni_acceleration": 0.3976,
-    "price_on_event_date": 561.7905,
-    "price_5d_after": 702.0011,
-    "price_20d_after": 693.212,
-    "earn_ret_5d": 0.2228,
-    "earn_ret_5d_to_20d": -0.0126
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -59,11 +59,11 @@
     "rev_yoy_growth": 0.2843,
     "ni_qoq_growth": 0.1464,
     "ni_acceleration": -0.2677,
-    "price_on_event_date": 375.1505,
-    "price_5d_after": 416.8727,
-    "price_20d_after": 461.3863,
-    "earn_ret_5d": 0.1055,
-    "earn_ret_5d_to_20d": 0.1015
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -81,11 +81,11 @@
     "rev_yoy_growth": 0.335,
     "ni_qoq_growth": 0.0873,
     "ni_acceleration": -0.1069,
-    "price_on_event_date": 411.474,
-    "price_5d_after": 389.1523,
-    "price_20d_after": 487.9874,
-    "earn_ret_5d": -0.0558,
-    "earn_ret_5d_to_20d": 0.2263
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -103,11 +103,11 @@
     "rev_yoy_growth": 0.4325,
     "ni_qoq_growth": 0.3302,
     "ni_acceleration": 0.4027,
-    "price_on_event_date": 290.4516,
-    "price_5d_after": 324.782,
-    "price_20d_after": 335.3633,
-    "earn_ret_5d": 0.1117,
-    "earn_ret_5d_to_20d": 0.0321
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -125,11 +125,11 @@
     "rev_yoy_growth": 0.3165,
     "ni_qoq_growth": -0.0875,
     "ni_acceleration": -0.4632,
-    "price_on_event_date": 309.3327,
-    "price_5d_after": 305.6672,
-    "price_20d_after": 328.7092,
-    "earn_ret_5d": -0.0119,
-    "earn_ret_5d_to_20d": 0.0727
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -147,11 +147,11 @@
     "rev_yoy_growth": 0.3029,
     "ni_qoq_growth": 0.4142,
     "ni_acceleration": 1.1338,
-    "price_on_event_date": 152.2498,
-    "price_5d_after": 186.0247,
-    "price_20d_after": 197.3426,
-    "earn_ret_5d": 0.2004,
-    "earn_ret_5d_to_20d": 0.0591
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -169,11 +169,11 @@
     "rev_yoy_growth": 0.3815,
     "ni_qoq_growth": 0.1941,
     "ni_acceleration": -0.434,
-    "price_on_event_date": 164.2365,
-    "price_5d_after": 173.0285,
-    "price_20d_after": 180.1262,
-    "earn_ret_5d": 0.0521,
-    "earn_ret_5d_to_20d": 0.0402
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -191,11 +191,11 @@
     "rev_yoy_growth": 0.3426,
     "ni_qoq_growth": -0.0724,
     "ni_acceleration": -0.412,
-    "price_on_event_date": 131.3393,
-    "price_5d_after": 148.02,
-    "price_20d_after": 143.4049,
-    "earn_ret_5d": 0.1196,
-    "earn_ret_5d_to_20d": -0.0317
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -213,11 +213,11 @@
     "rev_yoy_growth": 0.4504,
     "ni_qoq_growth": 0.3758,
     "ni_acceleration": 0.1571,
-    "price_on_event_date": 108.1877,
-    "price_5d_after": 115.122,
-    "price_20d_after": 124.4987,
-    "earn_ret_5d": 0.0621,
-    "earn_ret_5d_to_20d": 0.0783
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -235,11 +235,11 @@
     "rev_yoy_growth": 0.4186,
     "ni_qoq_growth": -0.7197,
     "ni_acceleration": -0.0827,
-    "price_on_event_date": 91.2113,
-    "price_5d_after": 102.9341,
-    "price_20d_after": 100.9081,
-    "earn_ret_5d": 0.1209,
-    "earn_ret_5d_to_20d": -0.0199
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -257,11 +257,11 @@
     "rev_yoy_growth": 0.2148,
     "ni_qoq_growth": 0.6281,
     "ni_acceleration": 0.3905,
-    "price_on_event_date": 83.6514,
-    "price_5d_after": 88.8046,
-    "price_20d_after": 85.2317,
-    "earn_ret_5d": 0.0598,
-    "earn_ret_5d_to_20d": -0.0411
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -279,11 +279,11 @@
     "rev_yoy_growth": 0.1148,
     "ni_qoq_growth": 0.3396,
     "ni_acceleration": -0.4621,
-    "price_on_event_date": 81.2429,
-    "price_5d_after": 93.5412,
-    "price_20d_after": 100.3123,
-    "earn_ret_5d": 0.141,
-    "earn_ret_5d_to_20d": 0.0699
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -301,11 +301,11 @@
     "rev_yoy_growth": 0.0195,
     "ni_qoq_growth": 0.2186,
     "ni_acceleration": 0.9342,
-    "price_on_event_date": 72.7257,
-    "price_5d_after": 72.5788,
-    "price_20d_after": 73.7796,
-    "earn_ret_5d": -0.002,
-    "earn_ret_5d_to_20d": 0.0164
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -323,11 +323,11 @@
     "rev_yoy_growth": -0.054,
     "ni_qoq_growth": -0.637,
     "ni_acceleration": -1.0417,
-    "price_on_event_date": 79.6033,
-    "price_5d_after": 83.0648,
-    "price_20d_after": 78.503,
-    "earn_ret_5d": 0.0426,
-    "earn_ret_5d_to_20d": -0.0565
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -345,11 +345,11 @@
     "rev_yoy_growth": 0.0936,
     "ni_qoq_growth": 0.2376,
     "ni_acceleration": 0.0413,
-    "price_on_event_date": 52.774,
-    "price_5d_after": 45.42,
-    "price_20d_after": 49.8012,
-    "earn_ret_5d": -0.1501,
-    "earn_ret_5d_to_20d": 0.0921
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -367,11 +367,11 @@
     "rev_yoy_growth": 0.3226,
     "ni_qoq_growth": 0.8017,
     "ni_acceleration": 1.4645,
-    "price_on_event_date": 41.8137,
-    "price_5d_after": 49.3871,
-    "price_20d_after": 50.7967,
-    "earn_ret_5d": 0.1665,
-    "earn_ret_5d_to_20d": 0.0281
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -389,11 +389,11 @@
     "rev_yoy_growth": 0.1635,
     "ni_qoq_growth": -0.7155,
     "ni_acceleration": -0.8846,
-    "price_on_event_date": 32.1623,
-    "price_5d_after": 30.7576,
-    "price_20d_after": 35.9806,
-    "earn_ret_5d": -0.0447,
-    "earn_ret_5d_to_20d": 0.1568
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -411,11 +411,11 @@
     "rev_yoy_growth": 0.2786,
     "ni_qoq_growth": 0.4047,
     "ni_acceleration": -0.265,
-    "price_on_event_date": 45.4059,
-    "price_5d_after": 48.6175,
-    "price_20d_after": 48.3652,
-    "earn_ret_5d": 0.0683,
-    "earn_ret_5d_to_20d": -0.0052
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -433,11 +433,11 @@
     "rev_yoy_growth": 0.3355,
     "ni_qoq_growth": 0.1962,
     "ni_acceleration": 0.4872,
-    "price_on_event_date": 50.384,
-    "price_5d_after": 39.3875,
-    "price_20d_after": 37.0249,
-    "earn_ret_5d": -0.2462,
-    "earn_ret_5d_to_20d": -0.0619
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -455,11 +455,11 @@
     "rev_yoy_growth": 0.1132,
     "ni_qoq_growth": -0.6627,
     "ni_acceleration": -0.8778,
-    "price_on_event_date": 54.5077,
-    "price_5d_after": 50.5519,
-    "price_20d_after": 47.4882,
-    "earn_ret_5d": -0.0753,
-    "earn_ret_5d_to_20d": -0.0625
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -477,11 +477,11 @@
     "rev_yoy_growth": 0.2449,
     "ni_qoq_growth": 0.169,
     "ni_acceleration": -0.708,
-    "price_on_event_date": 48.1334,
-    "price_5d_after": 51.4923,
-    "price_20d_after": 49.5012,
-    "earn_ret_5d": 0.0675,
-    "earn_ret_5d_to_20d": -0.0394
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -499,11 +499,11 @@
     "rev_yoy_growth": 0.3406,
     "ni_qoq_growth": 0.6697,
     "ni_acceleration": 1.677,
-    "price_on_event_date": 46.9135,
-    "price_5d_after": 52.503,
-    "price_20d_after": 54.497,
-    "earn_ret_5d": 0.1126,
-    "earn_ret_5d_to_20d": 0.0373
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -521,11 +521,11 @@
     "rev_yoy_growth": 0.081,
     "ni_qoq_growth": -0.2909,
     "ni_acceleration": -0.4354,
-    "price_on_event_date": 39.63,
-    "price_5d_after": 40.4884,
-    "price_20d_after": 44.1904,
-    "earn_ret_5d": 0.0214,
-    "earn_ret_5d_to_20d": 0.0875
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -543,11 +543,11 @@
     "rev_yoy_growth": 0.1175,
     "ni_qoq_growth": 0.2151,
     "ni_acceleration": -0.373,
-    "price_on_event_date": 35.6404,
-    "price_5d_after": 39.8698,
-    "price_20d_after": 40.1299,
-    "earn_ret_5d": 0.1121,
-    "earn_ret_5d_to_20d": 0.0065
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -565,11 +565,11 @@
     "rev_yoy_growth": 0.1872,
     "ni_qoq_growth": 0.877,
     "ni_acceleration": 1.5805,
-    "price_on_event_date": 34.8022,
-    "price_5d_after": 31.1987,
-    "price_20d_after": 31.316,
-    "earn_ret_5d": -0.1093,
-    "earn_ret_5d_to_20d": 0.0038
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -587,11 +587,11 @@
     "rev_yoy_growth": -0.0758,
     "ni_qoq_growth": -1.0072,
     "ni_acceleration": -1.2383,
-    "price_on_event_date": 35.0599,
-    "price_5d_after": 33.7351,
-    "price_20d_after": 33.0005,
-    "earn_ret_5d": -0.0385,
-    "earn_ret_5d_to_20d": -0.022
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -609,11 +609,11 @@
     "rev_yoy_growth": 0.0289,
     "ni_qoq_growth": 0.1445,
     "ni_acceleration": -0.6845,
-    "price_on_event_date": 25.7217,
-    "price_5d_after": 26.8994,
-    "price_20d_after": 32.2068,
-    "earn_ret_5d": 0.0448,
-    "earn_ret_5d_to_20d": 0.1801
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -631,11 +631,11 @@
     "rev_yoy_growth": 0.1458,
     "ni_qoq_growth": 0.588,
     "ni_acceleration": 0.8965,
-    "price_on_event_date": 30.0015,
-    "price_5d_after": 27.2758,
-    "price_20d_after": 27.4365,
-    "earn_ret_5d": -0.0952,
-    "earn_ret_5d_to_20d": 0.0059
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -653,11 +653,11 @@
     "rev_yoy_growth": 0.0418,
     "ni_qoq_growth": -0.7035,
     "ni_acceleration": -1.0957,
-    "price_on_event_date": 30.7975,
-    "price_5d_after": 28.7719,
-    "price_20d_after": 29.8887,
-    "earn_ret_5d": -0.068,
-    "earn_ret_5d_to_20d": 0.0381
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -675,11 +675,11 @@
     "rev_yoy_growth": 0.1237,
     "ni_qoq_growth": 0.2311,
     "ni_acceleration": -1.554,
-    "price_on_event_date": 27.8299,
-    "price_5d_after": 29.7723,
-    "price_20d_after": 30.3385,
-    "earn_ret_5d": 0.0675,
-    "earn_ret_5d_to_20d": 0.0188
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -697,11 +697,11 @@
     "rev_yoy_growth": 0.2594,
     "ni_qoq_growth": 0.8289,
     "ni_acceleration": 3.2199,
-    "price_on_event_date": 22.8084,
-    "price_5d_after": 27.234,
-    "price_20d_after": 25.9247,
-    "earn_ret_5d": 0.1773,
-    "earn_ret_5d_to_20d": -0.0493
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -719,11 +719,11 @@
     "rev_yoy_growth": 0.0544,
     "ni_qoq_growth": -0.3085,
     "ni_acceleration": -0.6426,
-    "price_on_event_date": 19.1409,
-    "price_5d_after": 19.8284,
-    "price_20d_after": 20.8704,
-    "earn_ret_5d": 0.0353,
-    "earn_ret_5d_to_20d": 0.0512
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -741,11 +741,11 @@
     "rev_yoy_growth": 0.053,
     "ni_qoq_growth": 0.3922,
     "ni_acceleration": -0.7343,
-    "price_on_event_date": 14.3912,
-    "price_5d_after": 13.8193,
-    "price_20d_after": 13.9211,
-    "earn_ret_5d": -0.0406,
-    "earn_ret_5d_to_20d": 0.0073
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -763,11 +763,11 @@
     "rev_yoy_growth": 0.1073,
     "ni_qoq_growth": 1.7852,
     "ni_acceleration": 2.4661,
-    "price_on_event_date": 14.3921,
-    "price_5d_after": 13.4639,
-    "price_20d_after": 14.013,
-    "earn_ret_5d": -0.0667,
-    "earn_ret_5d_to_20d": 0.04
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -785,11 +785,11 @@
     "rev_yoy_growth": -0.0422,
     "ni_qoq_growth": -2.3909,
     "ni_acceleration": -2.6654,
-    "price_on_event_date": 13.7363,
-    "price_5d_after": 14.0934,
-    "price_20d_after": 14.5851,
-    "earn_ret_5d": 0.0257,
-    "earn_ret_5d_to_20d": 0.0343
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -807,11 +807,11 @@
     "rev_yoy_growth": -0.0091,
     "ni_qoq_growth": 0.3341,
     "ni_acceleration": null,
-    "price_on_event_date": 14.9268,
-    "price_5d_after": 14.0385,
-    "price_20d_after": 14.1392,
-    "earn_ret_5d": -0.0614,
-    "earn_ret_5d_to_20d": 0.0071
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -829,11 +829,11 @@
     "rev_yoy_growth": 0.0713,
     "ni_qoq_growth": 1.1265,
     "ni_acceleration": null,
-    "price_on_event_date": 14.9268,
-    "price_5d_after": 14.0385,
-    "price_20d_after": 14.1392,
-    "earn_ret_5d": -0.0614,
-    "earn_ret_5d_to_20d": 0.0071
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -851,11 +851,11 @@
     "rev_yoy_growth": -0.0068,
     "ni_qoq_growth": -0.681,
     "ni_acceleration": null,
-    "price_on_event_date": 14.9268,
-    "price_5d_after": 14.0385,
-    "price_20d_after": 14.1392,
-    "earn_ret_5d": -0.0614,
-    "earn_ret_5d_to_20d": 0.0071
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -873,11 +873,11 @@
     "rev_yoy_growth": 0.0714,
     "ni_qoq_growth": 0.2744,
     "ni_acceleration": null,
-    "price_on_event_date": 14.9268,
-    "price_5d_after": 14.0385,
-    "price_20d_after": 14.1392,
-    "earn_ret_5d": -0.0614,
-    "earn_ret_5d_to_20d": 0.0071
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -893,13 +893,13 @@
     "shares_outstanding": 37247000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": null,
-    "ni_qoq_growth": 0.4166,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 14.9268,
-    "price_5d_after": 14.0385,
-    "price_20d_after": 14.1392,
-    "earn_ret_5d": -0.0614,
-    "earn_ret_5d_to_20d": 0.0071
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -917,11 +917,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": 2.6179,
     "ni_acceleration": null,
-    "price_on_event_date": 14.9268,
-    "price_5d_after": 14.0385,
-    "price_20d_after": 14.1392,
-    "earn_ret_5d": -0.0614,
-    "earn_ret_5d_to_20d": 0.0071
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -937,13 +937,13 @@
     "shares_outstanding": 37325000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": null,
-    "ni_qoq_growth": -2.448,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 14.9268,
-    "price_5d_after": 14.0385,
-    "price_20d_after": 14.1392,
-    "earn_ret_5d": -0.0614,
-    "earn_ret_5d_to_20d": 0.0071
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FIX",
@@ -961,10 +961,10 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 14.9268,
-    "price_5d_after": 14.0385,
-    "price_20d_after": 14.1392,
-    "earn_ret_5d": -0.0614,
-    "earn_ret_5d_to_20d": 0.0071
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   }
 ]

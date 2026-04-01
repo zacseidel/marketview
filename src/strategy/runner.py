@@ -21,7 +21,10 @@ from pathlib import Path
 
 import structlog
 
-from src.strategy.returns import aggregate_returns, save_returns, print_summary
+from src.strategy.returns import (
+    aggregate_returns, save_returns, print_summary,
+    aggregate_theoretical_returns, save_theoretical_returns,
+)
 
 log = structlog.get_logger()
 
@@ -128,12 +131,21 @@ def run() -> None:
     result = aggregate_returns()
     save_returns(result)
 
+    theoretical = aggregate_theoretical_returns()
+    save_theoretical_returns(theoretical)
+
     total_obs = sum(
         stats["count"]
         for strategies in result.values()
         for stats in strategies.values()
     )
-    log.info("strategy_runner.done", models=len(result), closed_observations=total_obs)
+    theoretical_obs = sum(
+        stats["count"]
+        for strategies in theoretical.values()
+        for stats in strategies.values()
+    )
+    log.info("strategy_runner.done", models=len(result), closed_observations=total_obs,
+             theoretical_closed=theoretical_obs)
 
 
 if __name__ == "__main__":

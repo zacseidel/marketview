@@ -451,12 +451,14 @@ class QuantModel(SelectionModel):
 
             metadata: dict = {col: round(float(row[col]), 5) for col in FEATURE_COLS}
             metadata["quant_model"] = model_name
-            metadata["predicted_log_ret"] = round(pred_ret, 6)
-            # Merge in model-specific detail fields
+            # Merge in model-specific detail fields first, then overwrite predicted_log_ret
+            # with the correct row value (detail_list index may not align with top after
+            # filtering + reset_index, so the detail's predicted_log_ret can be wrong)
             if isinstance(detail, dict):
                 for k, v in detail.items():
                     if not isinstance(v, dict):
                         metadata[k] = v
+            metadata["predicted_log_ret"] = round(pred_ret, 6)
 
             holdings.append(HoldingRecord(
                 model="quant",

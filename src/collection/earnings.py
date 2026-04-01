@@ -139,8 +139,11 @@ def _compute_growth_rates(quarters: list[dict]) -> list[dict]:
         if i >= 1:
             prev = q_only[i - 1]
             prev_ni = prev.get("net_income")
-            if ni is not None and prev_ni is not None and prev_ni != 0:
-                ni_qoq = round(math.log(abs(ni) / abs(prev_ni)) * (1 if ni >= 0 else -1), 4) if ni != 0 else None
+            if ni is not None and prev_ni is not None and prev_ni != 0 and ni != 0:
+                # Only compute when signs match — sign changes (loss→profit or vice
+                # versa) are not meaningful as a log return and are left as None.
+                if (ni > 0) == (prev_ni > 0):
+                    ni_qoq = round(math.log(abs(ni) / abs(prev_ni)) * (1 if ni >= 0 else -1), 4)
 
         # YoY (4 quarters back)
         ni_yoy  = None
@@ -202,20 +205,20 @@ def _compute_price_reactions(event_date: str, df) -> dict:
     if on_or_after.empty:
         return result
 
-    base_idx = on_or_after.index[0]
-    p0 = df.loc[base_idx, "close"]
+    base_pos = on_or_after.index[0]  # 0-based position (df was reset_index'd above)
+    p0 = df.iloc[base_pos]["close"]
     result["price_on_event_date"] = round(float(p0), 4)
 
     # +5 trading days
-    if base_idx + 5 < len(df):
-        p5 = df.loc[base_idx + 5, "close"]
+    if base_pos + 5 < len(df):
+        p5 = df.iloc[base_pos + 5]["close"]
         result["price_5d_after"] = round(float(p5), 4)
         if p0 > 0 and p5 > 0:
             result["earn_ret_5d"] = round(math.log(p5 / p0), 4)
 
     # +20 trading days
-    if base_idx + 20 < len(df):
-        p20 = df.loc[base_idx + 20, "close"]
+    if base_pos + 20 < len(df):
+        p20 = df.iloc[base_pos + 20]["close"]
         result["price_20d_after"] = round(float(p20), 4)
         p5_val = result["price_5d_after"]
         if p5_val and p5_val > 0 and p20 > 0:

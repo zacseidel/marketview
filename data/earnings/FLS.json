@@ -15,11 +15,11 @@
     "rev_yoy_growth": -1.0507,
     "ni_qoq_growth": 0.9311,
     "ni_acceleration": 0.5381,
-    "price_on_event_date": 52.5049,
-    "price_5d_after": 69.3252,
-    "price_20d_after": 70.093,
-    "earn_ret_5d": 0.2779,
-    "earn_ret_5d_to_20d": 0.011
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -37,11 +37,11 @@
     "rev_yoy_growth": -0.9905,
     "ni_qoq_growth": 0.1047,
     "ni_acceleration": 0.1522,
-    "price_on_event_date": 55.6166,
-    "price_5d_after": 53.4118,
-    "price_20d_after": 54.4844,
-    "earn_ret_5d": -0.0405,
-    "earn_ret_5d_to_20d": 0.0199
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -59,11 +59,11 @@
     "rev_yoy_growth": -1.0734,
     "ni_qoq_growth": 0.0386,
     "ni_acceleration": -0.5705,
-    "price_on_event_date": 44.3923,
-    "price_5d_after": 46.1332,
-    "price_20d_after": 49.9512,
-    "earn_ret_5d": 0.0385,
-    "earn_ret_5d_to_20d": 0.0795
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -81,11 +81,11 @@
     "rev_yoy_growth": 0.1656,
     "ni_qoq_growth": -0.019,
     "ni_acceleration": 0.2846,
-    "price_on_event_date": 49.7476,
-    "price_5d_after": 43.462,
-    "price_20d_after": 48.1053,
-    "earn_ret_5d": -0.1351,
-    "earn_ret_5d_to_20d": 0.1015
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -103,11 +103,11 @@
     "rev_yoy_growth": 0.2198,
     "ni_qoq_growth": 0.393,
     "ni_acceleration": 0.5191,
-    "price_on_event_date": 45.9574,
-    "price_5d_after": 46.8626,
-    "price_20d_after": 47.8747,
-    "earn_ret_5d": 0.0195,
-    "earn_ret_5d_to_20d": 0.0214
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -125,11 +125,11 @@
     "rev_yoy_growth": 0.2158,
     "ni_qoq_growth": -0.0475,
     "ni_acceleration": null,
-    "price_on_event_date": 34.1203,
-    "price_5d_after": 35.1519,
-    "price_20d_after": 36.5788,
-    "earn_ret_5d": 0.0298,
-    "earn_ret_5d_to_20d": 0.0398
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -147,11 +147,11 @@
     "rev_yoy_growth": 0.2745,
     "ni_qoq_growth": 0.6091,
     "ni_acceleration": null,
-    "price_on_event_date": 36.3529,
-    "price_5d_after": 37.5423,
-    "price_20d_after": 37.408,
-    "earn_ret_5d": 0.0322,
-    "earn_ret_5d_to_20d": -0.0036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -169,11 +169,11 @@
     "rev_yoy_growth": 0.1239,
     "ni_qoq_growth": -0.3036,
     "ni_acceleration": -0.3853,
-    "price_on_event_date": 32.3578,
-    "price_5d_after": 34.2561,
-    "price_20d_after": 32.4055,
-    "earn_ret_5d": 0.057,
-    "earn_ret_5d_to_20d": -0.0555
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -191,11 +191,11 @@
     "rev_yoy_growth": -0.0286,
     "ni_qoq_growth": -0.1261,
     "ni_acceleration": -1.1493,
-    "price_on_event_date": 27.0033,
-    "price_5d_after": 29.2065,
-    "price_20d_after": 29.0276,
-    "earn_ret_5d": 0.0784,
-    "earn_ret_5d_to_20d": -0.0061
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -211,13 +211,13 @@
     "shares_outstanding": 131245000.0,
     "ni_yoy_growth": 0.9881,
     "rev_yoy_growth": 0.0287,
-    "ni_qoq_growth": 1.2148,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 29.2696,
-    "price_5d_after": 31.4176,
-    "price_20d_after": 30.1661,
-    "earn_ret_5d": 0.0708,
-    "earn_ret_5d_to_20d": -0.0406
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -233,13 +233,13 @@
     "shares_outstanding": 130410000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": -0.1184,
-    "ni_qoq_growth": 1.3317,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 30.4832,
-    "price_5d_after": 27.7103,
-    "price_20d_after": 29.2127,
-    "earn_ret_5d": -0.0954,
-    "earn_ret_5d_to_20d": 0.0528
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -257,11 +257,11 @@
     "rev_yoy_growth": -0.0658,
     "ni_qoq_growth": 0.0817,
     "ni_acceleration": -1.8979,
-    "price_on_event_date": 32.996,
-    "price_5d_after": 31.0357,
-    "price_20d_after": 29.9548,
-    "earn_ret_5d": -0.0612,
-    "earn_ret_5d_to_20d": -0.0355
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -279,11 +279,11 @@
     "rev_yoy_growth": 0.0052,
     "ni_qoq_growth": 1.0232,
     "ni_acceleration": 4.881,
-    "price_on_event_date": 39.0641,
-    "price_5d_after": 36.8873,
-    "price_20d_after": 35.1932,
-    "earn_ret_5d": -0.0573,
-    "earn_ret_5d_to_20d": -0.047
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -301,11 +301,11 @@
     "rev_yoy_growth": -0.1505,
     "ni_qoq_growth": -1.1398,
     "ni_acceleration": -1.2942,
-    "price_on_event_date": 36.6693,
-    "price_5d_after": 38.6089,
-    "price_20d_after": 39.198,
-    "earn_ret_5d": 0.0515,
-    "earn_ret_5d_to_20d": 0.0151
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -323,11 +323,11 @@
     "rev_yoy_growth": -0.0688,
     "ni_qoq_growth": 1.6041,
     "ni_acceleration": 1.5879,
-    "price_on_event_date": 29.1737,
-    "price_5d_after": 29.5055,
-    "price_20d_after": 32.9661,
-    "earn_ret_5d": 0.0113,
-    "earn_ret_5d_to_20d": 0.1109
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -345,11 +345,11 @@
     "rev_yoy_growth": 0.0385,
     "ni_qoq_growth": 1.9796,
     "ni_acceleration": 1.2759,
-    "price_on_event_date": 26.661,
-    "price_5d_after": 25.4944,
-    "price_20d_after": 26.4918,
-    "earn_ret_5d": -0.0447,
-    "earn_ret_5d_to_20d": 0.0384
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -367,11 +367,11 @@
     "rev_yoy_growth": -0.0642,
     "ni_qoq_growth": -3.8577,
     "ni_acceleration": -4.5463,
-    "price_on_event_date": 24.2533,
-    "price_5d_after": 20.3187,
-    "price_20d_after": 27.9315,
-    "earn_ret_5d": -0.177,
-    "earn_ret_5d_to_20d": 0.3182
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -389,11 +389,11 @@
     "rev_yoy_growth": 0.0238,
     "ni_qoq_growth": 0.1543,
     "ni_acceleration": 0.2615,
-    "price_on_event_date": 43.2306,
-    "price_5d_after": 43.2917,
-    "price_20d_after": 42.7155,
-    "earn_ret_5d": 0.0014,
-    "earn_ret_5d_to_20d": -0.0134
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -411,11 +411,11 @@
     "rev_yoy_growth": 0.0734,
     "ni_qoq_growth": 0.0163,
     "ni_acceleration": 1.1019,
-    "price_on_event_date": 43.5126,
-    "price_5d_after": 38.7204,
-    "price_20d_after": 35.5198,
-    "earn_ret_5d": -0.1167,
-    "earn_ret_5d_to_20d": -0.0863
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -433,11 +433,11 @@
     "rev_yoy_growth": 0.0076,
     "ni_qoq_growth": 0.7036,
     "ni_acceleration": 0.5591,
-    "price_on_event_date": 41.2071,
-    "price_5d_after": 42.5154,
-    "price_20d_after": 40.2454,
-    "earn_ret_5d": 0.0313,
-    "earn_ret_5d_to_20d": -0.0549
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -455,11 +455,11 @@
     "rev_yoy_growth": 0.0827,
     "ni_qoq_growth": 0.6886,
     "ni_acceleration": -0.3413,
-    "price_on_event_date": 42.191,
-    "price_5d_after": 40.5772,
-    "price_20d_after": 38.972,
-    "earn_ret_5d": -0.039,
-    "earn_ret_5d_to_20d": -0.0404
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -477,11 +477,11 @@
     "rev_yoy_growth": 0.1163,
     "ni_qoq_growth": -0.1071,
     "ni_acceleration": null,
-    "price_on_event_date": 39.2932,
-    "price_5d_after": 42.1591,
-    "price_20d_after": 44.8796,
-    "earn_ret_5d": 0.0704,
-    "earn_ret_5d_to_20d": 0.0625
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -499,11 +499,11 @@
     "rev_yoy_growth": -0.025,
     "ni_qoq_growth": -1.0856,
     "ni_acceleration": null,
-    "price_on_event_date": 40.7708,
-    "price_5d_after": 37.552,
-    "price_20d_after": 35.9086,
-    "earn_ret_5d": -0.0822,
-    "earn_ret_5d_to_20d": -0.0448
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -521,11 +521,11 @@
     "rev_yoy_growth": -0.1498,
     "ni_qoq_growth": 0.1445,
     "ni_acceleration": -0.3534,
-    "price_on_event_date": 37.1223,
-    "price_5d_after": 32.8354,
-    "price_20d_after": 35.9325,
-    "earn_ret_5d": -0.1227,
-    "earn_ret_5d_to_20d": 0.0901
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -543,11 +543,11 @@
     "rev_yoy_growth": -0.0769,
     "ni_qoq_growth": 1.0299,
     "ni_acceleration": 1.9338,
-    "price_on_event_date": 33.1677,
-    "price_5d_after": 31.5715,
-    "price_20d_after": 33.9826,
-    "earn_ret_5d": -0.0493,
-    "earn_ret_5d_to_20d": 0.0736
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -563,13 +563,13 @@
     "shares_outstanding": 131275000.0,
     "ni_yoy_growth": -1.8368,
     "rev_yoy_growth": -0.2356,
-    "ni_qoq_growth": -0.2895,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 41.5394,
-    "price_5d_after": 41.5143,
-    "price_20d_after": 40.4099,
-    "earn_ret_5d": -0.0006,
-    "earn_ret_5d_to_20d": -0.027
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -585,13 +585,13 @@
     "shares_outstanding": 130299000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": -0.2087,
-    "ni_qoq_growth": 1.1412,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 36.1094,
-    "price_5d_after": 34.5907,
-    "price_20d_after": 38.9145,
-    "earn_ret_5d": -0.043,
-    "earn_ret_5d_to_20d": 0.1178
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -609,11 +609,11 @@
     "rev_yoy_growth": 0.0114,
     "ni_qoq_growth": 0.4979,
     "ni_acceleration": 1.9808,
-    "price_on_event_date": 40.8276,
-    "price_5d_after": 38.497,
-    "price_20d_after": 40.2078,
-    "earn_ret_5d": -0.0588,
-    "earn_ret_5d_to_20d": 0.0435
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -631,11 +631,11 @@
     "rev_yoy_growth": -0.2399,
     "ni_qoq_growth": -0.9039,
     "ni_acceleration": -0.9464,
-    "price_on_event_date": 38.5887,
-    "price_5d_after": 37.7407,
-    "price_20d_after": 39.8649,
-    "earn_ret_5d": -0.0222,
-    "earn_ret_5d_to_20d": 0.0548
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -653,11 +653,11 @@
     "rev_yoy_growth": -0.1103,
     "ni_qoq_growth": 0.21,
     "ni_acceleration": 0.0678,
-    "price_on_event_date": 36.7367,
-    "price_5d_after": 38.8429,
-    "price_20d_after": 37.6919,
-    "earn_ret_5d": 0.0558,
-    "earn_ret_5d_to_20d": -0.0301
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -675,11 +675,11 @@
     "rev_yoy_growth": 0.0844,
     "ni_qoq_growth": 0.9497,
     "ni_acceleration": 1.1027,
-    "price_on_event_date": 38.2433,
-    "price_5d_after": 38.0157,
-    "price_20d_after": 35.9674,
-    "earn_ret_5d": -0.006,
-    "earn_ret_5d_to_20d": -0.0554
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -697,11 +697,11 @@
     "rev_yoy_growth": -0.1918,
     "ni_qoq_growth": -1.4828,
     "ni_acceleration": -1.5284,
-    "price_on_event_date": 47.4162,
-    "price_5d_after": 45.075,
-    "price_20d_after": 44.5565,
-    "earn_ret_5d": -0.0506,
-    "earn_ret_5d_to_20d": -0.0116
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -719,11 +719,11 @@
     "rev_yoy_growth": -0.0291,
     "ni_qoq_growth": 0.0425,
     "ni_acceleration": -0.1583,
-    "price_on_event_date": 53.4455,
-    "price_5d_after": 53.7194,
-    "price_20d_after": 53.2281,
-    "earn_ret_5d": 0.0051,
-    "earn_ret_5d_to_20d": -0.0092
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -741,11 +741,11 @@
     "rev_yoy_growth": 0.1102,
     "ni_qoq_growth": 0.1421,
     "ni_acceleration": 0.2192,
-    "price_on_event_date": 58.0206,
-    "price_5d_after": 60.8735,
-    "price_20d_after": 61.2994,
-    "earn_ret_5d": 0.048,
-    "earn_ret_5d_to_20d": 0.007
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -763,11 +763,11 @@
     "rev_yoy_growth": -0.0876,
     "ni_qoq_growth": -0.1529,
     "ni_acceleration": -0.1376,
-    "price_on_event_date": 62.6545,
-    "price_5d_after": 58.5808,
-    "price_20d_after": 59.2383,
-    "earn_ret_5d": -0.0672,
-    "earn_ret_5d_to_20d": 0.0112
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -785,11 +785,11 @@
     "rev_yoy_growth": 0.0389,
     "ni_qoq_growth": 0.0456,
     "ni_acceleration": -0.1026,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -807,11 +807,11 @@
     "rev_yoy_growth": 0.1424,
     "ni_qoq_growth": 0.2008,
     "ni_acceleration": 0.3441,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -829,11 +829,11 @@
     "rev_yoy_growth": -0.0227,
     "ni_qoq_growth": -0.0772,
     "ni_acceleration": -0.1665,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -851,11 +851,11 @@
     "rev_yoy_growth": 0.035,
     "ni_qoq_growth": -0.0153,
     "ni_acceleration": -0.033,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -873,11 +873,11 @@
     "rev_yoy_growth": 0.1702,
     "ni_qoq_growth": 0.1482,
     "ni_acceleration": 0.22,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -895,11 +895,11 @@
     "rev_yoy_growth": 0.101,
     "ni_qoq_growth": -0.1433,
     "ni_acceleration": -0.2702,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -917,11 +917,11 @@
     "rev_yoy_growth": 0.1546,
     "ni_qoq_growth": 0.0894,
     "ni_acceleration": -0.0456,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -939,11 +939,11 @@
     "rev_yoy_growth": 0.1605,
     "ni_qoq_growth": 0.0177,
     "ni_acceleration": 0.3921,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -961,11 +961,11 @@
     "rev_yoy_growth": -0.0526,
     "ni_qoq_growth": -0.0719,
     "ni_acceleration": -0.1432,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -983,11 +983,11 @@
     "rev_yoy_growth": -0.1153,
     "ni_qoq_growth": 0.1269,
     "ni_acceleration": null,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -1005,11 +1005,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": 0.1351,
     "ni_acceleration": null,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -1027,11 +1027,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": -0.3745,
     "ni_acceleration": null,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -1049,11 +1049,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": 0.0714,
     "ni_acceleration": null,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "FLS",
@@ -1071,10 +1071,10 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 61.651,
-    "price_5d_after": 61.0507,
-    "price_20d_after": 63.7211,
-    "earn_ret_5d": -0.0098,
-    "earn_ret_5d_to_20d": 0.0428
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   }
 ]

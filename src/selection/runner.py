@@ -81,47 +81,90 @@ def _assign_statuses(
     return holdings
 
 
-def _queue_options_chains_for_new_buys(eval_date: str) -> None:
+def _queue_momentum_theoretical_chains(eval_date: str) -> None:
     """
-    Queue an options_chain task for every ticker with new_buy status this eval.
-    Tags each task with originating_models so strategy observations can be
-    attributed to the right model(s) even when no position is opened.
+    Queue options chain fetches for momentum new_buy tickers to create
+    theoretical strategy observations (all 5 templates) regardless of
+    whether the user approves the buy.
     """
     from src.collection.queue import WorkQueue
 
-    models_dir = Path("data/models") / eval_date
-    if not models_dir.exists():
+    momentum_file = Path("data/models") / eval_date / "momentum.json"
+    if not momentum_file.exists():
         return
 
-    # Aggregate new_buys across all models: {ticker -> [model, ...]}
-    ticker_models: dict[str, list[str]] = {}
-    for json_file in sorted(models_dir.glob("*.json")):
-        if json_file.stem.endswith("_ranks"):
-            continue
-        with open(json_file) as f:
-            holdings = json.load(f)
-        for h in holdings:
-            if h.get("status") == "new_buy":
-                ticker = h["ticker"]
-                if ticker not in ticker_models:
-                    ticker_models[ticker] = []
-                ticker_models[ticker].append(json_file.stem)
+    with open(momentum_file) as f:
+        holdings = json.load(f)
 
-    if not ticker_models:
+    new_buys = [h["ticker"] for h in holdings if h.get("status") == "new_buy"]
+    if not new_buys:
         return
 
     queue = WorkQueue()
-    for ticker, models in ticker_models.items():
+    for ticker in new_buys:
         queue.enqueue(
             task_type="options_chain",
             ticker=ticker,
             requested_date=eval_date,
-            requested_by="runner_new_buy",
+            requested_by="runner_momentum_theoretical",
             priority="normal",
-            metadata={"originating_models": models, "reason": "model_recommendation"},
+            metadata={"originating_models": ["momentum"], "reason": "theoretical_momentum"},
         )
 
-    log.info("runner.options_chains_queued", count=len(ticker_models), eval_date=eval_date)
+    log.info("runner.momentum_theoretical_queued", count=len(new_buys), eval_date=eval_date)
+
+
+def _close_momentum_theoretical_sells(eval_date: str) -> None:
+    """
+    When momentum issues sell signals, close theoretical strategy observations
+    for those tickers at the eval-date close price.
+    Queues a chain fetch for any positions with unexpired options legs.
+    """
+    from src.collection.queue import WorkQueue
+    from src.strategy.snapshot import close_theoretical_for_ticker
+
+    momentum_file = Path("data/models") / eval_date / "momentum.json"
+    if not momentum_file.exists():
+        return
+
+    with open(momentum_file) as f:
+        holdings = json.load(f)
+
+    sell_tickers = [h["ticker"] for h in holdings if h.get("status") == "sell"]
+    if not sell_tickers:
+        return
+
+    price_file = Path("data/prices") / f"{eval_date}.json"
+    prices: dict[str, float] = {}
+    if price_file.exists():
+        with open(price_file) as f:
+            for rec in json.load(f):
+                prices[rec["ticker"]] = rec.get("close") or rec.get("ohlc_avg", 0.0)
+
+    queue = WorkQueue()
+    for ticker in sell_tickers:
+        stock_price = prices.get(ticker)
+        if not stock_price:
+            log.warning("runner.theoretical_close_no_price", ticker=ticker, eval_date=eval_date)
+            continue
+
+        all_resolved, needs_chain = close_theoretical_for_ticker(ticker, eval_date, stock_price)
+        if not all_resolved:
+            for entry_date in needs_chain:
+                queue.enqueue(
+                    task_type="options_chain",
+                    ticker=ticker,
+                    requested_date=eval_date,
+                    requested_by="runner_momentum_theoretical_close",
+                    priority="normal",
+                    metadata={
+                        "reason": "theoretical_close",
+                        "stock_entry_date": entry_date,
+                    },
+                )
+            log.info("runner.theoretical_close_chain_queued", ticker=ticker, count=len(needs_chain))
+        else:
+            log.info("runner.theoretical_obs_closed", ticker=ticker, eval_date=eval_date)
 
 
 def _check_strategy_expirations(eval_date: str, dal: DataAccessLayer) -> None:
@@ -211,8 +254,11 @@ def run_models(eval_date: str | None = None) -> None:
         holdings = _assign_statuses(holdings, prev_tickers, eval_date, model_name, dal)
         dal.save_model_output(holdings, eval_date, model_name)
 
-    # Queue options chain fetches for all new_buy recommendations this eval
-    _queue_options_chains_for_new_buys(eval_date)
+    # Queue options chain fetches for momentum new_buys (theoretical tracking)
+    _queue_momentum_theoretical_chains(eval_date)
+
+    # Close theoretical observations for momentum sell signals
+    _close_momentum_theoretical_sells(eval_date)
 
     # Check strategy observation expirations for all currently held positions
     _check_strategy_expirations(eval_date, dal)

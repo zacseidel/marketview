@@ -66,6 +66,7 @@ class DataAccessLayer:
         self._universe_file = Path(universe_file)
         self._max_lookback = max_lookback
         self._price_df: pd.DataFrame | None = None
+        self._prices_by_ticker: dict[str, pd.DataFrame] = {}
         self._universe_cache: dict | None = None
         self._fundamentals_cache: dict[str, list] = {}
 
@@ -90,7 +91,11 @@ class DataAccessLayer:
         df["date"] = pd.to_datetime(df["date"])
         df = df.sort_values(["ticker", "date"]).reset_index(drop=True)
         self._price_df = df
-        log.info("dal.prices_loaded", dates=len(files), tickers=df["ticker"].nunique(), rows=len(df))
+        self._prices_by_ticker = {
+            ticker: grp.reset_index(drop=True)
+            for ticker, grp in df.groupby("ticker", sort=False)
+        }
+        log.info("dal.prices_loaded", dates=len(files), tickers=len(self._prices_by_ticker), rows=len(df))
         return df
 
     def get_prices(self, ticker: str, lookback_days: int | None = None) -> pd.DataFrame:
@@ -98,8 +103,8 @@ class DataAccessLayer:
         Returns a DataFrame for one ticker: [date, open, high, low, close, volume, vwap, ohlc_avg].
         Indexed by date. Most recent `lookback_days` rows only.
         """
-        df = self._ensure_prices()
-        result = df[df["ticker"] == ticker].copy()
+        self._ensure_prices()
+        result = self._prices_by_ticker.get(ticker, pd.DataFrame())
         if lookback_days:
             result = result.tail(lookback_days)
         return result.set_index("date")

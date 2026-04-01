@@ -123,7 +123,7 @@
     "shares_outstanding": 229364585.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 0.6526,
-    "ni_qoq_growth": 0.3857,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
     "price_on_event_date": 11.65,
     "price_5d_after": 12.89,

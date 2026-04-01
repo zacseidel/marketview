@@ -15,11 +15,11 @@
     "rev_yoy_growth": -0.0854,
     "ni_qoq_growth": 0.188,
     "ni_acceleration": -0.2109,
-    "price_on_event_date": 181.9475,
-    "price_5d_after": 198.1344,
-    "price_20d_after": 188.4854,
-    "earn_ret_5d": 0.0852,
-    "earn_ret_5d_to_20d": -0.0499
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -37,11 +37,11 @@
     "rev_yoy_growth": 0.0329,
     "ni_qoq_growth": 1.5376,
     "ni_acceleration": 2.5555,
-    "price_on_event_date": 166.3098,
-    "price_5d_after": 156.6514,
-    "price_20d_after": 177.2151,
-    "earn_ret_5d": -0.0598,
-    "earn_ret_5d_to_20d": 0.1233
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -59,11 +59,11 @@
     "rev_yoy_growth": -0.261,
     "ni_qoq_growth": -1.0762,
     "ni_acceleration": -1.4179,
-    "price_on_event_date": 141.5147,
-    "price_5d_after": 159.4206,
-    "price_20d_after": 154.5248,
-    "earn_ret_5d": 0.1191,
-    "earn_ret_5d_to_20d": -0.0312
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -81,11 +81,11 @@
     "rev_yoy_growth": -0.0346,
     "ni_qoq_growth": -0.6555,
     "ni_acceleration": -0.4771,
-    "price_on_event_date": 144.7473,
-    "price_5d_after": 150.2156,
-    "price_20d_after": 146.3992,
-    "earn_ret_5d": 0.0371,
-    "earn_ret_5d_to_20d": -0.0257
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -103,11 +103,11 @@
     "rev_yoy_growth": 0.0839,
     "ni_qoq_growth": 0.3988,
     "ni_acceleration": 0.8861,
-    "price_on_event_date": 164.5959,
-    "price_5d_after": 169.2769,
-    "price_20d_after": 166.2233,
-    "earn_ret_5d": 0.028,
-    "earn_ret_5d_to_20d": -0.0182
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -125,11 +125,11 @@
     "rev_yoy_growth": -0.3364,
     "ni_qoq_growth": -1.018,
     "ni_acceleration": -0.8041,
-    "price_on_event_date": 174.1996,
-    "price_5d_after": 173.4326,
-    "price_20d_after": 166.108,
-    "earn_ret_5d": -0.0044,
-    "earn_ret_5d_to_20d": -0.0432
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -147,11 +147,11 @@
     "rev_yoy_growth": -0.2736,
     "ni_qoq_growth": 0.3417,
     "ni_acceleration": -1.3269,
-    "price_on_event_date": 143.4969,
-    "price_5d_after": 138.6678,
-    "price_20d_after": 140.6333,
-    "earn_ret_5d": -0.0342,
-    "earn_ret_5d_to_20d": 0.0141
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -169,11 +169,11 @@
     "rev_yoy_growth": -0.0461,
     "ni_qoq_growth": -0.1784,
     "ni_acceleration": -0.3076,
-    "price_on_event_date": 127.3765,
-    "price_5d_after": 133.8332,
-    "price_20d_after": 135.9259,
-    "earn_ret_5d": 0.0494,
-    "earn_ret_5d_to_20d": 0.0155
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -191,11 +191,11 @@
     "rev_yoy_growth": 0.0757,
     "ni_qoq_growth": -0.4872,
     "ni_acceleration": 1.6582,
-    "price_on_event_date": 109.6652,
-    "price_5d_after": 104.0118,
-    "price_20d_after": 99.0298,
-    "earn_ret_5d": -0.0529,
-    "earn_ret_5d_to_20d": -0.0491
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -213,11 +213,11 @@
     "rev_yoy_growth": 0.4357,
     "ni_qoq_growth": -0.2139,
     "ni_acceleration": -5.1377,
-    "price_on_event_date": 110.4131,
-    "price_5d_after": 110.3204,
-    "price_20d_after": 113.5372,
-    "earn_ret_5d": -0.0008,
-    "earn_ret_5d_to_20d": 0.0287
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -235,11 +235,11 @@
     "rev_yoy_growth": 0.8623,
     "ni_qoq_growth": 1.6686,
     "ni_acceleration": null,
-    "price_on_event_date": 86.1936,
-    "price_5d_after": 85.9451,
-    "price_20d_after": 94.0178,
-    "earn_ret_5d": -0.0029,
-    "earn_ret_5d_to_20d": 0.0898
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -257,11 +257,11 @@
     "rev_yoy_growth": 0.7822,
     "ni_qoq_growth": 0.1292,
     "ni_acceleration": null,
-    "price_on_event_date": 84.7878,
-    "price_5d_after": 83.9367,
-    "price_20d_after": 95.6674,
-    "earn_ret_5d": -0.0101,
-    "earn_ret_5d_to_20d": 0.1308
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -279,11 +279,11 @@
     "rev_yoy_growth": 0.9747,
     "ni_qoq_growth": -2.1454,
     "ni_acceleration": null,
-    "price_on_event_date": 58.2061,
-    "price_5d_after": 60.4483,
-    "price_20d_after": 55.3328,
-    "earn_ret_5d": 0.0378,
-    "earn_ret_5d_to_20d": -0.0884
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -301,11 +301,11 @@
     "rev_yoy_growth": 0.288,
     "ni_qoq_growth": 4.9239,
     "ni_acceleration": null,
-    "price_on_event_date": 48.4809,
-    "price_5d_after": 52.7245,
-    "price_20d_after": 51.5517,
-    "earn_ret_5d": 0.0839,
-    "earn_ret_5d_to_20d": -0.0225
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -321,13 +321,13 @@
     "shares_outstanding": 651000000.0,
     "ni_yoy_growth": -3.0615,
     "rev_yoy_growth": -0.3125,
-    "ni_qoq_growth": -2.2529,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 52.51,
-    "price_5d_after": 51.9095,
-    "price_20d_after": 56.7631,
-    "earn_ret_5d": -0.0115,
-    "earn_ret_5d_to_20d": 0.0894
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -343,13 +343,13 @@
     "shares_outstanding": 650000000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": -0.656,
-    "ni_qoq_growth": -0.7914,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 27.1756,
-    "price_5d_after": 32.3216,
-    "price_20d_after": 36.8478,
-    "earn_ret_5d": 0.1734,
-    "earn_ret_5d_to_20d": 0.1311
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -365,13 +365,13 @@
     "shares_outstanding": 653000000.0,
     "ni_yoy_growth": 0.0636,
     "rev_yoy_growth": -0.8407,
-    "ni_qoq_growth": -3.6115,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 32.6927,
-    "price_5d_after": 31.4721,
-    "price_20d_after": 30.5145,
-    "earn_ret_5d": -0.038,
-    "earn_ret_5d_to_20d": -0.0309
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -387,13 +387,13 @@
     "shares_outstanding": 648000000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": -0.0347,
-    "ni_qoq_growth": -2.0115,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 25.6568,
-    "price_5d_after": 25.7485,
-    "price_20d_after": 35.2271,
-    "earn_ret_5d": 0.0036,
-    "earn_ret_5d_to_20d": 0.3134
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -411,11 +411,11 @@
     "rev_yoy_growth": 0.33,
     "ni_qoq_growth": 0.0,
     "ni_acceleration": -1.6593,
-    "price_on_event_date": 55.6081,
-    "price_5d_after": 53.7828,
-    "price_20d_after": 49.5406,
-    "earn_ret_5d": -0.0334,
-    "earn_ret_5d_to_20d": -0.0822
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -433,11 +433,11 @@
     "rev_yoy_growth": 0.5756,
     "ni_qoq_growth": 1.6635,
     "ni_acceleration": 3.1157,
-    "price_on_event_date": 41.013,
-    "price_5d_after": 37.5163,
-    "price_20d_after": 40.6297,
-    "earn_ret_5d": -0.0891,
-    "earn_ret_5d_to_20d": 0.0797
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -455,11 +455,11 @@
     "rev_yoy_growth": 0.3863,
     "ni_qoq_growth": -1.2901,
     "ni_acceleration": -1.8492,
-    "price_on_event_date": 42.4238,
-    "price_5d_after": 42.7856,
-    "price_20d_after": 38.0344,
-    "earn_ret_5d": 0.0085,
-    "earn_ret_5d_to_20d": -0.1177
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -477,11 +477,11 @@
     "rev_yoy_growth": 0.2347,
     "ni_qoq_growth": -0.2719,
     "ni_acceleration": -2.0094,
-    "price_on_event_date": 55.0248,
-    "price_5d_after": 51.9801,
-    "price_20d_after": 50.326,
-    "earn_ret_5d": -0.0569,
-    "earn_ret_5d_to_20d": -0.0323
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -499,11 +499,11 @@
     "rev_yoy_growth": 0.3149,
     "ni_qoq_growth": 1.6592,
     "ni_acceleration": 2.4332,
-    "price_on_event_date": 62.614,
-    "price_5d_after": 62.8101,
-    "price_20d_after": 66.4778,
-    "earn_ret_5d": 0.0031,
-    "earn_ret_5d_to_20d": 0.0568
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -521,11 +521,11 @@
     "rev_yoy_growth": 0.1269,
     "ni_qoq_growth": -1.4522,
     "ni_acceleration": -0.1781,
-    "price_on_event_date": 58.4028,
-    "price_5d_after": 59.6424,
-    "price_20d_after": 60.8652,
-    "earn_ret_5d": 0.021,
-    "earn_ret_5d_to_20d": 0.0203
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -543,11 +543,11 @@
     "rev_yoy_growth": 0.1334,
     "ni_qoq_growth": 0.5591,
     "ni_acceleration": null,
-    "price_on_event_date": 45.4427,
-    "price_5d_after": 47.9741,
-    "price_20d_after": 48.1806,
-    "earn_ret_5d": 0.0542,
-    "earn_ret_5d_to_20d": 0.0043
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -565,11 +565,11 @@
     "rev_yoy_growth": 0.3544,
     "ni_qoq_growth": 1.7375,
     "ni_acceleration": null,
-    "price_on_event_date": 42.6738,
-    "price_5d_after": 39.864,
-    "price_20d_after": 40.3568,
-    "earn_ret_5d": -0.0681,
-    "earn_ret_5d_to_20d": 0.0123
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -587,11 +587,11 @@
     "rev_yoy_growth": -0.139,
     "ni_qoq_growth": -0.774,
     "ni_acceleration": -0.9066,
-    "price_on_event_date": 38.5678,
-    "price_5d_after": 38.9318,
-    "price_20d_after": 40.0244,
-    "earn_ret_5d": 0.0094,
-    "earn_ret_5d_to_20d": 0.0277
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -609,11 +609,11 @@
     "rev_yoy_growth": -0.2117,
     "ni_qoq_growth": -1.2741,
     "ni_acceleration": -1.2005,
-    "price_on_event_date": 32.5495,
-    "price_5d_after": 31.8102,
-    "price_20d_after": 34.6176,
-    "earn_ret_5d": -0.023,
-    "earn_ret_5d_to_20d": 0.0846
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -629,13 +629,13 @@
     "shares_outstanding": 531000000.0,
     "ni_yoy_growth": -0.1426,
     "rev_yoy_growth": -0.0224,
-    "ni_qoq_growth": 2.3064,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 30.5141,
-    "price_5d_after": 30.3438,
-    "price_20d_after": 31.743,
-    "earn_ret_5d": -0.0056,
-    "earn_ret_5d_to_20d": 0.0451
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -651,13 +651,13 @@
     "shares_outstanding": 531000000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": -0.6903,
-    "ni_qoq_growth": 2.5081,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 28.3022,
-    "price_5d_after": 25.6393,
-    "price_20d_after": 25.7837,
-    "earn_ret_5d": -0.0988,
-    "earn_ret_5d_to_20d": 0.0056
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -675,11 +675,11 @@
     "rev_yoy_growth": -0.3607,
     "ni_qoq_growth": 0.1326,
     "ni_acceleration": -1.2962,
-    "price_on_event_date": 38.1901,
-    "price_5d_after": 39.2004,
-    "price_20d_after": 43.0799,
-    "earn_ret_5d": 0.0261,
-    "earn_ret_5d_to_20d": 0.0944
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -697,11 +697,11 @@
     "rev_yoy_growth": -0.1256,
     "ni_qoq_growth": -0.0735,
     "ni_acceleration": -0.2529,
-    "price_on_event_date": 38.1714,
-    "price_5d_after": 38.2145,
-    "price_20d_after": 34.1416,
-    "earn_ret_5d": 0.0011,
-    "earn_ret_5d_to_20d": -0.1127
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -719,11 +719,11 @@
     "rev_yoy_growth": -0.4235,
     "ni_qoq_growth": 0.2851,
     "ni_acceleration": 1.527,
-    "price_on_event_date": 36.1483,
-    "price_5d_after": 36.516,
-    "price_20d_after": 36.9624,
-    "earn_ret_5d": 0.0101,
-    "earn_ret_5d_to_20d": 0.0122
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -741,11 +741,11 @@
     "rev_yoy_growth": -0.0094,
     "ni_qoq_growth": -0.241,
     "ni_acceleration": -0.0431,
-    "price_on_event_date": 32.3727,
-    "price_5d_after": 33.249,
-    "price_20d_after": 33.4441,
-    "earn_ret_5d": 0.0267,
-    "earn_ret_5d_to_20d": 0.0059
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -763,11 +763,11 @@
     "rev_yoy_growth": 0.1403,
     "ni_qoq_growth": 1.4289,
     "ni_acceleration": 1.9457,
-    "price_on_event_date": 29.6788,
-    "price_5d_after": 30.5994,
-    "price_20d_after": 31.6272,
-    "earn_ret_5d": 0.0305,
-    "earn_ret_5d_to_20d": 0.033
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -785,11 +785,11 @@
     "rev_yoy_growth": 0.101,
     "ni_qoq_growth": 0.1794,
     "ni_acceleration": -0.2285,
-    "price_on_event_date": 33.5044,
-    "price_5d_after": 32.179,
-    "price_20d_after": 30.9507,
-    "earn_ret_5d": -0.0404,
-    "earn_ret_5d_to_20d": -0.0389
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -807,11 +807,11 @@
     "rev_yoy_growth": 0.2601,
     "ni_qoq_growth": -1.242,
     "ni_acceleration": -1.5537,
-    "price_on_event_date": 31.714,
-    "price_5d_after": 30.6579,
-    "price_20d_after": 31.5216,
-    "earn_ret_5d": -0.0339,
-    "earn_ret_5d_to_20d": 0.0278
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -829,11 +829,11 @@
     "rev_yoy_growth": 0.2367,
     "ni_qoq_growth": -0.1978,
     "ni_acceleration": 0.4446,
-    "price_on_event_date": 31.714,
-    "price_5d_after": 30.6579,
-    "price_20d_after": 31.5216,
-    "earn_ret_5d": -0.0339,
-    "earn_ret_5d_to_20d": 0.0278
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -851,11 +851,11 @@
     "rev_yoy_growth": 0.1237,
     "ni_qoq_growth": -0.5168,
     "ni_acceleration": null,
-    "price_on_event_date": 31.714,
-    "price_5d_after": 30.6579,
-    "price_20d_after": 31.5216,
-    "earn_ret_5d": -0.0339,
-    "earn_ret_5d_to_20d": 0.0278
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -873,11 +873,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": 0.4079,
     "ni_acceleration": null,
-    "price_on_event_date": 31.714,
-    "price_5d_after": 30.6579,
-    "price_20d_after": 31.5216,
-    "earn_ret_5d": -0.0339,
-    "earn_ret_5d_to_20d": 0.0278
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -895,11 +895,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": 0.3117,
     "ni_acceleration": null,
-    "price_on_event_date": 31.714,
-    "price_5d_after": 30.6579,
-    "price_20d_after": 31.5216,
-    "earn_ret_5d": -0.0339,
-    "earn_ret_5d_to_20d": 0.0278
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -917,11 +917,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": -0.6424,
     "ni_acceleration": null,
-    "price_on_event_date": 31.714,
-    "price_5d_after": 30.6579,
-    "price_20d_after": 31.5216,
-    "earn_ret_5d": -0.0339,
-    "earn_ret_5d_to_20d": 0.0278
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "MPC",
@@ -939,10 +939,10 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 31.714,
-    "price_5d_after": 30.6579,
-    "price_20d_after": 31.5216,
-    "earn_ret_5d": -0.0339,
-    "earn_ret_5d_to_20d": 0.0278
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   }
 ]

@@ -15,11 +15,11 @@
     "rev_yoy_growth": 0.5111,
     "ni_qoq_growth": 0.5571,
     "ni_acceleration": null,
-    "price_on_event_date": 12.104,
-    "price_5d_after": 15.5223,
-    "price_20d_after": 16.8167,
-    "earn_ret_5d": 0.2487,
-    "earn_ret_5d_to_20d": 0.0801
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -37,11 +37,11 @@
     "rev_yoy_growth": 0.4726,
     "ni_qoq_growth": 0.6925,
     "ni_acceleration": null,
-    "price_on_event_date": 6.1038,
-    "price_5d_after": 7.7621,
-    "price_20d_after": 8.8456,
-    "earn_ret_5d": 0.2403,
-    "earn_ret_5d_to_20d": 0.1307
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -59,11 +59,11 @@
     "rev_yoy_growth": 0.3623,
     "ni_qoq_growth": 2.797,
     "ni_acceleration": null,
-    "price_on_event_date": 5.4601,
-    "price_5d_after": 4.9111,
-    "price_20d_after": 5.1348,
-    "earn_ret_5d": -0.106,
-    "earn_ret_5d_to_20d": 0.0445
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -81,11 +81,11 @@
     "rev_yoy_growth": 0.3191,
     "ni_qoq_growth": -2.7617,
     "ni_acceleration": null,
-    "price_on_event_date": 6.1688,
-    "price_5d_after": 5.3928,
-    "price_20d_after": 5.6556,
-    "earn_ret_5d": -0.1345,
-    "earn_ret_5d_to_20d": 0.0476
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -101,13 +101,13 @@
     "shares_outstanding": 622206000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 0.2081,
-    "ni_qoq_growth": 1.5778,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 4.8147,
-    "price_5d_after": 5.2416,
-    "price_20d_after": 5.4425,
-    "earn_ret_5d": 0.0849,
-    "earn_ret_5d_to_20d": 0.0376
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -125,11 +125,11 @@
     "rev_yoy_growth": 0.2586,
     "ni_qoq_growth": 1.36,
     "ni_acceleration": null,
-    "price_on_event_date": 4.8694,
-    "price_5d_after": 5.5437,
-    "price_20d_after": 5.7578,
-    "earn_ret_5d": 0.1297,
-    "earn_ret_5d_to_20d": 0.0379
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -147,11 +147,11 @@
     "rev_yoy_growth": -0.05,
     "ni_qoq_growth": -0.3565,
     "ni_acceleration": null,
-    "price_on_event_date": 4.1537,
-    "price_5d_after": 3.7483,
-    "price_20d_after": 4.7136,
-    "earn_ret_5d": -0.1027,
-    "earn_ret_5d_to_20d": 0.2292
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -169,11 +169,11 @@
     "rev_yoy_growth": -0.0459,
     "ni_qoq_growth": -1.5986,
     "ni_acceleration": null,
-    "price_on_event_date": 5.0759,
-    "price_5d_after": 4.4933,
-    "price_20d_after": 4.1043,
-    "earn_ret_5d": -0.1219,
-    "earn_ret_5d_to_20d": -0.0906
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -191,11 +191,11 @@
     "rev_yoy_growth": 0.0302,
     "ni_qoq_growth": 2.0034,
     "ni_acceleration": null,
-    "price_on_event_date": 5.7246,
-    "price_5d_after": 5.3502,
-    "price_20d_after": 5.3957,
-    "earn_ret_5d": -0.0676,
-    "earn_ret_5d_to_20d": 0.0085
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -213,11 +213,11 @@
     "rev_yoy_growth": -0.3985,
     "ni_qoq_growth": -0.5537,
     "ni_acceleration": null,
-    "price_on_event_date": 4.4646,
-    "price_5d_after": 4.9071,
-    "price_20d_after": 5.5014,
-    "earn_ret_5d": 0.0945,
-    "earn_ret_5d_to_20d": 0.1143
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -233,13 +233,13 @@
     "shares_outstanding": 539401000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": -0.0976,
-    "ni_qoq_growth": -1.1806,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 4.5663,
-    "price_5d_after": 4.5368,
-    "price_20d_after": 3.8352,
-    "earn_ret_5d": -0.0065,
-    "earn_ret_5d_to_20d": -0.168
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -255,13 +255,13 @@
     "shares_outstanding": 544061000.0,
     "ni_yoy_growth": -1.1883,
     "rev_yoy_growth": -0.0684,
-    "ni_qoq_growth": 1.4451,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 4.2761,
-    "price_5d_after": 4.5801,
-    "price_20d_after": 4.7922,
-    "earn_ret_5d": 0.0687,
-    "earn_ret_5d_to_20d": 0.0453
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -277,13 +277,13 @@
     "shares_outstanding": 536966000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 0.1515,
-    "ni_qoq_growth": 1.0321,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 5.864,
-    "price_5d_after": 6.285,
-    "price_20d_after": 5.1053,
-    "earn_ret_5d": 0.0693,
-    "earn_ret_5d_to_20d": -0.2079
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -301,11 +301,11 @@
     "rev_yoy_growth": 0.465,
     "ni_qoq_growth": -2.0549,
     "ni_acceleration": null,
-    "price_on_event_date": 6.1943,
-    "price_5d_after": 5.8621,
-    "price_20d_after": 6.0109,
-    "earn_ret_5d": -0.0551,
-    "earn_ret_5d_to_20d": 0.0251
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -323,11 +323,11 @@
     "rev_yoy_growth": 0.2665,
     "ni_qoq_growth": 0.4536,
     "ni_acceleration": null,
-    "price_on_event_date": 7.1136,
-    "price_5d_after": 6.9574,
-    "price_20d_after": 8.715,
-    "earn_ret_5d": -0.0222,
-    "earn_ret_5d_to_20d": 0.2252
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -343,13 +343,13 @@
     "shares_outstanding": 535788000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 0.3977,
-    "ni_qoq_growth": -0.0289,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 5.4374,
-    "price_5d_after": 5.1845,
-    "price_20d_after": 5.2026,
-    "earn_ret_5d": -0.0476,
-    "earn_ret_5d_to_20d": 0.0035
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -367,11 +367,11 @@
     "rev_yoy_growth": 0.0862,
     "ni_qoq_growth": 0.203,
     "ni_acceleration": null,
-    "price_on_event_date": 6.4654,
-    "price_5d_after": 5.9404,
-    "price_20d_after": 5.593,
-    "earn_ret_5d": -0.0847,
-    "earn_ret_5d_to_20d": -0.0603
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -389,11 +389,11 @@
     "rev_yoy_growth": -0.0479,
     "ni_qoq_growth": 0.1272,
     "ni_acceleration": null,
-    "price_on_event_date": 2.4382,
-    "price_5d_after": 2.5645,
-    "price_20d_after": 3.0917,
-    "earn_ret_5d": 0.0505,
-    "earn_ret_5d_to_20d": 0.187
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -411,11 +411,11 @@
     "rev_yoy_growth": 0.0925,
     "ni_qoq_growth": 0.8689,
     "ni_acceleration": null,
-    "price_on_event_date": 2.1613,
-    "price_5d_after": 2.326,
-    "price_20d_after": 2.6976,
-    "earn_ret_5d": 0.0735,
-    "earn_ret_5d_to_20d": 0.1482
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -433,11 +433,11 @@
     "rev_yoy_growth": -0.0404,
     "ni_qoq_growth": -0.6002,
     "ni_acceleration": null,
-    "price_on_event_date": 1.6542,
-    "price_5d_after": 1.4124,
-    "price_20d_after": 1.7445,
-    "earn_ret_5d": -0.1581,
-    "earn_ret_5d_to_20d": 0.2112
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -455,11 +455,11 @@
     "rev_yoy_growth": 0.0803,
     "ni_qoq_growth": -0.0965,
     "ni_acceleration": null,
-    "price_on_event_date": 1.5059,
-    "price_5d_after": 1.4673,
-    "price_20d_after": 1.4027,
-    "earn_ret_5d": -0.026,
-    "earn_ret_5d_to_20d": -0.045
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -475,13 +475,13 @@
     "shares_outstanding": 452636000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 0.0675,
-    "ni_qoq_growth": -0.6524,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 2.3399,
-    "price_5d_after": 2.4843,
-    "price_20d_after": 2.2366,
-    "earn_ret_5d": 0.0599,
-    "earn_ret_5d_to_20d": -0.105
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -499,11 +499,11 @@
     "rev_yoy_growth": 0.0325,
     "ni_qoq_growth": 0.3821,
     "ni_acceleration": 0.3423,
-    "price_on_event_date": 2.9915,
-    "price_5d_after": 2.5298,
-    "price_20d_after": 2.6095,
-    "earn_ret_5d": -0.1676,
-    "earn_ret_5d_to_20d": 0.031
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -521,11 +521,11 @@
     "rev_yoy_growth": -0.25,
     "ni_qoq_growth": 1.764,
     "ni_acceleration": 1.697,
-    "price_on_event_date": 3.8062,
-    "price_5d_after": 3.7966,
-    "price_20d_after": 3.5975,
-    "earn_ret_5d": -0.0025,
-    "earn_ret_5d_to_20d": -0.0539
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -541,13 +541,13 @@
     "shares_outstanding": 401258000.0,
     "ni_yoy_growth": -2.8379,
     "rev_yoy_growth": -0.1958,
-    "ni_qoq_growth": -2.8337,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 4.4048,
-    "price_5d_after": 3.5987,
-    "price_20d_after": 3.3998,
-    "earn_ret_5d": -0.2021,
-    "earn_ret_5d_to_20d": -0.0569
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -563,13 +563,13 @@
     "shares_outstanding": 396178000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 0.0246,
-    "ni_qoq_growth": 0.1109,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 4.8816,
-    "price_5d_after": 4.7953,
-    "price_20d_after": 5.067,
-    "earn_ret_5d": -0.0178,
-    "earn_ret_5d_to_20d": 0.0551
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -587,11 +587,11 @@
     "rev_yoy_growth": 0.3063,
     "ni_qoq_growth": 0.0397,
     "ni_acceleration": null,
-    "price_on_event_date": 5.205,
-    "price_5d_after": 5.5981,
-    "price_20d_after": 5.6776,
-    "earn_ret_5d": 0.0728,
-    "earn_ret_5d_to_20d": 0.0141
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -609,11 +609,11 @@
     "rev_yoy_growth": 0.5433,
     "ni_qoq_growth": 0.0671,
     "ni_acceleration": null,
-    "price_on_event_date": 6.8659,
-    "price_5d_after": 6.0424,
-    "price_20d_after": 6.1316,
-    "earn_ret_5d": -0.1278,
-    "earn_ret_5d_to_20d": 0.0146
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -629,13 +629,13 @@
     "shares_outstanding": 387512000.0,
     "ni_yoy_growth": 0.653,
     "rev_yoy_growth": 0.3635,
-    "ni_qoq_growth": 3.6641,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 6.327,
-    "price_5d_after": 6.7769,
-    "price_20d_after": 5.4678,
-    "earn_ret_5d": 0.0687,
-    "earn_ret_5d_to_20d": -0.2146
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -653,11 +653,11 @@
     "rev_yoy_growth": -0.0337,
     "ni_qoq_growth": 2.7728,
     "ni_acceleration": null,
-    "price_on_event_date": 3.8547,
-    "price_5d_after": 4.0938,
-    "price_20d_after": 4.2499,
-    "earn_ret_5d": 0.0602,
-    "earn_ret_5d_to_20d": 0.0374
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -675,11 +675,11 @@
     "rev_yoy_growth": -0.1131,
     "ni_qoq_growth": 0.9919,
     "ni_acceleration": null,
-    "price_on_event_date": 2.0891,
-    "price_5d_after": 1.7934,
-    "price_20d_after": 1.8821,
-    "earn_ret_5d": -0.1526,
-    "earn_ret_5d_to_20d": 0.0483
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -695,13 +695,13 @@
     "shares_outstanding": 371295000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": -0.1883,
-    "ni_qoq_growth": -0.7535,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 1.8194,
-    "price_5d_after": 2.0481,
-    "price_20d_after": 1.8411,
-    "earn_ret_5d": 0.1184,
-    "earn_ret_5d_to_20d": -0.1065
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -719,11 +719,11 @@
     "rev_yoy_growth": 0.1105,
     "ni_qoq_growth": 1.2281,
     "ni_acceleration": null,
-    "price_on_event_date": 2.8551,
-    "price_5d_after": 3.093,
-    "price_20d_after": 2.8959,
-    "earn_ret_5d": 0.08,
-    "earn_ret_5d_to_20d": -0.0659
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -739,13 +739,13 @@
     "shares_outstanding": 362262000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 0.4625,
-    "ni_qoq_growth": -1.3653,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 1.937,
-    "price_5d_after": 2.2503,
-    "price_20d_after": 2.4336,
-    "earn_ret_5d": 0.1499,
-    "earn_ret_5d_to_20d": 0.0783
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -761,13 +761,13 @@
     "shares_outstanding": 344216000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 1.5232,
-    "ni_qoq_growth": -0.2126,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 2.9976,
-    "price_5d_after": 3.0166,
-    "price_20d_after": 3.0763,
-    "earn_ret_5d": 0.0063,
-    "earn_ret_5d_to_20d": 0.0196
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -783,13 +783,13 @@
     "shares_outstanding": 350018000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 1.2154,
-    "ni_qoq_growth": 0.3194,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 2.8998,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.6371,
-    "earn_ret_5d": 0.0162,
-    "earn_ret_5d_to_20d": -0.1111
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -807,11 +807,11 @@
     "rev_yoy_growth": 1.4926,
     "ni_qoq_growth": 1.0781,
     "ni_acceleration": null,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -827,13 +827,13 @@
     "shares_outstanding": 303566000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 0.5711,
-    "ni_qoq_growth": -0.8068,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -849,13 +849,13 @@
     "shares_outstanding": 297164000.0,
     "ni_yoy_growth": -1.6175,
     "rev_yoy_growth": -1.5487,
-    "ni_qoq_growth": 2.5286,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -871,13 +871,13 @@
     "shares_outstanding": 285492000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 6.6352,
-    "ni_qoq_growth": 1.048,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -895,11 +895,11 @@
     "rev_yoy_growth": 3.6014,
     "ni_qoq_growth": -1.6056,
     "ni_acceleration": -2.3898,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -917,11 +917,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": -1.4925,
     "ni_acceleration": -1.6396,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -939,11 +939,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": 0.5179,
     "ni_acceleration": null,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -961,11 +961,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": -0.2634,
     "ni_acceleration": null,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -983,11 +983,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": 0.7842,
     "ni_acceleration": null,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -1005,11 +1005,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": 0.1471,
     "ni_acceleration": null,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "HL",
@@ -1027,10 +1027,10 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 3.2125,
-    "price_5d_after": 2.9471,
-    "price_20d_after": 2.8429,
-    "earn_ret_5d": -0.0862,
-    "earn_ret_5d_to_20d": -0.036
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   }
 ]

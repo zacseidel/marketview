@@ -35,6 +35,7 @@ from src.strategy.templates import (
 log = structlog.get_logger()
 
 _OBS_DIR = Path("data/strategy_observations")
+_THEORETICAL_OBS_DIR = Path("data/strategy_observations/theoretical")
 
 
 # ---------------------------------------------------------------------------
@@ -78,13 +79,14 @@ class StrategyObservation:
 # Persistence
 # ---------------------------------------------------------------------------
 
-def _obs_path(ticker: str, stock_entry_date: str) -> Path:
-    _OBS_DIR.mkdir(parents=True, exist_ok=True)
-    return _OBS_DIR / f"{ticker}_{stock_entry_date}.json"
+def _obs_path(ticker: str, stock_entry_date: str, theoretical: bool = False) -> Path:
+    obs_dir = _THEORETICAL_OBS_DIR if theoretical else _OBS_DIR
+    obs_dir.mkdir(parents=True, exist_ok=True)
+    return obs_dir / f"{ticker}_{stock_entry_date}.json"
 
 
-def load_observations(ticker: str, stock_entry_date: str) -> list[StrategyObservation]:
-    path = _obs_path(ticker, stock_entry_date)
+def load_observations(ticker: str, stock_entry_date: str, theoretical: bool = False) -> list[StrategyObservation]:
+    path = _obs_path(ticker, stock_entry_date, theoretical)
     if not path.exists():
         return []
     with open(path) as f:
@@ -96,8 +98,8 @@ def load_observations(ticker: str, stock_entry_date: str) -> list[StrategyObserv
     return obs
 
 
-def save_observations(ticker: str, stock_entry_date: str, observations: list[StrategyObservation]) -> None:
-    path = _obs_path(ticker, stock_entry_date)
+def save_observations(ticker: str, stock_entry_date: str, observations: list[StrategyObservation], theoretical: bool = False) -> None:
+    path = _obs_path(ticker, stock_entry_date, theoretical)
     data = [asdict(obs) for obs in observations]
     tmp = path.with_suffix(".tmp")
     with open(tmp, "w") as f:
@@ -106,9 +108,23 @@ def save_observations(ticker: str, stock_entry_date: str, observations: list[Str
 
 
 def load_all_observations() -> list[StrategyObservation]:
-    """Load every observation across all stock positions."""
+    """Load every observation across all executed stock positions."""
     all_obs = []
     for path in _OBS_DIR.glob("*.json"):
+        with open(path) as f:
+            raw = json.load(f)
+        for r in raw:
+            legs = [StrategyLeg(**leg) for leg in r.pop("legs", [])]
+            all_obs.append(StrategyObservation(legs=legs, **r))
+    return all_obs
+
+
+def load_all_theoretical_observations() -> list[StrategyObservation]:
+    """Load every theoretical (model-signal) observation, independent of user buy decisions."""
+    if not _THEORETICAL_OBS_DIR.exists():
+        return []
+    all_obs = []
+    for path in _THEORETICAL_OBS_DIR.glob("*.json"):
         with open(path) as f:
             raw = json.load(f)
         for r in raw:
@@ -401,6 +417,7 @@ def close_all_for_model_sell(
     close_date: str,
     stock_price: float,
     chain: list[dict] | None = None,
+    theoretical: bool = False,
 ) -> bool:
     """
     Model says sell. Close all open observations.
@@ -408,7 +425,7 @@ def close_all_for_model_sell(
     Options legs: if expired → intrinsic; if chain provided → mid price; else → awaiting_chain.
     Returns True if all observations fully closed, False if any are awaiting chain.
     """
-    observations = load_observations(ticker, stock_entry_date)
+    observations = load_observations(ticker, stock_entry_date, theoretical)
     all_closed = True
 
     for obs in observations:
@@ -418,8 +435,36 @@ def close_all_for_model_sell(
         if not resolved:
             all_closed = False
 
-    save_observations(ticker, stock_entry_date, observations)
+    save_observations(ticker, stock_entry_date, observations, theoretical)
     return all_closed
+
+
+def close_theoretical_for_ticker(ticker: str, close_date: str, stock_price: float) -> tuple[bool, list[str]]:
+    """
+    Close all open theoretical observations for a ticker across all entry dates.
+    Returns (all_resolved, entry_dates_needing_chain) where entry_dates_needing_chain
+    lists entry dates that have awaiting_chain observations requiring a chain fetch.
+    """
+    if not _THEORETICAL_OBS_DIR.exists():
+        return True, []
+
+    all_resolved = True
+    needs_chain: list[str] = []
+
+    for obs_file in _THEORETICAL_OBS_DIR.glob(f"{ticker}_*.json"):
+        entry_date = obs_file.stem[len(ticker) + 1:]
+        resolved = close_all_for_model_sell(
+            ticker=ticker,
+            stock_entry_date=entry_date,
+            close_date=close_date,
+            stock_price=stock_price,
+            theoretical=True,
+        )
+        if not resolved:
+            all_resolved = False
+            needs_chain.append(entry_date)
+
+    return all_resolved, needs_chain
 
 
 def close_awaiting_chain(
@@ -428,13 +473,14 @@ def close_awaiting_chain(
     chain: list[dict],
     close_date: str,
     stock_price: float,
+    theoretical: bool = False,
 ) -> int:
     """
     Called by queue processor after fetching the options chain.
     Closes all "awaiting_chain" observations using the provided chain.
     Returns number of observations resolved.
     """
-    observations = load_observations(ticker, stock_entry_date)
+    observations = load_observations(ticker, stock_entry_date, theoretical)
     resolved_count = 0
 
     for obs in observations:
@@ -447,5 +493,5 @@ def close_awaiting_chain(
         if resolved:
             resolved_count += 1
 
-    save_observations(ticker, stock_entry_date, observations)
+    save_observations(ticker, stock_entry_date, observations, theoretical)
     return resolved_count

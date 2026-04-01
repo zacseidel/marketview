@@ -27,6 +27,7 @@ _ROOT = Path(__file__).parent.resolve()
 STEPS = [
     ("Download prices",         ["python", "-m", "src.universe.ingestion"]),
     ("Process work queue",      ["python", "-m", "src.collection.process_queue"]),
+    ("Refresh earnings data",   ["python", "-m", "src.collection.earnings_refresh"]),
     ("Run selection models",    ["python", "-m", "src.selection.runner"]),
     ("Evaluate strategies",     ["python", "-m", "src.strategy.runner"]),
     ("Regenerate dashboard",    ["python", "-m", "src.reports.daily"]),

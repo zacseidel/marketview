@@ -143,8 +143,25 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
         ticker = task.ticker
         log.info("process_queue.options_chain", ticker=ticker, date=task.requested_date)
 
+        # Load stock price first — needed to target strikes in EOD chain fetch
+        price_file = Path("data/prices") / f"{task.requested_date}.json"
+        stock_price = None
+        if price_file.exists():
+            with open(price_file) as f:
+                prices = json.load(f)
+            for rec in prices:
+                if rec.get("ticker") == ticker:
+                    stock_price = rec.get("close") or rec.get("ohlc_avg")
+                    break
+
+        if not stock_price:
+            log.warning("process_queue.no_stock_price", ticker=ticker, date=task.requested_date)
+            queue.mark_failed(task.task_id, "no stock price")
+            processed += 1
+            continue
+
         try:
-            chain = client.get_options_chain(ticker)
+            chain = client.get_options_chain(ticker, stock_price=stock_price, as_of_date=task.requested_date)
         except Exception as exc:
             log.warning("process_queue.options_chain_error", ticker=ticker, error=str(exc))
             queue.mark_failed(task.task_id, str(exc))
@@ -163,17 +180,6 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
         chain_path = chain_dir / f"{ticker}_{task.requested_date}.json"
         with open(chain_path, "w") as f:
             json.dump(chain, f)
-
-        # Load the stock price for this date
-        price_file = Path("data/prices") / f"{task.requested_date}.json"
-        stock_price = None
-        if price_file.exists():
-            with open(price_file) as f:
-                prices = json.load(f)
-            for rec in prices:
-                if rec.get("ticker") == ticker:
-                    stock_price = rec.get("close") or rec.get("ohlc_avg")
-                    break
 
         # Handle strategy observations waiting on this chain
         from src.strategy.snapshot import (
@@ -196,12 +202,6 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
                     if pos.get("ticker") == ticker and pos.get("status") == "open":
                         stock_entry_date = pos.get("entry_date", task.requested_date)
                         break
-
-        if stock_price is None:
-            log.warning("process_queue.no_stock_price", ticker=ticker, date=task.requested_date)
-            queue.mark_complete(task.task_id, data_path=str(chain_path))
-            processed += 1
-            continue
 
         # Close any awaiting_chain observations regardless of reason
         resolved = close_awaiting_chain(
@@ -233,6 +233,34 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
                     ticker=ticker,
                     strategies=strategies_to_reopen,
                 )
+
+        elif reason == "theoretical_momentum":
+            # Create theoretical strategy observations for momentum picks (user approval not required)
+            obs = load_observations(ticker, stock_entry_date, theoretical=True)
+            if not obs:
+                models = task.metadata.get("originating_models", ["momentum"])
+                new_obs = create_observation_set(
+                    ticker=ticker,
+                    stock_price=stock_price,
+                    chain=chain,
+                    entry_date=stock_entry_date,
+                    originating_models=models,
+                )
+                save_observations(ticker, stock_entry_date, new_obs, theoretical=True)
+                log.info("process_queue.theoretical_snapshots_created", ticker=ticker, count=len(new_obs))
+
+        elif reason == "theoretical_close":
+            # Close awaiting_chain theoretical observations using the newly fetched chain
+            resolved = close_awaiting_chain(
+                ticker=ticker,
+                stock_entry_date=stock_entry_date,
+                chain=chain,
+                close_date=task.requested_date,
+                stock_price=stock_price,
+                theoretical=True,
+            )
+            if resolved:
+                log.info("process_queue.theoretical_awaiting_resolved", ticker=ticker, resolved=resolved)
 
         else:
             # strategy_entry: create initial observations if none exist yet

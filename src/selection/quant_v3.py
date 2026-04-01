@@ -58,12 +58,32 @@ def _compute_spy_features(prices: pd.DataFrame) -> dict[str, float | None]:
             "spy_pct_above_sma200": spy_pct_above_sma200}
 
 
-def _compute_buyback_features(ticker: str) -> dict[str, float | None]:
-    fpath = _FUNDAMENTALS_DIR / f"{ticker}.json"
-    if not fpath.exists():
-        return {"buyback_pct_12m": None, "buyback_pct_1q": None}
-    with open(fpath) as f:
-        records = json.load(f)
+def _load_all_fundamentals() -> dict[str, list]:
+    """Load all fundamentals files into memory once. Returns {ticker: records}."""
+    result: dict[str, list] = {}
+    for path in _FUNDAMENTALS_DIR.glob("*.json"):
+        try:
+            with open(path) as f:
+                result[path.stem] = json.load(f)
+        except Exception:
+            pass
+    return result
+
+
+def _load_all_earnings() -> dict[str, list]:
+    """Load all earnings files into memory once. Returns {ticker: records}."""
+    result: dict[str, list] = {}
+    for path in _EARNINGS_DIR.glob("*.json"):
+        try:
+            with open(path) as f:
+                result[path.stem] = json.load(f)
+        except Exception:
+            pass
+    return result
+
+
+def _compute_buyback_features(ticker: str, fundamentals_cache: dict[str, list]) -> dict[str, float | None]:
+    records = fundamentals_cache.get(ticker)
     if not records:
         return {"buyback_pct_12m": None, "buyback_pct_1q": None}
 
@@ -82,14 +102,12 @@ def _compute_buyback_features(ticker: str) -> dict[str, float | None]:
     return {"buyback_pct_12m": buyback_pct_12m, "buyback_pct_1q": buyback_pct_1q}
 
 
-def _compute_earnings_features(ticker: str, as_of: _date) -> dict[str, float | None]:
-    fpath = _EARNINGS_DIR / f"{ticker}.json"
-    if not fpath.exists():
+def _compute_earnings_features(ticker: str, as_of: _date, earnings_cache: dict[str, list]) -> dict[str, float | None]:
+    records = earnings_cache.get(ticker)
+    if not records:
         return {"eps_surprise_pct": None, "earn_ret_5d": None,
-                "ni_yoy_growth": None, "rev_yoy_growth": None, "days_to_next_earnings": None}
-
-    with open(fpath) as f:
-        records = json.load(f)
+                "ni_yoy_growth": None, "rev_yoy_growth": None,
+                "days_to_next_earnings": None}
 
     def _pct(v: object) -> float | None:
         return float(v) * 100 if v is not None else None
@@ -125,6 +143,10 @@ def _compute_earnings_features(ticker: str, as_of: _date) -> dict[str, float | N
 def _compute_current_features_v3(prices: pd.DataFrame) -> pd.DataFrame:
     as_of = prices["date"].max().date()
     spy_features = _compute_spy_features(prices)
+    fundamentals_cache = _load_all_fundamentals()
+    earnings_cache = _load_all_earnings()
+    log.debug("quant_v3.caches_loaded",
+              fundamentals=len(fundamentals_cache), earnings=len(earnings_cache))
 
     rows: list[dict] = []
     for ticker, tdf in prices.groupby("ticker"):
@@ -139,8 +161,8 @@ def _compute_current_features_v3(prices: pd.DataFrame) -> pd.DataFrame:
         technical_cols = [c for c in FEATURE_COLS_V3 if c in feat.columns]
         row: dict = {"ticker": ticker}
         row.update({col: last[col] for col in technical_cols})
-        row.update(_compute_buyback_features(str(ticker)))
-        row.update(_compute_earnings_features(str(ticker), as_of))
+        row.update(_compute_buyback_features(str(ticker), fundamentals_cache))
+        row.update(_compute_earnings_features(str(ticker), as_of, earnings_cache))
         row.update(spy_features)
         rows.append(row)
 

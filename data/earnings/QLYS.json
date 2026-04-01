@@ -15,11 +15,11 @@
     "rev_yoy_growth": 0.1331,
     "ni_qoq_growth": 0.0626,
     "ni_acceleration": -0.0343,
-    "price_on_event_date": 121.21,
-    "price_5d_after": 153.8,
-    "price_20d_after": 149.13,
-    "earn_ret_5d": 0.2381,
-    "earn_ret_5d_to_20d": -0.0308
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -37,11 +37,11 @@
     "rev_yoy_growth": 0.118,
     "ni_qoq_growth": -0.0051,
     "ni_acceleration": 0.1525,
-    "price_on_event_date": 140.68,
-    "price_5d_after": 135.73,
-    "price_20d_after": 139.19,
-    "earn_ret_5d": -0.0358,
-    "earn_ret_5d_to_20d": 0.0252
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -59,11 +59,11 @@
     "rev_yoy_growth": 0.1187,
     "ni_qoq_growth": 0.0282,
     "ni_acceleration": -0.2453,
-    "price_on_event_date": 126.82,
-    "price_5d_after": 136.75,
-    "price_20d_after": 138.4,
-    "earn_ret_5d": 0.0754,
-    "earn_ret_5d_to_20d": 0.012
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -81,11 +81,11 @@
     "rev_yoy_growth": 0.1146,
     "ni_qoq_growth": 0.0542,
     "ni_acceleration": -0.1411,
-    "price_on_event_date": 128.23,
-    "price_5d_after": 154.56,
-    "price_20d_after": 158.85,
-    "earn_ret_5d": 0.1868,
-    "earn_ret_5d_to_20d": 0.0274
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -103,11 +103,11 @@
     "rev_yoy_growth": 0.1292,
     "ni_qoq_growth": 0.0969,
     "ni_acceleration": 0.046,
-    "price_on_event_date": 137.1,
-    "price_5d_after": 125.0,
-    "price_20d_after": 123.86,
-    "earn_ret_5d": -0.0924,
-    "earn_ret_5d_to_20d": -0.0092
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -125,11 +125,11 @@
     "rev_yoy_growth": 0.1495,
     "ni_qoq_growth": -0.1576,
     "ni_acceleration": -0.1969,
-    "price_on_event_date": 165.98,
-    "price_5d_after": 149.73,
-    "price_20d_after": 135.79,
-    "earn_ret_5d": -0.103,
-    "earn_ret_5d_to_20d": -0.0977
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -147,11 +147,11 @@
     "rev_yoy_growth": 0.1692,
     "ni_qoq_growth": 0.2736,
     "ni_acceleration": 0.2279,
-    "price_on_event_date": 152.72,
-    "price_5d_after": 167.98,
-    "price_20d_after": 188.01,
-    "earn_ret_5d": 0.0952,
-    "earn_ret_5d_to_20d": 0.1127
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -169,11 +169,11 @@
     "rev_yoy_growth": 0.1904,
     "ni_qoq_growth": 0.1953,
     "ni_acceleration": 0.2841,
-    "price_on_event_date": 138.04,
-    "price_5d_after": 147.27,
-    "price_20d_after": 155.65,
-    "earn_ret_5d": 0.0647,
-    "earn_ret_5d_to_20d": 0.0553
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -191,11 +191,11 @@
     "rev_yoy_growth": 0.2194,
     "ni_qoq_growth": 0.0509,
     "ni_acceleration": -0.2217,
-    "price_on_event_date": 108.25,
-    "price_5d_after": 114.84,
-    "price_20d_after": 130.0,
-    "earn_ret_5d": 0.0591,
-    "earn_ret_5d_to_20d": 0.124
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -213,11 +213,11 @@
     "rev_yoy_growth": 0.2306,
     "ni_qoq_growth": 0.0392,
     "ni_acceleration": -4.4905,
-    "price_on_event_date": 133.82,
-    "price_5d_after": 113.34,
-    "price_20d_after": 124.93,
-    "earn_ret_5d": -0.1661,
-    "earn_ret_5d_to_20d": 0.0974
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -235,11 +235,11 @@
     "rev_yoy_growth": 0.2144,
     "ni_qoq_growth": 0.0456,
     "ni_acceleration": 4.6483,
-    "price_on_event_date": 127.43,
-    "price_5d_after": 153.94,
-    "price_20d_after": 147.16,
-    "earn_ret_5d": 0.189,
-    "earn_ret_5d_to_20d": -0.045
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -257,11 +257,11 @@
     "rev_yoy_growth": 0.1978,
     "ni_qoq_growth": -0.0888,
     "ni_acceleration": 0.0573,
-    "price_on_event_date": 138.52,
-    "price_5d_after": 112.45,
-    "price_20d_after": 133.84,
-    "earn_ret_5d": -0.2085,
-    "earn_ret_5d_to_20d": 0.1741
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -279,11 +279,11 @@
     "rev_yoy_growth": 0.1666,
     "ni_qoq_growth": 0.2727,
     "ni_acceleration": -0.0695,
-    "price_on_event_date": 125.18,
-    "price_5d_after": 137.67,
-    "price_20d_after": 129.42,
-    "earn_ret_5d": 0.0951,
-    "earn_ret_5d_to_20d": -0.0618
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -301,11 +301,11 @@
     "rev_yoy_growth": 0.1448,
     "ni_qoq_growth": 4.5297,
     "ni_acceleration": 4.5551,
-    "price_on_event_date": 105.11,
-    "price_5d_after": 108.94,
-    "price_20d_after": 116.43,
-    "earn_ret_5d": 0.0358,
-    "earn_ret_5d_to_20d": 0.0665
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -323,11 +323,11 @@
     "rev_yoy_growth": 0.1573,
     "ni_qoq_growth": -4.6027,
     "ni_acceleration": -4.7693,
-    "price_on_event_date": 94.38,
-    "price_5d_after": 98.18,
-    "price_20d_after": 98.76,
-    "earn_ret_5d": 0.0395,
-    "earn_ret_5d_to_20d": 0.0059
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -345,11 +345,11 @@
     "rev_yoy_growth": 0.1648,
     "ni_qoq_growth": -0.146,
     "ni_acceleration": -0.3478,
-    "price_on_event_date": 94.74,
-    "price_5d_after": 91.63,
-    "price_20d_after": 92.74,
-    "earn_ret_5d": -0.0334,
-    "earn_ret_5d_to_20d": 0.012
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -367,11 +367,11 @@
     "rev_yoy_growth": 0.1647,
     "ni_qoq_growth": 0.3421,
     "ni_acceleration": 0.9126,
-    "price_on_event_date": 112.87,
-    "price_5d_after": 104.69,
-    "price_20d_after": 98.67,
-    "earn_ret_5d": -0.0752,
-    "earn_ret_5d_to_20d": -0.0592
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -389,11 +389,11 @@
     "rev_yoy_growth": 0.1855,
     "ni_qoq_growth": -0.0254,
     "ni_acceleration": -0.8496,
-    "price_on_event_date": 111.25,
-    "price_5d_after": 104.59,
-    "price_20d_after": 108.54,
-    "earn_ret_5d": -0.0617,
-    "earn_ret_5d_to_20d": 0.0371
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -411,11 +411,11 @@
     "rev_yoy_growth": 0.1931,
     "ni_qoq_growth": 0.1666,
     "ni_acceleration": 0.048,
-    "price_on_event_date": 85.33,
-    "price_5d_after": 84.69,
-    "price_20d_after": 87.51,
-    "earn_ret_5d": -0.0075,
-    "earn_ret_5d_to_20d": 0.0328
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -433,11 +433,11 @@
     "rev_yoy_growth": 0.196,
     "ni_qoq_growth": 0.2018,
     "ni_acceleration": 0.1233,
-    "price_on_event_date": 83.06,
-    "price_5d_after": 82.99,
-    "price_20d_after": 79.62,
-    "earn_ret_5d": -0.0008,
-    "earn_ret_5d_to_20d": -0.0415
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -455,11 +455,11 @@
     "rev_yoy_growth": 0.2362,
     "ni_qoq_growth": -0.5705,
     "ni_acceleration": -0.7305,
-    "price_on_event_date": 91.7,
-    "price_5d_after": 87.49,
-    "price_20d_after": 81.88,
-    "earn_ret_5d": -0.047,
-    "earn_ret_5d_to_20d": -0.0663
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -477,11 +477,11 @@
     "rev_yoy_growth": 0.2591,
     "ni_qoq_growth": 0.8242,
     "ni_acceleration": 1.9377,
-    "price_on_event_date": 72.85,
-    "price_5d_after": 72.15,
-    "price_20d_after": 76.53,
-    "earn_ret_5d": -0.0097,
-    "earn_ret_5d_to_20d": 0.0589
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -499,11 +499,11 @@
     "rev_yoy_growth": 0.2492,
     "ni_qoq_growth": 0.1186,
     "ni_acceleration": -1.3606,
-    "price_on_event_date": 86.15,
-    "price_5d_after": 88.45,
-    "price_20d_after": 89.05,
-    "earn_ret_5d": 0.0263,
-    "earn_ret_5d_to_20d": 0.0068
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -521,11 +521,11 @@
     "rev_yoy_growth": 0.2409,
     "ni_qoq_growth": 0.0785,
     "ni_acceleration": -0.2666,
-    "price_on_event_date": 77.75,
-    "price_5d_after": 76.4,
-    "price_20d_after": 80.65,
-    "earn_ret_5d": -0.0175,
-    "earn_ret_5d_to_20d": 0.0541
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -543,11 +543,11 @@
     "rev_yoy_growth": 0.2049,
     "ni_qoq_growth": 0.16,
     "ni_acceleration": 0.4615,
-    "price_on_event_date": 57.35,
-    "price_5d_after": 56.9,
-    "price_20d_after": 56.45,
-    "earn_ret_5d": -0.0079,
-    "earn_ret_5d_to_20d": -0.0079
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -565,11 +565,11 @@
     "rev_yoy_growth": 0.1788,
     "ni_qoq_growth": -1.1135,
     "ni_acceleration": -1.262,
-    "price_on_event_date": 46.4,
-    "price_5d_after": 43.6,
-    "price_20d_after": 47.5,
-    "earn_ret_5d": -0.0622,
-    "earn_ret_5d_to_20d": 0.0857
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -587,11 +587,11 @@
     "rev_yoy_growth": 0.2238,
     "ni_qoq_growth": 1.4792,
     "ni_acceleration": 1.2614,
-    "price_on_event_date": 41.0,
-    "price_5d_after": 41.5,
-    "price_20d_after": 42.3,
-    "earn_ret_5d": 0.0121,
-    "earn_ret_5d_to_20d": 0.0191
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -609,11 +609,11 @@
     "rev_yoy_growth": 0.2458,
     "ni_qoq_growth": 0.3451,
     "ni_acceleration": 0.2456,
-    "price_on_event_date": 34.3,
-    "price_5d_after": 36.1,
-    "price_20d_after": 32.5,
-    "earn_ret_5d": 0.0511,
-    "earn_ret_5d_to_20d": -0.1051
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -631,11 +631,11 @@
     "rev_yoy_growth": 0.2567,
     "ni_qoq_growth": -0.3015,
     "ni_acceleration": -0.2678,
-    "price_on_event_date": 32.0,
-    "price_5d_after": 30.7,
-    "price_20d_after": 35.05,
-    "earn_ret_5d": -0.0415,
-    "earn_ret_5d_to_20d": 0.1325
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -653,11 +653,11 @@
     "rev_yoy_growth": 0.2975,
     "ni_qoq_growth": 0.1485,
     "ni_acceleration": -0.4795,
-    "price_on_event_date": 25.85,
-    "price_5d_after": 26.5,
-    "price_20d_after": 32.2,
-    "earn_ret_5d": 0.0248,
-    "earn_ret_5d_to_20d": 0.1948
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -675,11 +675,11 @@
     "rev_yoy_growth": 0.2736,
     "ni_qoq_growth": 0.2178,
     "ni_acceleration": null,
-    "price_on_event_date": 36.37,
-    "price_5d_after": 37.57,
-    "price_20d_after": 39.27,
-    "earn_ret_5d": 0.0325,
-    "earn_ret_5d_to_20d": 0.0443
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -697,11 +697,11 @@
     "rev_yoy_growth": 0.2728,
     "ni_qoq_growth": 0.0995,
     "ni_acceleration": null,
-    "price_on_event_date": 33.25,
-    "price_5d_after": 32.53,
-    "price_20d_after": 28.81,
-    "earn_ret_5d": -0.0219,
-    "earn_ret_5d_to_20d": -0.1214
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -719,11 +719,11 @@
     "rev_yoy_growth": 0.301,
     "ni_qoq_growth": -0.0337,
     "ni_acceleration": -0.4388,
-    "price_on_event_date": 37.07,
-    "price_5d_after": 38.53,
-    "price_20d_after": 42.39,
-    "earn_ret_5d": 0.0386,
-    "earn_ret_5d_to_20d": 0.0955
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -741,11 +741,11 @@
     "rev_yoy_growth": 0.2673,
     "ni_qoq_growth": 0.628,
     "ni_acceleration": null,
-    "price_on_event_date": 34.82,
-    "price_5d_after": 35.67,
-    "price_20d_after": 36.56,
-    "earn_ret_5d": 0.0241,
-    "earn_ret_5d_to_20d": 0.0246
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -761,13 +761,13 @@
     "shares_outstanding": 36839000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": 0.2609,
-    "ni_qoq_growth": 1.3467,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 26.58,
-    "price_5d_after": 25.82,
-    "price_20d_after": 24.39,
-    "earn_ret_5d": -0.029,
-    "earn_ret_5d_to_20d": -0.057
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -783,13 +783,13 @@
     "shares_outstanding": 32516000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": null,
-    "ni_qoq_growth": 1.1109,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 19.78,
-    "price_5d_after": 21.04,
-    "price_20d_after": 23.11,
-    "earn_ret_5d": 0.0618,
-    "earn_ret_5d_to_20d": 0.0938
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -807,11 +807,11 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": 0.4051,
     "ni_acceleration": null,
-    "price_on_event_date": 26.87,
-    "price_5d_after": 24.99,
-    "price_20d_after": 21.43,
-    "earn_ret_5d": -0.0725,
-    "earn_ret_5d_to_20d": -0.1537
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -827,13 +827,13 @@
     "shares_outstanding": 35393000.0,
     "ni_yoy_growth": null,
     "rev_yoy_growth": null,
-    "ni_qoq_growth": 0.37,
+    "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 26.87,
-    "price_5d_after": 24.99,
-    "price_20d_after": 21.43,
-    "earn_ret_5d": -0.0725,
-    "earn_ret_5d_to_20d": -0.1537
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   },
   {
     "ticker": "QLYS",
@@ -851,10 +851,10 @@
     "rev_yoy_growth": null,
     "ni_qoq_growth": null,
     "ni_acceleration": null,
-    "price_on_event_date": 26.87,
-    "price_5d_after": 24.99,
-    "price_20d_after": 21.43,
-    "earn_ret_5d": -0.0725,
-    "earn_ret_5d_to_20d": -0.1537
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
   }
 ]

@@ -51,9 +51,9 @@ def _compute_ranks(dal: DataAccessLayer) -> list[dict]:
         try:
             prices = dal.get_prices(ticker, lookback_days=_LOOKBACK + 5)
             close = prices["close"]
-            if len(close) < _LOOKBACK:
+            if len(close) < _LOOKBACK + 1:
                 continue
-            ret = math.log(float(close.iloc[-1] / close.iloc[-_LOOKBACK]))
+            ret = math.log(float(close.iloc[-1] / close.iloc[-(1 + _LOOKBACK)]))
             returns.append((ticker, ret))
         except Exception as exc:
             log.debug("momentum.return_error", ticker=ticker, error=str(exc))
