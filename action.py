@@ -18,6 +18,7 @@ from __future__ import annotations
 import json
 import subprocess
 import sys
+import time
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
@@ -30,6 +31,55 @@ STEPS = [
     ("Evaluate strategies",     ["python", "-m", "src.strategy.runner"]),
     ("Regenerate dashboard",    ["python", "-m", "src.reports.daily"]),
 ]
+
+
+def _prev_trading_day() -> str:
+    d = date.today() - timedelta(days=1)
+    while d.weekday() >= 5:
+        d -= timedelta(days=1)
+    return d.isoformat()
+
+
+def _queue_preflight() -> None:
+    """Print pending task counts by type before running the queue processor."""
+    queue_file = _ROOT / "data/queue/pending.json"
+    if not queue_file.exists():
+        print("  Queue: empty")
+        return
+    with open(queue_file) as f:
+        tasks = json.load(f)
+    pending = [t for t in tasks if t.get("status") in ("pending", "ready")]
+    if not pending:
+        print("  Queue: no pending tasks")
+        return
+    by_type: dict[str, int] = {}
+    for t in pending:
+        by_type[t["task_type"]] = by_type.get(t["task_type"], 0) + 1
+    summary = ", ".join(f"{k}: {v}" for k, v in sorted(by_type.items()))
+    print(f"  Pending tasks: {len(pending)}  ({summary})")
+
+
+def _models_preflight() -> None:
+    """Print which models are enabled before running selection."""
+    try:
+        import yaml
+        config_file = _ROOT / "config/models.yaml"
+        with open(config_file) as f:
+            cfg = yaml.safe_load(f)
+        enabled = [name for name, mc in cfg["models"].items() if mc.get("enabled", False)]
+        print(f"  Models: {', '.join(enabled)}")
+    except Exception:
+        pass
+
+
+def _prices_preflight() -> None:
+    """Print the target date and whether it will be a fresh fetch or skip."""
+    target = _prev_trading_day()
+    out = _ROOT / "data/prices" / f"{target}.json"
+    if out.exists():
+        print(f"  Target date: {target}  (already exists — will skip)")
+    else:
+        print(f"  Target date: {target}  (fetching)")
 
 _STALE_DAYS = 90
 _STALE_THRESHOLD = 50  # warn if more than this many tickers are stale
@@ -74,26 +124,40 @@ def _check_fundamentals() -> None:
         print(f"  Skipping — run manually when convenient.\n")
 
 
+_PREFLIGHTS: dict[str, object] = {
+    "Download prices":      _prices_preflight,
+    "Process work queue":   _queue_preflight,
+    "Run selection models": _models_preflight,
+}
+
+
 def run() -> None:
     print(f"\n=== action.py — {datetime.now().strftime('%Y-%m-%d %H:%M')} ===\n")
 
     _check_fundamentals()
 
+    pipeline_start = time.time()
     failed = False
     for label, cmd in STEPS:
         print(f"[{label}]")
+        preflight = _PREFLIGHTS.get(label)
+        if preflight:
+            preflight()
+        t0 = time.time()
         result = subprocess.run(cmd, cwd=_ROOT)
+        elapsed = time.time() - t0
         if result.returncode != 0:
-            print(f"  FAILED (exit {result.returncode}) — stopping\n")
+            print(f"  FAILED (exit {result.returncode}) after {elapsed:.0f}s — stopping\n")
             failed = True
             break
-        print(f"  done\n")
+        print(f"  done  ({elapsed:.0f}s)\n")
 
+    total = time.time() - pipeline_start
     if failed:
-        print("Pipeline stopped early. Fix the error above and re-run.")
+        print(f"Pipeline stopped early after {total:.0f}s. Fix the error above and re-run.")
         sys.exit(1)
 
-    print("=== Done ===")
+    print(f"=== Done in {total:.0f}s ===")
     print("Next: python review.py  (or review decisions/pending/ and push your approved checkboxes.)")
 
 

@@ -106,12 +106,10 @@ def _build_ticker_features(df: pd.DataFrame) -> pd.DataFrame:
     pct_ath = (close / ath - 1) * 100  # negative = below ATH
 
     # % of 5-year window elapsed since ATH (0% = just made ATH, 100% = 5+ years ago)
-    days_since_ath_raw = np.zeros(n, dtype=float)
-    last_ath_idx = 0
-    for i in range(n):
-        if close[i] >= ath[i]:
-            last_ath_idx = i
-        days_since_ath_raw[i] = min(i - last_ath_idx, _ATH_CAP)
+    # close[0] == ath[0] always (expanding max), so ath_indices always contains 0.
+    ath_indices = np.where(close >= ath)[0]
+    last_ath_pos = np.searchsorted(ath_indices, np.arange(n), side="right") - 1
+    days_since_ath_raw = np.minimum(np.arange(n) - ath_indices[last_ath_pos], _ATH_CAP).astype(float)
     pct_time_since_ath = (days_since_ath_raw / _ATH_CAP) * 100
 
     # 52-week (252-day) low
