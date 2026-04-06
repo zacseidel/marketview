@@ -1,0 +1,227 @@
+[
+  {
+    "ticker": "YETI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 81595000.0,
+    "revenue": 1868494000.0,
+    "net_income": 165387000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q3 2026",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 81429000.0,
+    "revenue": 487766000.0,
+    "net_income": 39400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q2 2026",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 83463000.0,
+    "revenue": 445892000.0,
+    "net_income": 51151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q4 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 83543000.0,
+    "revenue": 351128000.0,
+    "net_income": 16609000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-24",
+    "shares_outstanding": 85755000.0,
+    "revenue": 1829873000.0,
+    "net_income": 175689000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 85492000.0,
+    "revenue": 478440000.0,
+    "net_income": 56284000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 85468000.0,
+    "revenue": 463499000.0,
+    "net_income": 50396000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-09",
+    "shares_outstanding": 87157000.0,
+    "revenue": 341394000.0,
+    "net_income": 15855000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-26",
+    "shares_outstanding": 87403000.0,
+    "revenue": 1658713000.0,
+    "net_income": 169885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 87589000.0,
+    "revenue": 433561000.0,
+    "net_income": 42657000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-10",
+    "shares_outstanding": 87196000.0,
+    "revenue": 402563000.0,
+    "net_income": 38071000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-11",
+    "shares_outstanding": 87086000.0,
+    "revenue": 302796000.0,
+    "net_income": 10564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 87195000.0,
+    "revenue": 1595222000.0,
+    "net_income": 89693000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-10",
+    "shares_outstanding": 86831000.0,
+    "revenue": 433556000.0,
+    "net_income": 45520000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-11",
+    "shares_outstanding": 86860000.0,
+    "revenue": 420042000.0,
+    "net_income": 46252000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-11",
+    "shares_outstanding": 88223000.0,
+    "revenue": 293628000.0,
+    "net_income": 25659000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 87847000.0,
+    "revenue": 1091721000.0,
+    "net_income": 155801000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 88094000.0,
+    "revenue": 294603000.0,
+    "net_income": 51445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 87477000.0,
+    "revenue": 246938000.0,
+    "net_income": 33482000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 87461000.0,
+    "revenue": 174412000.0,
+    "net_income": 8480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 86347000.0,
+    "revenue": 913734000.0,
+    "net_income": 50434000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-04",
+    "shares_outstanding": 86373000.0,
+    "revenue": 229125000.0,
+    "net_income": 21302000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-05",
+    "shares_outstanding": 86227000.0,
+    "revenue": 231654000.0,
+    "net_income": 22223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-06",
+    "shares_outstanding": 85857000.0,
+    "revenue": 155353000.0,
+    "net_income": 2167000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "YETI",
+    "period": "FY 2018",
+    "filing_date": "2019-03-20",
+    "shares_outstanding": 83519000.0,
+    "revenue": 778833000.0,
+    "net_income": 57763000.0,
+    "market_cap": null
+  }
+]

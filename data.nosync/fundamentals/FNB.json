@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "FNB",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 361953974.0,
+    "revenue": 2326000000.0,
+    "net_income": 565000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 361953974.0,
+    "revenue": 2326000000.0,
+    "net_income": 565000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 361669618.0,
+    "revenue": 596000000.0,
+    "net_income": 150000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 362258964.0,
+    "revenue": 583000000.0,
+    "net_income": 130000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 363068604.0,
+    "revenue": 559000000.0,
+    "net_income": 117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 362637604.0,
+    "revenue": 2252000000.0,
+    "net_income": 465000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 362425528.0,
+    "revenue": 583000000.0,
+    "net_income": 110000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 362701233.0,
+    "revenue": 557000000.0,
+    "net_income": 123000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 362619278.0,
+    "revenue": 543000000.0,
+    "net_income": 122000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2023",
+    "filing_date": "2024-02-26",
+    "shares_outstanding": 362897806.0,
+    "revenue": 1973000000.0,
+    "net_income": 485000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 361778425.0,
+    "revenue": 513000000.0,
+    "net_income": 145000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 362626182.0,
+    "revenue": 484000000.0,
+    "net_income": 142000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 364930288.0,
+    "revenue": 444000000.0,
+    "net_income": 147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 354052197.0,
+    "revenue": 1285000000.0,
+    "net_income": 439000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 354654479.0,
+    "revenue": 343000000.0,
+    "net_income": 138000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 354687069.0,
+    "revenue": 280000000.0,
+    "net_income": 109000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 348926046.0,
+    "revenue": 254000000.0,
+    "net_income": 53000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 323481488.0,
+    "revenue": 1005000000.0,
+    "net_income": 405000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 322860927.0,
+    "revenue": 256000000.0,
+    "net_income": 111000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 323328165.0,
+    "revenue": 253000000.0,
+    "net_income": 102000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 324744859.0,
+    "revenue": 251000000.0,
+    "net_income": 93000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 325487964.0,
+    "revenue": 1130000000.0,
+    "net_income": 286000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 325662780.0,
+    "revenue": 273000000.0,
+    "net_income": 83000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 325152572.0,
+    "revenue": 281000000.0,
+    "net_income": 84000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 326045182.0,
+    "revenue": 306000000.0,
+    "net_income": 47000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 326061138.0,
+    "revenue": 1247000000.0,
+    "net_income": 387000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 326099870.0,
+    "revenue": 314000000.0,
+    "net_income": 103000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 325949353.0,
+    "revenue": 317000000.0,
+    "net_income": 95000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 325828834.0,
+    "revenue": 310000000.0,
+    "net_income": 94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 325623603.0,
+    "revenue": 1170000000.0,
+    "net_income": 373000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 325653131.0,
+    "revenue": 298000000.0,
+    "net_income": 101000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 325730049.0,
+    "revenue": 294000000.0,
+    "net_income": 85000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 325766968.0,
+    "revenue": 273000000.0,
+    "net_income": 87000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 303857976.0,
+    "revenue": 980326000.0,
+    "net_income": 199204000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-06",
+    "shares_outstanding": 324904768.0,
+    "revenue": 263514000.0,
+    "net_income": 77693000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 324867759.0,
+    "revenue": 251034000.0,
+    "net_income": 74406000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 239254649.0,
+    "revenue": 194693000.0,
+    "net_income": 22979000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 207768609.0,
+    "revenue": 678963000.0,
+    "net_income": 170891000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-07",
+    "shares_outstanding": 211790730.0,
+    "revenue": 175110000.0,
+    "net_income": 52168000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 211675449.0,
+    "revenue": 170931000.0,
+    "net_income": 41300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 194877922.0,
+    "revenue": 155754000.0,
+    "net_income": 26132000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 176338953.0,
+    "revenue": 546795000.0,
+    "net_income": 159649000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 176512832.0,
+    "revenue": 137197000.0,
+    "net_income": 40053000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 176361840.0,
+    "revenue": 135448000.0,
+    "net_income": 40131000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 175825976.0,
+    "revenue": 133369000.0,
+    "net_income": 40343000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 169078845.0,
+    "revenue": 508983000.0,
+    "net_income": 144050000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 168884127.0,
+    "revenue": 131566000.0,
+    "net_income": 35391000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 167867608.0,
+    "revenue": 124440000.0,
+    "net_income": 34831000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-09",
+    "shares_outstanding": 163967246.0,
+    "revenue": 117880000.0,
+    "net_income": 34524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 147809504.0,
+    "revenue": 440386000.0,
+    "net_income": 117804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 146446442.0,
+    "revenue": 109790000.0,
+    "net_income": 31634000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 145844164.0,
+    "revenue": 107841000.0,
+    "net_income": 29193000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 141066190.0,
+    "revenue": 105118000.0,
+    "net_income": 28538000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 140640165.0,
+    "revenue": 431906000.0,
+    "net_income": 110410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 140764052.0,
+    "revenue": 107756000.0,
+    "net_income": 30743000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 140534032.0,
+    "revenue": 109285000.0,
+    "net_income": 29130000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 140386625.0,
+    "revenue": 107287000.0,
+    "net_income": 21582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 125012078.0,
+    "revenue": 391125000.0,
+    "net_income": 87047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 127341543.0,
+    "revenue": 98702000.0,
+    "net_income": 23773000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 124094789.0,
+    "revenue": 98155000.0,
+    "net_income": 22362000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": -1562103.0,
+    "revenue": 97371000.0,
+    "net_income": 17175000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "FY 2010",
+    "filing_date": "2011-02-25",
+    "shares_outstanding": 1066124000.0,
+    "revenue": 373721000.0,
+    "net_income": 74652000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 1064846000.0,
+    "revenue": 93947000.0,
+    "net_income": 17217000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FNB",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 1058004000.0,
+    "revenue": 94361000.0,
+    "net_income": 17922000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "VRTX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 258000000.0,
+    "revenue": 12001300000.0,
+    "net_income": 3953200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 258000000.0,
+    "revenue": 12001300000.0,
+    "net_income": 3953200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 257600000.0,
+    "revenue": 3076400000.0,
+    "net_income": 1082900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 258900000.0,
+    "revenue": 2964700000.0,
+    "net_income": 1032900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 259500000.0,
+    "revenue": 2770200000.0,
+    "net_income": 646300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 257900000.0,
+    "revenue": 11020100000.0,
+    "net_income": -535600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 261000000.0,
+    "revenue": 2771900000.0,
+    "net_income": 1045400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 258100000.0,
+    "revenue": 2645600000.0,
+    "net_income": -3593600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 261100000.0,
+    "revenue": 2690600000.0,
+    "net_income": 1099600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 260500000.0,
+    "revenue": 9869200000.0,
+    "net_income": 3619600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 260600000.0,
+    "revenue": 2483500000.0,
+    "net_income": 1035300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 260400000.0,
+    "revenue": 2493200000.0,
+    "net_income": 915700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 260300000.0,
+    "revenue": 2374800000.0,
+    "net_income": 699800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-10",
+    "shares_outstanding": 259100000.0,
+    "revenue": 8930700000.0,
+    "net_income": 3322000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 259500000.0,
+    "revenue": 2334300000.0,
+    "net_income": 930500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 258700000.0,
+    "revenue": 2196200000.0,
+    "net_income": 810500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 257900000.0,
+    "revenue": 2097500000.0,
+    "net_income": 762100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 259900000.0,
+    "revenue": 7574400000.0,
+    "net_income": 2342100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 259707000.0,
+    "revenue": 1984164000.0,
+    "net_income": 851928000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 261020000.0,
+    "revenue": 1793370000.0,
+    "net_income": 66924000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 261916000.0,
+    "revenue": 1724305000.0,
+    "net_income": 653138000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-11",
+    "shares_outstanding": 263396000.0,
+    "revenue": 6205683000.0,
+    "net_income": 2711647000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 264079000.0,
+    "revenue": 1538271000.0,
+    "net_income": 667434000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 263403000.0,
+    "revenue": 1524485000.0,
+    "net_income": 837270000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 263515000.0,
+    "revenue": 1515107000.0,
+    "net_income": 602753000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-13",
+    "shares_outstanding": 260673000.0,
+    "revenue": 4162821000.0,
+    "net_income": 1176810000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 260473000.0,
+    "revenue": 949828000.0,
+    "net_income": 57518000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 259822000.0,
+    "revenue": 941293000.0,
+    "net_income": 267427000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 260175000.0,
+    "revenue": 858435000.0,
+    "net_income": 268631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-13",
+    "shares_outstanding": 259185000.0,
+    "revenue": 3047597000.0,
+    "net_income": 2087103000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 259788000.0,
+    "revenue": 784535000.0,
+    "net_income": 128456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 258584000.0,
+    "revenue": 752157000.0,
+    "net_income": 206250000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 258526000.0,
+    "revenue": 640799000.0,
+    "net_income": 227301000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-15",
+    "shares_outstanding": 253225000.0,
+    "revenue": 2488652000.0,
+    "net_income": 91635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-30",
+    "shares_outstanding": 250268000.0,
+    "revenue": 578165000.0,
+    "net_income": -291267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 251635000.0,
+    "revenue": 544135000.0,
+    "net_income": 31169000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 248700000.0,
+    "revenue": 714718000.0,
+    "net_income": 249548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 244685000.0,
+    "revenue": 1702177000.0,
+    "net_income": -84031000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-31",
+    "shares_outstanding": 244920000.0,
+    "revenue": 413783000.0,
+    "net_income": -39537000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-01",
+    "shares_outstanding": 244482000.0,
+    "revenue": 431608000.0,
+    "net_income": -36151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-03",
+    "shares_outstanding": 243831000.0,
+    "revenue": 398080000.0,
+    "net_income": -36102000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-16",
+    "shares_outstanding": 241312000.0,
+    "revenue": 1032336000.0,
+    "net_income": -588181000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 241969000.0,
+    "revenue": 309816000.0,
+    "net_income": -93816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 240757000.0,
+    "revenue": 166076000.0,
+    "net_income": -220992000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-04",
+    "shares_outstanding": 239493000.0,
+    "revenue": 138509000.0,
+    "net_income": -198704000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-13",
+    "shares_outstanding": 235307000.0,
+    "revenue": 580415000.0,
+    "net_income": -742745000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 236137000.0,
+    "revenue": 178987000.0,
+    "net_income": -170060000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 233808000.0,
+    "revenue": 138421000.0,
+    "net_income": -159382000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-05",
+    "shares_outstanding": 232887000.0,
+    "revenue": 118451000.0,
+    "net_income": -232457000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-11",
+    "shares_outstanding": 224906000.0,
+    "revenue": 1211975000.0,
+    "net_income": -687550000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 230505000.0,
+    "revenue": 221700000.0,
+    "net_income": -128662000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 222053000.0,
+    "revenue": 310750000.0,
+    "net_income": -61712000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 215421000.0,
+    "revenue": 328368000.0,
+    "net_income": -312627000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 211946000.0,
+    "revenue": 1527042000.0,
+    "net_income": -51135000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 213767000.0,
+    "revenue": 336006000.0,
+    "net_income": -26467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 211344000.0,
+    "revenue": 418305000.0,
+    "net_income": -34468000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 219264000.0,
+    "revenue": 438737000.0,
+    "net_income": 87876000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "FY 2011",
+    "filing_date": "2012-02-22",
+    "shares_outstanding": 208807000.0,
+    "revenue": 1410626000.0,
+    "net_income": 41179000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 219349000.0,
+    "revenue": 659200000.0,
+    "net_income": 228452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 204413000.0,
+    "revenue": 114424000.0,
+    "net_income": -199318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VRTX",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 202329000.0,
+    "revenue": 73662000.0,
+    "net_income": -176096000.0,
+    "market_cap": null
+  }
+]

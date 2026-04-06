@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "AKAM",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 147023000.0,
+    "revenue": 4208175000.0,
+    "net_income": 452031000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 147023000.0,
+    "revenue": 4208175000.0,
+    "net_income": 452031000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 144811000.0,
+    "revenue": 1054630000.0,
+    "net_income": 140170000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 145249000.0,
+    "revenue": 1043494000.0,
+    "net_income": 103618000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 151064000.0,
+    "revenue": 1015139000.0,
+    "net_income": 123171000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2024",
+    "filing_date": "2025-02-24",
+    "shares_outstanding": 154346000.0,
+    "revenue": 3991168000.0,
+    "net_income": 504918000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 153240000.0,
+    "revenue": 1004679000.0,
+    "net_income": 57907000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 153588000.0,
+    "revenue": 979580000.0,
+    "net_income": 131688000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-09",
+    "shares_outstanding": 157466000.0,
+    "revenue": 986970000.0,
+    "net_income": 175418000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 155397000.0,
+    "revenue": 3811920000.0,
+    "net_income": 547629000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 154976000.0,
+    "revenue": 965484000.0,
+    "net_income": 160542000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 153454000.0,
+    "revenue": 935721000.0,
+    "net_income": 128816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 156135000.0,
+    "revenue": 915698000.0,
+    "net_income": 97106000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 160467000.0,
+    "revenue": 3616654000.0,
+    "net_income": 523672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 159068000.0,
+    "revenue": 881896000.0,
+    "net_income": 123694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 161710000.0,
+    "revenue": 903332000.0,
+    "net_income": 137840000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-09",
+    "shares_outstanding": 163637000.0,
+    "revenue": 903647000.0,
+    "net_income": 133376000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2021",
+    "filing_date": "2022-02-28",
+    "shares_outstanding": 165804000.0,
+    "revenue": 3461223000.0,
+    "net_income": 651642000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-08",
+    "shares_outstanding": 166318000.0,
+    "revenue": 860333000.0,
+    "net_income": 178916000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 166263000.0,
+    "revenue": 852824000.0,
+    "net_income": 156497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 165688000.0,
+    "revenue": 842708000.0,
+    "net_income": 155695000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 165213000.0,
+    "revenue": 3198149000.0,
+    "net_income": 557054000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 166519000.0,
+    "revenue": 792845000.0,
+    "net_income": 158623000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 164768000.0,
+    "revenue": 794715000.0,
+    "net_income": 161915000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 163684000.0,
+    "revenue": 764302000.0,
+    "net_income": 123146000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 164573000.0,
+    "revenue": 2893617000.0,
+    "net_income": 478035000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 164558000.0,
+    "revenue": 709912000.0,
+    "net_income": 137890000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 165019000.0,
+    "revenue": 705074000.0,
+    "net_income": 113915000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 164787000.0,
+    "revenue": 706508000.0,
+    "net_income": 107130000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 169188000.0,
+    "revenue": 2714474000.0,
+    "net_income": 298373000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 167900000.0,
+    "revenue": 669628000.0,
+    "net_income": 107583000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 172307000.0,
+    "revenue": 662759000.0,
+    "net_income": 43061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 172004000.0,
+    "revenue": 668724000.0,
+    "net_income": 53714000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 172711000.0,
+    "revenue": 2502996000.0,
+    "net_income": 218321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 171505000.0,
+    "revenue": 621399000.0,
+    "net_income": 60512000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 173439000.0,
+    "revenue": 608908000.0,
+    "net_income": 57772000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 175171000.0,
+    "revenue": 609237000.0,
+    "net_income": 80930000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 176215000.0,
+    "revenue": 2340049000.0,
+    "net_income": 316132000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 175617000.0,
+    "revenue": 584065000.0,
+    "net_income": 76000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-08",
+    "shares_outstanding": 176420000.0,
+    "revenue": 572135000.0,
+    "net_income": 73635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 177539000.0,
+    "revenue": 567725000.0,
+    "net_income": 74858000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 180415000.0,
+    "revenue": 2197448000.0,
+    "net_income": 321406000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 180364000.0,
+    "revenue": 551030000.0,
+    "net_income": 88040000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": 180738000.0,
+    "revenue": 540723000.0,
+    "net_income": 67200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-11",
+    "shares_outstanding": 180825000.0,
+    "revenue": 526536000.0,
+    "net_income": 77746000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 181186000.0,
+    "revenue": 1963874000.0,
+    "net_income": 333948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 180955000.0,
+    "revenue": 498042000.0,
+    "net_income": 91155000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-11",
+    "shares_outstanding": 180841000.0,
+    "revenue": 476035000.0,
+    "net_income": 72886000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-12",
+    "shares_outstanding": 182038000.0,
+    "revenue": 453502000.0,
+    "net_income": 72800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 181783000.0,
+    "revenue": 1577922000.0,
+    "net_income": 293487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-12",
+    "shares_outstanding": 181922000.0,
+    "revenue": 395790000.0,
+    "net_income": 79756000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-09",
+    "shares_outstanding": 181388000.0,
+    "revenue": 378106000.0,
+    "net_income": 61895000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 181562000.0,
+    "revenue": 368046000.0,
+    "net_income": 71487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 181749000.0,
+    "revenue": 1373947000.0,
+    "net_income": 203989000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-09",
+    "shares_outstanding": 181053000.0,
+    "revenue": 345321000.0,
+    "net_income": 48231000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 181817000.0,
+    "revenue": 331306000.0,
+    "net_income": 44239000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 182342000.0,
+    "revenue": 319448000.0,
+    "net_income": 43227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 187556000.0,
+    "revenue": 1158538000.0,
+    "net_income": 200904000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 185704000.0,
+    "revenue": 281856000.0,
+    "net_income": 42285000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 190179000.0,
+    "revenue": 276989000.0,
+    "net_income": 47921000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 191383000.0,
+    "revenue": 275953000.0,
+    "net_income": 50617000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "FY 2009",
+    "filing_date": "2010-03-01",
+    "shares_outstanding": 188658000.0,
+    "revenue": 859773000.0,
+    "net_income": 145913000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AKAM",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-09",
+    "shares_outstanding": 188273000.0,
+    "revenue": 206500000.0,
+    "net_income": 32745000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "ticker": "PAYC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 56100000.0,
+    "revenue": 2051700000.0,
+    "net_income": 453400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 56100000.0,
+    "revenue": 2051700000.0,
+    "net_income": 453400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 56400000.0,
+    "revenue": 493300000.0,
+    "net_income": 110700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 56500000.0,
+    "revenue": 483600000.0,
+    "net_income": 89500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 56300000.0,
+    "revenue": 530500000.0,
+    "net_income": 139400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 56300000.0,
+    "revenue": 1883200000.0,
+    "net_income": 502000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 55964000.0,
+    "revenue": 451934000.0,
+    "net_income": 73278000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 56771000.0,
+    "revenue": 437512000.0,
+    "net_income": 67970000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 56552000.0,
+    "revenue": 499881000.0,
+    "net_income": 247187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 57974000.0,
+    "revenue": 1693674000.0,
+    "net_income": 340788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 57966000.0,
+    "revenue": 406303000.0,
+    "net_income": 75219000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 58033000.0,
+    "revenue": 401139000.0,
+    "net_income": 64516000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 57991000.0,
+    "revenue": 451637000.0,
+    "net_income": 119296000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 58175000.0,
+    "revenue": 1375218000.0,
+    "net_income": 281389000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 58033000.0,
+    "revenue": 334167000.0,
+    "net_income": 52153000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 58067000.0,
+    "revenue": 316924000.0,
+    "net_income": 57355000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 58219000.0,
+    "revenue": 353519000.0,
+    "net_income": 91930000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 58191000.0,
+    "revenue": 1055524000.0,
+    "net_income": 195960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 58190000.0,
+    "revenue": 256194000.0,
+    "net_income": 30379000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 58092000.0,
+    "revenue": 242146000.0,
+    "net_income": 52278000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 58394000.0,
+    "revenue": 272198000.0,
+    "net_income": 64616000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-18",
+    "shares_outstanding": 58285000.0,
+    "revenue": 841434000.0,
+    "net_income": 143453000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 58171000.0,
+    "revenue": 196532000.0,
+    "net_income": 27482000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 58237000.0,
+    "revenue": 181587000.0,
+    "net_income": 28589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 58440000.0,
+    "revenue": 242368000.0,
+    "net_income": 63015000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-13",
+    "shares_outstanding": 58395000.0,
+    "revenue": 737671000.0,
+    "net_income": 180576000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 58383000.0,
+    "revenue": 175006000.0,
+    "net_income": 39152000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 58410000.0,
+    "revenue": 169313000.0,
+    "net_income": 48762000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 58316000.0,
+    "revenue": 199943000.0,
+    "net_income": 47282000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2018",
+    "filing_date": "2019-02-14",
+    "shares_outstanding": 58582486.0,
+    "revenue": 566336000.0,
+    "net_income": 137065000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 58545061.0,
+    "revenue": 133288000.0,
+    "net_income": 28769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 58720785.0,
+    "revenue": 128800000.0,
+    "net_income": 35722000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 58738732.0,
+    "revenue": 153916000.0,
+    "net_income": 41160000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2017",
+    "filing_date": "2018-02-14",
+    "shares_outstanding": 58790019.0,
+    "revenue": 433047000.0,
+    "net_income": 66807000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 58873502.0,
+    "revenue": 101287000.0,
+    "net_income": 14067000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 58816442.0,
+    "revenue": 98227000.0,
+    "net_income": 14221000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 58525980.0,
+    "revenue": 119508000.0,
+    "net_income": 25614000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 58968099.0,
+    "revenue": 329141000.0,
+    "net_income": 43840000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 58907281.0,
+    "revenue": 77325000.0,
+    "net_income": 6198000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 58697229.0,
+    "revenue": 73880000.0,
+    "net_income": 10421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 58362040.0,
+    "revenue": 90126000.0,
+    "net_income": 18588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2015",
+    "filing_date": "2016-02-22",
+    "shares_outstanding": 57919700.0,
+    "revenue": 224653000.0,
+    "net_income": 20945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 58367830.0,
+    "revenue": 55340000.0,
+    "net_income": 3847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 58369083.0,
+    "revenue": 48973000.0,
+    "net_income": 5946000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-13",
+    "shares_outstanding": 56562661.0,
+    "revenue": 55222000.0,
+    "net_income": 5995000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 51857309.0,
+    "revenue": 150929000.0,
+    "net_income": 5663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 52978051.0,
+    "revenue": 36598000.0,
+    "net_income": 2690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PAYC",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 50284362.0,
+    "revenue": 33306000.0,
+    "net_income": -593000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "TRV",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 227600000.0,
+    "revenue": 48828000000.0,
+    "net_income": 6288000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 227600000.0,
+    "revenue": 48828000000.0,
+    "net_income": 6288000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-16",
+    "shares_outstanding": 227500000.0,
+    "revenue": 12470000000.0,
+    "net_income": 1888000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-17",
+    "shares_outstanding": 229300000.0,
+    "revenue": 12116000000.0,
+    "net_income": 1509000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-16",
+    "shares_outstanding": 230400000.0,
+    "revenue": 11810000000.0,
+    "net_income": 395000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 231100000.0,
+    "revenue": 46423000000.0,
+    "net_income": 4999000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-17",
+    "shares_outstanding": 230600000.0,
+    "revenue": 11904000000.0,
+    "net_income": 1260000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-19",
+    "shares_outstanding": 231500000.0,
+    "revenue": 11283000000.0,
+    "net_income": 534000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-17",
+    "shares_outstanding": 232000000.0,
+    "revenue": 11228000000.0,
+    "net_income": 1123000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 232200000.0,
+    "revenue": 41364000000.0,
+    "net_income": 2991000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-18",
+    "shares_outstanding": 231100000.0,
+    "revenue": 10635000000.0,
+    "net_income": 404000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-20",
+    "shares_outstanding": 229700000.0,
+    "revenue": 10098000000.0,
+    "net_income": -14000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-19",
+    "shares_outstanding": 234400000.0,
+    "revenue": 9704000000.0,
+    "net_income": 975000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 239700000.0,
+    "revenue": 36884000000.0,
+    "net_income": 2842000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-19",
+    "shares_outstanding": 237900000.0,
+    "revenue": 9303000000.0,
+    "net_income": 454000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-21",
+    "shares_outstanding": 241100000.0,
+    "revenue": 9136000000.0,
+    "net_income": 551000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-19",
+    "shares_outstanding": 243700000.0,
+    "revenue": 8809000000.0,
+    "net_income": 1018000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 250800000.0,
+    "revenue": 34816000000.0,
+    "net_income": 3662000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-19",
+    "shares_outstanding": 250100000.0,
+    "revenue": 8805000000.0,
+    "net_income": 662000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-20",
+    "shares_outstanding": 253100000.0,
+    "revenue": 8687000000.0,
+    "net_income": 934000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-20",
+    "shares_outstanding": 254100000.0,
+    "revenue": 8313000000.0,
+    "net_income": 733000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2020",
+    "filing_date": "2021-02-11",
+    "shares_outstanding": 254600000.0,
+    "revenue": 31981000000.0,
+    "net_income": 2697000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-20",
+    "shares_outstanding": 254300000.0,
+    "revenue": 8275000000.0,
+    "net_income": 827000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-23",
+    "shares_outstanding": 251600000.0,
+    "revenue": 7401000000.0,
+    "net_income": -40000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-21",
+    "shares_outstanding": 255900000.0,
+    "revenue": 7908000000.0,
+    "net_income": 600000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2019",
+    "filing_date": "2020-02-13",
+    "shares_outstanding": 262300000.0,
+    "revenue": 31581000000.0,
+    "net_income": 2622000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-22",
+    "shares_outstanding": 261800000.0,
+    "revenue": 8013000000.0,
+    "net_income": 396000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-23",
+    "shares_outstanding": 263700000.0,
+    "revenue": 7834000000.0,
+    "net_income": 557000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-18",
+    "shares_outstanding": 264800000.0,
+    "revenue": 7671000000.0,
+    "net_income": 796000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2018",
+    "filing_date": "2019-02-14",
+    "shares_outstanding": 269800000.0,
+    "revenue": 30282000000.0,
+    "net_income": 2523000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-18",
+    "shares_outstanding": 268400000.0,
+    "revenue": 7723000000.0,
+    "net_income": 709000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-19",
+    "shares_outstanding": 271100000.0,
+    "revenue": 7477000000.0,
+    "net_income": 524000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-24",
+    "shares_outstanding": 273900000.0,
+    "revenue": 7286000000.0,
+    "net_income": 669000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2017",
+    "filing_date": "2018-02-15",
+    "shares_outstanding": 278600000.0,
+    "revenue": 28902000000.0,
+    "net_income": 2056000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-19",
+    "shares_outstanding": 276600000.0,
+    "revenue": 7325000000.0,
+    "net_income": 293000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-20",
+    "shares_outstanding": 280000000.0,
+    "revenue": 7184000000.0,
+    "net_income": 595000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-20",
+    "shares_outstanding": 282400000.0,
+    "revenue": 6942000000.0,
+    "net_income": 617000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2016",
+    "filing_date": "2017-02-16",
+    "shares_outstanding": 291000000.0,
+    "revenue": 27625000000.0,
+    "net_income": 3014000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-20",
+    "shares_outstanding": 289800000.0,
+    "revenue": 6961000000.0,
+    "net_income": 716000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-21",
+    "shares_outstanding": 293600000.0,
+    "revenue": 6785000000.0,
+    "net_income": 664000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-21",
+    "shares_outstanding": 297900000.0,
+    "revenue": 6686000000.0,
+    "net_income": 691000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2015",
+    "filing_date": "2016-02-11",
+    "shares_outstanding": 313900000.0,
+    "revenue": 26800000000.0,
+    "net_income": 3439000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-20",
+    "shares_outstanding": 311000000.0,
+    "revenue": 6794000000.0,
+    "net_income": 928000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-21",
+    "shares_outstanding": 318000000.0,
+    "revenue": 6706000000.0,
+    "net_income": 812000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-21",
+    "shares_outstanding": 324500000.0,
+    "revenue": 6626000000.0,
+    "net_income": 833000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2014",
+    "filing_date": "2015-02-12",
+    "shares_outstanding": 342500000.0,
+    "revenue": 27162000000.0,
+    "net_income": 3692000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-21",
+    "shares_outstanding": 338900000.0,
+    "revenue": 6886000000.0,
+    "net_income": 919000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-22",
+    "shares_outstanding": 346700000.0,
+    "revenue": 6785000000.0,
+    "net_income": 683000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-22",
+    "shares_outstanding": 354600000.0,
+    "revenue": 6708000000.0,
+    "net_income": 1052000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2013",
+    "filing_date": "2014-02-13",
+    "shares_outstanding": 374300000.0,
+    "revenue": 26191000000.0,
+    "net_income": 3673000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-22",
+    "shares_outstanding": 372900000.0,
+    "revenue": 6452000000.0,
+    "net_income": 864000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-23",
+    "shares_outstanding": 379900000.0,
+    "revenue": 6674000000.0,
+    "net_income": 925000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-23",
+    "shares_outstanding": 381900000.0,
+    "revenue": 6328000000.0,
+    "net_income": 896000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2012",
+    "filing_date": "2013-02-19",
+    "shares_outstanding": 389800000.0,
+    "revenue": 25740000000.0,
+    "net_income": 2473000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-18",
+    "shares_outstanding": 387900000.0,
+    "revenue": 6512000000.0,
+    "net_income": 864000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-19",
+    "shares_outstanding": 391600000.0,
+    "revenue": 6359000000.0,
+    "net_income": 499000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-19",
+    "shares_outstanding": 395800000.0,
+    "revenue": 6392000000.0,
+    "net_income": 806000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "FY 2011",
+    "filing_date": "2012-02-16",
+    "shares_outstanding": 420500000.0,
+    "revenue": 25446000000.0,
+    "net_income": 1426000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-19",
+    "shares_outstanding": 418500000.0,
+    "revenue": 6407000000.0,
+    "net_income": 333000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-21",
+    "shares_outstanding": 418600000.0,
+    "revenue": 6388000000.0,
+    "net_income": -364000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-21",
+    "shares_outstanding": 434400000.0,
+    "revenue": 6278000000.0,
+    "net_income": 839000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TRV",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-22",
+    "shares_outstanding": 564100000.0,
+    "revenue": 6327000000.0,
+    "net_income": null,
+    "market_cap": null
+  }
+]

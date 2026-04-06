@@ -1,0 +1,173 @@
+[
+  {
+    "ticker": "WFRD",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 72600000.0,
+    "revenue": 4918000000.0,
+    "net_income": 457000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "FY 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 72600000.0,
+    "revenue": 4918000000.0,
+    "net_income": 457000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-22",
+    "shares_outstanding": 72200000.0,
+    "revenue": 1232000000.0,
+    "net_income": 87000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-23",
+    "shares_outstanding": 72400000.0,
+    "revenue": 1204000000.0,
+    "net_income": 145000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-23",
+    "shares_outstanding": 73400000.0,
+    "revenue": 1193000000.0,
+    "net_income": 86000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 75200000.0,
+    "revenue": 1409000000.0,
+    "net_income": 166000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 75300000.0,
+    "revenue": 1405000000.0,
+    "net_income": 137000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 74700000.0,
+    "revenue": 1358000000.0,
+    "net_income": 123000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "FY 2023",
+    "filing_date": "2024-02-07",
+    "shares_outstanding": 74000000.0,
+    "revenue": 5135000000.0,
+    "net_income": 449000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 74000000.0,
+    "revenue": 1313000000.0,
+    "net_income": 131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 73000000.0,
+    "revenue": 1274000000.0,
+    "net_income": 90000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 74000000.0,
+    "revenue": 1186000000.0,
+    "net_income": 81000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "FY 2022",
+    "filing_date": "2023-02-08",
+    "shares_outstanding": 72000000.0,
+    "revenue": 4331000000.0,
+    "net_income": 51000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 72000000.0,
+    "revenue": 1120000000.0,
+    "net_income": 37000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 73000000.0,
+    "revenue": 1064000000.0,
+    "net_income": 12000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 70000000.0,
+    "revenue": 938000000.0,
+    "net_income": -74000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 496000000.0,
+    "revenue": 3645000000.0,
+    "net_income": -429000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 647000000.0,
+    "revenue": 945000000.0,
+    "net_income": -89000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WFRD",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 759000000.0,
+    "revenue": 903000000.0,
+    "net_income": -73000000.0,
+    "market_cap": null
+  }
+]

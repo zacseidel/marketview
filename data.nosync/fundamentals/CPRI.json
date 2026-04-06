@@ -1,0 +1,254 @@
+[
+  {
+    "ticker": "CPRI",
+    "period": "Q3 2026",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 120600670.0,
+    "revenue": 1025000000.0,
+    "net_income": 116000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q2 2026",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 119786829.0,
+    "revenue": 856000000.0,
+    "net_income": -28000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q1 2026",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 119107663.0,
+    "revenue": 797000000.0,
+    "net_income": 53000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "FY 2025",
+    "filing_date": "2025-05-28",
+    "shares_outstanding": 118256350.0,
+    "revenue": 4442000000.0,
+    "net_income": -1179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q3 2025",
+    "filing_date": "2025-02-05",
+    "shares_outstanding": 118543746.0,
+    "revenue": 1261000000.0,
+    "net_income": -546000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q2 2025",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 118777723.0,
+    "revenue": 1079000000.0,
+    "net_income": 23000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q1 2025",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 117440282.0,
+    "revenue": 1067000000.0,
+    "net_income": -12000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "FY 2024",
+    "filing_date": "2024-05-29",
+    "shares_outstanding": 117014420.0,
+    "revenue": 5170000000.0,
+    "net_income": -229000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q3 2024",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 118163528.0,
+    "revenue": 1427000000.0,
+    "net_income": 105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q2 2024",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 117563573.0,
+    "revenue": 1291000000.0,
+    "net_income": 90000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q1 2024",
+    "filing_date": "2023-08-10",
+    "shares_outstanding": 118282633.0,
+    "revenue": 1229000000.0,
+    "net_income": 48000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "FY 2023",
+    "filing_date": "2023-05-31",
+    "shares_outstanding": 134002480.0,
+    "revenue": 5619000000.0,
+    "net_income": 619000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q3 2023",
+    "filing_date": "2023-02-08",
+    "shares_outstanding": 130364919.0,
+    "revenue": 1512000000.0,
+    "net_income": 225000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q2 2023",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 137051575.0,
+    "revenue": 1412000000.0,
+    "net_income": 224000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q1 2023",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 143733984.0,
+    "revenue": 1360000000.0,
+    "net_income": 203000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "FY 2022",
+    "filing_date": "2022-06-01",
+    "shares_outstanding": 152497907.0,
+    "revenue": 5654000000.0,
+    "net_income": 823000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q3 2022",
+    "filing_date": "2022-02-02",
+    "shares_outstanding": 152375294.0,
+    "revenue": 1609000000.0,
+    "net_income": 323000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q2 2022",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 154219249.0,
+    "revenue": 1300000000.0,
+    "net_income": 200000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q1 2022",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 154890483.0,
+    "revenue": 1253000000.0,
+    "net_income": 219000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "FY 2021",
+    "filing_date": "2021-05-26",
+    "shares_outstanding": 150453568.0,
+    "revenue": 4060000000.0,
+    "net_income": -63000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q3 2021",
+    "filing_date": "2021-02-03",
+    "shares_outstanding": 151958057.0,
+    "revenue": 1302000000.0,
+    "net_income": 178000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q2 2021",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 151677242.0,
+    "revenue": 1110000000.0,
+    "net_income": 121000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q1 2021",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 149556310.0,
+    "revenue": 451000000.0,
+    "net_income": -180000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "FY 2020",
+    "filing_date": "2020-07-08",
+    "shares_outstanding": 150714598.0,
+    "revenue": 5551000000.0,
+    "net_income": -225000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q3 2020",
+    "filing_date": "2020-02-05",
+    "shares_outstanding": 152154372.0,
+    "revenue": 1571000000.0,
+    "net_income": 209000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q2 2020",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 152576283.0,
+    "revenue": 1442000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "Q1 2020",
+    "filing_date": "2019-08-13",
+    "shares_outstanding": 152334153.0,
+    "revenue": 1346000000.0,
+    "net_income": 45000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CPRI",
+    "period": "FY 2019",
+    "filing_date": "2019-05-29",
+    "shares_outstanding": 151614350.0,
+    "revenue": 5238000000.0,
+    "net_income": 542000000.0,
+    "market_cap": null
+  }
+]

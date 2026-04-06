@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "JLL",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 48312000.0,
+    "revenue": 26115600000.0,
+    "net_income": 792200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 48312000.0,
+    "revenue": 26115600000.0,
+    "net_income": 792200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 48349000.0,
+    "revenue": 6510400000.0,
+    "net_income": 222400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 48334000.0,
+    "revenue": 6250100000.0,
+    "net_income": 110500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 48376000.0,
+    "revenue": 5746400000.0,
+    "net_income": 57500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2024",
+    "filing_date": "2025-02-19",
+    "shares_outstanding": 48372000.0,
+    "revenue": 23432900000.0,
+    "net_income": 546800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 48497000.0,
+    "revenue": 5868800000.0,
+    "net_income": 154800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 48317000.0,
+    "revenue": 5628700000.0,
+    "net_income": 84500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-06",
+    "shares_outstanding": 48280000.0,
+    "revenue": 5124500000.0,
+    "net_income": 65600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 48288000.0,
+    "revenue": 20760800000.0,
+    "net_income": 226200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 48394000.0,
+    "revenue": 5111400000.0,
+    "net_income": 59300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 48334000.0,
+    "revenue": 5052500000.0,
+    "net_income": 3200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": -682000.0,
+    "revenue": 4715500000.0,
+    "net_income": -8700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 49341000.0,
+    "revenue": 20862100000.0,
+    "net_income": 793400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 48629000.0,
+    "revenue": 5177500000.0,
+    "net_income": 138100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 49651000.0,
+    "revenue": 5278400000.0,
+    "net_income": 335500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-09",
+    "shares_outstanding": 50957000.0,
+    "revenue": 4801400000.0,
+    "net_income": 143900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2021",
+    "filing_date": "2022-02-28",
+    "shares_outstanding": 52071000.0,
+    "revenue": 19367000000.0,
+    "net_income": 959300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 51944000.0,
+    "revenue": 4889200000.0,
+    "net_income": 236700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 52324000.0,
+    "revenue": 4495000000.0,
+    "net_income": 199400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 52175000.0,
+    "revenue": 4037100000.0,
+    "net_income": 102400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2020",
+    "filing_date": "2021-02-18",
+    "shares_outstanding": 52282000.0,
+    "revenue": 16589900000.0,
+    "net_income": 422700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 52247000.0,
+    "revenue": 3978100000.0,
+    "net_income": 134600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 52173000.0,
+    "revenue": 3670400000.0,
+    "net_income": 14300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 52458000.0,
+    "revenue": 4096000000.0,
+    "net_income": 17600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 49154000.0,
+    "revenue": 17983200000.0,
+    "net_income": 537900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 52104000.0,
+    "revenue": 4495600000.0,
+    "net_income": 129300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 46040000.0,
+    "revenue": 4266500000.0,
+    "net_income": 111300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 46019000.0,
+    "revenue": 3820600000.0,
+    "net_income": 21200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 45931000.0,
+    "revenue": 16318400000.0,
+    "net_income": 491700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 45965000.0,
+    "revenue": 3969800000.0,
+    "net_income": 136100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 45951000.0,
+    "revenue": 3903700000.0,
+    "net_income": 109800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 45905000.0,
+    "revenue": 3555200000.0,
+    "net_income": 42600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 45758000.0,
+    "revenue": 7932400000.0,
+    "net_income": 257300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-06",
+    "shares_outstanding": 45814000.0,
+    "revenue": 1947000000.0,
+    "net_income": 87500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 45782000.0,
+    "revenue": 1834700000.0,
+    "net_income": 78700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 45689000.0,
+    "revenue": 1615200000.0,
+    "net_income": 11300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 45528000.0,
+    "revenue": 6803800000.0,
+    "net_income": 334400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 45612000.0,
+    "revenue": 1705200000.0,
+    "net_income": 48200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 45574000.0,
+    "revenue": 1603600000.0,
+    "net_income": 94400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 45483000.0,
+    "revenue": 1336800000.0,
+    "net_income": 25200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 45414898.0,
+    "revenue": 5965700000.0,
+    "net_income": 446341000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 45452959.0,
+    "revenue": 1501300000.0,
+    "net_income": 113185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 45434585.0,
+    "revenue": 1373500000.0,
+    "net_income": 91410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 45373911.0,
+    "revenue": 1203500000.0,
+    "net_income": 43271000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 45260563.0,
+    "revenue": 5429603000.0,
+    "net_income": 388020000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 45290595.0,
+    "revenue": 1365975000.0,
+    "net_income": 104737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 45278494.0,
+    "revenue": 1277204000.0,
+    "net_income": 72362000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 45201708.0,
+    "revenue": 1037442000.0,
+    "net_income": 16145000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 45072120.0,
+    "revenue": 4461591000.0,
+    "net_income": 273352000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 45063360.0,
+    "revenue": 1106802000.0,
+    "net_income": 63116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 45141341.0,
+    "revenue": 989383000.0,
+    "net_income": 49452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 45055399.0,
+    "revenue": 855988000.0,
+    "net_income": 13262000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 44799437.0,
+    "revenue": 3932830000.0,
+    "net_income": 208843000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 44826502.0,
+    "revenue": 949491000.0,
+    "net_income": 49682000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 44847350.0,
+    "revenue": 921341000.0,
+    "net_income": 37730000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 44685138.0,
+    "revenue": 813294000.0,
+    "net_income": 14169000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 44367359.0,
+    "revenue": 3584544000.0,
+    "net_income": 165612000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 44355453.0,
+    "revenue": 903210000.0,
+    "net_income": 33901000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 44473320.0,
+    "revenue": 845295000.0,
+    "net_income": 45087000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 44359055.0,
+    "revenue": 687864000.0,
+    "net_income": 1599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "JLL",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 44249698.0,
+    "revenue": 680319000.0,
+    "net_income": 32053000.0,
+    "market_cap": null
+  }
+]

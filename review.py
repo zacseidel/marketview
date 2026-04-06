@@ -27,13 +27,13 @@ os.chdir(_ROOT)
 # Paths
 # ---------------------------------------------------------------------------
 
-_MODELS_DIR       = _ROOT / "data/models"
+_MODELS_DIR       = _ROOT / "data.nosync/models"
 _MODELS_CONFIG    = _ROOT / "config/models.yaml"
-_UNIVERSE_FILE    = _ROOT / "data/universe/constituents.json"
-_FUNDAMENTALS_DIR = _ROOT / "data/fundamentals"
-_PRICES_DIR       = _ROOT / "data/prices"
+_UNIVERSE_FILE    = _ROOT / "data.nosync/universe/constituents.json"
+_FUNDAMENTALS_DIR = _ROOT / "data.nosync/fundamentals"
+_PRICES_DIR       = _ROOT / "data.nosync/prices"
 _DECISIONS_DIR    = _ROOT / "decisions/pending"
-_POSITIONS_FILE   = _ROOT / "data/positions/positions.json"
+_POSITIONS_FILE   = _ROOT / "data.nosync/positions/positions.json"
 
 _MODEL_DESCRIPTIONS = {
     "momentum":     "Top 10 S&P 500 by trailing 12-month return, rank-stable. Pure price momentum.",

@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "PSA",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 175902000.0,
+    "revenue": 4824113000.0,
+    "net_income": 1797032000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 175902000.0,
+    "revenue": 4824113000.0,
+    "net_income": 1797032000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 175921000.0,
+    "revenue": 1201094000.0,
+    "net_income": 361411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 175942000.0,
+    "revenue": 1183184000.0,
+    "net_income": 410791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2024",
+    "filing_date": "2025-02-24",
+    "shares_outstanding": 176038000.0,
+    "revenue": 4695616000.0,
+    "net_income": 2084410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 175866000.0,
+    "revenue": 1187758000.0,
+    "net_income": 433143000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 176009000.0,
+    "revenue": 1173211000.0,
+    "net_income": 521209000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 176350000.0,
+    "revenue": 1157220000.0,
+    "net_income": 511697000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 176143000.0,
+    "revenue": 4517690000.0,
+    "net_income": 2160120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-30",
+    "shares_outstanding": 176150000.0,
+    "revenue": 1143820000.0,
+    "net_income": 616643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 176212000.0,
+    "revenue": 1119770000.0,
+    "net_income": 581165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 176228000.0,
+    "revenue": 1094232000.0,
+    "net_income": 520415000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 176280000.0,
+    "revenue": 4182163000.0,
+    "net_income": 4366274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 176328000.0,
+    "revenue": 1088131000.0,
+    "net_income": 2778152000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 176312000.0,
+    "revenue": 1032045000.0,
+    "net_income": 656893000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 176336000.0,
+    "revenue": 973445000.0,
+    "net_income": 516295000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 175568000.0,
+    "revenue": 3415824000.0,
+    "net_income": 1959639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-01",
+    "shares_outstanding": 175806000.0,
+    "revenue": 894931000.0,
+    "net_income": 491628000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 175547000.0,
+    "revenue": 829315000.0,
+    "net_income": 411730000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 174840000.0,
+    "revenue": 767262000.0,
+    "net_income": 434262000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 174642000.0,
+    "revenue": 2915068000.0,
+    "net_income": 1361227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 174626000.0,
+    "revenue": 730657000.0,
+    "net_income": 325847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 174575000.0,
+    "revenue": 709285000.0,
+    "net_income": 315812000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 174616000.0,
+    "revenue": 716082000.0,
+    "net_income": 367136000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 174530000.0,
+    "revenue": 2846823000.0,
+    "net_income": 1525651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 174611000.0,
+    "revenue": 729336000.0,
+    "net_income": 399420000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 174542000.0,
+    "revenue": 710950000.0,
+    "net_income": 371456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 174376000.0,
+    "revenue": 689038000.0,
+    "net_income": 367678000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 174297000.0,
+    "revenue": 2754280000.0,
+    "net_income": 1717223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 174348000.0,
+    "revenue": 706368000.0,
+    "net_income": 379589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 174224000.0,
+    "revenue": 685528000.0,
+    "net_income": 405292000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 174148000.0,
+    "revenue": 669924000.0,
+    "net_income": 344436000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 174151000.0,
+    "revenue": 2668528000.0,
+    "net_income": 1448465000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 174240000.0,
+    "revenue": 686361000.0,
+    "net_income": 358274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-31",
+    "shares_outstanding": 174075000.0,
+    "revenue": 664312000.0,
+    "net_income": 355207000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 174069000.0,
+    "revenue": 645547000.0,
+    "net_income": 344021000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 173878000.0,
+    "revenue": 2560549000.0,
+    "net_income": 1460439000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 173848000.0,
+    "revenue": 663148000.0,
+    "net_income": 369050000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 174000000.0,
+    "revenue": 634188000.0,
+    "net_income": 358359000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 173850000.0,
+    "revenue": 611786000.0,
+    "net_income": 317349000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 173510000.0,
+    "revenue": 2381696000.0,
+    "net_income": 1317689000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 173529000.0,
+    "revenue": 618872000.0,
+    "net_income": 341136000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 173387000.0,
+    "revenue": 588615000.0,
+    "net_income": 328040000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 173366000.0,
+    "revenue": 564879000.0,
+    "net_income": 283254000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 173138000.0,
+    "revenue": 2195404000.0,
+    "net_income": 1149955000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 173304000.0,
+    "revenue": 571596000.0,
+    "net_income": 294977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 173181000.0,
+    "revenue": 538037000.0,
+    "net_income": 278279000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-05",
+    "shares_outstanding": 172809000.0,
+    "revenue": 519624000.0,
+    "net_income": 228273000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 172688000.0,
+    "revenue": 1981746000.0,
+    "net_income": 1057531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 172793000.0,
+    "revenue": 511957000.0,
+    "net_income": 285628000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-05",
+    "shares_outstanding": 172647000.0,
+    "revenue": 485378000.0,
+    "net_income": 261679000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 172514000.0,
+    "revenue": 470900000.0,
+    "net_income": 212247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 171664000.0,
+    "revenue": 1826729000.0,
+    "net_income": 943035000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-09",
+    "shares_outstanding": 171700000.0,
+    "revenue": 472931000.0,
+    "net_income": 264819000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 171560000.0,
+    "revenue": 457739000.0,
+    "net_income": 198931000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 171415000.0,
+    "revenue": 442619000.0,
+    "net_income": 206722000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 170750000.0,
+    "revenue": 1752102000.0,
+    "net_income": 836459000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 170830000.0,
+    "revenue": 452990000.0,
+    "net_income": 194513000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 170401000.0,
+    "revenue": 434706000.0,
+    "net_income": 210941000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PSA",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-09",
+    "shares_outstanding": 170382000.0,
+    "revenue": 419691000.0,
+    "net_income": 210568000.0,
+    "market_cap": null
+  }
+]

@@ -2,7 +2,7 @@ name: Run Models
 
 on:
   schedule:
-    - cron: "30 23 * * 1,4"  # Mon/Thu 7:30 PM ET (UTC-4)
+    - cron: "30 18 * * 1,4"  # Mon/Thu 12:30 PM MT (UTC-6)
   workflow_dispatch:
 
 permissions:
@@ -26,11 +26,16 @@ jobs:
           POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
         run: python -m src.selection.runner
 
+      - name: Fetch options chains for momentum picks
+        env:
+          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
+        run: python -m src.collection.process_queue
+
       - name: Commit outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.nosync/models/ decisions/pending/
+          git add data.nosync/models/ decisions/pending/ data.nosync/strategy_observations/theoretical/
           git diff --staged --quiet || git commit -m "chore: model run $(date -u +%Y-%m-%d) [skip ci]"
           git pull --rebase origin main
           git push

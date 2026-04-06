@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "MS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 1592000000.0,
+    "revenue": 70645000000.0,
+    "net_income": 17025000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 1592000000.0,
+    "revenue": 70645000000.0,
+    "net_income": 17025000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-03",
+    "shares_outstanding": 1590000000.0,
+    "revenue": 18224000000.0,
+    "net_income": 4655000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-05",
+    "shares_outstanding": 1600000000.0,
+    "revenue": 17739000000.0,
+    "net_income": 4371000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 1611000000.0,
+    "revenue": 61761000000.0,
+    "net_income": 13529000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-04",
+    "shares_outstanding": 1609000000.0,
+    "revenue": 15383000000.0,
+    "net_income": 3226000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-05",
+    "shares_outstanding": 1611000000.0,
+    "revenue": 15019000000.0,
+    "net_income": 3117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 1616000000.0,
+    "revenue": 15136000000.0,
+    "net_income": 3462000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 1646000000.0,
+    "revenue": 54143000000.0,
+    "net_income": 9230000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 1643000000.0,
+    "revenue": 13273000000.0,
+    "net_income": 2435000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 1651000000.0,
+    "revenue": 13457000000.0,
+    "net_income": 2221000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 1663000000.0,
+    "revenue": 14517000000.0,
+    "net_income": 3033000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 1713000000.0,
+    "revenue": 53668000000.0,
+    "net_income": 11179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 1697000000.0,
+    "revenue": 12986000000.0,
+    "net_income": 2662000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 1723000000.0,
+    "revenue": 13132000000.0,
+    "net_income": 2536000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 1755000000.0,
+    "revenue": 14801000000.0,
+    "net_income": 3715000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 1814000000.0,
+    "revenue": 59755000000.0,
+    "net_income": 15120000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 1812000000.0,
+    "revenue": 14753000000.0,
+    "net_income": 3724000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-02",
+    "shares_outstanding": 1841000000.0,
+    "revenue": 14759000000.0,
+    "net_income": 3512000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-03",
+    "shares_outstanding": 1818000000.0,
+    "revenue": 15719000000.0,
+    "net_income": 4168000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 1624000000.0,
+    "revenue": 48198000000.0,
+    "net_income": 11179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 1566000000.0,
+    "revenue": 11657000000.0,
+    "net_income": 2751000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 1557000000.0,
+    "revenue": 13414000000.0,
+    "net_income": 3236000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 1573000000.0,
+    "revenue": 9487000000.0,
+    "net_income": 1780000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 1640000000.0,
+    "revenue": 41419000000.0,
+    "net_income": 9237000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 1627000000.0,
+    "revenue": 10032000000.0,
+    "net_income": 2218000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-05",
+    "shares_outstanding": 1655000000.0,
+    "revenue": 10244000000.0,
+    "net_income": 2246000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 1677000000.0,
+    "revenue": 10286000000.0,
+    "net_income": 2468000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 1738000000.0,
+    "revenue": 40107000000.0,
+    "net_income": 8883000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 1727000000.0,
+    "revenue": 9872000000.0,
+    "net_income": 2154000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 1748000000.0,
+    "revenue": 10610000000.0,
+    "net_income": 2467000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 1771000000.0,
+    "revenue": 11077000000.0,
+    "net_income": 2704000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 1821000000.0,
+    "revenue": 37945000000.0,
+    "net_income": 6216000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 1818000000.0,
+    "revenue": 9197000000.0,
+    "net_income": 1791000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 1830000000.0,
+    "revenue": 9503000000.0,
+    "net_income": 1791000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 1842000000.0,
+    "revenue": 9745000000.0,
+    "net_income": 1971000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 1887000000.0,
+    "revenue": 34631000000.0,
+    "net_income": 6123000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 1879000000.0,
+    "revenue": 8909000000.0,
+    "net_income": 1640000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 1899000000.0,
+    "revenue": 8909000000.0,
+    "net_income": 1646000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 1914840943.0,
+    "revenue": 7792000000.0,
+    "net_income": 1157000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-23",
+    "shares_outstanding": 1952815453.0,
+    "revenue": 35155000000.0,
+    "net_income": 6279000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 1949281601.0,
+    "revenue": 7767000000.0,
+    "net_income": 1049000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 1960355702.0,
+    "revenue": 9743000000.0,
+    "net_income": 1831000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-04",
+    "shares_outstanding": 1962996441.0,
+    "revenue": 9907000000.0,
+    "net_income": 2463000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 1970535560.0,
+    "revenue": 34275000000.0,
+    "net_income": 3667000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 1970922473.0,
+    "revenue": 8907000000.0,
+    "net_income": 1752000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 1969698239.0,
+    "revenue": 8608000000.0,
+    "net_income": 1917000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-06",
+    "shares_outstanding": 1969652798.0,
+    "revenue": 8996000000.0,
+    "net_income": 1584000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 1956519738.0,
+    "revenue": 32417000000.0,
+    "net_income": 3613000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-04",
+    "shares_outstanding": 1964812610.0,
+    "revenue": 7932000000.0,
+    "net_income": 1018000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 1951362736.0,
+    "revenue": 8501000000.0,
+    "net_income": 1191000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 1940264085.0,
+    "revenue": 8154000000.0,
+    "net_income": 1231000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 1918811270.0,
+    "revenue": 26112000000.0,
+    "net_income": 716000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 1889300631.0,
+    "revenue": 5280000000.0,
+    "net_income": -956000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 1911709377.0,
+    "revenue": 6942000000.0,
+    "net_income": 750000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 1876961836.0,
+    "revenue": 6924000000.0,
+    "net_income": 134000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 1675271669.0,
+    "revenue": 32403000000.0,
+    "net_income": 4645000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 1868743943.0,
+    "revenue": 9845000000.0,
+    "net_income": 2293000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 1464295984.0,
+    "revenue": 9242000000.0,
+    "net_income": 1406000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-09",
+    "shares_outstanding": 1472307592.0,
+    "revenue": 7607000000.0,
+    "net_income": 1130000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-08",
+    "shares_outstanding": 1443100524.0,
+    "revenue": 6779000000.0,
+    "net_income": 641000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-09",
+    "shares_outstanding": 1748208948.0,
+    "revenue": 7950000000.0,
+    "net_income": 1984000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-07",
+    "shares_outstanding": 1626207327.0,
+    "revenue": 9078000000.0,
+    "net_income": 2011000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 1185414871.0,
+    "revenue": 23358000000.0,
+    "net_income": 1406000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-09",
+    "shares_outstanding": 1300070107.0,
+    "revenue": 8675000000.0,
+    "net_income": 793000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MS",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-07",
+    "shares_outstanding": 1138444490.0,
+    "revenue": 5411000000.0,
+    "net_income": 160000000.0,
+    "market_cap": null
+  }
+]

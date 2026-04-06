@@ -1,0 +1,524 @@
+[
+  {
+    "ticker": "FTNT",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 764600000.0,
+    "revenue": 6799600000.0,
+    "net_income": 1853400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 764600000.0,
+    "revenue": 6799600000.0,
+    "net_income": 1853400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 761200000.0,
+    "revenue": 1724900000.0,
+    "net_income": 473900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 772700000.0,
+    "revenue": 1630000000.0,
+    "net_income": 440100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 776800000.0,
+    "revenue": 1539700000.0,
+    "net_income": 433400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 771900000.0,
+    "revenue": 1508100000.0,
+    "net_income": 539900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 769900000.0,
+    "revenue": 1434300000.0,
+    "net_income": 379800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-06",
+    "shares_outstanding": 770500000.0,
+    "revenue": 1353300000.0,
+    "net_income": 299300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2023",
+    "filing_date": "2024-02-26",
+    "shares_outstanding": 788200000.0,
+    "revenue": 5304800000.0,
+    "net_income": 1147800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 791200000.0,
+    "revenue": 1334600000.0,
+    "net_income": 322900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-07",
+    "shares_outstanding": 795900000.0,
+    "revenue": 1292800000.0,
+    "net_income": 266300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-08",
+    "shares_outstanding": 793400000.0,
+    "revenue": 1262300000.0,
+    "net_income": 247700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 805300000.0,
+    "revenue": 4417400000.0,
+    "net_income": 856600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-07",
+    "shares_outstanding": 798600000.0,
+    "revenue": 1149500000.0,
+    "net_income": 231100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 810100000.0,
+    "revenue": 1030100000.0,
+    "net_income": 173400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 164200000.0,
+    "revenue": 954800000.0,
+    "net_income": 138300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 167100000.0,
+    "revenue": 3342200000.0,
+    "net_income": 606700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-08",
+    "shares_outstanding": 167700000.0,
+    "revenue": 867200000.0,
+    "net_income": 163200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-02",
+    "shares_outstanding": 167100000.0,
+    "revenue": 801100000.0,
+    "net_income": 137500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-03",
+    "shares_outstanding": 166400000.0,
+    "revenue": 710300000.0,
+    "net_income": 107200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 167700000.0,
+    "revenue": 2594400000.0,
+    "net_income": 488500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 165600000.0,
+    "revenue": 651100000.0,
+    "net_income": 123400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 165400000.0,
+    "revenue": 615500000.0,
+    "net_income": 112100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 174200000.0,
+    "revenue": 576900000.0,
+    "net_income": 104000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 175000000.0,
+    "revenue": 2156200000.0,
+    "net_income": 326500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 174800000.0,
+    "revenue": 547500000.0,
+    "net_income": 79800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 175100000.0,
+    "revenue": 521700000.0,
+    "net_income": 72700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 174800000.0,
+    "revenue": 472600000.0,
+    "net_income": 58800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 174200000.0,
+    "revenue": 1801200000.0,
+    "net_income": 332200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 175700000.0,
+    "revenue": 453900000.0,
+    "net_income": 58700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 173500000.0,
+    "revenue": 441300000.0,
+    "net_income": 49300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 171800000.0,
+    "revenue": 399000000.0,
+    "net_income": 41600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2017",
+    "filing_date": "2018-02-26",
+    "shares_outstanding": 178079000.0,
+    "revenue": 1494930000.0,
+    "net_income": 31399000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 178973000.0,
+    "revenue": 374217000.0,
+    "net_income": 26610000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 179701000.0,
+    "revenue": 363469000.0,
+    "net_income": 23033000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 178278000.0,
+    "revenue": 340576000.0,
+    "net_income": 10717000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 176338000.0,
+    "revenue": 1275443000.0,
+    "net_income": 32187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 177938000.0,
+    "revenue": 316646000.0,
+    "net_income": 6291000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 172075000.0,
+    "revenue": 311391000.0,
+    "net_income": -1388000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 171745000.0,
+    "revenue": 284576000.0,
+    "net_income": -3429000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 176141000.0,
+    "revenue": 1009268000.0,
+    "net_income": 7987000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 177897000.0,
+    "revenue": 260068000.0,
+    "net_income": 8169000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 176234000.0,
+    "revenue": 239785000.0,
+    "net_income": 792000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 173720000.0,
+    "revenue": 212886000.0,
+    "net_income": 1560000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 169289000.0,
+    "revenue": 770364000.0,
+    "net_income": 25343000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 169727000.0,
+    "revenue": 193348000.0,
+    "net_income": 4056000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 168345000.0,
+    "revenue": 184098000.0,
+    "net_income": 6081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 168114000.0,
+    "revenue": 168949000.0,
+    "net_income": 8393000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 168183000.0,
+    "revenue": 615297000.0,
+    "net_income": 44273000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 168666000.0,
+    "revenue": 154699000.0,
+    "net_income": 11029000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 168042000.0,
+    "revenue": 147428000.0,
+    "net_income": 8979000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 167823000.0,
+    "revenue": 135820000.0,
+    "net_income": 12249000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 166329000.0,
+    "revenue": 533639000.0,
+    "net_income": 66836000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-30",
+    "shares_outstanding": 166791000.0,
+    "revenue": 136268000.0,
+    "net_income": 17206000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 166061000.0,
+    "revenue": 128962000.0,
+    "net_income": 13950000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 165751000.0,
+    "revenue": 117247000.0,
+    "net_income": 14173000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 163869000.0,
+    "revenue": 116426000.0,
+    "net_income": 17917000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FTNT",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 163887000.0,
+    "revenue": 103023000.0,
+    "net_income": 14494000.0,
+    "market_cap": null
+  }
+]

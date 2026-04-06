@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "ACGL",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 375900000.0,
+    "revenue": 19929000000.0,
+    "net_income": 4399000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 375900000.0,
+    "revenue": 19929000000.0,
+    "net_income": 4399000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 376100000.0,
+    "revenue": 5109000000.0,
+    "net_income": 1350000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 379900000.0,
+    "revenue": 5213000000.0,
+    "net_income": 1237000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 381900000.0,
+    "revenue": 4673000000.0,
+    "net_income": 574000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 381800000.0,
+    "revenue": 17440000000.0,
+    "net_income": 4312000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 382300000.0,
+    "revenue": 4722000000.0,
+    "net_income": 988000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 381600000.0,
+    "revenue": 4229000000.0,
+    "net_income": 1269000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-09",
+    "shares_outstanding": 380500000.0,
+    "revenue": 3941000000.0,
+    "net_income": 1120000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 378800000.0,
+    "revenue": 13634000000.0,
+    "net_income": 4442000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 379400000.0,
+    "revenue": 3329000000.0,
+    "net_income": 723000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 378400000.0,
+    "revenue": 3162000000.0,
+    "net_income": 669000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 377600000.0,
+    "revenue": 3168000000.0,
+    "net_income": 717000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 377609767.0,
+    "revenue": 9614808000.0,
+    "net_income": 1482423000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 373727277.0,
+    "revenue": 2386249000.0,
+    "net_income": 18258000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 377952988.0,
+    "revenue": 2214842000.0,
+    "net_income": 403945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 384194363.0,
+    "revenue": 1941832000.0,
+    "net_income": 197432000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 400345936.0,
+    "revenue": 9249980000.0,
+    "net_income": 2239462000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 397903347.0,
+    "revenue": 2101204000.0,
+    "net_income": 421415000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 406485994.0,
+    "revenue": 2569996000.0,
+    "net_income": 718664000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 409223253.0,
+    "revenue": 2265794000.0,
+    "net_income": 475708000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 410259455.0,
+    "revenue": 8525275000.0,
+    "net_income": 1465711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 409194657.0,
+    "revenue": 2313170000.0,
+    "net_income": 488682000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 408119681.0,
+    "revenue": 2291835000.0,
+    "net_income": 466389000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 414033570.0,
+    "revenue": 1533828000.0,
+    "net_income": -88674000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 411609478.0,
+    "revenue": 6928200000.0,
+    "net_income": 1693300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 413180201.0,
+    "revenue": 1682660000.0,
+    "net_income": 392453000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 410899483.0,
+    "revenue": 1779140000.0,
+    "net_income": 468954000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 408971029.0,
+    "revenue": 1722846000.0,
+    "net_income": 448528000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 412906478.0,
+    "revenue": 5450568000.0,
+    "net_income": 727821000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-09",
+    "shares_outstanding": 411721214.0,
+    "revenue": 1403784000.0,
+    "net_income": 227408000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 413111205.0,
+    "revenue": 1410809000.0,
+    "net_income": 243646000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 139297934.0,
+    "revenue": 1283955000.0,
+    "net_income": 150423000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 139261675.0,
+    "revenue": 5627375000.0,
+    "net_income": 629709000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 134885451.0,
+    "revenue": 1479554000.0,
+    "net_income": -33656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 139244646.0,
+    "revenue": 1407537000.0,
+    "net_income": 185167000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 139047672.0,
+    "revenue": 1319176000.0,
+    "net_income": 253127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 124717493.0,
+    "revenue": 4463556000.0,
+    "net_income": 824178000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 124931653.0,
+    "revenue": 1197501000.0,
+    "net_income": 252872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 124365596.0,
+    "revenue": 1191152000.0,
+    "net_income": 211055000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 124496496.0,
+    "revenue": 1086676000.0,
+    "net_income": 154798000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 126038743.0,
+    "revenue": 3936590000.0,
+    "net_income": 526582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 125011773.0,
+    "revenue": 932590000.0,
+    "net_income": 80033000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 125885420.0,
+    "revenue": 1019652000.0,
+    "net_income": 115790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 128451054.0,
+    "revenue": 1082344000.0,
+    "net_income": 283336000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 134922322.0,
+    "revenue": 3988873000.0,
+    "net_income": 821260000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 135876605.0,
+    "revenue": 992531000.0,
+    "net_income": 223264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 136889944.0,
+    "revenue": 1035660000.0,
+    "net_income": 211717000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-12",
+    "shares_outstanding": 136562717.0,
+    "revenue": 946231000.0,
+    "net_income": 179145000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 135777183.0,
+    "revenue": 3526157000.0,
+    "net_income": 709731000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 136034413.0,
+    "revenue": 861148000.0,
+    "net_income": 114825000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-09",
+    "shares_outstanding": 135849050.0,
+    "revenue": 851790000.0,
+    "net_income": 176940000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 135409288.0,
+    "revenue": 890141000.0,
+    "net_income": 256476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 138258847.0,
+    "revenue": 3482381000.0,
+    "net_income": 593397000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-09",
+    "shares_outstanding": 138696934.0,
+    "revenue": 904799000.0,
+    "net_income": 189656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 138211736.0,
+    "revenue": 842468000.0,
+    "net_income": 220268000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 137814906.0,
+    "revenue": 815008000.0,
+    "net_income": 164256000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 138289702.0,
+    "revenue": 3063307000.0,
+    "net_income": 436358000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 137140929.0,
+    "revenue": 764993000.0,
+    "net_income": 168988000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 137975599.0,
+    "revenue": 775568000.0,
+    "net_income": 98342000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACGL",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-09",
+    "shares_outstanding": 46820172.0,
+    "revenue": 775072000.0,
+    "net_income": 25756000.0,
+    "market_cap": null
+  }
+]

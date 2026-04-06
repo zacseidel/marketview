@@ -1,0 +1,389 @@
+[
+  {
+    "ticker": "AXTA",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 217000000.0,
+    "revenue": 5117000000.0,
+    "net_income": 379000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 217000000.0,
+    "revenue": 5117000000.0,
+    "net_income": 379000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 218300000.0,
+    "revenue": 1305000000.0,
+    "net_income": 110000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 219400000.0,
+    "revenue": 1262000000.0,
+    "net_income": 99000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 220400000.0,
+    "revenue": 5276000000.0,
+    "net_income": 391000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 219900000.0,
+    "revenue": 1320000000.0,
+    "net_income": 102000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 220900000.0,
+    "revenue": 1351000000.0,
+    "net_income": 113000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 221300000.0,
+    "revenue": 1294000000.0,
+    "net_income": 39000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 221900000.0,
+    "revenue": 5184100000.0,
+    "net_income": 268500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 221900000.0,
+    "revenue": 1309000000.0,
+    "net_income": 73300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 222500000.0,
+    "revenue": 1293900000.0,
+    "net_income": 61100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 222100000.0,
+    "revenue": 1283900000.0,
+    "net_income": 60500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 222300000.0,
+    "revenue": 4884400000.0,
+    "net_income": 192200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-25",
+    "shares_outstanding": 221200000.0,
+    "revenue": 1238700000.0,
+    "net_income": 63300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-26",
+    "shares_outstanding": 221400000.0,
+    "revenue": 1234900000.0,
+    "net_income": 44100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-26",
+    "shares_outstanding": 225200000.0,
+    "revenue": 1174100000.0,
+    "net_income": 40900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 231900000.0,
+    "revenue": 4416200000.0,
+    "net_income": 264400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-25",
+    "shares_outstanding": 230700000.0,
+    "revenue": 1088600000.0,
+    "net_income": 68900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-26",
+    "shares_outstanding": 233500000.0,
+    "revenue": 1126800000.0,
+    "net_income": 126400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-26",
+    "shares_outstanding": 234700000.0,
+    "revenue": 1063600000.0,
+    "net_income": 15700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "FY 2020",
+    "filing_date": "2021-02-18",
+    "shares_outstanding": 236000000.0,
+    "revenue": 3737600000.0,
+    "net_income": 122000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-26",
+    "shares_outstanding": 236000000.0,
+    "revenue": 1026900000.0,
+    "net_income": 82500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 235200000.0,
+    "revenue": 652700000.0,
+    "net_income": -83200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 235900000.0,
+    "revenue": 983500000.0,
+    "net_income": 52400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "FY 2019",
+    "filing_date": "2020-02-19",
+    "shares_outstanding": 235800000.0,
+    "revenue": 4482200000.0,
+    "net_income": 252600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 235500000.0,
+    "revenue": 1107000000.0,
+    "net_income": 66400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 235400000.0,
+    "revenue": 1157500000.0,
+    "net_income": 99900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 236600000.0,
+    "revenue": 1119300000.0,
+    "net_income": 44100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 242900000.0,
+    "revenue": 4696000000.0,
+    "net_income": 213300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 238700000.0,
+    "revenue": 1146000000.0,
+    "net_income": -11600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 244600000.0,
+    "revenue": 1212200000.0,
+    "net_income": 77100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 245800000.0,
+    "revenue": 1172000000.0,
+    "net_income": 71000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 246100000.0,
+    "revenue": 4377000000.0,
+    "net_income": 47700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 245800000.0,
+    "revenue": 1096300000.0,
+    "net_income": 56300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 240900000.0,
+    "revenue": 1094600000.0,
+    "net_income": -18900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-26",
+    "shares_outstanding": 246100000.0,
+    "revenue": 1013700000.0,
+    "net_income": 65900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 244400000.0,
+    "revenue": 4097400000.0,
+    "net_income": 47600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 238500000.0,
+    "revenue": 1029100000.0,
+    "net_income": -3100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-27",
+    "shares_outstanding": 242400000.0,
+    "revenue": 1072100000.0,
+    "net_income": 53300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 241600000.0,
+    "revenue": 961600000.0,
+    "net_income": 31800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 240900000.0,
+    "revenue": 1005100000.0,
+    "net_income": 36400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 232300000.0,
+    "revenue": 1101100000.0,
+    "net_income": -24300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AXTA",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 237000000.0,
+    "revenue": 997500000.0,
+    "net_income": 46700000.0,
+    "market_cap": null
+  }
+]

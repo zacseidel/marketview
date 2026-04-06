@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "PNW",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 121971000.0,
+    "revenue": 5339939000.0,
+    "net_income": 631643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 121971000.0,
+    "revenue": 5339939000.0,
+    "net_income": 631643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-03",
+    "shares_outstanding": 121956000.0,
+    "revenue": 1820741000.0,
+    "net_income": 417514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 121865000.0,
+    "revenue": 1358751000.0,
+    "net_income": 196870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 119594000.0,
+    "revenue": 1032280000.0,
+    "net_income": -338000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 116232000.0,
+    "revenue": 5124915000.0,
+    "net_income": 626030000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 117119000.0,
+    "revenue": 1768801000.0,
+    "net_income": 399272000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 115803000.0,
+    "revenue": 1308994000.0,
+    "net_income": 208111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 114227000.0,
+    "revenue": 951712000.0,
+    "net_income": 21168000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 113804000.0,
+    "revenue": 4695991000.0,
+    "net_income": 518781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 113838000.0,
+    "revenue": 1637759000.0,
+    "net_income": 402520000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 113717000.0,
+    "revenue": 1121703000.0,
+    "net_income": 110969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 113358000.0,
+    "revenue": 944955000.0,
+    "net_income": 1009000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 113416000.0,
+    "revenue": 4324385000.0,
+    "net_income": 500826000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 113463000.0,
+    "revenue": 1469871000.0,
+    "net_income": 330632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 113369000.0,
+    "revenue": 1061669000.0,
+    "net_income": 168618000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 113295000.0,
+    "revenue": 783531000.0,
+    "net_income": 21262000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 113192000.0,
+    "revenue": 3803835000.0,
+    "net_income": 635944000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 113217000.0,
+    "revenue": 1308254000.0,
+    "net_income": 344104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 113223000.0,
+    "revenue": 1000249000.0,
+    "net_income": 219436000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 113093000.0,
+    "revenue": 696475000.0,
+    "net_income": 40514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 112942000.0,
+    "revenue": 3586982000.0,
+    "net_income": 570052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 112987000.0,
+    "revenue": 1254501000.0,
+    "net_income": 351245000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 112879000.0,
+    "revenue": 929590000.0,
+    "net_income": 198459000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 112862000.0,
+    "revenue": 661930000.0,
+    "net_income": 34866000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 112758000.0,
+    "revenue": 3471209000.0,
+    "net_income": 557813000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 112746000.0,
+    "revenue": 1190787000.0,
+    "net_income": 317149000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 112651000.0,
+    "revenue": 869501000.0,
+    "net_income": 149019000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 112735000.0,
+    "revenue": 740530000.0,
+    "net_income": 22791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 112550000.0,
+    "revenue": 3691247000.0,
+    "net_income": 530540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 112533000.0,
+    "revenue": 1268034000.0,
+    "net_income": 319885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 112471000.0,
+    "revenue": 974123000.0,
+    "net_income": 171612000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 112493000.0,
+    "revenue": 692714000.0,
+    "net_income": 8094000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 112367000.0,
+    "revenue": 3565296000.0,
+    "net_income": 507949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 112401000.0,
+    "revenue": 1183322000.0,
+    "net_income": 280945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 112345000.0,
+    "revenue": 944587000.0,
+    "net_income": 172317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 112195000.0,
+    "revenue": 677728000.0,
+    "net_income": 28185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 112046000.0,
+    "revenue": 3498682000.0,
+    "net_income": 461527000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 112100000.0,
+    "revenue": 1166922000.0,
+    "net_income": 267900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-02",
+    "shares_outstanding": 112004000.0,
+    "revenue": 915394000.0,
+    "net_income": 126182000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 111847000.0,
+    "revenue": 677167000.0,
+    "net_income": 9326000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2015",
+    "filing_date": "2016-02-19",
+    "shares_outstanding": 111552000.0,
+    "revenue": 3495443000.0,
+    "net_income": 456190000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 111616000.0,
+    "revenue": 1199146000.0,
+    "net_income": 261978000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 111460000.0,
+    "revenue": 890648000.0,
+    "net_income": 127507000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 111377000.0,
+    "revenue": 671219000.0,
+    "net_income": 20727000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2014",
+    "filing_date": "2015-02-20",
+    "shares_outstanding": 111178000.0,
+    "revenue": 3491632000.0,
+    "net_income": 423696000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 111103000.0,
+    "revenue": 1172667000.0,
+    "net_income": 248086000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 111002000.0,
+    "revenue": 906264000.0,
+    "net_income": 141384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 110888000.0,
+    "revenue": 686251000.0,
+    "net_income": 24691000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 110806000.0,
+    "revenue": 3454628000.0,
+    "net_income": 439966000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 111053000.0,
+    "revenue": 1152392000.0,
+    "net_income": 234718000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 110932000.0,
+    "revenue": 915822000.0,
+    "net_income": 139598000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 110835000.0,
+    "revenue": 686652000.0,
+    "net_income": 32836000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 110527311.0,
+    "revenue": 3301804000.0,
+    "net_income": 413164000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 110655000.0,
+    "revenue": 1109475000.0,
+    "net_income": 252863000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 110359000.0,
+    "revenue": 878576000.0,
+    "net_income": 130111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 109299000.0,
+    "revenue": 620631000.0,
+    "net_income": -481000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 109864000.0,
+    "revenue": 3241379000.0,
+    "net_income": 366940000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-01",
+    "shares_outstanding": 109861000.0,
+    "revenue": 1124841000.0,
+    "net_income": 262785000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-02",
+    "shares_outstanding": 109718000.0,
+    "revenue": 799799000.0,
+    "net_income": 93839000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-29",
+    "shares_outstanding": 108832000.0,
+    "revenue": 648847000.0,
+    "net_income": -9674000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "FY 2010",
+    "filing_date": "2011-02-18",
+    "shares_outstanding": 107138000.0,
+    "revenue": 3263645000.0,
+    "net_income": 370209000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-28",
+    "shares_outstanding": 109094000.0,
+    "revenue": 1139085000.0,
+    "net_income": 239039000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNW",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-03",
+    "shares_outstanding": 107764000.0,
+    "revenue": 820594000.0,
+    "net_income": 119566000.0,
+    "market_cap": null
+  }
+]

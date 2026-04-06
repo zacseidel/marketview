@@ -1,0 +1,524 @@
+[
+  {
+    "ticker": "BC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 65900000.0,
+    "revenue": 5362800000.0,
+    "net_income": -137300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 65900000.0,
+    "revenue": 5362800000.0,
+    "net_income": -137300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 65700000.0,
+    "revenue": 1360200000.0,
+    "net_income": -235500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 66000000.0,
+    "revenue": 1447000000.0,
+    "net_income": 59300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 66300000.0,
+    "revenue": 1221800000.0,
+    "net_income": 20200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 66600000.0,
+    "revenue": 1273300000.0,
+    "net_income": 44600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 67600000.0,
+    "revenue": 1443900000.0,
+    "net_income": 100000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 68500000.0,
+    "revenue": 1365000000.0,
+    "net_income": 68000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 70500000.0,
+    "revenue": 6401400000.0,
+    "net_income": 420400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q4 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 70000000.0,
+    "revenue": 1593600000.0,
+    "net_income": 112500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 75200000.0,
+    "revenue": 6812200000.0,
+    "net_income": 677000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 74500000.0,
+    "revenue": 1698200000.0,
+    "net_income": 163800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 76100000.0,
+    "revenue": 1835600000.0,
+    "net_income": 197300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 77400000.0,
+    "revenue": 1695700000.0,
+    "net_income": 174200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 78400000.0,
+    "revenue": 5846200000.0,
+    "net_income": 593300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-01",
+    "shares_outstanding": 78300000.0,
+    "revenue": 1427200000.0,
+    "net_income": 143100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-02",
+    "shares_outstanding": 78500000.0,
+    "revenue": 1554800000.0,
+    "net_income": 179400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-11",
+    "shares_outstanding": 78800000.0,
+    "revenue": 1433200000.0,
+    "net_income": 169300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-16",
+    "shares_outstanding": 79700000.0,
+    "revenue": 4347500000.0,
+    "net_income": 372700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 79800000.0,
+    "revenue": 1233100000.0,
+    "net_income": 137900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 79800000.0,
+    "revenue": 987800000.0,
+    "net_income": 70700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 80300000.0,
+    "revenue": 965500000.0,
+    "net_income": 69000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 85600000.0,
+    "revenue": 4108400000.0,
+    "net_income": -131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 85000000.0,
+    "revenue": 976600000.0,
+    "net_income": -239300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 87300000.0,
+    "revenue": 1163500000.0,
+    "net_income": 77500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 87500000.0,
+    "revenue": 1050700000.0,
+    "net_income": -36300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2018",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 88200000.0,
+    "revenue": 5159200000.0,
+    "net_income": 265300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 87900000.0,
+    "revenue": 1298000000.0,
+    "net_income": 70000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 88200000.0,
+    "revenue": 1400900000.0,
+    "net_income": 79000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 88800000.0,
+    "revenue": 1211400000.0,
+    "net_income": 72900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2017",
+    "filing_date": "2018-02-20",
+    "shares_outstanding": 90100000.0,
+    "revenue": 4510000000.0,
+    "net_income": 146400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 89800000.0,
+    "revenue": 1083100000.0,
+    "net_income": 79000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 90600000.0,
+    "revenue": 1253900000.0,
+    "net_income": 119400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 91100000.0,
+    "revenue": 1082100000.0,
+    "net_income": 64900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 92000000.0,
+    "revenue": 4488500000.0,
+    "net_income": 276000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 91900000.0,
+    "revenue": 1093000000.0,
+    "net_income": 85400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 92300000.0,
+    "revenue": 1242200000.0,
+    "net_income": 108100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 92800000.0,
+    "revenue": 1070300000.0,
+    "net_income": 64800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2015",
+    "filing_date": "2016-02-17",
+    "shares_outstanding": 94300000.0,
+    "revenue": 4105700000.0,
+    "net_income": 241400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 94000000.0,
+    "revenue": 991900000.0,
+    "net_income": 75900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 94600000.0,
+    "revenue": 1142000000.0,
+    "net_income": 117800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 95200000.0,
+    "revenue": 985700000.0,
+    "net_income": 57000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2014",
+    "filing_date": "2015-02-20",
+    "shares_outstanding": 95100000.0,
+    "revenue": 3838700000.0,
+    "net_income": 245700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 95200000.0,
+    "revenue": 932100000.0,
+    "net_income": 104400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 95100000.0,
+    "revenue": 1073100000.0,
+    "net_income": 88600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 95000000.0,
+    "revenue": 894900000.0,
+    "net_income": 57000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2013",
+    "filing_date": "2014-02-14",
+    "shares_outstanding": 93800000.0,
+    "revenue": 3887500000.0,
+    "net_income": 769200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 94000000.0,
+    "revenue": 892400000.0,
+    "net_income": 57800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 93600000.0,
+    "revenue": 1098300000.0,
+    "net_income": 80400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 93500000.0,
+    "revenue": 995300000.0,
+    "net_income": 49800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 92400000.0,
+    "revenue": 3717600000.0,
+    "net_income": 50000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 92500000.0,
+    "revenue": 874300000.0,
+    "net_income": 2000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 92400000.0,
+    "revenue": 1053900000.0,
+    "net_income": 83600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 92300000.0,
+    "revenue": 959600000.0,
+    "net_income": 39700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 92200000.0,
+    "revenue": 3748000000.0,
+    "net_income": 71900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 91800000.0,
+    "revenue": 876700000.0,
+    "net_income": 4700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 92600000.0,
+    "revenue": 1096300000.0,
+    "net_income": 69300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BC",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 92500000.0,
+    "revenue": 985900000.0,
+    "net_income": 27500000.0,
+    "market_cap": null
+  }
+]

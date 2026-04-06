@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "AMKR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 248454000.0,
+    "revenue": 6707981000.0,
+    "net_income": 376116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 248454000.0,
+    "revenue": 6707981000.0,
+    "net_income": 376116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 248302000.0,
+    "revenue": 1986968000.0,
+    "net_income": 126682000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-29",
+    "shares_outstanding": 247806000.0,
+    "revenue": 1511392000.0,
+    "net_income": 55052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 247845000.0,
+    "revenue": 1321575000.0,
+    "net_income": 21853000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 247922000.0,
+    "revenue": 1861589000.0,
+    "net_income": 122690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 247860000.0,
+    "revenue": 1461474000.0,
+    "net_income": 67258000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 247614000.0,
+    "revenue": 1365511000.0,
+    "net_income": 59786000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 247176000.0,
+    "revenue": 6503065000.0,
+    "net_income": 362131000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 247129000.0,
+    "revenue": 1821793000.0,
+    "net_income": 133451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 246964000.0,
+    "revenue": 1457922000.0,
+    "net_income": 64444000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 247087000.0,
+    "revenue": 1471539000.0,
+    "net_income": 45224000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 246205000.0,
+    "revenue": 7091585000.0,
+    "net_income": 767042000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 246094000.0,
+    "revenue": 2083691000.0,
+    "net_income": 306457000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 245855000.0,
+    "revenue": 1504868000.0,
+    "net_income": 125469000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 246000000.0,
+    "revenue": 1596816000.0,
+    "net_income": 171228000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 245704000.0,
+    "revenue": 6138329000.0,
+    "net_income": 645607000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 245942000.0,
+    "revenue": 1681000000.0,
+    "net_income": 181847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 245551000.0,
+    "revenue": 1406535000.0,
+    "net_income": 126458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 245129000.0,
+    "revenue": 1326150000.0,
+    "net_income": 120019000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 242248000.0,
+    "revenue": 5050589000.0,
+    "net_income": 340499000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 242592000.0,
+    "revenue": 1354023000.0,
+    "net_income": 92897000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 241410000.0,
+    "revenue": 1172909000.0,
+    "net_income": 56140000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 241333000.0,
+    "revenue": 1152616000.0,
+    "net_income": 64497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-19",
+    "shares_outstanding": 240122000.0,
+    "revenue": 4052650000.0,
+    "net_income": 122628000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 239937000.0,
+    "revenue": 1083917000.0,
+    "net_income": 54486000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 239508000.0,
+    "revenue": 895305000.0,
+    "net_income": -9006000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 239414000.0,
+    "revenue": 894964000.0,
+    "net_income": -22668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 239741000.0,
+    "revenue": 4316466000.0,
+    "net_income": 129565000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 239766000.0,
+    "revenue": 1144192000.0,
+    "net_income": 57292000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 239804000.0,
+    "revenue": 1065684000.0,
+    "net_income": 33184000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 239816000.0,
+    "revenue": 1025319000.0,
+    "net_income": 10195000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 239651000.0,
+    "revenue": 4186497000.0,
+    "net_income": 264888000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 239640000.0,
+    "revenue": 1135027000.0,
+    "net_income": 55630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 239679000.0,
+    "revenue": 989447000.0,
+    "net_income": 116459000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 238685000.0,
+    "revenue": 913600000.0,
+    "net_income": -9144000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 238034000.0,
+    "revenue": 3893635000.0,
+    "net_income": 167304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 238192000.0,
+    "revenue": 1086014000.0,
+    "net_income": 61141000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-08",
+    "shares_outstanding": 237434000.0,
+    "revenue": 917326000.0,
+    "net_income": 5366000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 237025000.0,
+    "revenue": 868682000.0,
+    "net_income": -405000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-22",
+    "shares_outstanding": 237170000.0,
+    "revenue": 2884603000.0,
+    "net_income": 59607000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 236974000.0,
+    "revenue": 734362000.0,
+    "net_income": 29021000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 237321000.0,
+    "revenue": 736722000.0,
+    "net_income": 10201000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 237424000.0,
+    "revenue": 742875000.0,
+    "net_income": 29697000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-19",
+    "shares_outstanding": 236731000.0,
+    "revenue": 3129440000.0,
+    "net_income": 133887000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 237509000.0,
+    "revenue": 812824000.0,
+    "net_income": 48170000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 236872000.0,
+    "revenue": 767459000.0,
+    "net_income": 50406000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 235497000.0,
+    "revenue": 696044000.0,
+    "net_income": 21183000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 235330000.0,
+    "revenue": 2956450000.0,
+    "net_income": 111657000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 235143000.0,
+    "revenue": 767987000.0,
+    "net_income": 26004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 235111000.0,
+    "revenue": 746059000.0,
+    "net_income": 30329000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 235087000.0,
+    "revenue": 687529000.0,
+    "net_income": 13766000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2012",
+    "filing_date": "2013-03-08",
+    "shares_outstanding": 243004000.0,
+    "revenue": 2759546000.0,
+    "net_income": 42702000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 237060000.0,
+    "revenue": 695353000.0,
+    "net_income": 22576000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 166009000.0,
+    "revenue": 686527000.0,
+    "net_income": 872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 250688000.0,
+    "revenue": 655010000.0,
+    "net_income": 11582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 278529000.0,
+    "revenue": 2092590000.0,
+    "net_income": 67534000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 278068000.0,
+    "revenue": 740007000.0,
+    "net_income": 27323000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 280009000.0,
+    "revenue": 687633000.0,
+    "net_income": 14445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 277585000.0,
+    "revenue": 664950000.0,
+    "net_income": 25766000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "FY 2010",
+    "filing_date": "2011-02-24",
+    "shares_outstanding": 282602000.0,
+    "revenue": 2939483000.0,
+    "net_income": 232147000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-08",
+    "shares_outstanding": 282495000.0,
+    "revenue": 793971000.0,
+    "net_income": 78370000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMKR",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 282644000.0,
+    "revenue": 749165000.0,
+    "net_income": 58943000.0,
+    "market_cap": null
+  }
+]

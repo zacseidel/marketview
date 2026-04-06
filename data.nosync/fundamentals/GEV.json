@@ -1,0 +1,65 @@
+[
+  {
+    "ticker": "GEV",
+    "period": "TTM 2025",
+    "filing_date": "2026-01-29",
+    "shares_outstanding": 276000000.0,
+    "revenue": 38068000000.0,
+    "net_income": 4879000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GEV",
+    "period": "FY 2025",
+    "filing_date": "2026-01-29",
+    "shares_outstanding": 276000000.0,
+    "revenue": 38068000000.0,
+    "net_income": 4879000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GEV",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-22",
+    "shares_outstanding": 275000000.0,
+    "revenue": 9969000000.0,
+    "net_income": 453000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GEV",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-23",
+    "shares_outstanding": 276000000.0,
+    "revenue": 9111000000.0,
+    "net_income": 492000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GEV",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-23",
+    "shares_outstanding": 279000000.0,
+    "revenue": 8032000000.0,
+    "net_income": 264000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GEV",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 275000000.0,
+    "revenue": 8913000000.0,
+    "net_income": -99000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GEV",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 278000000.0,
+    "revenue": 8204000000.0,
+    "net_income": 1280000000.0,
+    "market_cap": null
+  }
+]

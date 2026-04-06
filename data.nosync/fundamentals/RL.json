@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "RL",
+    "period": "Q3 2026",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 62200000.0,
+    "revenue": 2406000000.0,
+    "net_income": 361600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2026",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 62400000.0,
+    "revenue": 2010700000.0,
+    "net_income": 207500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2026",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 62500000.0,
+    "revenue": 1719100000.0,
+    "net_income": 220400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2025",
+    "filing_date": "2025-05-22",
+    "shares_outstanding": 64000000.0,
+    "revenue": 7079000000.0,
+    "net_income": 742900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2025",
+    "filing_date": "2025-02-06",
+    "shares_outstanding": 63800000.0,
+    "revenue": 2143500000.0,
+    "net_income": 297400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2025",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 63900000.0,
+    "revenue": 1726000000.0,
+    "net_income": 147900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2025",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 64600000.0,
+    "revenue": 1512200000.0,
+    "net_income": 168600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2024",
+    "filing_date": "2024-05-23",
+    "shares_outstanding": 66500000.0,
+    "revenue": 6631400000.0,
+    "net_income": 646300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2024",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 66000000.0,
+    "revenue": 1934000000.0,
+    "net_income": 276600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2024",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 67200000.0,
+    "revenue": 1633000000.0,
+    "net_income": 146900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2024",
+    "filing_date": "2023-08-10",
+    "shares_outstanding": 67400000.0,
+    "revenue": 1496500000.0,
+    "net_income": 132100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2023",
+    "filing_date": "2023-05-25",
+    "shares_outstanding": 69000000.0,
+    "revenue": 6443600000.0,
+    "net_income": 522700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2023",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 67600000.0,
+    "revenue": 1832300000.0,
+    "net_income": 216500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2023",
+    "filing_date": "2022-11-10",
+    "shares_outstanding": 69000000.0,
+    "revenue": 1579900000.0,
+    "net_income": 150500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2023",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 71500000.0,
+    "revenue": 1490600000.0,
+    "net_income": 123400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2022",
+    "filing_date": "2022-05-24",
+    "shares_outstanding": 74300000.0,
+    "revenue": 6218500000.0,
+    "net_income": 600100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2022",
+    "filing_date": "2022-02-03",
+    "shares_outstanding": 74300000.0,
+    "revenue": 1815400000.0,
+    "net_income": 217700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2022",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 75300000.0,
+    "revenue": 1504100000.0,
+    "net_income": 193300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2022",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 75400000.0,
+    "revenue": 1376300000.0,
+    "net_income": 164700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2021",
+    "filing_date": "2021-05-20",
+    "shares_outstanding": 73500000.0,
+    "revenue": 4400800000.0,
+    "net_income": -121100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2021",
+    "filing_date": "2021-02-04",
+    "shares_outstanding": 74600000.0,
+    "revenue": 1432800000.0,
+    "net_income": 119800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2021",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 73500000.0,
+    "revenue": 1193500000.0,
+    "net_income": -39100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2021",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 73100000.0,
+    "revenue": 487500000.0,
+    "net_income": -127700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2020",
+    "filing_date": "2020-05-27",
+    "shares_outstanding": 77200000.0,
+    "revenue": 6159800000.0,
+    "net_income": 384300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2020",
+    "filing_date": "2020-02-06",
+    "shares_outstanding": 75800000.0,
+    "revenue": 1750700000.0,
+    "net_income": 334100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2020",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 77900000.0,
+    "revenue": 1706200000.0,
+    "net_income": 182100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2020",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 79900000.0,
+    "revenue": 1428800000.0,
+    "net_income": 117100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2019",
+    "filing_date": "2019-05-16",
+    "shares_outstanding": 81700000.0,
+    "revenue": 6313000000.0,
+    "net_income": 430900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2019",
+    "filing_date": "2019-02-07",
+    "shares_outstanding": 81200000.0,
+    "revenue": 1725800000.0,
+    "net_income": 120000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2019",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 82300000.0,
+    "revenue": 1690900000.0,
+    "net_income": 170300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2019",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 83300000.0,
+    "revenue": 1390600000.0,
+    "net_income": 109000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2018",
+    "filing_date": "2018-05-23",
+    "shares_outstanding": 82500000.0,
+    "revenue": 6182300000.0,
+    "net_income": 162800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2018",
+    "filing_date": "2018-02-08",
+    "shares_outstanding": 81700000.0,
+    "revenue": 1641800000.0,
+    "net_income": -81800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2018",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 82300000.0,
+    "revenue": 1664200000.0,
+    "net_income": 143800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2018",
+    "filing_date": "2017-08-10",
+    "shares_outstanding": 82500000.0,
+    "revenue": 1347100000.0,
+    "net_income": 59500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2017",
+    "filing_date": "2017-05-18",
+    "shares_outstanding": 82700000.0,
+    "revenue": 6652800000.0,
+    "net_income": -99300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2017",
+    "filing_date": "2017-02-09",
+    "shares_outstanding": 83300000.0,
+    "revenue": 1714000000.0,
+    "net_income": 82000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2017",
+    "filing_date": "2016-11-10",
+    "shares_outstanding": 83200000.0,
+    "revenue": 1821000000.0,
+    "net_income": 45000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2017",
+    "filing_date": "2016-08-11",
+    "shares_outstanding": 83300000.0,
+    "revenue": 1552000000.0,
+    "net_income": -22000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2016",
+    "filing_date": "2016-05-19",
+    "shares_outstanding": 85900000.0,
+    "revenue": 7405000000.0,
+    "net_income": 396000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2016",
+    "filing_date": "2016-02-04",
+    "shares_outstanding": 85500000.0,
+    "revenue": 1946000000.0,
+    "net_income": 131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2016",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 86000000.0,
+    "revenue": 1970000000.0,
+    "net_income": 160000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2016",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 87500000.0,
+    "revenue": 1618000000.0,
+    "net_income": 64000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2015",
+    "filing_date": "2015-05-15",
+    "shares_outstanding": 89100000.0,
+    "revenue": 7620000000.0,
+    "net_income": 702000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2015",
+    "filing_date": "2015-02-04",
+    "shares_outstanding": 89000000.0,
+    "revenue": 2033000000.0,
+    "net_income": 215000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2015",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 89200000.0,
+    "revenue": 1994000000.0,
+    "net_income": 201000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2015",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 90200000.0,
+    "revenue": 1708000000.0,
+    "net_income": 162000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2014",
+    "filing_date": "2014-05-15",
+    "shares_outstanding": 92000000.0,
+    "revenue": 7450000000.0,
+    "net_income": 776000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2014",
+    "filing_date": "2014-02-05",
+    "shares_outstanding": 91800000.0,
+    "revenue": 2015000000.0,
+    "net_income": 237000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2014",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 92200000.0,
+    "revenue": 1915000000.0,
+    "net_income": 205000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2014",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 93100000.0,
+    "revenue": 1653000000.0,
+    "net_income": 181000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2013",
+    "filing_date": "2013-05-23",
+    "shares_outstanding": 93700000.0,
+    "revenue": 6944800000.0,
+    "net_income": 750000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2013",
+    "filing_date": "2013-02-06",
+    "shares_outstanding": 93300000.0,
+    "revenue": 1846100000.0,
+    "net_income": 215700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2013",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 93400000.0,
+    "revenue": 1862000000.0,
+    "net_income": 213700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2013",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 95100000.0,
+    "revenue": 1593400000.0,
+    "net_income": 193400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2012",
+    "filing_date": "2012-05-24",
+    "shares_outstanding": 95500000.0,
+    "revenue": 6859500000.0,
+    "net_income": 681000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2012",
+    "filing_date": "2012-02-08",
+    "shares_outstanding": 94900000.0,
+    "revenue": 1805600000.0,
+    "net_income": 169000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2012",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 94900000.0,
+    "revenue": 1904600000.0,
+    "net_income": 233500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2012",
+    "filing_date": "2011-08-11",
+    "shares_outstanding": 96800000.0,
+    "revenue": 1486500000.0,
+    "net_income": 184100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "FY 2011",
+    "filing_date": "2011-05-26",
+    "shares_outstanding": 98700000.0,
+    "revenue": 5481800000.0,
+    "net_income": 567600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q3 2011",
+    "filing_date": "2011-02-09",
+    "shares_outstanding": 98100000.0,
+    "revenue": 1497900000.0,
+    "net_income": 168400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q2 2011",
+    "filing_date": "2010-11-10",
+    "shares_outstanding": 98000000.0,
+    "revenue": 1485600000.0,
+    "net_income": 205200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RL",
+    "period": "Q1 2011",
+    "filing_date": "2010-08-10",
+    "shares_outstanding": 99900000.0,
+    "revenue": 1115500000.0,
+    "net_income": 120800000.0,
+    "market_cap": null
+  }
+]

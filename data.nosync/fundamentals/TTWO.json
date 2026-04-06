@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2026",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 185000000.0,
+    "revenue": 1699000000.0,
+    "net_income": -92900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2026",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 184600000.0,
+    "revenue": 1773800000.0,
+    "net_income": -133900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2026",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 180800000.0,
+    "revenue": 1503800000.0,
+    "net_income": -11900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2025",
+    "filing_date": "2025-05-20",
+    "shares_outstanding": 175100000.0,
+    "revenue": 5633600000.0,
+    "net_income": -4478900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2025",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 176000000.0,
+    "revenue": 1359800000.0,
+    "net_income": -125200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2025",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 175400000.0,
+    "revenue": 1353100000.0,
+    "net_income": -365500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2025",
+    "filing_date": "2024-08-09",
+    "shares_outstanding": 172300000.0,
+    "revenue": 1338200000.0,
+    "net_income": -262000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2024",
+    "filing_date": "2024-05-22",
+    "shares_outstanding": 170100000.0,
+    "revenue": 5349600000.0,
+    "net_income": -3744200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2024",
+    "filing_date": "2024-02-09",
+    "shares_outstanding": 170300000.0,
+    "revenue": 1366300000.0,
+    "net_income": -91600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2024",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 169900000.0,
+    "revenue": 1299200000.0,
+    "net_income": -543600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2024",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 169400000.0,
+    "revenue": 1284700000.0,
+    "net_income": -206000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2023",
+    "filing_date": "2023-05-26",
+    "shares_outstanding": 159900000.0,
+    "revenue": 5349900000.0,
+    "net_income": -1124700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2023",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 168000000.0,
+    "revenue": 1407800000.0,
+    "net_income": -153400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2023",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 166900000.0,
+    "revenue": 1393500000.0,
+    "net_income": -257000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2023",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 136500000.0,
+    "revenue": 1102400000.0,
+    "net_income": -104000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2022",
+    "filing_date": "2022-05-17",
+    "shares_outstanding": 116775000.0,
+    "revenue": 3504800000.0,
+    "net_income": 418022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2022",
+    "filing_date": "2022-02-08",
+    "shares_outstanding": 116708000.0,
+    "revenue": 903252000.0,
+    "net_income": 144497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2022",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 116803000.0,
+    "revenue": 858198000.0,
+    "net_income": 10297000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2022",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 117130000.0,
+    "revenue": 813346000.0,
+    "net_income": 152256000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2021",
+    "filing_date": "2021-05-19",
+    "shares_outstanding": 115744000.0,
+    "revenue": 3372772000.0,
+    "net_income": 588886000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2021",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 116117000.0,
+    "revenue": 860889000.0,
+    "net_income": 182248000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2021",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 115414000.0,
+    "revenue": 841142000.0,
+    "net_income": 99321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2021",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 114956000.0,
+    "revenue": 831310000.0,
+    "net_income": 88505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2020",
+    "filing_date": "2020-05-22",
+    "shares_outstanding": 114136000.0,
+    "revenue": 3088970000.0,
+    "net_income": 404459000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2020",
+    "filing_date": "2020-02-07",
+    "shares_outstanding": 114254000.0,
+    "revenue": 930129000.0,
+    "net_income": 163642000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2020",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 114077000.0,
+    "revenue": 857841000.0,
+    "net_income": 71815000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2020",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 113728000.0,
+    "revenue": 540459000.0,
+    "net_income": 46280000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2019",
+    "filing_date": "2019-05-14",
+    "shares_outstanding": 115198000.0,
+    "revenue": 2668394000.0,
+    "net_income": 333837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2019",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 114737000.0,
+    "revenue": 1248738000.0,
+    "net_income": 179948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2019",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 116095000.0,
+    "revenue": 492667000.0,
+    "net_income": 25367000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2019",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 115985000.0,
+    "revenue": 387982000.0,
+    "net_income": 71693000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2018",
+    "filing_date": "2018-05-17",
+    "shares_outstanding": 112864000.0,
+    "revenue": 1792892000.0,
+    "net_income": 173533000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2018",
+    "filing_date": "2018-02-08",
+    "shares_outstanding": 117918000.0,
+    "revenue": 480840000.0,
+    "net_income": 25140000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2018",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 109430000.0,
+    "revenue": 443562000.0,
+    "net_income": -2736000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2018",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 118782000.0,
+    "revenue": 418216000.0,
+    "net_income": 60276000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2017",
+    "filing_date": "2017-05-24",
+    "shares_outstanding": 94073000.0,
+    "revenue": 1779748000.0,
+    "net_income": 67303000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2017",
+    "filing_date": "2017-02-08",
+    "shares_outstanding": 820921000.0,
+    "revenue": 476474000.0,
+    "net_income": -29842000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2017",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 115202000.0,
+    "revenue": 420167000.0,
+    "net_income": 36432000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2017",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": -30212000.0,
+    "revenue": 311552000.0,
+    "net_income": -38567000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2016",
+    "filing_date": "2016-05-19",
+    "shares_outstanding": 83417000.0,
+    "revenue": 1413698000.0,
+    "net_income": -8302000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2016",
+    "filing_date": "2016-02-04",
+    "shares_outstanding": 83426000.0,
+    "revenue": 414221000.0,
+    "net_income": -42413000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2016",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 114015000.0,
+    "revenue": 346974000.0,
+    "net_income": 54735000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2016",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": -30735000.0,
+    "revenue": 275297000.0,
+    "net_income": -67023000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2015",
+    "filing_date": "2015-05-22",
+    "shares_outstanding": 80367000.0,
+    "revenue": 1082938000.0,
+    "net_income": -279470000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2015",
+    "filing_date": "2015-02-06",
+    "shares_outstanding": 107114000.0,
+    "revenue": 531147000.0,
+    "net_income": 40093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2015",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 755009000.0,
+    "revenue": 126277000.0,
+    "net_income": -41369000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2015",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 783037000.0,
+    "revenue": 125425000.0,
+    "net_income": -35403000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2014",
+    "filing_date": "2014-05-14",
+    "shares_outstanding": 95347000.0,
+    "revenue": 2350568000.0,
+    "net_income": 361605000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2014",
+    "filing_date": "2014-02-04",
+    "shares_outstanding": 111812000.0,
+    "revenue": 1863869000.0,
+    "net_income": 578426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2014",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 498862000.0,
+    "revenue": 148824000.0,
+    "net_income": -124120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2014",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 606981000.0,
+    "revenue": 142667000.0,
+    "net_income": -61914000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2013",
+    "filing_date": "2013-05-14",
+    "shares_outstanding": 85581000.0,
+    "revenue": 1214483000.0,
+    "net_income": -29491000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2013",
+    "filing_date": "2013-02-06",
+    "shares_outstanding": 111763000.0,
+    "revenue": 415773000.0,
+    "net_income": 71365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2013",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 85396000.0,
+    "revenue": 273084000.0,
+    "net_income": -12491000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2013",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 85010000.0,
+    "revenue": 226139000.0,
+    "net_income": -110838000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2012",
+    "filing_date": "2012-05-23",
+    "shares_outstanding": 83356000.0,
+    "revenue": 825823000.0,
+    "net_income": -108816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2012",
+    "filing_date": "2012-02-03",
+    "shares_outstanding": 83565000.0,
+    "revenue": 236325000.0,
+    "net_income": 14104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q2 2012",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 82940000.0,
+    "revenue": 107034000.0,
+    "net_income": -47371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q1 2012",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 82505000.0,
+    "revenue": 334380000.0,
+    "net_income": -8713000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "FY 2011",
+    "filing_date": "2011-05-25",
+    "shares_outstanding": 615279000.0,
+    "revenue": 1136876000.0,
+    "net_income": 48458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTWO",
+    "period": "Q3 2010",
+    "filing_date": "2010-09-03",
+    "shares_outstanding": 548198000.0,
+    "revenue": 354076000.0,
+    "net_income": 5920000.0,
+    "market_cap": null
+  }
+]

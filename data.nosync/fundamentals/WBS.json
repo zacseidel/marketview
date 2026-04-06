@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "WBS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 165206000.0,
+    "revenue": 2899413000.0,
+    "net_income": 1002802000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 165206000.0,
+    "revenue": 2899413000.0,
+    "net_income": 1002802000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-10",
+    "shares_outstanding": 164456000.0,
+    "revenue": 732573000.0,
+    "net_income": 261217000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-11",
+    "shares_outstanding": 166131000.0,
+    "revenue": 715839000.0,
+    "net_income": 258848000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 169544000.0,
+    "revenue": 704798000.0,
+    "net_income": 226917000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 169894000.0,
+    "revenue": 61074000.0,
+    "net_income": 192985000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 169937000.0,
+    "revenue": 61834000.0,
+    "net_income": 181633000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-10",
+    "shares_outstanding": 170704000.0,
+    "revenue": 64005000.0,
+    "net_income": 216323000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 171883000.0,
+    "revenue": 233404000.0,
+    "net_income": 867840000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 171350000.0,
+    "revenue": 58392000.0,
+    "net_income": 226475000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 172803000.0,
+    "revenue": 61489000.0,
+    "net_income": 234968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-08",
+    "shares_outstanding": 172883000.0,
+    "revenue": 59715000.0,
+    "net_income": 221004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2022",
+    "filing_date": "2023-03-10",
+    "shares_outstanding": 167547000.0,
+    "revenue": 268672000.0,
+    "net_income": 644283000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 173944000.0,
+    "revenue": 70096000.0,
+    "net_income": 233968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 175895000.0,
+    "revenue": 70594000.0,
+    "net_income": 182311000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-13",
+    "shares_outstanding": 147394000.0,
+    "revenue": 65131000.0,
+    "net_income": -16747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 90206000.0,
+    "revenue": 212406000.0,
+    "net_income": 408864000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 90232000.0,
+    "revenue": 52739000.0,
+    "net_income": 95713000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 90221000.0,
+    "revenue": 54181000.0,
+    "net_income": 94035000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q4 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 90108000.0,
+    "revenue": 52407000.0,
+    "net_income": 108078000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 90151000.0,
+    "revenue": 1002049000.0,
+    "net_income": 220621000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 89738000.0,
+    "revenue": 239239000.0,
+    "net_income": 69281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 89570000.0,
+    "revenue": 252275000.0,
+    "net_income": 53097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 91206000.0,
+    "revenue": 274470000.0,
+    "net_income": 38199000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 91882000.0,
+    "revenue": 1154583000.0,
+    "net_income": 382723000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 91874000.0,
+    "revenue": 294136000.0,
+    "net_income": 93865000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-05",
+    "shares_outstanding": 91855000.0,
+    "revenue": 292257000.0,
+    "net_income": 98649000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 92225000.0,
+    "revenue": 286190000.0,
+    "net_income": 99736000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2018",
+    "filing_date": "2019-03-01",
+    "shares_outstanding": 92227000.0,
+    "revenue": 200673000.0,
+    "net_income": 360418000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 92208000.0,
+    "revenue": 268363000.0,
+    "net_income": 99673000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 92173000.0,
+    "revenue": 260491000.0,
+    "net_income": 81682000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 92254000.0,
+    "revenue": 245921000.0,
+    "net_income": 80225000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 92356000.0,
+    "revenue": 913605000.0,
+    "net_income": 255439000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-06",
+    "shares_outstanding": 92503000.0,
+    "revenue": 231021000.0,
+    "net_income": 64496000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 92495000.0,
+    "revenue": 226789000.0,
+    "net_income": 61579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 92342000.0,
+    "revenue": 219680000.0,
+    "net_income": 59471000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 91856000.0,
+    "revenue": 821913000.0,
+    "net_income": 207127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-07",
+    "shares_outstanding": 91857000.0,
+    "revenue": 205715000.0,
+    "net_income": 51817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 91745000.0,
+    "revenue": 202431000.0,
+    "net_income": 50603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 91809000.0,
+    "revenue": 202335000.0,
+    "net_income": 47047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 91533000.0,
+    "revenue": 760040000.0,
+    "net_income": 206340000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 92007000.0,
+    "revenue": 191998000.0,
+    "net_income": 51536000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 91302000.0,
+    "revenue": 186970000.0,
+    "net_income": 52503000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 90841000.0,
+    "revenue": 182912000.0,
+    "net_income": 49722000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 90620000.0,
+    "revenue": 718941000.0,
+    "net_income": 199752000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 90614000.0,
+    "revenue": 179914000.0,
+    "net_income": 50458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 90528000.0,
+    "revenue": 177497000.0,
+    "net_income": 47856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 90658000.0,
+    "revenue": 177779000.0,
+    "net_income": 50423000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 90261000.0,
+    "revenue": 687640000.0,
+    "net_income": 179549000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 90423000.0,
+    "revenue": 171753000.0,
+    "net_income": 47305000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 90087000.0,
+    "revenue": 170093000.0,
+    "net_income": 46373000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-06",
+    "shares_outstanding": 89662000.0,
+    "revenue": 170083000.0,
+    "net_income": 42117000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 91649000.0,
+    "revenue": 693502000.0,
+    "net_income": 173697000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 91884000.0,
+    "revenue": 172216000.0,
+    "net_income": 44993000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 91543000.0,
+    "revenue": 174633000.0,
+    "net_income": 41240000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-02",
+    "shares_outstanding": 91782.0,
+    "revenue": 174107000.0,
+    "net_income": 38938000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 91688.0,
+    "revenue": 699723000.0,
+    "net_income": 151378000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 91205.0,
+    "revenue": 173258000.0,
+    "net_income": 42379000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-01",
+    "shares_outstanding": 92184.0,
+    "revenue": 175303000.0,
+    "net_income": 34207000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 184.0,
+    "revenue": 175497000.0,
+    "net_income": 34295000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-03",
+    "shares_outstanding": 1906496000.0,
+    "revenue": 176303000.0,
+    "net_income": 22684000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WBS",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-03",
+    "shares_outstanding": 1883739000.0,
+    "revenue": 178034000.0,
+    "net_income": 17645000.0,
+    "market_cap": null
+  }
+]

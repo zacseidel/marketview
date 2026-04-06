@@ -1,0 +1,524 @@
+[
+  {
+    "ticker": "TPL",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 69027492.0,
+    "revenue": 798190000.0,
+    "net_income": 481376000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 69027492.0,
+    "revenue": 798190000.0,
+    "net_income": 481376000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 23010258.0,
+    "revenue": 203085000.0,
+    "net_income": 121238000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 23013580.0,
+    "revenue": 187543000.0,
+    "net_income": 116140000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 23005847.0,
+    "revenue": 195983000.0,
+    "net_income": 120652000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 23012169.0,
+    "revenue": 173563000.0,
+    "net_income": 106594000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 23013793.0,
+    "revenue": 172334000.0,
+    "net_income": 114589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 23020249.0,
+    "revenue": 174142000.0,
+    "net_income": 114417000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 7686615.0,
+    "revenue": 631595000.0,
+    "net_income": 405645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 7681774.0,
+    "revenue": 157967000.0,
+    "net_income": 105574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 7690950.0,
+    "revenue": 160609000.0,
+    "net_income": 100393000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 7698398.0,
+    "revenue": 146362000.0,
+    "net_income": 86568000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 7726809.0,
+    "revenue": 667422000.0,
+    "net_income": 446362000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 7720221.0,
+    "revenue": 191111000.0,
+    "net_income": 129837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 7737112.0,
+    "revenue": 176270000.0,
+    "net_income": 118894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 7742710.0,
+    "revenue": 147335000.0,
+    "net_income": 97900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 7752054.0,
+    "revenue": 450958000.0,
+    "net_income": 269980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 7751329.0,
+    "revenue": 123693000.0,
+    "net_income": 83837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 7755886.0,
+    "revenue": 95932000.0,
+    "net_income": 57046000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 7756156.0,
+    "revenue": 84155000.0,
+    "net_income": 50052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 7756156.0,
+    "revenue": 74383000.0,
+    "net_income": 46275000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 7756156.0,
+    "revenue": 54568000.0,
+    "net_income": 27583000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 7756156.0,
+    "revenue": 96594000.0,
+    "net_income": 57401000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 7756437.0,
+    "revenue": 490496000.0,
+    "net_income": 318728000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 7756156.0,
+    "revenue": 98530000.0,
+    "net_income": 60022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 7756156.0,
+    "revenue": 87310000.0,
+    "net_income": 49586000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 7759808.0,
+    "revenue": 191324000.0,
+    "net_income": 139998000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 7787407.0,
+    "revenue": 300220000.0,
+    "net_income": 209736000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 7786692.0,
+    "revenue": 73168000.0,
+    "net_income": 50762000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 7803162.0,
+    "revenue": 73844000.0,
+    "net_income": 52503000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 7818168.0,
+    "revenue": 60007000.0,
+    "net_income": 43791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 79193000.0,
+    "revenue": 132329000.0,
+    "net_income": 76361000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 7851916.0,
+    "revenue": 42497000.0,
+    "net_income": 26405000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 7882184.0,
+    "revenue": 27358000.0,
+    "net_income": 16711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 7919085.0,
+    "revenue": 24238000.0,
+    "net_income": 14885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 47624522.0,
+    "revenue": 59911397.0,
+    "net_income": 37239550.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 7984936.0,
+    "revenue": 14273252.0,
+    "net_income": 8929412.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 8048500.0,
+    "revenue": 16196110.0,
+    "net_income": 10123117.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 8098106.0,
+    "revenue": 11898103.0,
+    "net_income": 7280051.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 45688679.0,
+    "revenue": 79414853.0,
+    "net_income": 50038507.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 8190757.0,
+    "revenue": 18186748.0,
+    "net_income": 11461349.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 8244345.0,
+    "revenue": 11795134.0,
+    "net_income": 7416012.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 8297581.0,
+    "revenue": 34739353.0,
+    "net_income": 22166089.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 26719817.0,
+    "revenue": 55202230.0,
+    "net_income": 34765020.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 8406403.0,
+    "revenue": 14756468.0,
+    "net_income": 9366043.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 8439914.0,
+    "revenue": 15583264.0,
+    "net_income": 9914167.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 8451133.0,
+    "revenue": 11581953.0,
+    "net_income": 7249918.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 17929666.0,
+    "revenue": 44109074.0,
+    "net_income": 27218508.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 8602550.0,
+    "revenue": 14936609.0,
+    "net_income": 9431118.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 8686690.0,
+    "revenue": 9953933.0,
+    "net_income": 6130440.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 8755321.0,
+    "revenue": 6726854.0,
+    "net_income": 4137844.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2012",
+    "filing_date": "2013-03-11",
+    "shares_outstanding": 15596145.0,
+    "revenue": 32587456.0,
+    "net_income": 19647818.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 8940175.0,
+    "revenue": 7038481.0,
+    "net_income": 4311092.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 9025506.0,
+    "revenue": 8701734.0,
+    "net_income": 5284674.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 9122337.0,
+    "revenue": 9574882.0,
+    "net_income": 5938255.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "FY 2011",
+    "filing_date": "2012-03-12",
+    "shares_outstanding": 20547234.0,
+    "revenue": 34300508.0,
+    "net_income": 20594769.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 9340425.0,
+    "revenue": 8555794.0,
+    "net_income": 5258936.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TPL",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 9432205.0,
+    "revenue": 8794596.0,
+    "net_income": 5415929.0,
+    "market_cap": null
+  }
+]

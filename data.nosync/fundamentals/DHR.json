@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "DHR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 716100000.0,
+    "revenue": 24568000000.0,
+    "net_income": 3614000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 716100000.0,
+    "revenue": 24568000000.0,
+    "net_income": 3614000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-21",
+    "shares_outstanding": 713700000.0,
+    "revenue": 6053000000.0,
+    "net_income": 908000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-22",
+    "shares_outstanding": 719100000.0,
+    "revenue": 5936000000.0,
+    "net_income": 555000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-22",
+    "shares_outstanding": 720800000.0,
+    "revenue": 5741000000.0,
+    "net_income": 954000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 737200000.0,
+    "revenue": 23875000000.0,
+    "net_income": 3899000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-22",
+    "shares_outstanding": 729400000.0,
+    "revenue": 5798000000.0,
+    "net_income": 818000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-23",
+    "shares_outstanding": 742400000.0,
+    "revenue": 5743000000.0,
+    "net_income": 907000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-23",
+    "shares_outstanding": 748600000.0,
+    "revenue": 5796000000.0,
+    "net_income": 1088000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 743100000.0,
+    "revenue": 23890000000.0,
+    "net_income": 4764000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-24",
+    "shares_outstanding": 745900000.0,
+    "revenue": 5624000000.0,
+    "net_income": 1129000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-25",
+    "shares_outstanding": 744700000.0,
+    "revenue": 5912000000.0,
+    "net_income": 1106000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-25",
+    "shares_outstanding": 737200000.0,
+    "revenue": 5949000000.0,
+    "net_income": 1450000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 737100000.0,
+    "revenue": 31471000000.0,
+    "net_income": 7209000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-20",
+    "shares_outstanding": 737400000.0,
+    "revenue": 7663000000.0,
+    "net_income": 1572000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-21",
+    "shares_outstanding": 736000000.0,
+    "revenue": 7751000000.0,
+    "net_income": 1680000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-21",
+    "shares_outstanding": 737700000.0,
+    "revenue": 7688000000.0,
+    "net_income": 1725000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 736800000.0,
+    "revenue": 29453000000.0,
+    "net_income": 6433000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-21",
+    "shares_outstanding": 727000000.0,
+    "revenue": 7229000000.0,
+    "net_income": 1158000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-22",
+    "shares_outstanding": 736000000.0,
+    "revenue": 7218000000.0,
+    "net_income": 1785000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-22",
+    "shares_outstanding": 735100000.0,
+    "revenue": 6858000000.0,
+    "net_income": 1702000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 718700000.0,
+    "revenue": 22284000000.0,
+    "net_income": 3646000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 724300000.0,
+    "revenue": 5883200000.0,
+    "net_income": 883500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-23",
+    "shares_outstanding": 718200000.0,
+    "revenue": 5297400000.0,
+    "net_income": 927300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 707900000.0,
+    "revenue": 4343100000.0,
+    "net_income": 595100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 725500000.0,
+    "revenue": 17911100000.0,
+    "net_income": 3021500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 729300000.0,
+    "revenue": 4378000000.0,
+    "net_income": 673900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-18",
+    "shares_outstanding": 727900000.0,
+    "revenue": 4444500000.0,
+    "net_income": 731300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-18",
+    "shares_outstanding": 718500000.0,
+    "revenue": 4220200000.0,
+    "net_income": 333800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 710200000.0,
+    "revenue": 19893000000.0,
+    "net_income": 2650900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-18",
+    "shares_outstanding": 710600000.0,
+    "revenue": 4853100000.0,
+    "net_income": 663700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-19",
+    "shares_outstanding": 709500000.0,
+    "revenue": 4981000000.0,
+    "net_income": 673800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-19",
+    "shares_outstanding": 709500000.0,
+    "revenue": 4695400000.0,
+    "net_income": 566600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-21",
+    "shares_outstanding": 706100000.0,
+    "revenue": 18329700000.0,
+    "net_income": 2492100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-19",
+    "shares_outstanding": 705600000.0,
+    "revenue": 4528200000.0,
+    "net_income": 572100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-20",
+    "shares_outstanding": 705400000.0,
+    "revenue": 4510100000.0,
+    "net_income": 557300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-20",
+    "shares_outstanding": 705700000.0,
+    "revenue": 4205700000.0,
+    "net_income": 506100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-22",
+    "shares_outstanding": 699800000.0,
+    "revenue": 16882400000.0,
+    "net_income": 2553700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-20",
+    "shares_outstanding": 701300000.0,
+    "revenue": 4132100000.0,
+    "net_income": 391600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-25",
+    "shares_outstanding": 698900000.0,
+    "revenue": 4241900000.0,
+    "net_income": 656700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-21",
+    "shares_outstanding": 697100000.0,
+    "revenue": 3924100000.0,
+    "net_income": 758400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 708500000.0,
+    "revenue": 20563100000.0,
+    "net_income": 3357400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-22",
+    "shares_outstanding": 698700000.0,
+    "revenue": 5023400000.0,
+    "net_income": 1403300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-23",
+    "shares_outstanding": 719600000.0,
+    "revenue": 4960200000.0,
+    "net_income": 695700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-23",
+    "shares_outstanding": 718700000.0,
+    "revenue": 4694700000.0,
+    "net_income": 569800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 716100000.0,
+    "revenue": 19913800000.0,
+    "net_income": 2598400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-16",
+    "shares_outstanding": 716200000.0,
+    "revenue": 4870300000.0,
+    "net_income": 680600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-17",
+    "shares_outstanding": 715600000.0,
+    "revenue": 4963600000.0,
+    "net_income": 676400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-16",
+    "shares_outstanding": 714800000.0,
+    "revenue": 4662700000.0,
+    "net_income": 579700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 711000000.0,
+    "revenue": 19118000000.0,
+    "net_income": 2695000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-17",
+    "shares_outstanding": 711900000.0,
+    "revenue": 4669100000.0,
+    "net_income": 597000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-18",
+    "shares_outstanding": 709800000.0,
+    "revenue": 4737500000.0,
+    "net_income": 616800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-18",
+    "shares_outstanding": 708400000.0,
+    "revenue": 4444700000.0,
+    "net_income": 691900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 713100000.0,
+    "revenue": 18260400000.0,
+    "net_income": 2392200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-18",
+    "shares_outstanding": 713947000.0,
+    "revenue": 4415500000.0,
+    "net_income": 548700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-19",
+    "shares_outstanding": 714910000.0,
+    "revenue": 4553500000.0,
+    "net_income": 600200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-19",
+    "shares_outstanding": 714023000.0,
+    "revenue": 4316200000.0,
+    "net_income": 612900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 701191000.0,
+    "revenue": 16090540000.0,
+    "net_income": 2172264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-20",
+    "shares_outstanding": 710403000.0,
+    "revenue": 4445800000.0,
+    "net_income": 523400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-27",
+    "shares_outstanding": 694599000.0,
+    "revenue": 3635900000.0,
+    "net_income": 648800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-21",
+    "shares_outstanding": 688328000.0,
+    "revenue": 3292200000.0,
+    "net_income": 429400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-21",
+    "shares_outstanding": 683431000.0,
+    "revenue": 3190193000.0,
+    "net_income": 646435000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q1 2010",
+    "filing_date": "2010-04-22",
+    "shares_outstanding": 340061000.0,
+    "revenue": 3092220000.0,
+    "net_income": 300233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "FY 2009",
+    "filing_date": "2010-02-24",
+    "shares_outstanding": 335742000.0,
+    "revenue": 11184938000.0,
+    "net_income": 1151704000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-22",
+    "shares_outstanding": 336268000.0,
+    "revenue": 2750693000.0,
+    "net_income": 351363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DHR",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-23",
+    "shares_outstanding": 334540000.0,
+    "revenue": 2673609000.0,
+    "net_income": 295694000.0,
+    "market_cap": null
+  }
+]

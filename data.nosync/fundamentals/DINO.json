@@ -1,0 +1,155 @@
+[
+  {
+    "ticker": "DINO",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 186465000.0,
+    "revenue": 26869000000.0,
+    "net_income": 586000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 186465000.0,
+    "revenue": 26869000000.0,
+    "net_income": 586000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 186499000.0,
+    "revenue": 7251000000.0,
+    "net_income": 405000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 188110000.0,
+    "revenue": 6784000000.0,
+    "net_income": 210000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 188488000.0,
+    "revenue": 6370000000.0,
+    "net_income": -2000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 192073000.0,
+    "revenue": 28580000000.0,
+    "net_income": 184000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 189840000.0,
+    "revenue": 7207140000.0,
+    "net_income": -74081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 191510000.0,
+    "revenue": 7845831000.0,
+    "net_income": 153480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 198710000.0,
+    "revenue": 7027145000.0,
+    "net_income": 316622000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 190035000.0,
+    "revenue": 31964395000.0,
+    "net_income": 1710895000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 185456000.0,
+    "revenue": 8905471000.0,
+    "net_income": 825061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 192348000.0,
+    "revenue": 7833646000.0,
+    "net_income": 534485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 195445000.0,
+    "revenue": 7565142000.0,
+    "net_income": 385005000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 202566000.0,
+    "revenue": 38204839000.0,
+    "net_income": 3041174000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-07",
+    "shares_outstanding": 212388000.0,
+    "revenue": 10599002000.0,
+    "net_income": 978139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-08",
+    "shares_outstanding": 222952000.0,
+    "revenue": 11162160000.0,
+    "net_income": 1252908000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DINO",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-09",
+    "shares_outstanding": 175081000.0,
+    "revenue": 7458750000.0,
+    "net_income": 185301000.0,
+    "market_cap": null
+  }
+]

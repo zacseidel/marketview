@@ -1,0 +1,299 @@
+[
+  {
+    "ticker": "EHC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 102200000.0,
+    "revenue": 5935200000.0,
+    "net_income": 759100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 102200000.0,
+    "revenue": 5935200000.0,
+    "net_income": 759100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 102300000.0,
+    "revenue": 1477500000.0,
+    "net_income": 174600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 102300000.0,
+    "revenue": 1457700000.0,
+    "net_income": 184900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 102100000.0,
+    "revenue": 1455400000.0,
+    "net_income": 196500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 102200000.0,
+    "revenue": 5373200000.0,
+    "net_income": 596600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 102100000.0,
+    "revenue": 1351000000.0,
+    "net_income": 147100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 102000000.0,
+    "revenue": 1301200000.0,
+    "net_income": 146500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 102200000.0,
+    "revenue": 1316000000.0,
+    "net_income": 138800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 101300000.0,
+    "revenue": 4801200000.0,
+    "net_income": 463000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 101400000.0,
+    "revenue": 1206900000.0,
+    "net_income": 113400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 101100000.0,
+    "revenue": 1187100000.0,
+    "net_income": 117200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 100900000.0,
+    "revenue": 1160400000.0,
+    "net_income": 113300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 100400000.0,
+    "revenue": 4348600000.0,
+    "net_income": 365900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 100500000.0,
+    "revenue": 1089500000.0,
+    "net_income": 67000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 100300000.0,
+    "revenue": 1062500000.0,
+    "net_income": 71300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 100200000.0,
+    "revenue": 1059300000.0,
+    "net_income": 110100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 100200000.0,
+    "revenue": 5121600000.0,
+    "net_income": 517200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 100200000.0,
+    "revenue": 1284800000.0,
+    "net_income": 126700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 100200000.0,
+    "revenue": 1287700000.0,
+    "net_income": 142000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 100200000.0,
+    "revenue": 1230400000.0,
+    "net_income": 132800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 99800000.0,
+    "revenue": 4644400000.0,
+    "net_income": 368800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 99900000.0,
+    "revenue": 1173900000.0,
+    "net_income": 100100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 99900000.0,
+    "revenue": 1074100000.0,
+    "net_income": 48300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 99600000.0,
+    "revenue": 1182000000.0,
+    "net_income": 108700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 99400000.0,
+    "revenue": 4605000000.0,
+    "net_income": 445800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 99400000.0,
+    "revenue": 1161600000.0,
+    "net_income": 119500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 99300000.0,
+    "revenue": 1135000000.0,
+    "net_income": 110900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 99700000.0,
+    "revenue": 1124000000.0,
+    "net_income": 125200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 99800000.0,
+    "revenue": 4277300000.0,
+    "net_income": 375400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 100000000.0,
+    "revenue": 1067600000.0,
+    "net_income": 109300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 99600000.0,
+    "revenue": 1067700000.0,
+    "net_income": 113200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EHC",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 99400000.0,
+    "revenue": 1046000000.0,
+    "net_income": 105200000.0,
+    "market_cap": null
+  }
+]

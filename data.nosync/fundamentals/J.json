@@ -1,0 +1,218 @@
+[
+  {
+    "ticker": "J",
+    "period": "Q1 2026",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 119006000.0,
+    "revenue": 3293281000.0,
+    "net_income": 133668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "FY 2025",
+    "filing_date": "2025-11-20",
+    "shares_outstanding": 121932000.0,
+    "revenue": 12029783000.0,
+    "net_income": 303956000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q3 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 120491000.0,
+    "revenue": 3031768000.0,
+    "net_income": 189723000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q2 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 122624000.0,
+    "revenue": 2910415000.0,
+    "net_income": -303000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "FY 2024",
+    "filing_date": "2024-11-25",
+    "shares_outstanding": 125881000.0,
+    "revenue": 11500941000.0,
+    "net_income": 852643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q3 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 125616000.0,
+    "revenue": 2883384000.0,
+    "net_income": 158896000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q2 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 126211000.0,
+    "revenue": 2847179000.0,
+    "net_income": 173534000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q1 2024",
+    "filing_date": "2024-02-06",
+    "shares_outstanding": 126813000.0,
+    "revenue": 2810228000.0,
+    "net_income": 181454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "FY 2023",
+    "filing_date": "2023-11-21",
+    "shares_outstanding": 127214000.0,
+    "revenue": 16352414000.0,
+    "net_income": 719656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q3 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 127138000.0,
+    "revenue": 4186702000.0,
+    "net_income": 172813000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 127359000.0,
+    "revenue": 4078332000.0,
+    "net_income": 233178000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q1 2023",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 127496000.0,
+    "revenue": 3798668000.0,
+    "net_income": 146670000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "FY 2022",
+    "filing_date": "2022-11-21",
+    "shares_outstanding": 129445000.0,
+    "revenue": 14922825000.0,
+    "net_income": 715412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q3 2022",
+    "filing_date": "2022-08-01",
+    "shares_outstanding": 128933000.0,
+    "revenue": 3827093000.0,
+    "net_income": 212281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q2 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 129973000.0,
+    "revenue": 3834059000.0,
+    "net_income": 109115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q1 2022",
+    "filing_date": "2022-02-08",
+    "shares_outstanding": 130294000.0,
+    "revenue": 3380625000.0,
+    "net_income": 152969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "FY 2021",
+    "filing_date": "2021-11-23",
+    "shares_outstanding": 131274000.0,
+    "revenue": 14092632000.0,
+    "net_income": 430829000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q3 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 131420000.0,
+    "revenue": 3576436000.0,
+    "net_income": 174592000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q2 2021",
+    "filing_date": "2021-05-10",
+    "shares_outstanding": 130262000.0,
+    "revenue": 3547873000.0,
+    "net_income": -80189000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q1 2021",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 131150000.0,
+    "revenue": 3381836000.0,
+    "net_income": 267074000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "FY 2020",
+    "filing_date": "2020-11-24",
+    "shares_outstanding": 132721000.0,
+    "revenue": 13566975000.0,
+    "net_income": 523867000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q3 2020",
+    "filing_date": "2020-08-03",
+    "shares_outstanding": 131263000.0,
+    "revenue": 3260057000.0,
+    "net_income": 254050000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q2 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 132531000.0,
+    "revenue": 3427180000.0,
+    "net_income": -85803000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "J",
+    "period": "Q1 2020",
+    "filing_date": "2020-02-04",
+    "shares_outstanding": 134618000.0,
+    "revenue": 3360049000.0,
+    "net_income": 263267000.0,
+    "market_cap": null
+  }
+]

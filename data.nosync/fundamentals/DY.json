@@ -1,0 +1,515 @@
+[
+  {
+    "ticker": "DY",
+    "period": "FY 2026",
+    "filing_date": "2026-03-09",
+    "shares_outstanding": 29423339.0,
+    "revenue": 5545912000.0,
+    "net_income": 281189000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2026",
+    "filing_date": "2025-11-20",
+    "shares_outstanding": 29330297.0,
+    "revenue": 1451798000.0,
+    "net_income": 106365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2026",
+    "filing_date": "2025-08-21",
+    "shares_outstanding": 29242455.0,
+    "revenue": 1377944000.0,
+    "net_income": 97483000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2026",
+    "filing_date": "2025-05-22",
+    "shares_outstanding": 29263624.0,
+    "revenue": 1258608000.0,
+    "net_income": 61048000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2025",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 29481791.0,
+    "revenue": 4702014000.0,
+    "net_income": 233413000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2025",
+    "filing_date": "2024-11-21",
+    "shares_outstanding": 29481003.0,
+    "revenue": 1272007000.0,
+    "net_income": 69789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2025",
+    "filing_date": "2024-08-22",
+    "shares_outstanding": 29435895.0,
+    "revenue": 1203059000.0,
+    "net_income": 68400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2025",
+    "filing_date": "2024-05-23",
+    "shares_outstanding": 29551709.0,
+    "revenue": 1142423000.0,
+    "net_income": 62554000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2024",
+    "filing_date": "2024-03-01",
+    "shares_outstanding": 29698926.0,
+    "revenue": 4175574000.0,
+    "net_income": 218923000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2024",
+    "filing_date": "2023-11-22",
+    "shares_outstanding": 29689316.0,
+    "revenue": 1136110000.0,
+    "net_income": 83736000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2024",
+    "filing_date": "2023-08-24",
+    "shares_outstanding": 29610946.0,
+    "revenue": 1041535000.0,
+    "net_income": 60246000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2024",
+    "filing_date": "2023-05-25",
+    "shares_outstanding": 29782251.0,
+    "revenue": 1045474000.0,
+    "net_income": 51523000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2023",
+    "filing_date": "2023-03-03",
+    "shares_outstanding": 29996591.0,
+    "revenue": 3808462000.0,
+    "net_income": 142213000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2023",
+    "filing_date": "2022-11-23",
+    "shares_outstanding": 29978795.0,
+    "revenue": 1042423000.0,
+    "net_income": 54012000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2023",
+    "filing_date": "2022-08-25",
+    "shares_outstanding": 29943422.0,
+    "revenue": 972273000.0,
+    "net_income": 43856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2023",
+    "filing_date": "2022-05-26",
+    "shares_outstanding": 30119561.0,
+    "revenue": 876300000.0,
+    "net_income": 19536000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2022",
+    "filing_date": "2022-03-04",
+    "shares_outstanding": 30844211.0,
+    "revenue": 3130519000.0,
+    "net_income": 48574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2022",
+    "filing_date": "2021-11-24",
+    "shares_outstanding": 30614706.0,
+    "revenue": 853973000.0,
+    "net_income": 28717000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2022",
+    "filing_date": "2021-09-02",
+    "shares_outstanding": 30872506.0,
+    "revenue": 787568000.0,
+    "net_income": 18165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2022",
+    "filing_date": "2021-05-26",
+    "shares_outstanding": 31299469.0,
+    "revenue": 727497000.0,
+    "net_income": 898000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2021",
+    "filing_date": "2021-03-05",
+    "shares_outstanding": 32090578.0,
+    "revenue": 3199165000.0,
+    "net_income": 34337000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2021",
+    "filing_date": "2020-11-24",
+    "shares_outstanding": 32425300.0,
+    "revenue": 810256000.0,
+    "net_income": 33926000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2021",
+    "filing_date": "2020-08-27",
+    "shares_outstanding": 32128098.0,
+    "revenue": 823921000.0,
+    "net_income": 37024000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2021",
+    "filing_date": "2020-05-21",
+    "shares_outstanding": 31603498.0,
+    "revenue": 814322000.0,
+    "net_income": -32418000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2020",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 31821782.0,
+    "revenue": 3339682000.0,
+    "net_income": 57215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2020",
+    "filing_date": "2019-11-27",
+    "shares_outstanding": 31826845.0,
+    "revenue": 884115000.0,
+    "net_income": 24229000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2020",
+    "filing_date": "2019-08-29",
+    "shares_outstanding": 31820296.0,
+    "revenue": 884221000.0,
+    "net_income": 29896000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2020",
+    "filing_date": "2019-05-23",
+    "shares_outstanding": 31786459.0,
+    "revenue": 833743000.0,
+    "net_income": 14279000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2019",
+    "filing_date": "2019-03-04",
+    "shares_outstanding": 31990168.0,
+    "revenue": 3127700000.0,
+    "net_income": 62907000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2019",
+    "filing_date": "2018-11-21",
+    "shares_outstanding": 31834542.0,
+    "revenue": 848237000.0,
+    "net_income": 27830000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2019",
+    "filing_date": "2018-08-30",
+    "shares_outstanding": 31954013.0,
+    "revenue": 799470000.0,
+    "net_income": 29900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2019",
+    "filing_date": "2018-05-24",
+    "shares_outstanding": 32407914.0,
+    "revenue": 731375000.0,
+    "net_income": 17231000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2018",
+    "filing_date": "2017-11-22",
+    "shares_outstanding": 31891574.0,
+    "revenue": 756215000.0,
+    "net_income": 28776000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2017",
+    "filing_date": "2017-09-01",
+    "shares_outstanding": 31984731.0,
+    "revenue": 3066880000.0,
+    "net_income": 157217000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2017",
+    "filing_date": "2017-05-26",
+    "shares_outstanding": 31909926.0,
+    "revenue": 786338000.0,
+    "net_income": 38796000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2017",
+    "filing_date": "2017-03-03",
+    "shares_outstanding": 32161566.0,
+    "revenue": 701131000.0,
+    "net_income": 23663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2017",
+    "filing_date": "2016-11-23",
+    "shares_outstanding": 32200287.0,
+    "revenue": 799223000.0,
+    "net_income": 51050000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2016",
+    "filing_date": "2016-08-31",
+    "shares_outstanding": 33115755.0,
+    "revenue": 2672542000.0,
+    "net_income": 128740000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2016",
+    "filing_date": "2016-05-27",
+    "shares_outstanding": 33050934.0,
+    "revenue": 664645000.0,
+    "net_income": 33083000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2016",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 33520136.0,
+    "revenue": 559470000.0,
+    "net_income": 15473000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2016",
+    "filing_date": "2015-11-25",
+    "shares_outstanding": 33886747.0,
+    "revenue": 659268000.0,
+    "net_income": 30824000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2015",
+    "filing_date": "2015-09-04",
+    "shares_outstanding": 35026688.0,
+    "revenue": 2022312000.0,
+    "net_income": 84324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2015",
+    "filing_date": "2015-05-22",
+    "shares_outstanding": 35028956.0,
+    "revenue": 492363000.0,
+    "net_income": 20258000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2015",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 35127398.0,
+    "revenue": 441081000.0,
+    "net_income": 9432000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2015",
+    "filing_date": "2014-11-26",
+    "shares_outstanding": 35117673.0,
+    "revenue": 510389000.0,
+    "net_income": 20807000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2014",
+    "filing_date": "2014-09-09",
+    "shares_outstanding": 34816381.0,
+    "revenue": 1811593000.0,
+    "net_income": 39978000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2014",
+    "filing_date": "2014-05-23",
+    "shares_outstanding": 34763035.0,
+    "revenue": 426284000.0,
+    "net_income": 7895000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2014",
+    "filing_date": "2014-03-05",
+    "shares_outstanding": 33836099.0,
+    "revenue": 390518000.0,
+    "net_income": -3067000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2014",
+    "filing_date": "2013-11-29",
+    "shares_outstanding": 34638998.0,
+    "revenue": 512720000.0,
+    "net_income": 18660000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2013",
+    "filing_date": "2013-09-13",
+    "shares_outstanding": 33782187.0,
+    "revenue": 1608612000.0,
+    "net_income": 35188000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2013",
+    "filing_date": "2013-05-28",
+    "shares_outstanding": 33842150.0,
+    "revenue": 437367000.0,
+    "net_income": 7199000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2013",
+    "filing_date": "2013-03-05",
+    "shares_outstanding": 33514416.0,
+    "revenue": 369326000.0,
+    "net_income": 1463000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2013",
+    "filing_date": "2012-11-21",
+    "shares_outstanding": 33721070.0,
+    "revenue": 323286000.0,
+    "net_income": 11861000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "FY 2012",
+    "filing_date": "2012-09-04",
+    "shares_outstanding": 34481895.0,
+    "revenue": 1201119000.0,
+    "net_income": 39378000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q3 2012",
+    "filing_date": "2012-05-24",
+    "shares_outstanding": 34682891.0,
+    "revenue": 296103000.0,
+    "net_income": 9645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q2 2012",
+    "filing_date": "2012-03-02",
+    "shares_outstanding": 34636520.0,
+    "revenue": 267407000.0,
+    "net_income": 3485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DY",
+    "period": "Q1 2012",
+    "filing_date": "2011-11-23",
+    "shares_outstanding": 34216451.0,
+    "revenue": 319575000.0,
+    "net_income": 12966000.0,
+    "market_cap": null
+  }
+]

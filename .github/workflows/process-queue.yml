@@ -2,7 +2,7 @@ name: Process Queue
 
 on:
   schedule:
-    - cron: "0 23 * * 1-5"  # Weekdays 7:00 PM ET (UTC-4)
+    - cron: "30 17 * * 1-5"  # Weekdays 11:30 AM MT (UTC-6)
   workflow_dispatch:
 
 permissions:

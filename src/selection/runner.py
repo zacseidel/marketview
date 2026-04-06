@@ -44,7 +44,7 @@ def _prev_holdings_tickers(model: str, eval_date: str, dal: DataAccessLayer) -> 
     )
     for d in dirs:
         path = d / f"{model}.json"
-        if path.exists():
+        if path.exists() and path.stat().st_size > 2:
             with open(path) as f:
                 records = json.load(f)
             return {r["ticker"] for r in records if r.get("status") != "sell"}
@@ -81,146 +81,6 @@ def _assign_statuses(
     return holdings
 
 
-def _queue_momentum_theoretical_chains(eval_date: str) -> None:
-    """
-    Queue options chain fetches for momentum new_buy tickers to create
-    theoretical strategy observations (all 5 templates) regardless of
-    whether the user approves the buy.
-    """
-    from src.collection.queue import WorkQueue
-
-    momentum_file = Path("data.nosync/models") / eval_date / "momentum.json"
-    if not momentum_file.exists():
-        return
-
-    with open(momentum_file) as f:
-        holdings = json.load(f)
-
-    new_buys = [h["ticker"] for h in holdings if h.get("status") == "new_buy"]
-    if not new_buys:
-        return
-
-    queue = WorkQueue()
-    for ticker in new_buys:
-        queue.enqueue(
-            task_type="options_chain",
-            ticker=ticker,
-            requested_date=eval_date,
-            requested_by="runner_momentum_theoretical",
-            priority="normal",
-            metadata={"originating_models": ["momentum"], "reason": "theoretical_momentum"},
-        )
-
-    log.info("runner.momentum_theoretical_queued", count=len(new_buys), eval_date=eval_date)
-
-
-def _close_momentum_theoretical_sells(eval_date: str) -> None:
-    """
-    When momentum issues sell signals, close theoretical strategy observations
-    for those tickers at the eval-date close price.
-    Queues a chain fetch for any positions with unexpired options legs.
-    """
-    from src.collection.queue import WorkQueue
-    from src.strategy.snapshot import close_theoretical_for_ticker
-
-    momentum_file = Path("data.nosync/models") / eval_date / "momentum.json"
-    if not momentum_file.exists():
-        return
-
-    with open(momentum_file) as f:
-        holdings = json.load(f)
-
-    sell_tickers = [h["ticker"] for h in holdings if h.get("status") == "sell"]
-    if not sell_tickers:
-        return
-
-    price_file = Path("data.nosync/prices") / f"{eval_date}.json"
-    prices: dict[str, float] = {}
-    if price_file.exists():
-        with open(price_file) as f:
-            for rec in json.load(f):
-                prices[rec["ticker"]] = rec.get("close") or rec.get("ohlc_avg", 0.0)
-
-    queue = WorkQueue()
-    for ticker in sell_tickers:
-        stock_price = prices.get(ticker)
-        if not stock_price:
-            log.warning("runner.theoretical_close_no_price", ticker=ticker, eval_date=eval_date)
-            continue
-
-        all_resolved, needs_chain = close_theoretical_for_ticker(ticker, eval_date, stock_price)
-        if not all_resolved:
-            for entry_date in needs_chain:
-                queue.enqueue(
-                    task_type="options_chain",
-                    ticker=ticker,
-                    requested_date=eval_date,
-                    requested_by="runner_momentum_theoretical_close",
-                    priority="normal",
-                    metadata={
-                        "reason": "theoretical_close",
-                        "stock_entry_date": entry_date,
-                    },
-                )
-            log.info("runner.theoretical_close_chain_queued", ticker=ticker, count=len(needs_chain))
-        else:
-            log.info("runner.theoretical_obs_closed", ticker=ticker, eval_date=eval_date)
-
-
-def _check_strategy_expirations(eval_date: str, dal: DataAccessLayer) -> None:
-    """
-    For each open stock position, check if any strategy options legs have expired.
-    If so, close them and queue a new options chain fetch to open fresh legs.
-    """
-    import json
-    from pathlib import Path
-    from src.strategy.snapshot import check_expirations, reopen_expired_strategies
-    from src.collection.queue import WorkQueue
-
-    positions_file = Path("data.nosync/positions/positions.json")
-    if not positions_file.exists():
-        return
-
-    with open(positions_file) as f:
-        positions = json.load(f)
-
-    open_positions = [p for p in positions if p.get("status") == "open"]
-    if not open_positions:
-        return
-
-    # Get current stock prices
-    price_file = Path("data.nosync/prices") / f"{eval_date}.json"
-    prices: dict[str, float] = {}
-    if price_file.exists():
-        with open(price_file) as f:
-            for rec in json.load(f):
-                prices[rec["ticker"]] = rec.get("close", 0.0)
-
-    queue = WorkQueue()
-    for pos in open_positions:
-        ticker = pos["ticker"]
-        stock_entry_date = pos["entry_date"]
-        stock_price = prices.get(ticker)
-        if not stock_price:
-            continue
-
-        expired_strategies = check_expirations(ticker, stock_entry_date, eval_date, stock_price)
-
-        if expired_strategies:
-            log.info(
-                "runner.strategy_expirations",
-                ticker=ticker,
-                expired=expired_strategies,
-            )
-            # Queue options chain fetch — process_queue will call reopen_expired_strategies
-            queue.enqueue(
-                task_type="options_chain",
-                ticker=ticker,
-                requested_date=eval_date,
-                requested_by="runner_expiry_reopen",
-                priority="normal",
-            )
-
 
 def run_models(eval_date: str | None = None) -> None:
     from dotenv import load_dotenv
@@ -253,15 +113,6 @@ def run_models(eval_date: str | None = None) -> None:
         prev_tickers = _prev_holdings_tickers(model_name, eval_date, dal)
         holdings = _assign_statuses(holdings, prev_tickers, eval_date, model_name, dal)
         dal.save_model_output(holdings, eval_date, model_name)
-
-    # Queue options chain fetches for momentum new_buys (theoretical tracking)
-    _queue_momentum_theoretical_chains(eval_date)
-
-    # Close theoretical observations for momentum sell signals
-    _close_momentum_theoretical_sells(eval_date)
-
-    # Check strategy observation expirations for all currently held positions
-    _check_strategy_expirations(eval_date, dal)
 
     log.info("runner.done", eval_date=eval_date)
 

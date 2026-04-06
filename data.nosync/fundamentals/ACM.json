@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "ACM",
+    "period": "TTM 2025",
+    "filing_date": "2025-11-19",
+    "shares_outstanding": 133311000.0,
+    "revenue": 16139622000.0,
+    "net_income": 636187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2025",
+    "filing_date": "2025-11-19",
+    "shares_outstanding": 133311000.0,
+    "revenue": 16139622000.0,
+    "net_income": 636187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 133078000.0,
+    "revenue": 4178440000.0,
+    "net_income": 159737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 133139000.0,
+    "revenue": 3771613000.0,
+    "net_income": 159540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2024",
+    "filing_date": "2024-11-19",
+    "shares_outstanding": 136453000.0,
+    "revenue": 16105498000.0,
+    "net_income": 460255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 136790000.0,
+    "revenue": 4151251000.0,
+    "net_income": 152509000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 136712000.0,
+    "revenue": 3943833000.0,
+    "net_income": 16030000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2024",
+    "filing_date": "2024-02-07",
+    "shares_outstanding": 137101000.0,
+    "revenue": 3899920000.0,
+    "net_income": 108594000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2023",
+    "filing_date": "2023-11-15",
+    "shares_outstanding": 140109000.0,
+    "revenue": 14378461000.0,
+    "net_income": 100141000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 138741000.0,
+    "revenue": 3663500000.0,
+    "net_income": -121299000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 140335000.0,
+    "revenue": 3490172000.0,
+    "net_income": 84483000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2023",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 140642000.0,
+    "revenue": 3382355000.0,
+    "net_income": 96763000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2022",
+    "filing_date": "2022-11-17",
+    "shares_outstanding": 142696000.0,
+    "revenue": 13148182000.0,
+    "net_income": 334702000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2022",
+    "filing_date": "2022-08-10",
+    "shares_outstanding": 142200000.0,
+    "revenue": 3241700000.0,
+    "net_income": 111900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2022",
+    "filing_date": "2022-05-11",
+    "shares_outstanding": 142600000.0,
+    "revenue": 3213700000.0,
+    "net_income": 48600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2022",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 144600000.0,
+    "revenue": 3266700000.0,
+    "net_income": 61200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2021",
+    "filing_date": "2021-11-17",
+    "shares_outstanding": 149676000.0,
+    "revenue": 13340852000.0,
+    "net_income": 202980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2021",
+    "filing_date": "2021-08-11",
+    "shares_outstanding": 148900000.0,
+    "revenue": 3408400000.0,
+    "net_income": 18400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2021",
+    "filing_date": "2021-05-12",
+    "shares_outstanding": 149500000.0,
+    "revenue": 3265500000.0,
+    "net_income": 45300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2021",
+    "filing_date": "2021-02-10",
+    "shares_outstanding": 153700000.0,
+    "revenue": 3313200000.0,
+    "net_income": 33000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2020",
+    "filing_date": "2020-11-19",
+    "shares_outstanding": 161292000.0,
+    "revenue": 13239976000.0,
+    "net_income": -153741000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 161800000.0,
+    "revenue": 3189700000.0,
+    "net_income": 94100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 160700000.0,
+    "revenue": 3245700000.0,
+    "net_income": -77000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2020",
+    "filing_date": "2020-02-05",
+    "shares_outstanding": 160600000.0,
+    "revenue": 3235600000.0,
+    "net_income": 53100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2019",
+    "filing_date": "2019-11-13",
+    "shares_outstanding": 157044000.0,
+    "revenue": 20173329000.0,
+    "net_income": -183990000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 159800000.0,
+    "revenue": 4980200000.0,
+    "net_income": 105400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 158400000.0,
+    "revenue": 5040000000.0,
+    "net_income": 93500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2019",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 159600000.0,
+    "revenue": 5037500000.0,
+    "net_income": 65100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2018",
+    "filing_date": "2018-11-13",
+    "shares_outstanding": 162261000.0,
+    "revenue": 20155512000.0,
+    "net_income": 197127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 163200000.0,
+    "revenue": 5148000000.0,
+    "net_income": 75100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 159500000.0,
+    "revenue": 4790900000.0,
+    "net_income": -107700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2018",
+    "filing_date": "2018-02-07",
+    "shares_outstanding": 161800000.0,
+    "revenue": 4910800000.0,
+    "net_income": 124400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2017",
+    "filing_date": "2017-11-14",
+    "shares_outstanding": 159135000.0,
+    "revenue": 18203402000.0,
+    "net_income": 421476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 158800000.0,
+    "revenue": 4561500000.0,
+    "net_income": 136100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 158700000.0,
+    "revenue": 4427200000.0,
+    "net_income": 115800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2017",
+    "filing_date": "2017-02-08",
+    "shares_outstanding": 158000000.0,
+    "revenue": 4358300000.0,
+    "net_income": 65800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2016",
+    "filing_date": "2016-11-16",
+    "shares_outstanding": 156073000.0,
+    "revenue": 17410825000.0,
+    "net_income": 163472000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2016",
+    "filing_date": "2016-08-10",
+    "shares_outstanding": 156200000.0,
+    "revenue": 4408800000.0,
+    "net_income": 84400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2016",
+    "filing_date": "2016-05-11",
+    "shares_outstanding": 155400000.0,
+    "revenue": 4381200000.0,
+    "net_income": 66600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q4 2015",
+    "filing_date": "2016-02-10",
+    "shares_outstanding": 153619000.0,
+    "revenue": 4297651000.0,
+    "net_income": -403000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2015",
+    "filing_date": "2015-11-25",
+    "shares_outstanding": 149605000.0,
+    "revenue": 17989880000.0,
+    "net_income": -71233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2015",
+    "filing_date": "2015-08-12",
+    "shares_outstanding": 151700000.0,
+    "revenue": 4549500000.0,
+    "net_income": -200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2015",
+    "filing_date": "2015-05-13",
+    "shares_outstanding": 152800000.0,
+    "revenue": 4506200000.0,
+    "net_income": 20600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2015",
+    "filing_date": "2015-02-11",
+    "shares_outstanding": 141892000.0,
+    "revenue": 4210468000.0,
+    "net_income": -118067000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2014",
+    "filing_date": "2014-11-17",
+    "shares_outstanding": 98657000.0,
+    "revenue": 8356783000.0,
+    "net_income": 232764000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 99000000.0,
+    "revenue": 1968200000.0,
+    "net_income": 69100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 98300000.0,
+    "revenue": 1872200000.0,
+    "net_income": 42500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2014",
+    "filing_date": "2014-02-05",
+    "shares_outstanding": 97600000.0,
+    "revenue": 1953900000.0,
+    "net_income": 56500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2013",
+    "filing_date": "2013-11-13",
+    "shares_outstanding": 101942000.0,
+    "revenue": 8153495000.0,
+    "net_income": 243196000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 100800000.0,
+    "revenue": 2067500000.0,
+    "net_income": 71300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 101800000.0,
+    "revenue": 1989600000.0,
+    "net_income": 54700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2013",
+    "filing_date": "2013-02-06",
+    "shares_outstanding": 105500000.0,
+    "revenue": 2017300000.0,
+    "net_income": 39000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2012",
+    "filing_date": "2012-11-19",
+    "shares_outstanding": 111875000.0,
+    "revenue": 8218180000.0,
+    "net_income": -56933000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 110800000.0,
+    "revenue": 2095200000.0,
+    "net_income": 69800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 114300000.0,
+    "revenue": 2010900000.0,
+    "net_income": 49700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2012",
+    "filing_date": "2012-02-06",
+    "shares_outstanding": 114600000.0,
+    "revenue": 2029200000.0,
+    "net_income": 48400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2011",
+    "filing_date": "2011-11-21",
+    "shares_outstanding": 118345000.0,
+    "revenue": 8037374000.0,
+    "net_income": 284090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q3 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 118900000.0,
+    "revenue": 2046700000.0,
+    "net_income": 74000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q2 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 118300000.0,
+    "revenue": 1936400000.0,
+    "net_income": 59600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "Q1 2011",
+    "filing_date": "2011-02-09",
+    "shares_outstanding": 119100000.0,
+    "revenue": 1936200000.0,
+    "net_income": 62100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ACM",
+    "period": "FY 2010",
+    "filing_date": "2010-11-22",
+    "shares_outstanding": 115463000.0,
+    "revenue": 6545791000.0,
+    "net_income": 249344000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "SOLV",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 175300000.0,
+    "revenue": 8325000000.0,
+    "net_income": 1556000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SOLV",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 175300000.0,
+    "revenue": 8325000000.0,
+    "net_income": 1556000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SOLV",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 175400000.0,
+    "revenue": 2096000000.0,
+    "net_income": 1266000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SOLV",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 175200000.0,
+    "revenue": 2161000000.0,
+    "net_income": 90000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SOLV",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 174800000.0,
+    "revenue": 2070000000.0,
+    "net_income": 137000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SOLV",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 173700000.0,
+    "revenue": 8254000000.0,
+    "net_income": 479000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SOLV",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 173900000.0,
+    "revenue": 2082000000.0,
+    "net_income": 122000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SOLV",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-09",
+    "shares_outstanding": 173500000.0,
+    "revenue": 2081000000.0,
+    "net_income": 89000000.0,
+    "market_cap": null
+  }
+]

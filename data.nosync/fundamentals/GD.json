@@ -1,0 +1,587 @@
+[
+  {
+    "ticker": "GD",
+    "period": "TTM 2025",
+    "filing_date": "2026-01-30",
+    "shares_outstanding": 272425000.0,
+    "revenue": 52550000000.0,
+    "net_income": 4210000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2025",
+    "filing_date": "2026-01-30",
+    "shares_outstanding": 272425000.0,
+    "revenue": 52550000000.0,
+    "net_income": 4210000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-24",
+    "shares_outstanding": 272640000.0,
+    "revenue": 12907000000.0,
+    "net_income": 1059000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-23",
+    "shares_outstanding": 270945000.0,
+    "revenue": 13041000000.0,
+    "net_income": 1014000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-23",
+    "shares_outstanding": 271749000.0,
+    "revenue": 12223000000.0,
+    "net_income": 994000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2024",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 277485000.0,
+    "revenue": 47716000000.0,
+    "net_income": 3782000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 277888000.0,
+    "revenue": 11671000000.0,
+    "net_income": 930000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 277722000.0,
+    "revenue": 11976000000.0,
+    "net_income": 905000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 277004000.0,
+    "revenue": 10731000000.0,
+    "net_income": 799000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2023",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 275725000.0,
+    "revenue": 42272000000.0,
+    "net_income": 3315000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 274745000.0,
+    "revenue": 10571000000.0,
+    "net_income": 836000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 275087000.0,
+    "revenue": 10152000000.0,
+    "net_income": 744000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 276646000.0,
+    "revenue": 9881000000.0,
+    "net_income": 730000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2022",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 278169000.0,
+    "revenue": 39407000000.0,
+    "net_income": 3390000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 276382000.0,
+    "revenue": 9975000000.0,
+    "net_income": 902000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 278943000.0,
+    "revenue": 9189000000.0,
+    "net_income": 766000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 279937000.0,
+    "revenue": 9392000000.0,
+    "net_income": 730000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2021",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 282017000.0,
+    "revenue": 38469000000.0,
+    "net_income": 3257000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 280405000.0,
+    "revenue": 9568000000.0,
+    "net_income": 860000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 282213000.0,
+    "revenue": 9220000000.0,
+    "net_income": 737000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 285198000.0,
+    "revenue": 9389000000.0,
+    "net_income": 708000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2020",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 287913000.0,
+    "revenue": 37925000000.0,
+    "net_income": 3167000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 287227000.0,
+    "revenue": 9431000000.0,
+    "net_income": 834000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 286933000.0,
+    "revenue": 9264000000.0,
+    "net_income": 625000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 289943000.0,
+    "revenue": 8749000000.0,
+    "net_income": 706000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2019",
+    "filing_date": "2020-02-10",
+    "shares_outstanding": 290836000.0,
+    "revenue": 39350000000.0,
+    "net_income": 3484000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-23",
+    "shares_outstanding": 290892000.0,
+    "revenue": 9761000000.0,
+    "net_income": 913000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-24",
+    "shares_outstanding": 290815000.0,
+    "revenue": 9555000000.0,
+    "net_income": 806000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-24",
+    "shares_outstanding": 290891000.0,
+    "revenue": 9261000000.0,
+    "net_income": 745000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2018",
+    "filing_date": "2019-02-13",
+    "shares_outstanding": 299160000.0,
+    "revenue": 36193000000.0,
+    "net_income": 3345000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-24",
+    "shares_outstanding": 299087000.0,
+    "revenue": 9094000000.0,
+    "net_income": 851000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-25",
+    "shares_outstanding": 300139000.0,
+    "revenue": 9186000000.0,
+    "net_income": 786000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 301104000.0,
+    "revenue": 7535000000.0,
+    "net_income": 799000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2017",
+    "filing_date": "2018-02-12",
+    "shares_outstanding": 304637000.0,
+    "revenue": 30973000000.0,
+    "net_income": 2912000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-25",
+    "shares_outstanding": 303751000.0,
+    "revenue": 7580000000.0,
+    "net_income": 764000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-26",
+    "shares_outstanding": 305350000.0,
+    "revenue": 7675000000.0,
+    "net_income": 749000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-26",
+    "shares_outstanding": 307282000.0,
+    "revenue": 7441000000.0,
+    "net_income": 763000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2016",
+    "filing_date": "2017-02-06",
+    "shares_outstanding": 310387000.0,
+    "revenue": 31353000000.0,
+    "net_income": 2955000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-26",
+    "shares_outstanding": 309728000.0,
+    "revenue": 7731000000.0,
+    "net_income": 683000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-27",
+    "shares_outstanding": 310208000.0,
+    "revenue": 7665000000.0,
+    "net_income": 758000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 312346000.0,
+    "revenue": 7724000000.0,
+    "net_income": 717000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2015",
+    "filing_date": "2016-02-08",
+    "shares_outstanding": 326652000.0,
+    "revenue": 31469000000.0,
+    "net_income": 2965000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-28",
+    "shares_outstanding": 321938000.0,
+    "revenue": 7994000000.0,
+    "net_income": 733000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-29",
+    "shares_outstanding": 331426000.0,
+    "revenue": 7882000000.0,
+    "net_income": 752000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-29",
+    "shares_outstanding": 334682000.0,
+    "revenue": 7784000000.0,
+    "net_income": 716000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2014",
+    "filing_date": "2015-02-09",
+    "shares_outstanding": 341331000.0,
+    "revenue": 30852000000.0,
+    "net_income": 2533000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-22",
+    "shares_outstanding": 338181000.0,
+    "revenue": 7751000000.0,
+    "net_income": 696000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-23",
+    "shares_outstanding": 342785000.0,
+    "revenue": 7474000000.0,
+    "net_income": 541000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-23",
+    "shares_outstanding": 347248000.0,
+    "revenue": 7324000000.0,
+    "net_income": 595000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2013",
+    "filing_date": "2014-02-07",
+    "shares_outstanding": 353499000.0,
+    "revenue": 31218000000.0,
+    "net_income": 2357000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-23",
+    "shares_outstanding": 352918000.0,
+    "revenue": 7796000000.0,
+    "net_income": 651000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-24",
+    "shares_outstanding": 352932000.0,
+    "revenue": 7911000000.0,
+    "net_income": 640000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-30",
+    "shares_outstanding": 353517000.0,
+    "revenue": 7404000000.0,
+    "net_income": 571000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2012",
+    "filing_date": "2013-02-08",
+    "shares_outstanding": 353346000.0,
+    "revenue": 31513000000.0,
+    "net_income": -332000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-30",
+    "shares_outstanding": 352826000.0,
+    "revenue": 7934000000.0,
+    "net_income": 600000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 357373000.0,
+    "revenue": 7922000000.0,
+    "net_income": 634000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-01",
+    "shares_outstanding": 359360000.0,
+    "revenue": 7579000000.0,
+    "net_income": 564000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2011",
+    "filing_date": "2012-02-17",
+    "shares_outstanding": 367524000.0,
+    "revenue": 32677000000.0,
+    "net_income": 2526000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-01",
+    "shares_outstanding": 362885000.0,
+    "revenue": 7853000000.0,
+    "net_income": 652000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-03",
+    "shares_outstanding": 371417000.0,
+    "revenue": 7879000000.0,
+    "net_income": 653000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": 376363000.0,
+    "revenue": 7798000000.0,
+    "net_income": 618000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-04",
+    "shares_outstanding": 12779000000.0,
+    "revenue": 7750000000.0,
+    "net_income": 597000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "FY 2009",
+    "filing_date": "2010-02-19",
+    "shares_outstanding": 12423000000.0,
+    "revenue": 31981000000.0,
+    "net_income": 2394000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-03",
+    "shares_outstanding": 11718000000.0,
+    "revenue": 7719000000.0,
+    "net_income": 572000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GD",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-04",
+    "shares_outstanding": 11001000000.0,
+    "revenue": 8100000000.0,
+    "net_income": 618000000.0,
+    "market_cap": null
+  }
+]

@@ -2,7 +2,7 @@ name: Daily Dashboard
 
 on:
   schedule:
-    - cron: "0 1 * * 2-6"  # Weekdays 9:00 PM ET (UTC-4), runs Tue–Sat UTC
+    - cron: "15 19 * * 1-5"  # Weekdays 1:15 PM MT (UTC-6)
   workflow_dispatch:
 
 permissions:

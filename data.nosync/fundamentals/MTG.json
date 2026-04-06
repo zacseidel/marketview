@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "MTG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 235099000.0,
+    "revenue": 1213636000.0,
+    "net_income": 738347000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 235099000.0,
+    "revenue": 1213636000.0,
+    "net_income": 738347000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-29",
+    "shares_outstanding": 231376000.0,
+    "revenue": 304505000.0,
+    "net_income": 191095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 237971000.0,
+    "revenue": 304245000.0,
+    "net_income": 192482000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 246490000.0,
+    "revenue": 306234000.0,
+    "net_income": 185460000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 263995000.0,
+    "revenue": 1207731000.0,
+    "net_income": 762994000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-04",
+    "shares_outstanding": 260833000.0,
+    "revenue": 306649000.0,
+    "net_income": 199969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 266872000.0,
+    "revenue": 305277000.0,
+    "net_income": 204228000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 273108000.0,
+    "revenue": 294361000.0,
+    "net_income": 174097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 287155000.0,
+    "revenue": 1155102000.0,
+    "net_income": 712949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 285600000.0,
+    "revenue": 296505000.0,
+    "net_income": 182844000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 289566000.0,
+    "revenue": 290675000.0,
+    "net_income": 191054000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 294712000.0,
+    "revenue": 283965000.0,
+    "net_income": 154547000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 311229000.0,
+    "revenue": 1172785000.0,
+    "net_income": 865349000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 307194000.0,
+    "revenue": 292799000.0,
+    "net_income": 249625000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 313545000.0,
+    "revenue": 293116000.0,
+    "net_income": 249268000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 324538000.0,
+    "revenue": 294616000.0,
+    "net_income": 175013000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 351308000.0,
+    "revenue": 1185675000.0,
+    "net_income": 634983000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 353557000.0,
+    "revenue": 295746000.0,
+    "net_income": 157977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 356536000.0,
+    "revenue": 297852000.0,
+    "net_income": 153051000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 356383000.0,
+    "revenue": 297957000.0,
+    "net_income": 150021000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 359293000.0,
+    "revenue": 1199146000.0,
+    "net_income": 446093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 357195000.0,
+    "revenue": 37252000.0,
+    "net_income": 130811000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 339661000.0,
+    "revenue": 39679000.0,
+    "net_income": 14047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 365216000.0,
+    "revenue": 41347000.0,
+    "net_income": 149805000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 373924000.0,
+    "revenue": 1213977000.0,
+    "net_income": 673763000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 372575000.0,
+    "revenue": 42715000.0,
+    "net_income": 176934000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-05",
+    "shares_outstanding": 376603000.0,
+    "revenue": 42423000.0,
+    "net_income": 167778000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 376667000.0,
+    "revenue": 40585000.0,
+    "net_income": 151941000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 386078000.0,
+    "revenue": 1123848000.0,
+    "net_income": 670097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 382905000.0,
+    "revenue": 36380000.0,
+    "net_income": 181900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 388881000.0,
+    "revenue": 34502000.0,
+    "net_income": 186814000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 391562000.0,
+    "revenue": 32121000.0,
+    "net_income": 143637000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 394766000.0,
+    "revenue": 1066054000.0,
+    "net_income": 355761000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 391087000.0,
+    "revenue": 30402000.0,
+    "net_income": 120027000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 394470000.0,
+    "revenue": 29716000.0,
+    "net_income": 118622000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 402175000.0,
+    "revenue": 29477000.0,
+    "net_income": 89798000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 431992000.0,
+    "revenue": 1062483000.0,
+    "net_income": 342517000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-07",
+    "shares_outstanding": 406050000.0,
+    "revenue": 27515000.0,
+    "net_income": 56618000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-01",
+    "shares_outstanding": 446139000.0,
+    "revenue": 27248000.0,
+    "net_income": 109221000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 431365000.0,
+    "revenue": 27809000.0,
+    "net_income": 69191000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 468039000.0,
+    "revenue": 1040781000.0,
+    "net_income": 1172000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 468149000.0,
+    "revenue": 25939000.0,
+    "net_income": 822852000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": 439148000.0,
+    "revenue": 25756000.0,
+    "net_income": 113654000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 468141000.0,
+    "revenue": 24120000.0,
+    "net_income": 133076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 413547000.0,
+    "revenue": 941797000.0,
+    "net_income": 251949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 413576000.0,
+    "revenue": 22355000.0,
+    "net_income": 72017000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 413481000.0,
+    "revenue": 21180000.0,
+    "net_income": 45522000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-09",
+    "shares_outstanding": 413180000.0,
+    "revenue": 20156000.0,
+    "net_income": 59982000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 311754000.0,
+    "revenue": 1039435000.0,
+    "net_income": -49848000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 339426000.0,
+    "revenue": 20250000.0,
+    "net_income": 12114000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 339341000.0,
+    "revenue": 20883000.0,
+    "net_income": 12375000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 232348000.0,
+    "revenue": 18328000.0,
+    "net_income": -72930000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 201892000.0,
+    "revenue": 1378364000.0,
+    "net_income": -927079000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-09",
+    "shares_outstanding": 202014000.0,
+    "revenue": 30394000.0,
+    "net_income": -246942000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 202013000.0,
+    "revenue": 32178000.0,
+    "net_income": -273891000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 201528000.0,
+    "revenue": 37408000.0,
+    "net_income": -19555000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 201019000.0,
+    "revenue": 1504279000.0,
+    "net_income": -485892000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 201109000.0,
+    "revenue": 48898000.0,
+    "net_income": -165205000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 201097000.0,
+    "revenue": 55490000.0,
+    "net_income": -151732000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTG",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 200744.0,
+    "revenue": 56543000.0,
+    "net_income": -33661000.0,
+    "market_cap": null
+  }
+]

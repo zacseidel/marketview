@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "MSM",
+    "period": "Q1 2026",
+    "filing_date": "2026-01-07",
+    "shares_outstanding": 55975000.0,
+    "revenue": 965684000.0,
+    "net_income": 51108000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2025",
+    "filing_date": "2025-10-23",
+    "shares_outstanding": 55894000.0,
+    "revenue": 3769521000.0,
+    "net_income": 197836000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2025",
+    "filing_date": "2025-07-01",
+    "shares_outstanding": 55765000.0,
+    "revenue": 971145000.0,
+    "net_income": 56861000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2025",
+    "filing_date": "2025-04-03",
+    "shares_outstanding": 55851000.0,
+    "revenue": 891717000.0,
+    "net_income": 39147000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2025",
+    "filing_date": "2025-01-08",
+    "shares_outstanding": 56068000.0,
+    "revenue": 928484000.0,
+    "net_income": 45694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 56441000.0,
+    "revenue": 3820951000.0,
+    "net_income": 255957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2024",
+    "filing_date": "2024-07-02",
+    "shares_outstanding": 56351000.0,
+    "revenue": 979350000.0,
+    "net_income": 71312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2024",
+    "filing_date": "2024-03-28",
+    "shares_outstanding": 56467000.0,
+    "revenue": 935348000.0,
+    "net_income": 61565000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2024",
+    "filing_date": "2024-01-09",
+    "shares_outstanding": 56723000.0,
+    "revenue": 953969000.0,
+    "net_income": 69128000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 56210000.0,
+    "revenue": 4009282000.0,
+    "net_income": 343107000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2023",
+    "filing_date": "2023-06-29",
+    "shares_outstanding": 56156000.0,
+    "revenue": 1054464000.0,
+    "net_income": 95139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2023",
+    "filing_date": "2023-04-04",
+    "shares_outstanding": 56001000.0,
+    "revenue": 961632000.0,
+    "net_income": 79315000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2023",
+    "filing_date": "2023-01-05",
+    "shares_outstanding": 56081000.0,
+    "revenue": 957745000.0,
+    "net_income": 81212000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2022",
+    "filing_date": "2022-10-20",
+    "shares_outstanding": 56045000.0,
+    "revenue": 3691893000.0,
+    "net_income": 340482000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2022",
+    "filing_date": "2022-06-29",
+    "shares_outstanding": 56106000.0,
+    "revenue": 958579000.0,
+    "net_income": 99717000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2022",
+    "filing_date": "2022-03-30",
+    "shares_outstanding": 55971000.0,
+    "revenue": 862522000.0,
+    "net_income": 70154000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2022",
+    "filing_date": "2021-12-22",
+    "shares_outstanding": 55856000.0,
+    "revenue": 848547000.0,
+    "net_income": 66257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2021",
+    "filing_date": "2021-10-20",
+    "shares_outstanding": 56093000.0,
+    "revenue": 3243224000.0,
+    "net_income": 217937000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2021",
+    "filing_date": "2021-07-07",
+    "shares_outstanding": 56352000.0,
+    "revenue": 866294000.0,
+    "net_income": 94935000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2021",
+    "filing_date": "2021-04-07",
+    "shares_outstanding": 56133000.0,
+    "revenue": 773995000.0,
+    "net_income": 18348000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2021",
+    "filing_date": "2021-01-06",
+    "shares_outstanding": 55850000.0,
+    "revenue": 771904000.0,
+    "net_income": 38777000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2020",
+    "filing_date": "2020-10-27",
+    "shares_outstanding": 55643000.0,
+    "revenue": 3192399000.0,
+    "net_income": 251758000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2020",
+    "filing_date": "2020-07-08",
+    "shares_outstanding": 55599000.0,
+    "revenue": 834972000.0,
+    "net_income": 78114000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2020",
+    "filing_date": "2020-04-08",
+    "shares_outstanding": 55587000.0,
+    "revenue": 786094000.0,
+    "net_income": 55556000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2020",
+    "filing_date": "2020-01-08",
+    "shares_outstanding": 55444000.0,
+    "revenue": 823601000.0,
+    "net_income": 65452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 55508000.0,
+    "revenue": 3363817000.0,
+    "net_income": 288797000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2019",
+    "filing_date": "2019-07-10",
+    "shares_outstanding": 55387000.0,
+    "revenue": 866546000.0,
+    "net_income": 79514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2019",
+    "filing_date": "2019-04-10",
+    "shares_outstanding": 55362000.0,
+    "revenue": 823004000.0,
+    "net_income": 68430000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2019",
+    "filing_date": "2019-01-09",
+    "shares_outstanding": 55831000.0,
+    "revenue": 831597000.0,
+    "net_income": 74232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 56707000.0,
+    "revenue": 3203878000.0,
+    "net_income": 329223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2018",
+    "filing_date": "2018-07-11",
+    "shares_outstanding": 56804000.0,
+    "revenue": 828345000.0,
+    "net_income": 79069000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2018",
+    "filing_date": "2018-04-10",
+    "shares_outstanding": 56892000.0,
+    "revenue": 768987000.0,
+    "net_income": 117552000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2018",
+    "filing_date": "2018-01-10",
+    "shares_outstanding": 56504000.0,
+    "revenue": 768561000.0,
+    "net_income": 59585000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 56971000.0,
+    "revenue": 2887744000.0,
+    "net_income": 231431000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2017",
+    "filing_date": "2017-07-12",
+    "shares_outstanding": 57264000.0,
+    "revenue": 743923000.0,
+    "net_income": 62836000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2017",
+    "filing_date": "2017-04-06",
+    "shares_outstanding": 57213000.0,
+    "revenue": 703780000.0,
+    "net_income": 53559000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2017",
+    "filing_date": "2017-01-11",
+    "shares_outstanding": 56572000.0,
+    "revenue": 686271000.0,
+    "net_income": 54288000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 61076000.0,
+    "revenue": 2863505000.0,
+    "net_income": 231216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2016",
+    "filing_date": "2016-07-06",
+    "shares_outstanding": 61369000.0,
+    "revenue": 727495000.0,
+    "net_income": 64816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2016",
+    "filing_date": "2016-04-06",
+    "shares_outstanding": 61313000.0,
+    "revenue": 684117000.0,
+    "net_income": 49525000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2016",
+    "filing_date": "2016-01-07",
+    "shares_outstanding": 61408000.0,
+    "revenue": 706819000.0,
+    "net_income": 55029000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2015",
+    "filing_date": "2015-10-28",
+    "shares_outstanding": 61487000.0,
+    "revenue": 2910379000.0,
+    "net_income": 231308000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2015",
+    "filing_date": "2015-07-09",
+    "shares_outstanding": 61424000.0,
+    "revenue": 745483000.0,
+    "net_income": 63342000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2015",
+    "filing_date": "2015-04-09",
+    "shares_outstanding": 61566000.0,
+    "revenue": 706400000.0,
+    "net_income": 51527000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q4 2014",
+    "filing_date": "2015-01-08",
+    "shares_outstanding": 61542000.0,
+    "revenue": 731091000.0,
+    "net_income": 57417000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 62339000.0,
+    "revenue": 2787122000.0,
+    "net_income": 236067000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2014",
+    "filing_date": "2014-07-10",
+    "shares_outstanding": 62212000.0,
+    "revenue": 720476000.0,
+    "net_income": 64696000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2014",
+    "filing_date": "2014-04-10",
+    "shares_outstanding": 62050000.0,
+    "revenue": 661513000.0,
+    "net_income": 49512000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2014",
+    "filing_date": "2014-01-09",
+    "shares_outstanding": 63078000.0,
+    "revenue": 678510000.0,
+    "net_income": 59046000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 63011000.0,
+    "revenue": 2457649000.0,
+    "net_income": 237995000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2013",
+    "filing_date": "2013-07-11",
+    "shares_outstanding": 63134000.0,
+    "revenue": 636923000.0,
+    "net_income": 62354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2013",
+    "filing_date": "2013-04-11",
+    "shares_outstanding": 63008000.0,
+    "revenue": 569462000.0,
+    "net_income": 56079000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2013",
+    "filing_date": "2013-01-10",
+    "shares_outstanding": 62701000.0,
+    "revenue": 577491000.0,
+    "net_income": 63187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 62803000.0,
+    "revenue": 2355918000.0,
+    "net_income": 259031000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2012",
+    "filing_date": "2012-06-29",
+    "shares_outstanding": 63055000.0,
+    "revenue": 611970000.0,
+    "net_income": 70211000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2012",
+    "filing_date": "2012-04-04",
+    "shares_outstanding": 63008000.0,
+    "revenue": 562974000.0,
+    "net_income": 60068000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2012",
+    "filing_date": "2012-01-05",
+    "shares_outstanding": 62627000.0,
+    "revenue": 545703000.0,
+    "net_income": 59837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "FY 2011",
+    "filing_date": "2011-10-26",
+    "shares_outstanding": 63324000.0,
+    "revenue": 2021792000.0,
+    "net_income": 218786000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q3 2011",
+    "filing_date": "2011-06-30",
+    "shares_outstanding": 63630000.0,
+    "revenue": 532366000.0,
+    "net_income": 62086000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q2 2011",
+    "filing_date": "2011-04-07",
+    "shares_outstanding": 63325000.0,
+    "revenue": 483362000.0,
+    "net_income": 49689000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSM",
+    "period": "Q1 2011",
+    "filing_date": "2011-01-06",
+    "shares_outstanding": 62795000.0,
+    "revenue": 472827000.0,
+    "net_income": 47560000.0,
+    "market_cap": null
+  }
+]

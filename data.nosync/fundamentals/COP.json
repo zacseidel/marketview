@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "COP",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 1253446000.0,
+    "revenue": 58944000000.0,
+    "net_income": 7988000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 1253446000.0,
+    "revenue": 58944000000.0,
+    "net_income": 7988000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 1246854000.0,
+    "revenue": 15031000000.0,
+    "net_income": 1726000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 1258998000.0,
+    "revenue": 14004000000.0,
+    "net_income": 1971000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 1274879000.0,
+    "revenue": 16517000000.0,
+    "net_income": 2849000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2024",
+    "filing_date": "2025-02-18",
+    "shares_outstanding": 1180871000.0,
+    "revenue": 54745000000.0,
+    "net_income": 9245000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 1163227000.0,
+    "revenue": 13041000000.0,
+    "net_income": 2059000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 1170299000.0,
+    "revenue": 13620000000.0,
+    "net_income": 2329000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 1180320000.0,
+    "revenue": 13848000000.0,
+    "net_income": 2551000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 1205675000.0,
+    "revenue": 56141000000.0,
+    "net_income": 10957000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 1199746000.0,
+    "revenue": 14250000000.0,
+    "net_income": 2798000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 1210342000.0,
+    "revenue": 12351000000.0,
+    "net_income": 2232000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 1223355000.0,
+    "revenue": 14811000000.0,
+    "net_income": 2920000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 1278163000.0,
+    "revenue": 78494000000.0,
+    "net_income": 18680000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 1269321000.0,
+    "revenue": 21013000000.0,
+    "net_income": 4527000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 1295844000.0,
+    "revenue": 21161000000.0,
+    "net_income": 5145000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 1307404000.0,
+    "revenue": 17762000000.0,
+    "net_income": 5759000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 1328151.0,
+    "revenue": 48349000000.0,
+    "net_income": 8079000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 1336379000.0,
+    "revenue": 11616000000.0,
+    "net_income": 2379000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 1353201000.0,
+    "revenue": 10211000000.0,
+    "net_income": 2091000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 1302691.0,
+    "revenue": 10559000000.0,
+    "net_income": 982000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2020",
+    "filing_date": "2021-02-16",
+    "shares_outstanding": 1078030.0,
+    "revenue": 19256000000.0,
+    "net_income": -2655000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 1077377000.0,
+    "revenue": 4380000000.0,
+    "net_income": -450000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 1077606000.0,
+    "revenue": 4016000000.0,
+    "net_income": 278000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 1084561.0,
+    "revenue": 4811000000.0,
+    "net_income": -1711000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2019",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 1123536.0,
+    "revenue": 36670000000.0,
+    "net_income": 7257000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 1113250.0,
+    "revenue": 10093000000.0,
+    "net_income": 3071000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 1131242.0,
+    "revenue": 8380000000.0,
+    "net_income": 1597000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 1146515.0,
+    "revenue": 10057000000.0,
+    "net_income": 1846000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2018",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 1175538.0,
+    "revenue": 38727000000.0,
+    "net_income": 6305000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 1172694.0,
+    "revenue": 10165000000.0,
+    "net_income": 1873000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-31",
+    "shares_outstanding": -1955.0,
+    "revenue": 0.0,
+    "net_income": 1654000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-01",
+    "shares_outstanding": 1186454.0,
+    "revenue": 8961000000.0,
+    "net_income": 900000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2017",
+    "filing_date": "2018-02-20",
+    "shares_outstanding": 1221038.0,
+    "revenue": 32584000000.0,
+    "net_income": -793000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 1215341000.0,
+    "revenue": 7195000000.0,
+    "net_income": 436000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 1236831000.0,
+    "revenue": 8882000000.0,
+    "net_income": -3426000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 1248722.0,
+    "revenue": 7771000000.0,
+    "net_income": 599000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 1245440.0,
+    "revenue": 24360000000.0,
+    "net_income": -3559000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 1245961.0,
+    "revenue": 6516000000.0,
+    "net_income": -1026000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-02",
+    "shares_outstanding": 1244892.0,
+    "revenue": 5575000000.0,
+    "net_income": -1058000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-03",
+    "shares_outstanding": 1244557.0,
+    "revenue": 5015000000.0,
+    "net_income": -1456000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2015",
+    "filing_date": "2016-02-23",
+    "shares_outstanding": 1241919.0,
+    "revenue": 30935000000.0,
+    "net_income": -4371000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 1242125.0,
+    "revenue": 7507000000.0,
+    "net_income": -1056000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 1241026.0,
+    "revenue": 8660000000.0,
+    "net_income": -164000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 1245531.0,
+    "revenue": 8002000000.0,
+    "net_income": 286000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 1245863.0,
+    "revenue": 55517000000.0,
+    "net_income": 6938000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 1247436.0,
+    "revenue": 12917000000.0,
+    "net_income": 2727000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 1245155.0,
+    "revenue": 14701000000.0,
+    "net_income": 2098000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-06",
+    "shares_outstanding": 1242667.0,
+    "revenue": 16048000000.0,
+    "net_income": 2137000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 1239803.0,
+    "revenue": 58248000000.0,
+    "net_income": 9215000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 1240365.0,
+    "revenue": 15470000000.0,
+    "net_income": 2496000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 1237157.0,
+    "revenue": 14142000000.0,
+    "net_income": 2063000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-30",
+    "shares_outstanding": 1235907.0,
+    "revenue": 14651000000.0,
+    "net_income": 2153000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2012",
+    "filing_date": "2013-02-19",
+    "shares_outstanding": 1253093.0,
+    "revenue": 62004000000.0,
+    "net_income": 8498000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-30",
+    "shares_outstanding": 1229343.0,
+    "revenue": 15089000000.0,
+    "net_income": 1813000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-31",
+    "shares_outstanding": 1258189000.0,
+    "revenue": 15166000000.0,
+    "net_income": 2289000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-30",
+    "shares_outstanding": 1293104000.0,
+    "revenue": 56132000000.0,
+    "net_income": 2955000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2011",
+    "filing_date": "2012-02-21",
+    "shares_outstanding": 1387100000.0,
+    "revenue": 244813000000.0,
+    "net_income": 12502000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-01",
+    "shares_outstanding": 1369562000.0,
+    "revenue": 62784000000.0,
+    "net_income": 2631000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-02",
+    "shares_outstanding": 1412147000.0,
+    "revenue": 65627000000.0,
+    "net_income": 3419000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": 1445477000.0,
+    "revenue": 56530000000.0,
+    "net_income": 3042000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2010",
+    "filing_date": "2011-02-23",
+    "shares_outstanding": 1491067000.0,
+    "revenue": 189441000000.0,
+    "net_income": 11417000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-02",
+    "shares_outstanding": 1493080000.0,
+    "revenue": 47208000000.0,
+    "net_income": 3069000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 1501257000.0,
+    "revenue": 45686000000.0,
+    "net_income": 4183000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-04",
+    "shares_outstanding": 1503565000.0,
+    "revenue": 44821000000.0,
+    "net_income": 2112000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "FY 2009",
+    "filing_date": "2010-02-25",
+    "shares_outstanding": 1497608000.0,
+    "revenue": 149341000000.0,
+    "net_income": 4936000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COP",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-04",
+    "shares_outstanding": 1495700.0,
+    "revenue": 36630000000.0,
+    "net_income": 1298000000.0,
+    "market_cap": null
+  }
+]

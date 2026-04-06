@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "OSK",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 64554093.0,
+    "revenue": 10422300000.0,
+    "net_income": 647000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 64554093.0,
+    "revenue": 10422300000.0,
+    "net_income": 647000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 64774840.0,
+    "revenue": 2732100000.0,
+    "net_income": 204800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 65072359.0,
+    "revenue": 2312800000.0,
+    "net_income": 112200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 65829464.0,
+    "revenue": 10730200000.0,
+    "net_income": 681400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 65663198.0,
+    "revenue": 2741400000.0,
+    "net_income": 180300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 65889777.0,
+    "revenue": 2846900000.0,
+    "net_income": 168600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 66127651.0,
+    "revenue": 2543800000.0,
+    "net_income": 179400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 65863963.0,
+    "revenue": 9657900000.0,
+    "net_income": 598000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 65945320.0,
+    "revenue": 2509900000.0,
+    "net_income": 183700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 65662522.0,
+    "revenue": 2413100000.0,
+    "net_income": 175000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 65830985.0,
+    "revenue": 2268100000.0,
+    "net_income": 88500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2022",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 66134818.0,
+    "revenue": 8282000000.0,
+    "net_income": 173900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 65771820.0,
+    "revenue": 2066700000.0,
+    "net_income": 66900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 66008860.0,
+    "revenue": 2066000000.0,
+    "net_income": 32100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 66394041.0,
+    "revenue": 1945700000.0,
+    "net_income": -200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2021",
+    "filing_date": "2021-11-16",
+    "shares_outstanding": 69208751.0,
+    "revenue": 7737300000.0,
+    "net_income": 472700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 69611645.0,
+    "revenue": 2208800000.0,
+    "net_income": 213900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 69288621.0,
+    "revenue": 1889000000.0,
+    "net_income": 99600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2021",
+    "filing_date": "2021-01-27",
+    "shares_outstanding": 68808563.0,
+    "revenue": 1576500000.0,
+    "net_income": 69500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2020",
+    "filing_date": "2020-11-18",
+    "shares_outstanding": 68787729.0,
+    "revenue": 6856800000.0,
+    "net_income": 324500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 68579938.0,
+    "revenue": 1580800000.0,
+    "net_income": 80200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 68872024.0,
+    "revenue": 1796700000.0,
+    "net_income": 68600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2020",
+    "filing_date": "2020-01-29",
+    "shares_outstanding": 68941527.0,
+    "revenue": 1695100000.0,
+    "net_income": 75700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2019",
+    "filing_date": "2019-11-19",
+    "shares_outstanding": 70558235.0,
+    "revenue": 8382000000.0,
+    "net_income": 579400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 70379291.0,
+    "revenue": 2392700000.0,
+    "net_income": 191900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 70756794.0,
+    "revenue": 1990200000.0,
+    "net_income": 128500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2019",
+    "filing_date": "2019-01-31",
+    "shares_outstanding": 72101826.0,
+    "revenue": 1803400000.0,
+    "net_income": 109000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2018",
+    "filing_date": "2018-11-20",
+    "shares_outstanding": 74981999.0,
+    "revenue": 7705500000.0,
+    "net_income": 471900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2018",
+    "filing_date": "2018-07-31",
+    "shares_outstanding": 74660518.0,
+    "revenue": 2175800000.0,
+    "net_income": 153400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 75497549.0,
+    "revenue": 1886400000.0,
+    "net_income": 110800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2018",
+    "filing_date": "2018-01-25",
+    "shares_outstanding": 76024465.0,
+    "revenue": 1586300000.0,
+    "net_income": 56400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2017",
+    "filing_date": "2017-11-21",
+    "shares_outstanding": 75790045.0,
+    "revenue": 6829600000.0,
+    "net_income": 285600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 75892825.0,
+    "revenue": 2036900000.0,
+    "net_income": 128600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2017",
+    "filing_date": "2017-04-26",
+    "shares_outstanding": 75783462.0,
+    "revenue": 1618300000.0,
+    "net_income": 44300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2017",
+    "filing_date": "2017-01-26",
+    "shares_outstanding": 75384917.0,
+    "revenue": 1211400000.0,
+    "net_income": 19200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2016",
+    "filing_date": "2016-11-22",
+    "shares_outstanding": 74432918.0,
+    "revenue": 6279200000.0,
+    "net_income": 216400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 74266962.0,
+    "revenue": 1747500000.0,
+    "net_income": 84200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 73861340.0,
+    "revenue": 1524300000.0,
+    "net_income": 56100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2016",
+    "filing_date": "2016-01-28",
+    "shares_outstanding": 74853216.0,
+    "revenue": 1252000000.0,
+    "net_income": 14600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2015",
+    "filing_date": "2015-11-13",
+    "shares_outstanding": 78981418.0,
+    "revenue": 6098100000.0,
+    "net_income": 229500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 79184077.0,
+    "revenue": 1612300000.0,
+    "net_income": 89900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2015",
+    "filing_date": "2015-04-28",
+    "shares_outstanding": 78994740.0,
+    "revenue": 1554200000.0,
+    "net_income": 54600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2015",
+    "filing_date": "2015-01-27",
+    "shares_outstanding": 79845196.0,
+    "revenue": 1353300000.0,
+    "net_income": 34700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2014",
+    "filing_date": "2014-11-13",
+    "shares_outstanding": 85457635.0,
+    "revenue": 6808200000.0,
+    "net_income": 309300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2014",
+    "filing_date": "2014-07-29",
+    "shares_outstanding": 85909065.0,
+    "revenue": 1932400000.0,
+    "net_income": 105100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 85507064.0,
+    "revenue": 1677900000.0,
+    "net_income": 71500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2014",
+    "filing_date": "2014-01-28",
+    "shares_outstanding": 86726540.0,
+    "revenue": 1530200000.0,
+    "net_income": 54900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2013",
+    "filing_date": "2013-11-13",
+    "shares_outstanding": 88953548.0,
+    "revenue": 7665100000.0,
+    "net_income": 318000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2013",
+    "filing_date": "2013-07-30",
+    "shares_outstanding": 88246326.0,
+    "revenue": 2204400000.0,
+    "net_income": 148700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2013",
+    "filing_date": "2013-04-30",
+    "shares_outstanding": 88566349.0,
+    "revenue": 1984400000.0,
+    "net_income": 86500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2013",
+    "filing_date": "2013-01-25",
+    "shares_outstanding": 91181797.0,
+    "revenue": 1749800000.0,
+    "net_income": 46500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2012",
+    "filing_date": "2012-11-19",
+    "shares_outstanding": 91893143.0,
+    "revenue": 8180900000.0,
+    "net_income": 231900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2012",
+    "filing_date": "2012-07-26",
+    "shares_outstanding": 91925095.0,
+    "revenue": 2171200000.0,
+    "net_income": 75700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2012",
+    "filing_date": "2012-04-26",
+    "shares_outstanding": 91943562.0,
+    "revenue": 2072200000.0,
+    "net_income": 38000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q1 2012",
+    "filing_date": "2012-01-31",
+    "shares_outstanding": 91771625.0,
+    "revenue": 1875700000.0,
+    "net_income": 39300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "FY 2011",
+    "filing_date": "2011-11-16",
+    "shares_outstanding": 91573360.0,
+    "revenue": 7584700000.0,
+    "net_income": 273400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 91689608.0,
+    "revenue": 2022900000.0,
+    "net_income": 68400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q2 2011",
+    "filing_date": "2011-04-28",
+    "shares_outstanding": 1542200000.0,
+    "revenue": 1745600000.0,
+    "net_income": 67900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OSK",
+    "period": "Q3 2010",
+    "filing_date": "2010-08-02",
+    "shares_outstanding": 1159100000.0,
+    "revenue": 2439000000.0,
+    "net_income": 211200000.0,
+    "market_cap": null
+  }
+]

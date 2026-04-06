@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "WEX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 35900000.0,
+    "revenue": 2660800000.0,
+    "net_income": 304100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 35900000.0,
+    "revenue": 2660800000.0,
+    "net_income": 304100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 34800000.0,
+    "revenue": 691800000.0,
+    "net_income": 80300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 34400000.0,
+    "revenue": 659600000.0,
+    "net_income": 68100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 39400000.0,
+    "revenue": 636600000.0,
+    "net_income": 71500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 41300000.0,
+    "revenue": 2628100000.0,
+    "net_income": 309600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 40800000.0,
+    "revenue": 665500000.0,
+    "net_income": 102900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 42000000.0,
+    "revenue": 673500000.0,
+    "net_income": 77000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 42400000.0,
+    "revenue": 652700000.0,
+    "net_income": 65800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 43300000.0,
+    "revenue": 2548000000.0,
+    "net_income": 266600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 43400000.0,
+    "revenue": 651400000.0,
+    "net_income": 18400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 43400000.0,
+    "revenue": 621300000.0,
+    "net_income": 95300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 43600000.0,
+    "revenue": 612000000.0,
+    "net_income": 68000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 44724000.0,
+    "revenue": 2350511000.0,
+    "net_income": 167461000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 44229000.0,
+    "revenue": 616129000.0,
+    "net_income": -44145000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 45077000.0,
+    "revenue": 598237000.0,
+    "net_income": 34129000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 45344000.0,
+    "revenue": 517535000.0,
+    "net_income": 88786000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 45312000.0,
+    "revenue": 1850542000.0,
+    "net_income": 136139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-09",
+    "shares_outstanding": 45279000.0,
+    "revenue": 482764000.0,
+    "net_income": 51868000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 44788000.0,
+    "revenue": 459483000.0,
+    "net_income": 10206000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 44343000.0,
+    "revenue": 410757000.0,
+    "net_income": 23205000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 43842000.0,
+    "revenue": 1559869000.0,
+    "net_income": -280484000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-09",
+    "shares_outstanding": 44166000.0,
+    "revenue": 382116000.0,
+    "net_income": -57717000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 43779000.0,
+    "revenue": 347084000.0,
+    "net_income": 13393000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 43416000.0,
+    "revenue": 431679000.0,
+    "net_income": -12269000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 43769000.0,
+    "revenue": 1723691000.0,
+    "net_income": 155293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 43811000.0,
+    "revenue": 459963000.0,
+    "net_income": 42447000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-09",
+    "shares_outstanding": 43761000.0,
+    "revenue": 441807000.0,
+    "net_income": 31851000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-10",
+    "shares_outstanding": 43572000.0,
+    "revenue": 381876000.0,
+    "net_income": 16208000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2018",
+    "filing_date": "2019-03-18",
+    "shares_outstanding": 43574000.0,
+    "revenue": 1492639000.0,
+    "net_income": 169776000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 43615000.0,
+    "revenue": 386617000.0,
+    "net_income": 57282000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 43546000.0,
+    "revenue": 370798000.0,
+    "net_income": 39440000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 43450000.0,
+    "revenue": 354028000.0,
+    "net_income": 49334000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 43105000.0,
+    "revenue": 1250548000.0,
+    "net_income": 159170000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 43101000.0,
+    "revenue": 324002000.0,
+    "net_income": 33860000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 43060000.0,
+    "revenue": 303884000.0,
+    "net_income": 16640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 43119000.0,
+    "revenue": 291357000.0,
+    "net_income": 29076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2016",
+    "filing_date": "2017-03-06",
+    "shares_outstanding": 40914000.0,
+    "revenue": 1018460000.0,
+    "net_income": 57476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 42871000.0,
+    "revenue": 287756000.0,
+    "net_income": 19203000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 38857000.0,
+    "revenue": 233936000.0,
+    "net_income": 11912000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 38850000.0,
+    "revenue": 205928000.0,
+    "net_income": 23221000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 38843000.0,
+    "revenue": 854637000.0,
+    "net_income": 109612000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 38808000.0,
+    "revenue": 226057000.0,
+    "net_income": 41782000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 38799000.0,
+    "revenue": 213653000.0,
+    "net_income": 26400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 38952000.0,
+    "revenue": 202285000.0,
+    "net_income": 20033000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 39000000.0,
+    "revenue": 817647000.0,
+    "net_income": 200018000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 38961000.0,
+    "revenue": 222134000.0,
+    "net_income": 73850000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 38946000.0,
+    "revenue": 201581000.0,
+    "net_income": 42849000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 39145000.0,
+    "revenue": 182068000.0,
+    "net_income": 36080000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 39103000.0,
+    "revenue": 717463000.0,
+    "net_income": 148298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 39081000.0,
+    "revenue": 191525000.0,
+    "net_income": 43778000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 39039000.0,
+    "revenue": 178285000.0,
+    "net_income": 42052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2012",
+    "filing_date": "2013-03-22",
+    "shares_outstanding": 3937000.0,
+    "revenue": 3713000.0,
+    "net_income": 21000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-09",
+    "shares_outstanding": 3629000.0,
+    "revenue": 1141000.0,
+    "net_income": -114000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-14",
+    "shares_outstanding": 3708000.0,
+    "revenue": 819000.0,
+    "net_income": -52000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-11",
+    "shares_outstanding": 3760000.0,
+    "revenue": 807000.0,
+    "net_income": -115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "FY 2011",
+    "filing_date": "2012-03-29",
+    "shares_outstanding": 3875000.0,
+    "revenue": 3444000.0,
+    "net_income": -740000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-14",
+    "shares_outstanding": 3969000.0,
+    "revenue": 769000.0,
+    "net_income": -300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WEX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-15",
+    "shares_outstanding": 4268000.0,
+    "revenue": 984000.0,
+    "net_income": -140000.0,
+    "market_cap": null
+  }
+]

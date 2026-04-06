@@ -1,0 +1,470 @@
+[
+  {
+    "ticker": "EXPO",
+    "period": "TTM 2026",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 51244000.0,
+    "revenue": 582014000.0,
+    "net_income": 106009000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2026",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 51244000.0,
+    "revenue": 582014000.0,
+    "net_income": 106009000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2026",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 51179000.0,
+    "revenue": 147120000.0,
+    "net_income": 28044000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2026",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 51502000.0,
+    "revenue": 141962000.0,
+    "net_income": 26553000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q1 2026",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 51650000.0,
+    "revenue": 145507000.0,
+    "net_income": 26650000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 51569000.0,
+    "revenue": 558514000.0,
+    "net_income": 109002000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 51622000.0,
+    "revenue": 136279000.0,
+    "net_income": 26044000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 51517000.0,
+    "revenue": 140536000.0,
+    "net_income": 29227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 51419000.0,
+    "revenue": 144933000.0,
+    "net_income": 30142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 51635000.0,
+    "revenue": 536766000.0,
+    "net_income": 100339000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 51645000.0,
+    "revenue": 133336000.0,
+    "net_income": 24538000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-07",
+    "shares_outstanding": 51692000.0,
+    "revenue": 140221000.0,
+    "net_income": 25748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 51682000.0,
+    "revenue": 140309000.0,
+    "net_income": 29124000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 52280000.0,
+    "revenue": 513293000.0,
+    "net_income": 102330000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 52008000.0,
+    "revenue": 127179000.0,
+    "net_income": 24442000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 52394000.0,
+    "revenue": 130281000.0,
+    "net_income": 25755000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 53039000.0,
+    "revenue": 128478000.0,
+    "net_income": 29609000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 53331000.0,
+    "revenue": 466269000.0,
+    "net_income": 101202000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 53312000.0,
+    "revenue": 116405000.0,
+    "net_income": 24574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 53285000.0,
+    "revenue": 119877000.0,
+    "net_income": 25400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 53333000.0,
+    "revenue": 116481000.0,
+    "net_income": 30848000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 53884000.0,
+    "revenue": 417199000.0,
+    "net_income": 82460000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2020",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 54002000.0,
+    "revenue": 101548000.0,
+    "net_income": 19633000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2020",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 53872000.0,
+    "revenue": 106506000.0,
+    "net_income": 20994000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q4 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 53814000.0,
+    "revenue": 99031000.0,
+    "net_income": 22712000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 54168000.0,
+    "revenue": 379523000.0,
+    "net_income": 72254000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 54302000.0,
+    "revenue": 95302000.0,
+    "net_income": 17453000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 54195000.0,
+    "revenue": 95621000.0,
+    "net_income": 18425000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 54012000.0,
+    "revenue": 96457000.0,
+    "net_income": 20340000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 26986000.0,
+    "revenue": 347799000.0,
+    "net_income": 41305000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 26963000.0,
+    "revenue": 87555000.0,
+    "net_income": 14643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 26968000.0,
+    "revenue": 87840000.0,
+    "net_income": 13791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 26981000.0,
+    "revenue": 84122000.0,
+    "net_income": 16576000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 27166000.0,
+    "revenue": 315076000.0,
+    "net_income": 47480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 27185000.0,
+    "revenue": 77612000.0,
+    "net_income": 11289000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 27264000.0,
+    "revenue": 77295000.0,
+    "net_income": 10453000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 27239000.0,
+    "revenue": 83156000.0,
+    "net_income": 15350000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2015",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 13833000.0,
+    "revenue": 304704000.0,
+    "net_income": 40701000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2015",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 13824000.0,
+    "revenue": 78557000.0,
+    "net_income": 11040000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2015",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 13873000.0,
+    "revenue": 76574000.0,
+    "net_income": 11264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q1 2015",
+    "filing_date": "2014-05-09",
+    "shares_outstanding": 13940000.0,
+    "revenue": 75962000.0,
+    "net_income": 9154000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2014",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 235059000.0,
+    "revenue": null,
+    "net_income": null,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2014",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 13993000.0,
+    "revenue": 75231000.0,
+    "net_income": 11094000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2014",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 14007000.0,
+    "revenue": 75505000.0,
+    "net_income": 10848000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q4 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 14125000.0,
+    "revenue": 72660000.0,
+    "net_income": 7976000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 14293000.0,
+    "revenue": 292653000.0,
+    "net_income": 37225000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-05",
+    "shares_outstanding": 14196000.0,
+    "revenue": 73298000.0,
+    "net_income": 10225000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 14316000.0,
+    "revenue": 74484000.0,
+    "net_income": 10327000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 14419000.0,
+    "revenue": 71925000.0,
+    "net_income": 8201000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 14751000.0,
+    "revenue": 272446000.0,
+    "net_income": 32695000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 14554000.0,
+    "revenue": 65951000.0,
+    "net_income": 8744000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXPO",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 14971000.0,
+    "revenue": 65106000.0,
+    "net_income": 8217000.0,
+    "market_cap": null
+  }
+]

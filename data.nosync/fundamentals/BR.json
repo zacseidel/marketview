@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "BR",
+    "period": "Q2 2026",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 117700000.0,
+    "revenue": 1713900000.0,
+    "net_income": 284600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2026",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 118000000.0,
+    "revenue": 1589400000.0,
+    "net_income": 165400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 118300000.0,
+    "revenue": 6889100000.0,
+    "net_income": 839500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 118500000.0,
+    "revenue": 1811700000.0,
+    "net_income": 243100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2025",
+    "filing_date": "2025-01-31",
+    "shares_outstanding": 118300000.0,
+    "revenue": 1589200000.0,
+    "net_income": 142400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2025",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 118100000.0,
+    "revenue": 1422900000.0,
+    "net_income": 79800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 119100000.0,
+    "revenue": 6506800000.0,
+    "net_income": 698100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 119400000.0,
+    "revenue": 1726500000.0,
+    "net_income": 213700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2024",
+    "filing_date": "2024-02-01",
+    "shares_outstanding": 119100000.0,
+    "revenue": 1405000000.0,
+    "net_income": 70300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2024",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 119200000.0,
+    "revenue": 1431100000.0,
+    "net_income": 90900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 119000000.0,
+    "revenue": 6060900000.0,
+    "net_income": 630600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 119100000.0,
+    "revenue": 1645700000.0,
+    "net_income": 198500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2023",
+    "filing_date": "2023-02-02",
+    "shares_outstanding": 118900000.0,
+    "revenue": 1292900000.0,
+    "net_income": 57500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2023",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 118900000.0,
+    "revenue": 1283300000.0,
+    "net_income": 50400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2022",
+    "filing_date": "2022-08-12",
+    "shares_outstanding": 118500000.0,
+    "revenue": 5709100000.0,
+    "net_income": 539100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 118600000.0,
+    "revenue": 1533700000.0,
+    "net_income": 176600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2022",
+    "filing_date": "2022-02-01",
+    "shares_outstanding": 118700000.0,
+    "revenue": 1259600000.0,
+    "net_income": 47200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2022",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 118300000.0,
+    "revenue": 1192900000.0,
+    "net_income": 67200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2021",
+    "filing_date": "2021-08-12",
+    "shares_outstanding": 117800000.0,
+    "revenue": 4993700000.0,
+    "net_income": 547500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 118000000.0,
+    "revenue": 1389800000.0,
+    "net_income": 165000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2021",
+    "filing_date": "2021-02-02",
+    "shares_outstanding": 117800000.0,
+    "revenue": 1054900000.0,
+    "net_income": 56300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2021",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 117400000.0,
+    "revenue": 1017400000.0,
+    "net_income": 65800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2020",
+    "filing_date": "2020-08-11",
+    "shares_outstanding": 117000000.0,
+    "revenue": 4529000000.0,
+    "net_income": 462500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 117000000.0,
+    "revenue": 1249900000.0,
+    "net_income": 166800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2020",
+    "filing_date": "2020-01-31",
+    "shares_outstanding": 117200000.0,
+    "revenue": 968700000.0,
+    "net_income": 10100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2020",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 117100000.0,
+    "revenue": 948600000.0,
+    "net_income": 55900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 118800000.0,
+    "revenue": 4362200000.0,
+    "net_income": 482100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 118500000.0,
+    "revenue": 1224800000.0,
+    "net_income": 172200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2019",
+    "filing_date": "2019-02-07",
+    "shares_outstanding": 119100000.0,
+    "revenue": 953400000.0,
+    "net_income": 49900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2019",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 119700000.0,
+    "revenue": 972800000.0,
+    "net_income": 76700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 120400000.0,
+    "revenue": 4329900000.0,
+    "net_income": 427900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 120900000.0,
+    "revenue": 1071900000.0,
+    "net_income": 109100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2018",
+    "filing_date": "2018-02-08",
+    "shares_outstanding": 120300000.0,
+    "revenue": 1012800000.0,
+    "net_income": 62100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2018",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 119800000.0,
+    "revenue": 924800000.0,
+    "net_income": 49900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2017",
+    "filing_date": "2017-08-10",
+    "shares_outstanding": 120800000.0,
+    "revenue": 4142600000.0,
+    "net_income": 326800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 120700000.0,
+    "revenue": 1008900000.0,
+    "net_income": 75900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2017",
+    "filing_date": "2017-02-08",
+    "shares_outstanding": 121500000.0,
+    "revenue": 892600000.0,
+    "net_income": 30100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2017",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 121600000.0,
+    "revenue": 895300000.0,
+    "net_income": 33700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 121600000.0,
+    "revenue": 2897000000.0,
+    "net_income": 307500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 121700000.0,
+    "revenue": 688800000.0,
+    "net_income": 63700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2016",
+    "filing_date": "2016-02-04",
+    "shares_outstanding": 122000000.0,
+    "revenue": 638900000.0,
+    "net_income": 40200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2016",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 121700000.0,
+    "revenue": 594700000.0,
+    "net_income": 33500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 124000000.0,
+    "revenue": 2694200000.0,
+    "net_income": 287100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 125000000.0,
+    "revenue": 634200000.0,
+    "net_income": 54000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2015",
+    "filing_date": "2015-02-05",
+    "shares_outstanding": 124400000.0,
+    "revenue": 574600000.0,
+    "net_income": 34700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2015",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 123900000.0,
+    "revenue": 555800000.0,
+    "net_income": 32500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 124100000.0,
+    "revenue": 2558000000.0,
+    "net_income": 263000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2014",
+    "filing_date": "2014-05-09",
+    "shares_outstanding": 124800000.0,
+    "revenue": 606300000.0,
+    "net_income": 50800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2014",
+    "filing_date": "2014-02-06",
+    "shares_outstanding": 124100000.0,
+    "revenue": 520600000.0,
+    "net_income": 27600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2014",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 123100000.0,
+    "revenue": 545200000.0,
+    "net_income": 44400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 125400000.0,
+    "revenue": 2430800000.0,
+    "net_income": 212100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 125000000.0,
+    "revenue": 576700000.0,
+    "net_income": 43400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2013",
+    "filing_date": "2013-02-07",
+    "shares_outstanding": 125500000.0,
+    "revenue": 493200000.0,
+    "net_income": 15800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q4 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 127100000.0,
+    "revenue": 495800000.0,
+    "net_income": 18300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 127500000.0,
+    "revenue": 2303500000.0,
+    "net_income": 123600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 128400000.0,
+    "revenue": 547000000.0,
+    "net_income": 16700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q2 2012",
+    "filing_date": "2012-02-07",
+    "shares_outstanding": 127200000.0,
+    "revenue": 479800000.0,
+    "net_income": 6800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q1 2012",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 126700000.0,
+    "revenue": 476400000.0,
+    "net_income": 16700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "FY 2011",
+    "filing_date": "2011-08-12",
+    "shares_outstanding": 128300000.0,
+    "revenue": 2166900000.0,
+    "net_income": 169600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BR",
+    "period": "Q3 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 128200000.0,
+    "revenue": 527100000.0,
+    "net_income": 29700000.0,
+    "market_cap": null
+  }
+]

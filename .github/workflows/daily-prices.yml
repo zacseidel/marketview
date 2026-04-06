@@ -2,7 +2,7 @@ name: Daily Prices
 
 on:
   schedule:
-    - cron: "30 22 * * 1-5"  # Weekdays 6:30 PM ET (UTC-4)
+    - cron: "0 17 * * 1-5"  # Weekdays 11:00 AM MT (UTC-6)
   workflow_dispatch:
 
 permissions:

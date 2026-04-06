@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "STE",
+    "period": "Q3 2026",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 98600000.0,
+    "revenue": 1496200000.0,
+    "net_income": 194300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2026",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 98800000.0,
+    "revenue": 1460300000.0,
+    "net_income": 192500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2026",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 98800000.0,
+    "revenue": 1391100000.0,
+    "net_income": 178000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2025",
+    "filing_date": "2025-05-29",
+    "shares_outstanding": 99069000.0,
+    "revenue": 5459515000.0,
+    "net_income": 616074000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2025",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 98942000.0,
+    "revenue": 1370570000.0,
+    "net_income": 173285000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2025",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 99204000.0,
+    "revenue": 1328912000.0,
+    "net_income": 151173000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2025",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 99376000.0,
+    "revenue": 1279502000.0,
+    "net_income": 145541000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2024",
+    "filing_date": "2024-05-29",
+    "shares_outstanding": 99359000.0,
+    "revenue": 5138701000.0,
+    "net_income": 380079000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2024",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 99354000.0,
+    "revenue": 1297724000.0,
+    "net_income": 140945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2024",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 99406000.0,
+    "revenue": 1238204000.0,
+    "net_income": 116346000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2024",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 99239000.0,
+    "revenue": 1183386000.0,
+    "net_income": 123790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2023",
+    "filing_date": "2023-05-26",
+    "shares_outstanding": 100246000.0,
+    "revenue": 4957839000.0,
+    "net_income": 105813000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2023",
+    "filing_date": "2023-02-08",
+    "shares_outstanding": 100166000.0,
+    "revenue": 1215994000.0,
+    "net_income": 123325000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2023",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 99969000.0,
+    "revenue": 1200517000.0,
+    "net_income": -315231000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2023",
+    "filing_date": "2022-08-08",
+    "shares_outstanding": 100722000.0,
+    "revenue": 1156491000.0,
+    "net_income": 110755000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2022",
+    "filing_date": "2022-05-31",
+    "shares_outstanding": 98326000.0,
+    "revenue": 4585064000.0,
+    "net_income": 242870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2022",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 100826000.0,
+    "revenue": 1208971000.0,
+    "net_income": 143094000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2022",
+    "filing_date": "2021-11-08",
+    "shares_outstanding": 100689000.0,
+    "revenue": 1196985000.0,
+    "net_income": 69625000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2022",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": 90992000.0,
+    "revenue": 968422000.0,
+    "net_income": -21902000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2021",
+    "filing_date": "2021-05-28",
+    "shares_outstanding": 85898000.0,
+    "revenue": 3107519000.0,
+    "net_income": 396870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2021",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 86032000.0,
+    "revenue": 808924000.0,
+    "net_income": 114588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2021",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 85844000.0,
+    "revenue": 756132000.0,
+    "net_income": 106008000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2021",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 85676000.0,
+    "revenue": 668932000.0,
+    "net_income": 88124000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2020",
+    "filing_date": "2020-05-29",
+    "shares_outstanding": 85641000.0,
+    "revenue": 3030895000.0,
+    "net_income": 407805000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2020",
+    "filing_date": "2020-02-10",
+    "shares_outstanding": 85628000.0,
+    "revenue": 774261000.0,
+    "net_income": 104667000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2020",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 85695000.0,
+    "revenue": 736840000.0,
+    "net_income": 95142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2020",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 85566000.0,
+    "revenue": 696803000.0,
+    "net_income": 84777000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2019",
+    "filing_date": "2019-05-30",
+    "shares_outstanding": 85468000.0,
+    "revenue": 2782170000.0,
+    "net_income": 305076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2019",
+    "filing_date": "2019-02-11",
+    "shares_outstanding": 85441000.0,
+    "revenue": 696238000.0,
+    "net_income": 48426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2019",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 85477000.0,
+    "revenue": 678961000.0,
+    "net_income": 77495000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2019",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 85509000.0,
+    "revenue": 638758000.0,
+    "net_income": 70278000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2018",
+    "filing_date": "2018-05-30",
+    "shares_outstanding": 85713000.0,
+    "revenue": 2619996000.0,
+    "net_income": 291622000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2018",
+    "filing_date": "2018-02-08",
+    "shares_outstanding": 85719000.0,
+    "revenue": 661900000.0,
+    "net_income": 95340000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2018",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 85869000.0,
+    "revenue": 634159000.0,
+    "net_income": 64444000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2018",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 85720000.0,
+    "revenue": 607964000.0,
+    "net_income": 58215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2017",
+    "filing_date": "2017-05-26",
+    "shares_outstanding": 86094000.0,
+    "revenue": 2612756000.0,
+    "net_income": 110631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2017",
+    "filing_date": "2017-02-08",
+    "shares_outstanding": 85525000.0,
+    "revenue": 646774000.0,
+    "net_income": -4347000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2017",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 86333000.0,
+    "revenue": 646415000.0,
+    "net_income": 40202000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2017",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 86519000.0,
+    "revenue": 638378000.0,
+    "net_income": 48710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2016",
+    "filing_date": "2016-05-31",
+    "shares_outstanding": 71184000.0,
+    "revenue": 2238764000.0,
+    "net_income": 111585000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2016",
+    "filing_date": "2016-02-09",
+    "shares_outstanding": 77712000.0,
+    "revenue": 618688000.0,
+    "net_income": 21154000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2016",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 60370000.0,
+    "revenue": 489897000.0,
+    "net_income": 8687000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2016",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 60286000.0,
+    "revenue": 439902000.0,
+    "net_income": 24291000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2015",
+    "filing_date": "2015-05-27",
+    "shares_outstanding": 60045000.0,
+    "revenue": 1850263000.0,
+    "net_income": 135064000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2015",
+    "filing_date": "2015-02-09",
+    "shares_outstanding": 60146000.0,
+    "revenue": 473244000.0,
+    "net_income": 38124000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2015",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 60020000.0,
+    "revenue": 462729000.0,
+    "net_income": 31004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2015",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 59814000.0,
+    "revenue": 412643000.0,
+    "net_income": 24537000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2014",
+    "filing_date": "2014-05-29",
+    "shares_outstanding": 59745000.0,
+    "revenue": 1622252000.0,
+    "net_income": 129442000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2014",
+    "filing_date": "2014-02-07",
+    "shares_outstanding": 59685000.0,
+    "revenue": 405551000.0,
+    "net_income": 28506000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2014",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 59762000.0,
+    "revenue": 383762000.0,
+    "net_income": 29743000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2014",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 59790000.0,
+    "revenue": 367652000.0,
+    "net_income": 32317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2013",
+    "filing_date": "2013-05-30",
+    "shares_outstanding": 58844000.0,
+    "revenue": 1501902000.0,
+    "net_income": 159977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2013",
+    "filing_date": "2013-02-08",
+    "shares_outstanding": 58972000.0,
+    "revenue": 380405000.0,
+    "net_income": 48097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2013",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 58792000.0,
+    "revenue": 356321000.0,
+    "net_income": 40145000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2013",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 58312000.0,
+    "revenue": 336960000.0,
+    "net_income": 30354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q3 2012",
+    "filing_date": "2012-02-08",
+    "shares_outstanding": 58237000.0,
+    "revenue": 355215000.0,
+    "net_income": 33649000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q2 2012",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 59380000.0,
+    "revenue": 342707000.0,
+    "net_income": 29564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2012",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 60103000.0,
+    "revenue": 318639000.0,
+    "net_income": 28731000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "FY 2011",
+    "filing_date": "2011-05-27",
+    "shares_outstanding": 788665000.0,
+    "revenue": 1207448000.0,
+    "net_income": 51265000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "STE",
+    "period": "Q1 2011",
+    "filing_date": "2010-08-09",
+    "shares_outstanding": 695890000.0,
+    "revenue": 188980000.0,
+    "net_income": -45210000.0,
+    "market_cap": null
+  }
+]

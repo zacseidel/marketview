@@ -1,0 +1,425 @@
+[
+  {
+    "ticker": "SYF",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 373900000.0,
+    "revenue": 18466000000.0,
+    "net_income": 3552000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 373900000.0,
+    "revenue": 18466000000.0,
+    "net_income": 3552000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-22",
+    "shares_outstanding": 369900000.0,
+    "revenue": 4720000000.0,
+    "net_income": 1077000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-23",
+    "shares_outstanding": 379100000.0,
+    "revenue": 4521000000.0,
+    "net_income": 967000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 389400000.0,
+    "revenue": 4464000000.0,
+    "net_income": 757000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2024",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 400600000.0,
+    "revenue": 18011000000.0,
+    "net_income": 3499000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 396500000.0,
+    "revenue": 4609000000.0,
+    "net_income": 789000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-19",
+    "shares_outstanding": 402600000.0,
+    "revenue": 4405000000.0,
+    "net_income": 643000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 408200000.0,
+    "revenue": 4405000000.0,
+    "net_income": 1293000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2023",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 423500000.0,
+    "revenue": 16999000000.0,
+    "net_income": 2238000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-24",
+    "shares_outstanding": 418400000.0,
+    "revenue": 4362000000.0,
+    "net_income": 628000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-21",
+    "shares_outstanding": 424200000.0,
+    "revenue": 4120000000.0,
+    "net_income": 569000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-20",
+    "shares_outstanding": 437200000.0,
+    "revenue": 4051000000.0,
+    "net_income": 601000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2022",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 483400000.0,
+    "revenue": 15625000000.0,
+    "net_income": 3016000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-25",
+    "shares_outstanding": 470700000.0,
+    "revenue": 3928000000.0,
+    "net_income": 703000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-21",
+    "shares_outstanding": 495300000.0,
+    "revenue": 3802000000.0,
+    "net_income": 804000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-21",
+    "shares_outstanding": 519500000.0,
+    "revenue": 3789000000.0,
+    "net_income": 932000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2021",
+    "filing_date": "2022-02-10",
+    "shares_outstanding": 569300000.0,
+    "revenue": 14239000000.0,
+    "net_income": 4221000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-21",
+    "shares_outstanding": 565600000.0,
+    "revenue": 3658000000.0,
+    "net_income": 1141000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-22",
+    "shares_outstanding": 581700000.0,
+    "revenue": 3312000000.0,
+    "net_income": 1242000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-27",
+    "shares_outstanding": 587500000.0,
+    "revenue": 3439000000.0,
+    "net_income": 1025000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2020",
+    "filing_date": "2021-02-11",
+    "shares_outstanding": 590800000.0,
+    "revenue": 14402000000.0,
+    "net_income": 1385000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 584800000.0,
+    "revenue": 3457000000.0,
+    "net_income": 313000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-23",
+    "shares_outstanding": 584400000.0,
+    "revenue": 3396000000.0,
+    "net_income": 48000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-22",
+    "shares_outstanding": 607400000.0,
+    "revenue": 3890000000.0,
+    "net_income": 286000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2019",
+    "filing_date": "2020-02-13",
+    "shares_outstanding": 673500000.0,
+    "revenue": 16799000000.0,
+    "net_income": 3747000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 661700000.0,
+    "revenue": 4389000000.0,
+    "net_income": 1056000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 686500000.0,
+    "revenue": 4155000000.0,
+    "net_income": 853000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-25",
+    "shares_outstanding": 708900000.0,
+    "revenue": 4226000000.0,
+    "net_income": 1107000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2018",
+    "filing_date": "2019-02-15",
+    "shares_outstanding": 746900000.0,
+    "revenue": 16118000000.0,
+    "net_income": 2790000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 738800000.0,
+    "revenue": 4206000000.0,
+    "net_income": 671000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-27",
+    "shares_outstanding": 758300000.0,
+    "revenue": 3737000000.0,
+    "net_income": 696000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 770300000.0,
+    "revenue": 3842000000.0,
+    "net_income": 640000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 799700000.0,
+    "revenue": 15016000000.0,
+    "net_income": 1935000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 790900000.0,
+    "revenue": 3876000000.0,
+    "net_income": 555000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 807400000.0,
+    "revenue": 3637000000.0,
+    "net_income": 496000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-01",
+    "shares_outstanding": 817100000.0,
+    "revenue": 3587000000.0,
+    "net_income": 499000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 831500000.0,
+    "revenue": 13530000000.0,
+    "net_income": 2251000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 831000000.0,
+    "revenue": 3481000000.0,
+    "net_income": 604000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 836000000.0,
+    "revenue": 3212000000.0,
+    "net_income": 489000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 836000000.0,
+    "revenue": 3209000000.0,
+    "net_income": 582000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 835500000.0,
+    "revenue": 12093000000.0,
+    "net_income": 2214000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 836000000.0,
+    "revenue": 3103000000.0,
+    "net_income": 574000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 835000000.0,
+    "revenue": 2907000000.0,
+    "net_income": 541000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 835000000.0,
+    "revenue": 2875000000.0,
+    "net_income": 552000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "FY 2014",
+    "filing_date": "2015-02-23",
+    "shares_outstanding": 757600000.0,
+    "revenue": 11320000000.0,
+    "net_income": 2109000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SYF",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 782000000.0,
+    "revenue": 2879000000.0,
+    "net_income": 548000000.0,
+    "market_cap": null
+  }
+]

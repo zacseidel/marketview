@@ -1,0 +1,173 @@
+[
+  {
+    "ticker": "BROS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 125764000.0,
+    "revenue": 1638159000.0,
+    "net_income": 117275000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 125764000.0,
+    "revenue": 1638159000.0,
+    "net_income": 117275000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 127379000.0,
+    "revenue": 423584000.0,
+    "net_income": 27283000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 126830000.0,
+    "revenue": 415813000.0,
+    "net_income": 38357000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 121508000.0,
+    "revenue": 355152000.0,
+    "net_income": 22480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 104129000.0,
+    "revenue": 1281015000.0,
+    "net_income": 66450000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 114252000.0,
+    "revenue": 338212000.0,
+    "net_income": 21712000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 102356000.0,
+    "revenue": 324918000.0,
+    "net_income": 22156000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 83410000.0,
+    "revenue": 275099000.0,
+    "net_income": 16215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 62074000.0,
+    "revenue": 965776000.0,
+    "net_income": 9952000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 60214000.0,
+    "revenue": 264507000.0,
+    "net_income": 13401000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 57428000.0,
+    "revenue": 249879000.0,
+    "net_income": 9711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-10",
+    "shares_outstanding": 56664000.0,
+    "revenue": 197267000.0,
+    "net_income": -9391000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 51871000.0,
+    "revenue": 739012000.0,
+    "net_income": -19253000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-10",
+    "shares_outstanding": 54418000.0,
+    "revenue": 198648000.0,
+    "net_income": 1594000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-11",
+    "shares_outstanding": 50926000.0,
+    "revenue": 186381000.0,
+    "net_income": -1751000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-12",
+    "shares_outstanding": 48059000.0,
+    "revenue": 152156000.0,
+    "net_income": -16279000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "FY 2021",
+    "filing_date": "2022-03-11",
+    "shares_outstanding": 45864000.0,
+    "revenue": 497876000.0,
+    "net_income": -119977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BROS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-12",
+    "shares_outstanding": 47232000.0,
+    "revenue": 129803000.0,
+    "net_income": -117138000.0,
+    "market_cap": null
+  }
+]

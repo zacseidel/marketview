@@ -1,0 +1,389 @@
+[
+  {
+    "ticker": "PEN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 39291828.0,
+    "revenue": 1403665000.0,
+    "net_income": 177687000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 39291828.0,
+    "revenue": 1403665000.0,
+    "net_income": 177687000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 39302239.0,
+    "revenue": 354685000.0,
+    "net_income": 45851000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-29",
+    "shares_outstanding": 39245953.0,
+    "revenue": 339455000.0,
+    "net_income": 45270000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-23",
+    "shares_outstanding": 39163428.0,
+    "revenue": 324140000.0,
+    "net_income": 39223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2024",
+    "filing_date": "2025-02-18",
+    "shares_outstanding": 39268037.0,
+    "revenue": 1194615000.0,
+    "net_income": 14012000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 39178227.0,
+    "revenue": 301039000.0,
+    "net_income": 29527000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 38793341.0,
+    "revenue": 299403000.0,
+    "net_income": -60200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 39387359.0,
+    "revenue": 278655000.0,
+    "net_income": 11002000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 39216564.0,
+    "revenue": 1058522000.0,
+    "net_income": 90954000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 39219966.0,
+    "revenue": 270946000.0,
+    "net_income": 9214000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 39201155.0,
+    "revenue": 261499000.0,
+    "net_income": 18960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 39075388.0,
+    "revenue": 241398000.0,
+    "net_income": 8562000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 37841874.0,
+    "revenue": 847133000.0,
+    "net_income": -2002000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 37918452.0,
+    "revenue": 213678000.0,
+    "net_income": -2271000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 37767519.0,
+    "revenue": 208344000.0,
+    "net_income": -3687000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 38708657.0,
+    "revenue": 203895000.0,
+    "net_income": 79000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 37881180.0,
+    "revenue": 747590000.0,
+    "net_income": 2623000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 37611355.0,
+    "revenue": 190117000.0,
+    "net_income": 8031000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": 37582348.0,
+    "revenue": 184258000.0,
+    "net_income": 8299000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 37533520.0,
+    "revenue": 169204000.0,
+    "net_income": 10926000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 35766892.0,
+    "revenue": 560412000.0,
+    "net_income": -19257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 36207716.0,
+    "revenue": 151076000.0,
+    "net_income": -9876000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-03",
+    "shares_outstanding": 35400542.0,
+    "revenue": 105109000.0,
+    "net_income": -12901000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 36362726.0,
+    "revenue": 137329000.0,
+    "net_income": 888000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 36265999.0,
+    "revenue": 547405000.0,
+    "net_income": 47004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 36271394.0,
+    "revenue": 139502000.0,
+    "net_income": 11000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 36214321.0,
+    "revenue": 134201000.0,
+    "net_income": 16249000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 36213164.0,
+    "revenue": 128439000.0,
+    "net_income": 10454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 36086821.0,
+    "revenue": 444938000.0,
+    "net_income": 2910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 34248484.0,
+    "revenue": 111806000.0,
+    "net_income": -22426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 36116254.0,
+    "revenue": 109638000.0,
+    "net_income": 13381000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 35917051.0,
+    "revenue": 102701000.0,
+    "net_income": 5491000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 35319103.0,
+    "revenue": 333764000.0,
+    "net_income": 4657000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 35664272.0,
+    "revenue": 83911000.0,
+    "net_income": 238000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 33219487.0,
+    "revenue": 80589000.0,
+    "net_income": -1558000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 31611841.0,
+    "revenue": 73213000.0,
+    "net_income": -3106000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 33478078.0,
+    "revenue": 263317000.0,
+    "net_income": 14814000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 33755383.0,
+    "revenue": 67187000.0,
+    "net_income": 11906000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 33308193.0,
+    "revenue": 65106000.0,
+    "net_income": 3013000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 33023495.0,
+    "revenue": 57919000.0,
+    "net_income": 2291000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "FY 2015",
+    "filing_date": "2016-03-08",
+    "shares_outstanding": 14219650.0,
+    "revenue": 186095000.0,
+    "net_income": 2365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PEN",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-12",
+    "shares_outstanding": 10189248.0,
+    "revenue": 50416000.0,
+    "net_income": 901000.0,
+    "market_cap": null
+  }
+]

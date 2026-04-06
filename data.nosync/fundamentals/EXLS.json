@@ -1,0 +1,524 @@
+[
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 161714486.0,
+    "revenue": 529585000.0,
+    "net_income": 58161000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-29",
+    "shares_outstanding": 164193258.0,
+    "revenue": 514460000.0,
+    "net_income": 66051000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 164557333.0,
+    "revenue": 501019000.0,
+    "net_income": 66561000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 164321656.0,
+    "revenue": 1838372000.0,
+    "net_income": 198297000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 163187733.0,
+    "revenue": 472073000.0,
+    "net_income": 53037000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 163961754.0,
+    "revenue": 448366000.0,
+    "net_income": 45825000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 166726853.0,
+    "revenue": 436507000.0,
+    "net_income": 48763000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 168161371.0,
+    "revenue": 1630668000.0,
+    "net_income": 184558000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 167688374.0,
+    "revenue": 410971000.0,
+    "net_income": 43876000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 33688449.0,
+    "revenue": 404996000.0,
+    "net_income": 49068000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 33931480.0,
+    "revenue": 400643000.0,
+    "net_income": 51331000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 33833858.0,
+    "revenue": 1412044000.0,
+    "net_income": 142968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 33777749.0,
+    "revenue": 361351000.0,
+    "net_income": 39095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 33830539.0,
+    "revenue": 346782000.0,
+    "net_income": 35846000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 33894868.0,
+    "revenue": 329208000.0,
+    "net_income": 36178000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 34244478.0,
+    "revenue": 1122293000.0,
+    "net_income": 114758000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 34305893.0,
+    "revenue": 290325000.0,
+    "net_income": 26507000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 34389768.0,
+    "revenue": 275064000.0,
+    "net_income": 28021000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 34318318.0,
+    "revenue": 261415000.0,
+    "net_income": 31931000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 34555164.0,
+    "revenue": 958434000.0,
+    "net_income": 89476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 34536049.0,
+    "revenue": 241018000.0,
+    "net_income": 26418000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 34597688.0,
+    "revenue": 222473000.0,
+    "net_income": 8429000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 34720603.0,
+    "revenue": 245990000.0,
+    "net_income": 22411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 34732683.0,
+    "revenue": 991346000.0,
+    "net_income": 67659000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 34699497.0,
+    "revenue": 251392000.0,
+    "net_income": 19044000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 34702547.0,
+    "revenue": 243509000.0,
+    "net_income": 12564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 34833435.0,
+    "revenue": 239573000.0,
+    "net_income": 14695000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 35030984.0,
+    "revenue": 883112000.0,
+    "net_income": 56726000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 35207991.0,
+    "revenue": 231124000.0,
+    "net_income": 15249000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 35142388.0,
+    "revenue": 210112000.0,
+    "net_income": 14462000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-01",
+    "shares_outstanding": 35302926.0,
+    "revenue": 206973000.0,
+    "net_income": 23158000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 35110210.0,
+    "revenue": 762310000.0,
+    "net_income": 48888000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 35043987.0,
+    "revenue": 192345000.0,
+    "net_income": 21077000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 34993226.0,
+    "revenue": 189057000.0,
+    "net_income": 20378000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 35108882.0,
+    "revenue": 183033000.0,
+    "net_income": 16788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2016",
+    "filing_date": "2017-03-15",
+    "shares_outstanding": 34563319.0,
+    "revenue": 685988000.0,
+    "net_income": 61733000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 34675485.0,
+    "revenue": 171200000.0,
+    "net_income": 16050000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 34510400.0,
+    "revenue": 170478000.0,
+    "net_income": 16375000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 34351657.0,
+    "revenue": 167036000.0,
+    "net_income": 13820000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 34178340.0,
+    "revenue": 628492000.0,
+    "net_income": 51565000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 34180635.0,
+    "revenue": 163503000.0,
+    "net_income": 15162000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 34207973.0,
+    "revenue": 155621000.0,
+    "net_income": 12074000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 34051971.0,
+    "revenue": 143510000.0,
+    "net_income": 9567000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 33636593.0,
+    "revenue": 499278000.0,
+    "net_income": 32445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 33676665.0,
+    "revenue": 122457000.0,
+    "net_income": 6075000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-29",
+    "shares_outstanding": 33673669.0,
+    "revenue": 119738000.0,
+    "net_income": 7762000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 33428544.0,
+    "revenue": 121797000.0,
+    "net_income": 11147000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 33842938.0,
+    "revenue": 478452000.0,
+    "net_income": 48099000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 33955445.0,
+    "revenue": 122315000.0,
+    "net_income": 13240000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-30",
+    "shares_outstanding": 33899097.0,
+    "revenue": 116008000.0,
+    "net_income": 9236000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 33719794.0,
+    "revenue": 116006000.0,
+    "net_income": 9762000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2012",
+    "filing_date": "2013-03-07",
+    "shares_outstanding": 33171105.0,
+    "revenue": 442930000.0,
+    "net_income": 41838000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-05",
+    "shares_outstanding": 33283854.0,
+    "revenue": 112639000.0,
+    "net_income": 11703000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 33096607.0,
+    "revenue": 108030000.0,
+    "net_income": 9054000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 32783855.0,
+    "revenue": 104608000.0,
+    "net_income": 8916000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "FY 2011",
+    "filing_date": "2012-03-06",
+    "shares_outstanding": 31546144.0,
+    "revenue": 360541000.0,
+    "net_income": 34783000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 31586936.0,
+    "revenue": 100026000.0,
+    "net_income": 8391000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EXLS",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 31043426.0,
+    "revenue": 85028000.0,
+    "net_income": 8475000.0,
+    "market_cap": null
+  }
+]

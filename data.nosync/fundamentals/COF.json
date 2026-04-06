@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "COF",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 541300000.0,
+    "revenue": 53434000000.0,
+    "net_income": 2453000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 541300000.0,
+    "revenue": 53434000000.0,
+    "net_income": 2453000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-03",
+    "shares_outstanding": 639500000.0,
+    "revenue": 15359000000.0,
+    "net_income": 3192000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 505600000.0,
+    "revenue": 12492000000.0,
+    "net_income": -4277000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 384000000.0,
+    "revenue": 10000000000.0,
+    "net_income": 1404000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 383600000.0,
+    "revenue": 39112000000.0,
+    "net_income": 4750000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 383700000.0,
+    "revenue": 10014000000.0,
+    "net_income": 1777000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 383900000.0,
+    "revenue": 9506000000.0,
+    "net_income": 597000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 383400000.0,
+    "revenue": 9402000000.0,
+    "net_income": 1280000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 383400000.0,
+    "revenue": 36787000000.0,
+    "net_income": 4887000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 383300000.0,
+    "revenue": 9366000000.0,
+    "net_income": 1790000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 383700000.0,
+    "revenue": 9012000000.0,
+    "net_income": 1431000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 383800000.0,
+    "revenue": 8903000000.0,
+    "net_income": 960000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 393200000.0,
+    "revenue": 34250000000.0,
+    "net_income": 7360000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 384600000.0,
+    "revenue": 8805000000.0,
+    "net_income": 1694000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 392600000.0,
+    "revenue": 8232000000.0,
+    "net_income": 2031000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 412200000.0,
+    "revenue": 8173000000.0,
+    "net_income": 2403000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 444200000.0,
+    "revenue": 30435000000.0,
+    "net_income": 12390000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 440500000.0,
+    "revenue": 7830000000.0,
+    "net_income": 3104000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 452300000.0,
+    "revenue": 7374000000.0,
+    "net_income": 3536000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 460100000.0,
+    "revenue": 7113000000.0,
+    "net_income": 3325000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 458900000.0,
+    "revenue": 28523000000.0,
+    "net_income": 2714000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 458500000.0,
+    "revenue": 7381000000.0,
+    "net_income": 2406000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 456700000.0,
+    "revenue": 6556000000.0,
+    "net_income": -918000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 457600000.0,
+    "revenue": 7249000000.0,
+    "net_income": -1340000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 469900000.0,
+    "revenue": 28593000000.0,
+    "net_income": 5546000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 471800000.0,
+    "revenue": 6959000000.0,
+    "net_income": 1333000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 473000000.0,
+    "revenue": 7124000000.0,
+    "net_income": 1625000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 471600000.0,
+    "revenue": 7083000000.0,
+    "net_income": 1412000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2018",
+    "filing_date": "2019-02-20",
+    "shares_outstanding": 483100000.0,
+    "revenue": 28076000000.0,
+    "net_income": 6015000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 480900000.0,
+    "revenue": 6962000000.0,
+    "net_income": 1502000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-27",
+    "shares_outstanding": 488300000.0,
+    "revenue": 7192000000.0,
+    "net_income": 1906000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 490800000.0,
+    "revenue": 6909000000.0,
+    "net_income": 1346000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2017",
+    "filing_date": "2018-02-21",
+    "shares_outstanding": 488600000.0,
+    "revenue": 27237000000.0,
+    "net_income": 1982000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 489000000.0,
+    "revenue": 6985000000.0,
+    "net_income": 1107000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 488100000.0,
+    "revenue": 6704000000.0,
+    "net_income": 1036000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 487900000.0,
+    "revenue": 6535000000.0,
+    "net_income": 810000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 509800000.0,
+    "revenue": 25501000000.0,
+    "net_income": 3751000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 505900000.0,
+    "revenue": 5794000000.0,
+    "net_income": 1005000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-01",
+    "shares_outstanding": 516500000.0,
+    "revenue": 5571000000.0,
+    "net_income": 942000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 528000000.0,
+    "revenue": 5517000000.0,
+    "net_income": 1013000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 548000000.0,
+    "revenue": 23413000000.0,
+    "net_income": 4050000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-02",
+    "shares_outstanding": 546300000.0,
+    "revenue": 5164000000.0,
+    "net_income": 1114000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-03",
+    "shares_outstanding": 552000000.0,
+    "revenue": 4937000000.0,
+    "net_income": 863000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 557200000.0,
+    "revenue": 4974000000.0,
+    "net_income": 1153000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 571900000.0,
+    "revenue": 22290000000.0,
+    "net_income": 4428000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-03",
+    "shares_outstanding": 567900000.0,
+    "revenue": 4887000000.0,
+    "net_income": 1081000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 577600000.0,
+    "revenue": 4712000000.0,
+    "net_income": 1194000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-06",
+    "shares_outstanding": 580300000.0,
+    "revenue": 4753000000.0,
+    "net_income": 1154000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 587600000.0,
+    "revenue": 22384000000.0,
+    "net_income": 4159000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 591100000.0,
+    "revenue": 5651000000.0,
+    "net_income": 1117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 589000000.0,
+    "revenue": 5638000000.0,
+    "net_income": 1117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 586000000.0,
+    "revenue": 5051000000.0,
+    "net_income": 1066000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 566000000.0,
+    "revenue": 18964000000.0,
+    "net_income": 3517000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 584000000.0,
+    "revenue": 5254000000.0,
+    "net_income": 1178000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 583000000.0,
+    "revenue": 4616000000.0,
+    "net_income": 93000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 513000000.0,
+    "revenue": 3979000000.0,
+    "net_income": 1403000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 459000000.0,
+    "revenue": 16279000000.0,
+    "net_income": 3147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 460000000.0,
+    "revenue": 3835000000.0,
+    "net_income": 813000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 462000000.0,
+    "revenue": 3699000000.0,
+    "net_income": 911000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 460000000.0,
+    "revenue": 3752000000.0,
+    "net_income": 1016000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 26589410000.0,
+    "revenue": 10664585000.0,
+    "net_income": 883781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-09",
+    "shares_outstanding": 26222152000.0,
+    "revenue": 2747750000.0,
+    "net_income": 425639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COF",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-10",
+    "shares_outstanding": 25329576000.0,
+    "revenue": 2714635000.0,
+    "net_income": 224203000.0,
+    "market_cap": null
+  }
+]

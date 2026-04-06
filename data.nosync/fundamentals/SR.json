@@ -1,0 +1,443 @@
+[
+  {
+    "ticker": "SR",
+    "period": "Q1 2026",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 59200000.0,
+    "revenue": 762200000.0,
+    "net_income": 95000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2025",
+    "filing_date": "2025-11-14",
+    "shares_outstanding": 58.7,
+    "revenue": 2476400000.0,
+    "net_income": 271700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 59100000.0,
+    "revenue": 421900000.0,
+    "net_income": 20900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 58500000.0,
+    "revenue": 1051300000.0,
+    "net_income": 209300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2025",
+    "filing_date": "2025-02-05",
+    "shares_outstanding": 57900000.0,
+    "revenue": 669100000.0,
+    "net_income": 81300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 57700000.0,
+    "revenue": 414100000.0,
+    "net_income": -12600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 55900000.0,
+    "revenue": 1128500000.0,
+    "net_income": 204300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2024",
+    "filing_date": "2024-02-01",
+    "shares_outstanding": 53600000.0,
+    "revenue": 756600000.0,
+    "net_income": 85100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2023",
+    "filing_date": "2023-11-16",
+    "shares_outstanding": 52600000.0,
+    "revenue": 2666300000.0,
+    "net_income": 217500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 52500000.0,
+    "revenue": 418500000.0,
+    "net_income": -21600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 52600000.0,
+    "revenue": 1123400000.0,
+    "net_income": 179200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2023",
+    "filing_date": "2023-02-01",
+    "shares_outstanding": 52600000.0,
+    "revenue": 814000000.0,
+    "net_income": 91000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2022",
+    "filing_date": "2022-11-16",
+    "shares_outstanding": 52100000.0,
+    "revenue": 2198500000.0,
+    "net_income": 220800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 52300000.0,
+    "revenue": 448000000.0,
+    "net_income": -1400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 51900000.0,
+    "revenue": 880900000.0,
+    "net_income": 173600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2022",
+    "filing_date": "2022-02-02",
+    "shares_outstanding": 51700000.0,
+    "revenue": 555400000.0,
+    "net_income": 55700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2021",
+    "filing_date": "2021-11-22",
+    "shares_outstanding": 51700000.0,
+    "revenue": 2235500000.0,
+    "net_income": 271700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 51700000.0,
+    "revenue": 327800000.0,
+    "net_income": 5300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 51700000.0,
+    "revenue": 1104900000.0,
+    "net_income": 187400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2021",
+    "filing_date": "2021-02-04",
+    "shares_outstanding": 51600000.0,
+    "revenue": 512600000.0,
+    "net_income": 88900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2020",
+    "filing_date": "2020-11-18",
+    "shares_outstanding": 51300000.0,
+    "revenue": 1855400000.0,
+    "net_income": 88600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 51200000.0,
+    "revenue": 321100000.0,
+    "net_income": -92300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 51100000.0,
+    "revenue": 715500000.0,
+    "net_income": 133600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2020",
+    "filing_date": "2020-02-05",
+    "shares_outstanding": 51100000.0,
+    "revenue": 566900000.0,
+    "net_income": 67000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2019",
+    "filing_date": "2019-11-26",
+    "shares_outstanding": 50800000.0,
+    "revenue": 1952400000.0,
+    "net_income": 184600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 50900000.0,
+    "revenue": 321300000.0,
+    "net_income": -3000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 50800000.0,
+    "revenue": 803500000.0,
+    "net_income": 154600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2019",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 50800000.0,
+    "revenue": 602000000.0,
+    "net_income": 67300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2018",
+    "filing_date": "2018-11-15",
+    "shares_outstanding": 49300000.0,
+    "revenue": 1965000000.0,
+    "net_income": 214200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 49700000.0,
+    "revenue": 350600000.0,
+    "net_income": 25900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 48400000.0,
+    "revenue": 813400000.0,
+    "net_income": 98200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2018",
+    "filing_date": "2018-02-01",
+    "shares_outstanding": 48400000.0,
+    "revenue": 561800000.0,
+    "net_income": 116000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2017",
+    "filing_date": "2017-11-15",
+    "shares_outstanding": 47000000.0,
+    "revenue": 1740700000.0,
+    "net_income": 161600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 48200000.0,
+    "revenue": 323500000.0,
+    "net_income": 21700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 45700000.0,
+    "revenue": 663400000.0,
+    "net_income": 108000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2017",
+    "filing_date": "2017-02-01",
+    "shares_outstanding": 45700000.0,
+    "revenue": 495100000.0,
+    "net_income": 45200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2016",
+    "filing_date": "2016-11-15",
+    "shares_outstanding": 44300000.0,
+    "revenue": 1537300000.0,
+    "net_income": 144200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 44600000.0,
+    "revenue": 249300000.0,
+    "net_income": 10700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 8621000.0,
+    "revenue": 219382000.0,
+    "net_income": -5599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 8615000.0,
+    "revenue": 225299000.0,
+    "net_income": -5797000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-05",
+    "shares_outstanding": 8590000.0,
+    "revenue": 228489000.0,
+    "net_income": -7128000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 6386000.0,
+    "revenue": 719783000.0,
+    "net_income": -7413000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": -121298000.0,
+    "revenue": 141620000.0,
+    "net_income": -2050000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "FY 2012",
+    "filing_date": "2013-03-08",
+    "shares_outstanding": 29194000.0,
+    "revenue": 601988000.0,
+    "net_income": -9072000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2013",
+    "filing_date": "2012-11-05",
+    "shares_outstanding": 5846000.0,
+    "revenue": 145722000.0,
+    "net_income": 2500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2013",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 29198000.0,
+    "revenue": 155067000.0,
+    "net_income": -1135000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": -97648000.0,
+    "revenue": 157649000.0,
+    "net_income": -5112000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q3 2012",
+    "filing_date": "2011-11-10",
+    "shares_outstanding": 51442000.0,
+    "revenue": 157543000.0,
+    "net_income": 8419000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SR",
+    "period": "Q2 2012",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 50208000.0,
+    "revenue": 164285000.0,
+    "net_income": -910000.0,
+    "market_cap": null
+  }
+]

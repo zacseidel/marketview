@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "SAM",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 10937000.0,
+    "revenue": 1964994000.0,
+    "net_income": 108469000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 10937000.0,
+    "revenue": 1964994000.0,
+    "net_income": 108469000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 11067000.0,
+    "revenue": 587949000.0,
+    "net_income": 60433000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 11259000.0,
+    "revenue": 453867000.0,
+    "net_income": 24412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 11766000.0,
+    "revenue": 2012926000.0,
+    "net_income": 59695000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 11671000.0,
+    "revenue": 605477000.0,
+    "net_income": 33514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 11888000.0,
+    "revenue": 579098000.0,
+    "net_income": 52339000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 12055000.0,
+    "revenue": 426052000.0,
+    "net_income": 12597000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 12258000.0,
+    "revenue": 2008625000.0,
+    "net_income": 76250000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 12233000.0,
+    "revenue": 601599000.0,
+    "net_income": 45295000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 12276000.0,
+    "revenue": 603304000.0,
+    "net_income": 58035000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 12309000.0,
+    "revenue": 410000000.0,
+    "net_income": -8956000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 12345000.0,
+    "revenue": 2090334000.0,
+    "net_income": 67263000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-20",
+    "shares_outstanding": 12344000.0,
+    "revenue": 596453000.0,
+    "net_income": 27286000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-21",
+    "shares_outstanding": 12341000.0,
+    "revenue": 616243000.0,
+    "net_income": 53349000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-21",
+    "shares_outstanding": 12300000.0,
+    "revenue": 430113000.0,
+    "net_income": -1955000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 12436000.0,
+    "revenue": 2057622000.0,
+    "net_income": 14553000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-21",
+    "shares_outstanding": 12282000.0,
+    "revenue": 561643000.0,
+    "net_income": -58421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-22",
+    "shares_outstanding": 12465000.0,
+    "revenue": 602805000.0,
+    "net_income": 59195000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-22",
+    "shares_outstanding": 12457000.0,
+    "revenue": 545080000.0,
+    "net_income": 65565000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2020",
+    "filing_date": "2021-02-17",
+    "shares_outstanding": 12283000.0,
+    "revenue": 1736432000.0,
+    "net_income": 191960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 12333000.0,
+    "revenue": 492792000.0,
+    "net_income": 80768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-23",
+    "shares_outstanding": 12258000.0,
+    "revenue": 452138000.0,
+    "net_income": 60141000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-22",
+    "shares_outstanding": 12186000.0,
+    "revenue": 330565000.0,
+    "net_income": 18234000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2019",
+    "filing_date": "2020-02-19",
+    "shares_outstanding": 11908000.0,
+    "revenue": 1249824000.0,
+    "net_income": 110041000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-29",
+    "shares_outstanding": 12150000.0,
+    "revenue": 378466000.0,
+    "net_income": 44729000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 11684000.0,
+    "revenue": 318407000.0,
+    "net_income": 27856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-24",
+    "shares_outstanding": 11636000.0,
+    "revenue": 251651000.0,
+    "net_income": 23694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2018",
+    "filing_date": "2019-02-20",
+    "shares_outstanding": 11734000.0,
+    "revenue": 995649000.0,
+    "net_income": 92663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 11702000.0,
+    "revenue": 306870000.0,
+    "net_income": 38007000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 11787000.0,
+    "revenue": 273100000.0,
+    "net_income": 23535000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 11831000.0,
+    "revenue": 190457000.0,
+    "net_income": 9310000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2017",
+    "filing_date": "2018-02-21",
+    "shares_outstanding": 12180000.0,
+    "revenue": 862992000.0,
+    "net_income": 99049000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 12037000.0,
+    "revenue": 247047000.0,
+    "net_income": 33683000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 12344000.0,
+    "revenue": 247930000.0,
+    "net_income": 29125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-26",
+    "shares_outstanding": 12516000.0,
+    "revenue": 161695000.0,
+    "net_income": 5711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2016",
+    "filing_date": "2017-02-22",
+    "shares_outstanding": 12796000.0,
+    "revenue": 906446000.0,
+    "net_income": 87349000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-20",
+    "shares_outstanding": 12641000.0,
+    "revenue": 253433000.0,
+    "net_income": 31530000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-21",
+    "shares_outstanding": 12830000.0,
+    "revenue": 244816000.0,
+    "net_income": 26621000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-21",
+    "shares_outstanding": 13088000.0,
+    "revenue": 188827000.0,
+    "net_income": 7032000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2015",
+    "filing_date": "2016-02-18",
+    "shares_outstanding": 13520000.0,
+    "revenue": 959934000.0,
+    "net_income": 98414000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 13507000.0,
+    "revenue": 293094000.0,
+    "net_income": 38624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 13667000.0,
+    "revenue": 252204000.0,
+    "net_income": 29932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-29",
+    "shares_outstanding": 13633000.0,
+    "revenue": 199503000.0,
+    "net_income": 13743000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 13484000.0,
+    "revenue": 903007000.0,
+    "net_income": 90743000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 13495000.0,
+    "revenue": 269734000.0,
+    "net_income": 37926000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 13486000.0,
+    "revenue": 231611000.0,
+    "net_income": 25428000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 13435000.0,
+    "revenue": 183845000.0,
+    "net_income": 8315000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 13504000.0,
+    "revenue": 739053000.0,
+    "net_income": 70392000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 13498000.0,
+    "revenue": 216414000.0,
+    "net_income": 25686000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 13462000.0,
+    "revenue": 181332000.0,
+    "net_income": 19715000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 13505000.0,
+    "revenue": 135932000.0,
+    "net_income": 6912000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2012",
+    "filing_date": "2013-02-20",
+    "shares_outstanding": 13435000.0,
+    "revenue": 580222000.0,
+    "net_income": 59467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 13452000.0,
+    "revenue": 166448000.0,
+    "net_income": 20750000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 13437000.0,
+    "revenue": 147503000.0,
+    "net_income": 14351000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-02",
+    "shares_outstanding": 13449000.0,
+    "revenue": 113271000.0,
+    "net_income": 7493000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "FY 2011",
+    "filing_date": "2012-02-22",
+    "shares_outstanding": 13741000.0,
+    "revenue": 513000000.0,
+    "net_income": 66059000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-01",
+    "shares_outstanding": 13650000.0,
+    "revenue": 134813000.0,
+    "net_income": 16296000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SAM",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-02",
+    "shares_outstanding": 13947000.0,
+    "revenue": 133957000.0,
+    "net_income": 28019000.0,
+    "market_cap": null
+  }
+]

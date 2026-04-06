@@ -1,0 +1,371 @@
+[
+  {
+    "ticker": "LIVN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 54548000.0,
+    "revenue": 1388053000.0,
+    "net_income": -242471000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 54548000.0,
+    "revenue": 1388053000.0,
+    "net_income": -242471000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 55153000.0,
+    "revenue": 357753000.0,
+    "net_income": 26784000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 54708000.0,
+    "revenue": 352524000.0,
+    "net_income": 27161000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 54421000.0,
+    "revenue": 316855000.0,
+    "net_income": -327322000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 54574000.0,
+    "revenue": 1253437000.0,
+    "net_income": 63234000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 54585000.0,
+    "revenue": 318120000.0,
+    "net_income": 32953000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 54591000.0,
+    "revenue": 318575000.0,
+    "net_income": 16333000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 54008000.0,
+    "revenue": 294912000.0,
+    "net_income": -41943000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 54212000.0,
+    "revenue": 1153545000.0,
+    "net_income": 17546000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 53989000.0,
+    "revenue": 286113000.0,
+    "net_income": -7318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 53977000.0,
+    "revenue": 293882000.0,
+    "net_income": 1155000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 53900000.0,
+    "revenue": 263418000.0,
+    "net_income": 7370000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 53472000.0,
+    "revenue": 1021805000.0,
+    "net_income": -86246000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 53534000.0,
+    "revenue": 252605000.0,
+    "net_income": -107344000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 54080000.0,
+    "revenue": 254151000.0,
+    "net_income": 16444000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 54176000.0,
+    "revenue": 240175000.0,
+    "net_income": 2993000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 50633000.0,
+    "revenue": 1035365000.0,
+    "net_income": -135818000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 51582000.0,
+    "revenue": 253215000.0,
+    "net_income": -43443000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 48928000.0,
+    "revenue": 264483000.0,
+    "net_income": -56487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 48736000.0,
+    "revenue": 247603000.0,
+    "net_income": -30761000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 48592000.0,
+    "revenue": 934241000.0,
+    "net_income": -345008000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 48652000.0,
+    "revenue": 240083000.0,
+    "net_income": -14772000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 48611000.0,
+    "revenue": 182206000.0,
+    "net_income": -87993000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 48769000.0,
+    "revenue": 242397000.0,
+    "net_income": 37583000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 48349000.0,
+    "revenue": 1084170000.0,
+    "net_income": -155176000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 48820000.0,
+    "revenue": 268610000.0,
+    "net_income": 32118000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 48342000.0,
+    "revenue": 277169000.0,
+    "net_income": -29215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 48246000.0,
+    "revenue": 250801000.0,
+    "net_income": -14849000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "FY 2018",
+    "filing_date": "2019-03-18",
+    "shares_outstanding": 48497000.0,
+    "revenue": 1106961000.0,
+    "net_income": -189399000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 48637000.0,
+    "revenue": 272082000.0,
+    "net_income": -7177000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 49338000.0,
+    "revenue": 287498000.0,
+    "net_income": 15066000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 49187000.0,
+    "revenue": 250398000.0,
+    "net_income": 13273000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 48501000.0,
+    "revenue": 1012277000.0,
+    "net_income": -25089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 48534000.0,
+    "revenue": 251253000.0,
+    "net_income": 27830000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 48303000.0,
+    "revenue": 255843000.0,
+    "net_income": 47498000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 48178000.0,
+    "revenue": 226825000.0,
+    "net_income": 11271000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 48860352.0,
+    "revenue": 1213925000.0,
+    "net_income": -62789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 49075000.0,
+    "revenue": 295268000.0,
+    "net_income": -1569000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 49162000.0,
+    "revenue": 321047000.0,
+    "net_income": 8957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LIVN",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 48918000.0,
+    "revenue": 286969000.0,
+    "net_income": -40378000.0,
+    "market_cap": null
+  }
+]

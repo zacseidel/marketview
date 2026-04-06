@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "FLS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 130979000.0,
+    "revenue": 1581437000.0,
+    "net_income": 369802000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 130979000.0,
+    "revenue": 1581437000.0,
+    "net_income": 369802000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 131235000.0,
+    "revenue": 380286000.0,
+    "net_income": 223858000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 131599000.0,
+    "revenue": 406582000.0,
+    "net_income": 88224000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 132670000.0,
+    "revenue": 369334000.0,
+    "net_income": 79457000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 132356000.0,
+    "revenue": 1434246000.0,
+    "net_income": 301226000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-29",
+    "shares_outstanding": 132415000.0,
+    "revenue": 1156892000.0,
+    "net_income": 76452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-29",
+    "shares_outstanding": 132368000.0,
+    "revenue": 1087479000.0,
+    "net_income": 77915000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 131931000.0,
+    "revenue": 1276828000.0,
+    "net_income": 205188000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 132026000.0,
+    "revenue": 1094718000.0,
+    "net_income": 52593000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 131810000.0,
+    "revenue": 1080376000.0,
+    "net_income": 55154000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-01",
+    "shares_outstanding": 131754000.0,
+    "revenue": 980305000.0,
+    "net_income": 29996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2022",
+    "filing_date": "2023-03-07",
+    "shares_outstanding": 131315000.0,
+    "revenue": 994295000.0,
+    "net_income": 198015000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-31",
+    "shares_outstanding": 131402000.0,
+    "revenue": 872881000.0,
+    "net_income": 40635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 131245000.0,
+    "revenue": 882222000.0,
+    "net_income": 46095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-02",
+    "shares_outstanding": 130410000.0,
+    "revenue": 821058000.0,
+    "net_income": -13679000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 130857000.0,
+    "revenue": 1049725000.0,
+    "net_income": 136182000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 130789000.0,
+    "revenue": 866100000.0,
+    "net_income": 51809000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 130804000.0,
+    "revenue": 898200000.0,
+    "net_income": 47744000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-03",
+    "shares_outstanding": 131006000.0,
+    "revenue": 857300000.0,
+    "net_income": 17161000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 131050000.0,
+    "revenue": 1116769000.0,
+    "net_income": 126781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-13",
+    "shares_outstanding": 130900000.0,
+    "revenue": 924300000.0,
+    "net_income": 53650000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 130730000.0,
+    "revenue": 925000000.0,
+    "net_income": 10787000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 130731000.0,
+    "revenue": 893500000.0,
+    "net_income": 1490000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 131719000.0,
+    "revenue": 1295370000.0,
+    "net_income": 261780000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 131846000.0,
+    "revenue": 996500000.0,
+    "net_income": 70563000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 131754000.0,
+    "revenue": 990100000.0,
+    "net_income": 60474000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 131532000.0,
+    "revenue": 890100000.0,
+    "net_income": 59496000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-20",
+    "shares_outstanding": 131271000.0,
+    "revenue": 1187836000.0,
+    "net_income": 125050000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 131350000.0,
+    "revenue": 952700000.0,
+    "net_income": 29439000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 131226000.0,
+    "revenue": 973100000.0,
+    "net_income": 14787000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 131095000.0,
+    "revenue": 920000000.0,
+    "net_income": 16459000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 131358000.0,
+    "revenue": 1085377000.0,
+    "net_income": 4328000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 131396000.0,
+    "revenue": 883400000.0,
+    "net_income": 48741000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-14",
+    "shares_outstanding": 131341000.0,
+    "revenue": 877100000.0,
+    "net_income": 42185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-01",
+    "shares_outstanding": 131275000.0,
+    "revenue": 866300000.0,
+    "net_income": 15062000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2016",
+    "filing_date": "2017-02-16",
+    "shares_outstanding": 130975000.0,
+    "revenue": 1231554000.0,
+    "net_income": 148137000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 130299000.0,
+    "revenue": 943300000.0,
+    "net_income": -20120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 130910000.0,
+    "revenue": 1026200000.0,
+    "net_income": 62988000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 130812000.0,
+    "revenue": 947200000.0,
+    "net_income": 38284000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-18",
+    "shares_outstanding": 133811000.0,
+    "revenue": 1487318000.0,
+    "net_income": 273274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 133160000.0,
+    "revenue": 1096500000.0,
+    "net_income": 94536000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 134831000.0,
+    "revenue": 1162200000.0,
+    "net_income": 76632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 135954000.0,
+    "revenue": 1014600000.0,
+    "net_income": 29645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2014",
+    "filing_date": "2015-02-17",
+    "shares_outstanding": 137843000.0,
+    "revenue": 1714617000.0,
+    "net_income": 524885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-23",
+    "shares_outstanding": 137529000.0,
+    "revenue": 1204000000.0,
+    "net_income": 130600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-23",
+    "shares_outstanding": 137995000.0,
+    "revenue": 1224400000.0,
+    "net_income": 125165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-23",
+    "shares_outstanding": 138870000.0,
+    "revenue": 1068100000.0,
+    "net_income": 108588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2013",
+    "filing_date": "2014-02-18",
+    "shares_outstanding": 142429000.0,
+    "revenue": 1688095000.0,
+    "net_income": 488320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 141085000.0,
+    "revenue": 1229100000.0,
+    "net_income": 126530000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-24",
+    "shares_outstanding": 142882000.0,
+    "revenue": 1239500000.0,
+    "net_income": 120894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-24",
+    "shares_outstanding": 48543000.0,
+    "revenue": 1096600000.0,
+    "net_income": 98900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 52656000.0,
+    "revenue": 4751339000.0,
+    "net_income": 450799000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-29",
+    "shares_outstanding": 51285000.0,
+    "revenue": 1165900000.0,
+    "net_income": 106834000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-30",
+    "shares_outstanding": 54266000.0,
+    "revenue": 1182200000.0,
+    "net_income": 108485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-30",
+    "shares_outstanding": 55031000.0,
+    "revenue": 1075000000.0,
+    "net_income": 93542000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2011",
+    "filing_date": "2012-02-22",
+    "shares_outstanding": 56102000.0,
+    "revenue": 4510201000.0,
+    "net_income": 429231000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 56161000.0,
+    "revenue": 1121800000.0,
+    "net_income": 107956000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-27",
+    "shares_outstanding": 56242000.0,
+    "revenue": 1125800000.0,
+    "net_income": 98724000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-27",
+    "shares_outstanding": 49000.0,
+    "revenue": 997200000.0,
+    "net_income": 96996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2010",
+    "filing_date": "2011-02-23",
+    "shares_outstanding": 2113033000.0,
+    "revenue": 4032036000.0,
+    "net_income": 388681000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-27",
+    "shares_outstanding": 2023088000.0,
+    "revenue": 971681000.0,
+    "net_income": 104225000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-28",
+    "shares_outstanding": 1840017000.0,
+    "revenue": 961096000.0,
+    "net_income": 91804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-05",
+    "shares_outstanding": 1826195000.0,
+    "revenue": 958906000.0,
+    "net_income": 80205000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "FY 2009",
+    "filing_date": "2010-02-24",
+    "shares_outstanding": 1801747000.0,
+    "revenue": 4365262000.0,
+    "net_income": 428331000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-28",
+    "shares_outstanding": 1720575000.0,
+    "revenue": 1051064000.0,
+    "net_income": 116639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLS",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-29",
+    "shares_outstanding": 1581554000.0,
+    "revenue": 1090399000.0,
+    "net_income": 108604000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "UMBF",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 73670643.0,
+    "revenue": 3354280000.0,
+    "net_income": 702398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 73670643.0,
+    "revenue": 3354280000.0,
+    "net_income": 702398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 76366818.0,
+    "revenue": 878897000.0,
+    "net_income": 188316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 76241798.0,
+    "revenue": 850537000.0,
+    "net_income": 217394000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 65496058.0,
+    "revenue": 737970000.0,
+    "net_income": 81333000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 49056956.0,
+    "revenue": 2171009000.0,
+    "net_income": 441243000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 49078497.0,
+    "revenue": 557694000.0,
+    "net_income": 109643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 48974265.0,
+    "revenue": 538282000.0,
+    "net_income": 101345000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 48920863.0,
+    "revenue": 520065000.0,
+    "net_income": 110258000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 48763820.0,
+    "revenue": 1838705000.0,
+    "net_income": 350024000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 48762696.0,
+    "revenue": 471976000.0,
+    "net_income": 96554000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 48668413.0,
+    "revenue": 461380000.0,
+    "net_income": 90110000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 48746562.0,
+    "revenue": 408747000.0,
+    "net_income": 92437000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 48747399.0,
+    "revenue": 1137520000.0,
+    "net_income": 431682000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 48648804.0,
+    "revenue": 300339000.0,
+    "net_income": 87990000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 48673964.0,
+    "revenue": 248570000.0,
+    "net_income": 137556000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 48832177.0,
+    "revenue": 221799000.0,
+    "net_income": 105963000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 48738292.0,
+    "revenue": 861522000.0,
+    "net_income": 353018000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 48742883.0,
+    "revenue": 221326000.0,
+    "net_income": 94467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 48698319.0,
+    "revenue": 212634000.0,
+    "net_income": 87412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 48520752.0,
+    "revenue": 205979000.0,
+    "net_income": 92643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 48343750.0,
+    "revenue": 808489000.0,
+    "net_income": 286502000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 48068438.0,
+    "revenue": 197017000.0,
+    "net_income": 73092000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 48077810.0,
+    "revenue": 192769000.0,
+    "net_income": 60529000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 48689876.0,
+    "revenue": 211411000.0,
+    "net_income": -3439000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 49089877.0,
+    "revenue": 862892000.0,
+    "net_income": 243600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 49096196.0,
+    "revenue": 219103000.0,
+    "net_income": 62382000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 49039692.0,
+    "revenue": 216662000.0,
+    "net_income": 56959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 48998571.0,
+    "revenue": 211307000.0,
+    "net_income": 57744000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2018",
+    "filing_date": "2019-03-01",
+    "shares_outstanding": 49770737.0,
+    "revenue": 731961000.0,
+    "net_income": 195513000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 49912084.0,
+    "revenue": 185097000.0,
+    "net_income": 57849000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 50007022.0,
+    "revenue": 176480000.0,
+    "net_income": 55424000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 49917454.0,
+    "revenue": 167665000.0,
+    "net_income": 56786000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 49839290.0,
+    "revenue": 616912000.0,
+    "net_income": 247105000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 49833141.0,
+    "revenue": 157895000.0,
+    "net_income": 48142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 49848903.0,
+    "revenue": 151211000.0,
+    "net_income": 42821000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 49829508.0,
+    "revenue": 144690000.0,
+    "net_income": 44181000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 49277055.0,
+    "revenue": 523031000.0,
+    "net_income": 158801000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 49284280.0,
+    "revenue": 132038000.0,
+    "net_income": 41946000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-02",
+    "shares_outstanding": 49165686.0,
+    "revenue": 127897000.0,
+    "net_income": 37518000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-03",
+    "shares_outstanding": 49090232.0,
+    "revenue": 124086000.0,
+    "net_income": 36403000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 47579334.0,
+    "revenue": 430681000.0,
+    "net_income": 116073000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 49036332.0,
+    "revenue": 115229000.0,
+    "net_income": 22451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 46611096.0,
+    "revenue": 101884000.0,
+    "net_income": 30214000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 45437654.0,
+    "revenue": 93953000.0,
+    "net_income": 33765000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 45445283.0,
+    "revenue": 363871000.0,
+    "net_income": 120655000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 44890309.0,
+    "revenue": 90817000.0,
+    "net_income": 35630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 44823370.0,
+    "revenue": 89789000.0,
+    "net_income": 34672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 44742068.0,
+    "revenue": 89047000.0,
+    "net_income": 23413000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 41838580.0,
+    "revenue": 348341000.0,
+    "net_income": 133965000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 40698700000.0,
+    "revenue": 89096000.0,
+    "net_income": 34432000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 39966869000.0,
+    "revenue": 86212000.0,
+    "net_income": 29929000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-02",
+    "shares_outstanding": 39881505000.0,
+    "revenue": 83902000.0,
+    "net_income": 34941000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2012",
+    "filing_date": "2013-02-25",
+    "shares_outstanding": 40433367.0,
+    "revenue": 339685000.0,
+    "net_income": 122717000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 40081304000.0,
+    "revenue": 84979000.0,
+    "net_income": 26125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 40034649000.0,
+    "revenue": 85350000.0,
+    "net_income": 29165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 40025456.0,
+    "revenue": 84733000.0,
+    "net_income": 46367000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 40309957.0,
+    "revenue": 343653000.0,
+    "net_income": 106472000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 40020772.0,
+    "revenue": 85624000.0,
+    "net_income": 26015000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 40080402.0,
+    "revenue": 86551000.0,
+    "net_income": 26321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 40070399.0,
+    "revenue": 85973000.0,
+    "net_income": 30870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-04",
+    "shares_outstanding": 40081108.0,
+    "revenue": 86891000.0,
+    "net_income": 22773000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-04",
+    "shares_outstanding": 40079714.0,
+    "revenue": 86733000.0,
+    "net_income": 23013000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UMBF",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-05",
+    "shares_outstanding": 40089527.0,
+    "revenue": 86101000.0,
+    "net_income": 26185000.0,
+    "market_cap": null
+  }
+]

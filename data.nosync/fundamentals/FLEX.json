@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2026",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 376000000.0,
+    "revenue": 7058000000.0,
+    "net_income": 239000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2026",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 380000000.0,
+    "revenue": 6804000000.0,
+    "net_income": 199000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2026",
+    "filing_date": "2025-07-25",
+    "shares_outstanding": 381000000.0,
+    "revenue": 6575000000.0,
+    "net_income": 192000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2025",
+    "filing_date": "2025-05-21",
+    "shares_outstanding": 398000000.0,
+    "revenue": 25813000000.0,
+    "net_income": 838000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2025",
+    "filing_date": "2025-01-31",
+    "shares_outstanding": 394000000.0,
+    "revenue": 6556000000.0,
+    "net_income": 263000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2025",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 400000000.0,
+    "revenue": 6545000000.0,
+    "net_income": 214000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2024",
+    "filing_date": "2024-05-17",
+    "shares_outstanding": 441000000.0,
+    "revenue": 26415000000.0,
+    "net_income": 1245000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2024",
+    "filing_date": "2024-02-02",
+    "shares_outstanding": 436000000.0,
+    "revenue": 6421000000.0,
+    "net_income": 233000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2024",
+    "filing_date": "2023-10-30",
+    "shares_outstanding": 448000000.0,
+    "revenue": 6933000000.0,
+    "net_income": 406000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2024",
+    "filing_date": "2023-07-31",
+    "shares_outstanding": 455000000.0,
+    "revenue": 6892000000.0,
+    "net_income": 211000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2023",
+    "filing_date": "2023-05-19",
+    "shares_outstanding": 462000000.0,
+    "revenue": 30346000000.0,
+    "net_income": 1033000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2023",
+    "filing_date": "2023-01-27",
+    "shares_outstanding": 459000000.0,
+    "revenue": 7756000000.0,
+    "net_income": 237000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2023",
+    "filing_date": "2022-10-31",
+    "shares_outstanding": 460000000.0,
+    "revenue": 7766000000.0,
+    "net_income": 238000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2023",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 468000000.0,
+    "revenue": 7347000000.0,
+    "net_income": 195000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2022",
+    "filing_date": "2022-05-20",
+    "shares_outstanding": 483000000.0,
+    "revenue": 26041000000.0,
+    "net_income": 940000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2022",
+    "filing_date": "2022-02-04",
+    "shares_outstanding": 474000000.0,
+    "revenue": 6619000000.0,
+    "net_income": 227000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2022",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 487000000.0,
+    "revenue": 6229000000.0,
+    "net_income": 336000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2022",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 499000000.0,
+    "revenue": 6342000000.0,
+    "net_income": 206000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2021",
+    "filing_date": "2021-05-19",
+    "shares_outstanding": 506000000.0,
+    "revenue": 24124000000.0,
+    "net_income": 613000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2021",
+    "filing_date": "2021-01-29",
+    "shares_outstanding": 508000000.0,
+    "revenue": 6720000000.0,
+    "net_income": 208000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2021",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 504000000.0,
+    "revenue": 5985000000.0,
+    "net_income": 113000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2021",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 501632000.0,
+    "revenue": 5153333000.0,
+    "net_income": 51820000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2020",
+    "filing_date": "2020-05-28",
+    "shares_outstanding": 512437000.0,
+    "revenue": 24209870000.0,
+    "net_income": 87579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2020",
+    "filing_date": "2020-01-31",
+    "shares_outstanding": 510339000.0,
+    "revenue": 6461387000.0,
+    "net_income": 111388000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2020",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 512692000.0,
+    "revenue": 6088054000.0,
+    "net_income": -116940000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2020",
+    "filing_date": "2019-07-26",
+    "shares_outstanding": 517550000.0,
+    "revenue": 6175939000.0,
+    "net_income": 44872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2019",
+    "filing_date": "2019-05-21",
+    "shares_outstanding": 530070000.0,
+    "revenue": 26210511000.0,
+    "net_income": 93399000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2019",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 524876000.0,
+    "revenue": 6922827000.0,
+    "net_income": -45169000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2019",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 534458000.0,
+    "revenue": 6662604000.0,
+    "net_income": 86885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2019",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 535454000.0,
+    "revenue": 6398956000.0,
+    "net_income": 116035000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2018",
+    "filing_date": "2018-06-14",
+    "shares_outstanding": 536598000.0,
+    "revenue": 25441131000.0,
+    "net_income": 420961000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2018",
+    "filing_date": "2018-01-29",
+    "shares_outstanding": 534352000.0,
+    "revenue": 6751552000.0,
+    "net_income": 118333000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2018",
+    "filing_date": "2017-10-30",
+    "shares_outstanding": 536019000.0,
+    "revenue": 6270420000.0,
+    "net_income": 205086000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2018",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 538633000.0,
+    "revenue": 6008272000.0,
+    "net_income": 124710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2017",
+    "filing_date": "2017-05-16",
+    "shares_outstanding": 546220000.0,
+    "revenue": 23862934000.0,
+    "net_income": 311072000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2017",
+    "filing_date": "2017-01-27",
+    "shares_outstanding": 545022000.0,
+    "revenue": 6114999000.0,
+    "net_income": 129469000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2017",
+    "filing_date": "2016-10-31",
+    "shares_outstanding": 544055000.0,
+    "revenue": 6008525000.0,
+    "net_income": -2508000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2017",
+    "filing_date": "2016-07-27",
+    "shares_outstanding": 551029000.0,
+    "revenue": 5876813000.0,
+    "net_income": 105729000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2016",
+    "filing_date": "2016-05-20",
+    "shares_outstanding": 564869000.0,
+    "revenue": 24418885000.0,
+    "net_income": 437366000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2016",
+    "filing_date": "2016-02-01",
+    "shares_outstanding": 560996000.0,
+    "revenue": 6763177000.0,
+    "net_income": 148910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2016",
+    "filing_date": "2015-10-26",
+    "shares_outstanding": 569655000.0,
+    "revenue": 6316762000.0,
+    "net_income": 122977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2016",
+    "filing_date": "2015-07-27",
+    "shares_outstanding": 577997000.0,
+    "revenue": 5566248000.0,
+    "net_income": 110850000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2015",
+    "filing_date": "2015-05-21",
+    "shares_outstanding": 591556000.0,
+    "revenue": 26147916000.0,
+    "net_income": 600801000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2015",
+    "filing_date": "2015-01-29",
+    "shares_outstanding": 587201000.0,
+    "revenue": 7025054000.0,
+    "net_income": 152899000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2015",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 595871000.0,
+    "revenue": 6528517000.0,
+    "net_income": 138903000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2015",
+    "filing_date": "2014-07-28",
+    "shares_outstanding": 601300000.0,
+    "revenue": 6642745000.0,
+    "net_income": 173887000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2014",
+    "filing_date": "2014-05-20",
+    "shares_outstanding": 623479000.0,
+    "revenue": 26108607000.0,
+    "net_income": 365594000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2014",
+    "filing_date": "2014-01-31",
+    "shares_outstanding": 618677000.0,
+    "revenue": 7183442000.0,
+    "net_income": 145157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2014",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 623620000.0,
+    "revenue": 6410106000.0,
+    "net_income": 118205000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2014",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 639899000.0,
+    "revenue": 5791125000.0,
+    "net_income": 59257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2013",
+    "filing_date": "2013-05-28",
+    "shares_outstanding": 675033000.0,
+    "revenue": 23569475000.0,
+    "net_income": 277051000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2013",
+    "filing_date": "2013-02-04",
+    "shares_outstanding": 669488000.0,
+    "revenue": 6123321000.0,
+    "net_income": 47348000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2013",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 678086000.0,
+    "revenue": 6174841000.0,
+    "net_income": 150547000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2013",
+    "filing_date": "2012-07-30",
+    "shares_outstanding": 688256000.0,
+    "revenue": 5975995000.0,
+    "net_income": 128472000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2012",
+    "filing_date": "2012-05-29",
+    "shares_outstanding": 727807000.0,
+    "revenue": 29387656000.0,
+    "net_income": 488765000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q3 2012",
+    "filing_date": "2012-02-02",
+    "shares_outstanding": 720894000.0,
+    "revenue": 7479823000.0,
+    "net_income": 102177000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2012",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 731049000.0,
+    "revenue": 8019217000.0,
+    "net_income": 129880000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2012",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 759823000.0,
+    "revenue": 7506204000.0,
+    "net_income": 131975000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "FY 2011",
+    "filing_date": "2011-05-23",
+    "shares_outstanding": 790192000.0,
+    "revenue": 28679925000.0,
+    "net_income": 596219000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q2 2010",
+    "filing_date": "2009-11-03",
+    "shares_outstanding": 817260000.0,
+    "revenue": 5831761000.0,
+    "net_income": 19659000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLEX",
+    "period": "Q1 2010",
+    "filing_date": "2009-08-04",
+    "shares_outstanding": 810174000.0,
+    "revenue": 5782679000.0,
+    "net_income": -154043000.0,
+    "market_cap": null
+  }
+]

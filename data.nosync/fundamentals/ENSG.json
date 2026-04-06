@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "ENSG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 58873000.0,
+    "revenue": 5057841000.0,
+    "net_income": 344264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 58873000.0,
+    "revenue": 5057841000.0,
+    "net_income": 344264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-03",
+    "shares_outstanding": 58956000.0,
+    "revenue": 1296405000.0,
+    "net_income": 83911000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 58602000.0,
+    "revenue": 1227769000.0,
+    "net_income": 84466000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 58500000.0,
+    "revenue": 1173041000.0,
+    "net_income": 80353000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2024",
+    "filing_date": "2025-02-05",
+    "shares_outstanding": 58240000.0,
+    "revenue": 4260485000.0,
+    "net_income": 298458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 58444000.0,
+    "revenue": 1081776000.0,
+    "net_income": 78567000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 58013000.0,
+    "revenue": 1036285000.0,
+    "net_income": 71181000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 57921000.0,
+    "revenue": 1010172000.0,
+    "net_income": 68960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-01",
+    "shares_outstanding": 57323000.0,
+    "revenue": 3729355000.0,
+    "net_income": 209850000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 57337000.0,
+    "revenue": 940791000.0,
+    "net_income": 63968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 57260000.0,
+    "revenue": 921345000.0,
+    "net_income": 64090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 57098000.0,
+    "revenue": 886841000.0,
+    "net_income": 59969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2022",
+    "filing_date": "2023-02-02",
+    "shares_outstanding": 56871000.0,
+    "revenue": 3025468000.0,
+    "net_income": 224652000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 56761000.0,
+    "revenue": 770005000.0,
+    "net_income": 56242000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-01",
+    "shares_outstanding": 56853000.0,
+    "revenue": 732486000.0,
+    "net_income": 57803000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 56871000.0,
+    "revenue": 713445000.0,
+    "net_income": 50088000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2021",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 56925000.0,
+    "revenue": 2627461000.0,
+    "net_income": 197725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 56971000.0,
+    "revenue": 668530000.0,
+    "net_income": 48344000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 56997000.0,
+    "revenue": 638536000.0,
+    "net_income": 50583000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 56891000.0,
+    "revenue": 627253000.0,
+    "net_income": 49837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2020",
+    "filing_date": "2021-02-03",
+    "shares_outstanding": 55787000.0,
+    "revenue": 2402596000.0,
+    "net_income": 171364000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 55713000.0,
+    "revenue": 599255000.0,
+    "net_income": 43313000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 55181000.0,
+    "revenue": 584699000.0,
+    "net_income": 40688000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 55796000.0,
+    "revenue": 589613000.0,
+    "net_income": 41201000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2019",
+    "filing_date": "2020-02-05",
+    "shares_outstanding": 55981000.0,
+    "revenue": 2036524000.0,
+    "net_income": 111686000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 56364000.0,
+    "revenue": 600507000.0,
+    "net_income": 27828000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 56078000.0,
+    "revenue": 575651000.0,
+    "net_income": 28925000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-06",
+    "shares_outstanding": 55698000.0,
+    "revenue": 549214000.0,
+    "net_income": 27607000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2018",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 54397000.0,
+    "revenue": 2040659000.0,
+    "net_income": 92528000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 54632000.0,
+    "revenue": 514364000.0,
+    "net_income": 20350000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 54251000.0,
+    "revenue": 496386000.0,
+    "net_income": 22326000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 53518000.0,
+    "revenue": 492134000.0,
+    "net_income": 23293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2017",
+    "filing_date": "2018-02-08",
+    "shares_outstanding": 52829000.0,
+    "revenue": 1849317000.0,
+    "net_income": 40833000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 52828000.0,
+    "revenue": 471594000.0,
+    "net_income": 14275000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q4 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 52548000.0,
+    "revenue": 448279000.0,
+    "net_income": 12380000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2016",
+    "filing_date": "2017-02-08",
+    "shares_outstanding": 52133000.0,
+    "revenue": 1654864000.0,
+    "net_income": 52843000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 52045000.0,
+    "revenue": 428065000.0,
+    "net_income": 11184000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-01",
+    "shares_outstanding": 51931000.0,
+    "revenue": 410517000.0,
+    "net_income": 11363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q4 2016",
+    "filing_date": "2016-05-10",
+    "shares_outstanding": 52334000.0,
+    "revenue": 383234000.0,
+    "net_income": 9290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2015",
+    "filing_date": "2016-02-10",
+    "shares_outstanding": 52210000.0,
+    "revenue": 1341826000.0,
+    "net_income": 55917000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 26535000.0,
+    "revenue": 351086000.0,
+    "net_income": 13159000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 26433000.0,
+    "revenue": 311056000.0,
+    "net_income": 13233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 24826000.0,
+    "revenue": 306529000.0,
+    "net_income": 15088000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2014",
+    "filing_date": "2015-02-09",
+    "shares_outstanding": 23095000.0,
+    "revenue": 1027406000.0,
+    "net_income": 33741000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 23186000.0,
+    "revenue": 260841000.0,
+    "net_income": 8371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 22960000.0,
+    "revenue": 250043000.0,
+    "net_income": 1533000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": -45000.0,
+    "revenue": 239653000.0,
+    "net_income": 13041000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2013",
+    "filing_date": "2014-02-13",
+    "shares_outstanding": 357257000.0,
+    "revenue": 904556000.0,
+    "net_income": 23854000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 341770000.0,
+    "revenue": 229261000.0,
+    "net_income": 10612000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 330251000.0,
+    "revenue": 220086000.0,
+    "net_income": 12404000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 316916000.0,
+    "revenue": 218201000.0,
+    "net_income": -12511000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2012",
+    "filing_date": "2013-02-13",
+    "shares_outstanding": 327884000.0,
+    "revenue": 824719000.0,
+    "net_income": 40591000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 319064000.0,
+    "revenue": 207150000.0,
+    "net_income": 13294000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 304943000.0,
+    "revenue": 204308000.0,
+    "net_income": 12456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-02",
+    "shares_outstanding": 21796000.0,
+    "revenue": 202160000.0,
+    "net_income": 12904000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "FY 2011",
+    "filing_date": "2012-02-16",
+    "shares_outstanding": 21583000.0,
+    "revenue": 758277000.0,
+    "net_income": 47675000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 21570000.0,
+    "revenue": 196346000.0,
+    "net_income": 11598000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ENSG",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-03",
+    "shares_outstanding": 21579000.0,
+    "revenue": 186326000.0,
+    "net_income": 12976000.0,
+    "market_cap": null
+  }
+]

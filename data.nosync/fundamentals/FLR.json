@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "FLR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 164000000.0,
+    "revenue": 15503000000.0,
+    "net_income": -62000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 164000000.0,
+    "revenue": 15503000000.0,
+    "net_income": -62000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 162000000.0,
+    "revenue": 3368000000.0,
+    "net_income": -707000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 166000000.0,
+    "revenue": 3978000000.0,
+    "net_income": 2438000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 169000000.0,
+    "revenue": 3982000000.0,
+    "net_income": -232000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-18",
+    "shares_outstanding": 174000000.0,
+    "revenue": 16315000000.0,
+    "net_income": 2084000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 174000000.0,
+    "revenue": 4094000000.0,
+    "net_income": 25000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 174000000.0,
+    "revenue": 4227000000.0,
+    "net_income": 153000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 173000000.0,
+    "revenue": 3734000000.0,
+    "net_income": 40000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 153000000.0,
+    "revenue": 15474000000.0,
+    "net_income": 79000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 147000000.0,
+    "revenue": 3963000000.0,
+    "net_income": 181000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 172000000.0,
+    "revenue": 3939000000.0,
+    "net_income": 68000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 142000000.0,
+    "revenue": 3752000000.0,
+    "net_income": -130000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 145000000.0,
+    "revenue": 13744000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 145000000.0,
+    "revenue": 3612000000.0,
+    "net_income": -24000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 172000000.0,
+    "revenue": 3299000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 142000000.0,
+    "revenue": 3122000000.0,
+    "net_income": 56000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 141275000.0,
+    "revenue": 12434879000.0,
+    "net_income": -401746000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 141412000.0,
+    "revenue": 3103000000.0,
+    "net_income": 37350000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 141374000.0,
+    "revenue": 3236000000.0,
+    "net_income": -121910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 140900000.0,
+    "revenue": 2939000000.0,
+    "net_income": -53912000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 140511000.0,
+    "revenue": 15668477000.0,
+    "net_income": -366791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2020",
+    "filing_date": "2020-12-10",
+    "shares_outstanding": 141168000.0,
+    "revenue": 3803200000.0,
+    "net_income": 23640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2020",
+    "filing_date": "2020-11-12",
+    "shares_outstanding": 140536000.0,
+    "revenue": 4091000000.0,
+    "net_income": -18262000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 140262000.0,
+    "revenue": 4118600000.0,
+    "net_income": -256450000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2019",
+    "filing_date": "2020-09-25",
+    "shares_outstanding": 140061000.0,
+    "revenue": 14348018000.0,
+    "net_income": -1553124000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 140163000.0,
+    "revenue": 3910400000.0,
+    "net_income": -730653000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 140141000.0,
+    "revenue": 3424500000.0,
+    "net_income": -452699000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 139776000.0,
+    "revenue": 3377500000.0,
+    "net_income": -45045000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 141272000.0,
+    "revenue": 19166600000.0,
+    "net_income": 292958000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 141549000.0,
+    "revenue": 4658000000.0,
+    "net_income": 96000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 141306000.0,
+    "revenue": 4883800000.0,
+    "net_income": 131200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 140099000.0,
+    "revenue": 4823800000.0,
+    "net_income": -12100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-20",
+    "shares_outstanding": 140893000.0,
+    "revenue": 19520970000.0,
+    "net_income": 264469000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 140830000.0,
+    "revenue": 4941600000.0,
+    "net_income": 112900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 139818000.0,
+    "revenue": 4716100000.0,
+    "net_income": -6600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 140958000.0,
+    "revenue": 4835900000.0,
+    "net_income": 77400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 140912000.0,
+    "revenue": 19036525000.0,
+    "net_income": 327449000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 140924000.0,
+    "revenue": 4766900000.0,
+    "net_income": 17400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 140801000.0,
+    "revenue": 4856100000.0,
+    "net_income": 120000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 140865000.0,
+    "revenue": 4423900000.0,
+    "net_income": 119000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-18",
+    "shares_outstanding": 146722000.0,
+    "revenue": 18114048000.0,
+    "net_income": 475006000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 146085000.0,
+    "revenue": 4384600000.0,
+    "net_income": 181700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 147921000.0,
+    "revenue": 4810100000.0,
+    "net_income": 160700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 149915000.0,
+    "revenue": 4548600000.0,
+    "net_income": 165600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-18",
+    "shares_outstanding": 159616000.0,
+    "revenue": 21531577000.0,
+    "net_income": 647543000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 159456000.0,
+    "revenue": 5440100000.0,
+    "net_income": 114900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 160454000.0,
+    "revenue": 5251700000.0,
+    "net_income": 110000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 162360000.0,
+    "revenue": 5384600000.0,
+    "net_income": 193300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-18",
+    "shares_outstanding": 164354000.0,
+    "revenue": 27351573000.0,
+    "net_income": 823026000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 164845000.0,
+    "revenue": 6684200000.0,
+    "net_income": 217400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 164135000.0,
+    "revenue": 7190300000.0,
+    "net_income": 207300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-02",
+    "shares_outstanding": 163991000.0,
+    "revenue": 7185600000.0,
+    "net_income": 213300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-20",
+    "shares_outstanding": 168491000.0,
+    "revenue": 27577135000.0,
+    "net_income": 571067000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 167968000.0,
+    "revenue": 7136100000.0,
+    "net_income": 172300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 169440000.0,
+    "revenue": 7128200000.0,
+    "net_income": 192500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 170406000.0,
+    "revenue": 6290100000.0,
+    "net_income": 177200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-22",
+    "shares_outstanding": 174564000.0,
+    "revenue": 23381399000.0,
+    "net_income": 698087000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 173178000.0,
+    "revenue": 6037600000.0,
+    "net_income": 161600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 175257000.0,
+    "revenue": 6033900000.0,
+    "net_income": 191500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 179022000.0,
+    "revenue": 5057800000.0,
+    "net_income": 161200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-09",
+    "shares_outstanding": 181124000.0,
+    "revenue": 5420488000.0,
+    "net_income": 174004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-10",
+    "shares_outstanding": 181198000.0,
+    "revenue": 5292554000.0,
+    "net_income": 176339000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FLR",
+    "period": "Q1 2009",
+    "filing_date": "2009-05-11",
+    "shares_outstanding": 181204000.0,
+    "revenue": 5797889000.0,
+    "net_income": 204799000.0,
+    "market_cap": null
+  }
+]

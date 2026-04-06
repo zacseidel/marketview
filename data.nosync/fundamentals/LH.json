@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "LH",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 83800000.0,
+    "revenue": 13951700000.0,
+    "net_income": 877700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 83800000.0,
+    "revenue": 13951700000.0,
+    "net_income": 877700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 83700000.0,
+    "revenue": 3563500000.0,
+    "net_income": 261500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 83900000.0,
+    "revenue": 3527300000.0,
+    "net_income": 238300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 84300000.0,
+    "revenue": 3345100000.0,
+    "net_income": 213000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 84400000.0,
+    "revenue": 13008900000.0,
+    "net_income": 747100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 84400000.0,
+    "revenue": 3282000000.0,
+    "net_income": 169600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 84300000.0,
+    "revenue": 3220900000.0,
+    "net_income": 205600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 84700000.0,
+    "revenue": 3176600000.0,
+    "net_income": 228300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-26",
+    "shares_outstanding": 87600000.0,
+    "revenue": 12161600000.0,
+    "net_income": 419200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-30",
+    "shares_outstanding": 87000000.0,
+    "revenue": 3056800000.0,
+    "net_income": 183600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 89000000.0,
+    "revenue": 3033700000.0,
+    "net_income": 189100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 89000000.0,
+    "revenue": 3777900000.0,
+    "net_income": 213300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 91600000.0,
+    "revenue": 14876800000.0,
+    "net_income": 1280600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 90700000.0,
+    "revenue": 3606100000.0,
+    "net_income": 353200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-01",
+    "shares_outstanding": 92700000.0,
+    "revenue": 3696900000.0,
+    "net_income": 358900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 94000000.0,
+    "revenue": 3899600000.0,
+    "net_income": 492100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 97500000.0,
+    "revenue": 16120900000.0,
+    "net_income": 2379500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 97100000.0,
+    "revenue": 4062600000.0,
+    "net_income": 587800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 98200000.0,
+    "revenue": 3840700000.0,
+    "net_income": 468000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 98500000.0,
+    "revenue": 4161500000.0,
+    "net_income": 770100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 98000000.0,
+    "revenue": 13978500000.0,
+    "net_income": 1557000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 98100000.0,
+    "revenue": 3896100000.0,
+    "net_income": 703700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 97700000.0,
+    "revenue": 2768800000.0,
+    "net_income": 231600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 97200000.0,
+    "revenue": 2823800000.0,
+    "net_income": -316900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 98600000.0,
+    "revenue": 11554800000.0,
+    "net_income": 824900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 98300000.0,
+    "revenue": 2928500000.0,
+    "net_income": 221000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 98800000.0,
+    "revenue": 2881700000.0,
+    "net_income": 190700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 99500000.0,
+    "revenue": 2791200000.0,
+    "net_income": 185900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 102600000.0,
+    "revenue": 11333400000.0,
+    "net_income": 883900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 102700000.0,
+    "revenue": 2831300000.0,
+    "net_income": 319000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-27",
+    "shares_outstanding": 103000000.0,
+    "revenue": 2866300000.0,
+    "net_income": 234100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-01",
+    "shares_outstanding": 103400000.0,
+    "revenue": 2848300000.0,
+    "net_income": 172500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 103900000.0,
+    "revenue": 10441400000.0,
+    "net_income": 1274000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 103700000.0,
+    "revenue": 2597900000.0,
+    "net_income": 183400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 102400000.0,
+    "revenue": 2498400000.0,
+    "net_income": 188900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 104300000.0,
+    "revenue": 2408100000.0,
+    "net_income": 192500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 104300000.0,
+    "revenue": 9641800000.0,
+    "net_income": 733200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 104900000.0,
+    "revenue": 2372700000.0,
+    "net_income": 179800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 103900000.0,
+    "revenue": 2382000000.0,
+    "net_income": 198500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 103600000.0,
+    "revenue": 2295200000.0,
+    "net_income": 160500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 100600000.0,
+    "revenue": 8680100000.0,
+    "net_income": 438000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 102900000.0,
+    "revenue": 2269900000.0,
+    "net_income": 153100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 102500000.0,
+    "revenue": 2218700000.0,
+    "net_income": 168700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-04",
+    "shares_outstanding": 93800000.0,
+    "revenue": 1772300000.0,
+    "net_income": 1000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 86400000.0,
+    "revenue": 6011600000.0,
+    "net_income": 512600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 86500000.0,
+    "revenue": 1551800000.0,
+    "net_income": 137500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-29",
+    "shares_outstanding": 86300000.0,
+    "revenue": 1516400000.0,
+    "net_income": 141700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-29",
+    "shares_outstanding": 86600000.0,
+    "revenue": 1430700000.0,
+    "net_income": 113500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 91800000.0,
+    "revenue": 5808300000.0,
+    "net_income": 575400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-28",
+    "shares_outstanding": -1100000.0,
+    "revenue": 1462200000.0,
+    "net_income": 148700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-30",
+    "shares_outstanding": 2663400000.0,
+    "revenue": 1468200000.0,
+    "net_income": 152300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 2778300000.0,
+    "revenue": 1440900000.0,
+    "net_income": 147600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 97400000.0,
+    "revenue": 5671400000.0,
+    "net_income": 584800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-30",
+    "shares_outstanding": 96800000.0,
+    "revenue": 1419400000.0,
+    "net_income": 148400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 98000000.0,
+    "revenue": 1423400000.0,
+    "net_income": 153800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-27",
+    "shares_outstanding": 99100000.0,
+    "revenue": 1423300000.0,
+    "net_income": 162000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 101800000.0,
+    "revenue": 5542300000.0,
+    "net_income": 533100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-31",
+    "shares_outstanding": 102200000.0,
+    "revenue": 1404500000.0,
+    "net_income": 137600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-02",
+    "shares_outstanding": 102800000.0,
+    "revenue": 1403300000.0,
+    "net_income": 126700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LH",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-04",
+    "shares_outstanding": 103200000.0,
+    "revenue": 1368400000.0,
+    "net_income": 130600000.0,
+    "market_cap": null
+  }
+]

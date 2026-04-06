@@ -1,0 +1,524 @@
+[
+  {
+    "ticker": "EGP",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 52814000.0,
+    "revenue": 721336000.0,
+    "net_income": 257458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 52814000.0,
+    "revenue": 721336000.0,
+    "net_income": 257458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-23",
+    "shares_outstanding": 52579000.0,
+    "revenue": 177286000.0,
+    "net_income": 63313000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-23",
+    "shares_outstanding": 52028000.0,
+    "revenue": 174449000.0,
+    "net_income": 59437000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 48999000.0,
+    "revenue": 162876000.0,
+    "net_income": 55194000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 48345000.0,
+    "revenue": 159090000.0,
+    "net_income": 55301000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 47961000.0,
+    "revenue": 154224000.0,
+    "net_income": 58658000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 45331000.0,
+    "revenue": 570591000.0,
+    "net_income": 200548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 45788000.0,
+    "revenue": 146530000.0,
+    "net_income": 48910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 44734000.0,
+    "revenue": 139887000.0,
+    "net_income": 43465000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 43823000.0,
+    "revenue": 135025000.0,
+    "net_income": 44704000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2022",
+    "filing_date": "2023-02-15",
+    "shares_outstanding": 42712000.0,
+    "revenue": 487025000.0,
+    "net_income": 186274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 43581000.0,
+    "revenue": 125658000.0,
+    "net_income": 37817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 42316000.0,
+    "revenue": 118553000.0,
+    "net_income": 46165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 41359000.0,
+    "revenue": 112974000.0,
+    "net_income": 63604000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 40377000.0,
+    "revenue": 409475000.0,
+    "net_income": 157638000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 40567000.0,
+    "revenue": 104597000.0,
+    "net_income": 30792000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 40165000.0,
+    "revenue": 99575000.0,
+    "net_income": 27578000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 39765000.0,
+    "revenue": 97931000.0,
+    "net_income": 27357000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2020",
+    "filing_date": "2021-02-17",
+    "shares_outstanding": 39296000.0,
+    "revenue": 363023000.0,
+    "net_income": 108391000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 39450000.0,
+    "revenue": 92012000.0,
+    "net_income": 24411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 39077000.0,
+    "revenue": 89715000.0,
+    "net_income": 23487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-04",
+    "shares_outstanding": 38961000.0,
+    "revenue": 88628000.0,
+    "net_income": 23298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2019",
+    "filing_date": "2020-02-13",
+    "shares_outstanding": 37527000.0,
+    "revenue": 331387000.0,
+    "net_income": 123340000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 37869000.0,
+    "revenue": 83938000.0,
+    "net_income": 22575000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-26",
+    "shares_outstanding": 37019000.0,
+    "revenue": 82101000.0,
+    "net_income": 26949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-24",
+    "shares_outstanding": 36526000.0,
+    "revenue": 78798000.0,
+    "net_income": 22534000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2018",
+    "filing_date": "2019-02-14",
+    "shares_outstanding": 35506000.0,
+    "revenue": 300392000.0,
+    "net_income": 88636000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-22",
+    "shares_outstanding": 35798000.0,
+    "revenue": 75326000.0,
+    "net_income": 23041000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-23",
+    "shares_outstanding": 35259000.0,
+    "revenue": 74885000.0,
+    "net_income": 18264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-23",
+    "shares_outstanding": 34736000.0,
+    "revenue": 72203000.0,
+    "net_income": 28748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2017",
+    "filing_date": "2018-02-14",
+    "shares_outstanding": 34047000.0,
+    "revenue": 274150000.0,
+    "net_income": 83589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-23",
+    "shares_outstanding": 34290000.0,
+    "revenue": 68746000.0,
+    "net_income": 15972000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 34040000.0,
+    "revenue": 67894000.0,
+    "net_income": 36977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-24",
+    "shares_outstanding": 33409000.0,
+    "revenue": 66154000.0,
+    "net_income": 12973000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2016",
+    "filing_date": "2017-02-15",
+    "shares_outstanding": 32628000.0,
+    "revenue": 253047000.0,
+    "net_income": 96094000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-21",
+    "shares_outstanding": 32823000.0,
+    "revenue": 63190000.0,
+    "net_income": 14800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-22",
+    "shares_outstanding": 32440000.0,
+    "revenue": 61917000.0,
+    "net_income": 44093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-22",
+    "shares_outstanding": 32307000.0,
+    "revenue": 61589000.0,
+    "net_income": 21830000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2015",
+    "filing_date": "2016-02-17",
+    "shares_outstanding": 32196000.0,
+    "revenue": 235008000.0,
+    "net_income": 48399000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-19",
+    "shares_outstanding": 32248000.0,
+    "revenue": 58553000.0,
+    "net_income": 12097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-20",
+    "shares_outstanding": 32139000.0,
+    "revenue": 57844000.0,
+    "net_income": 14663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-20",
+    "shares_outstanding": 32109000.0,
+    "revenue": 57592000.0,
+    "net_income": 10061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2014",
+    "filing_date": "2015-02-17",
+    "shares_outstanding": 31452000.0,
+    "revenue": 219829000.0,
+    "net_income": 48473000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-20",
+    "shares_outstanding": 31644000.0,
+    "revenue": 55957000.0,
+    "net_income": 17861000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-21",
+    "shares_outstanding": 31244000.0,
+    "revenue": 53819000.0,
+    "net_income": 9242000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-21",
+    "shares_outstanding": 30886000.0,
+    "revenue": 52812000.0,
+    "net_income": 8514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2013",
+    "filing_date": "2014-02-14",
+    "shares_outstanding": 30269000.0,
+    "revenue": 202171000.0,
+    "net_income": 33225000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-21",
+    "shares_outstanding": 30400000.0,
+    "revenue": 51250000.0,
+    "net_income": 8514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-23",
+    "shares_outstanding": 30096000.0,
+    "revenue": 49179000.0,
+    "net_income": 7790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-22",
+    "shares_outstanding": 29890000.0,
+    "revenue": 48275000.0,
+    "net_income": 7308000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2012",
+    "filing_date": "2013-02-19",
+    "shares_outstanding": 28677000.0,
+    "revenue": 186178000.0,
+    "net_income": 32887000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-22",
+    "shares_outstanding": 29030000.0,
+    "revenue": 46997000.0,
+    "net_income": 6897000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-24",
+    "shares_outstanding": 28341000.0,
+    "revenue": 46472000.0,
+    "net_income": 8084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-25",
+    "shares_outstanding": 27718000.0,
+    "revenue": 46798000.0,
+    "net_income": 5522000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 26971000.0,
+    "revenue": 174631000.0,
+    "net_income": 22834000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-25",
+    "shares_outstanding": 26914000.0,
+    "revenue": 43962000.0,
+    "net_income": 5791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EGP",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-29",
+    "shares_outstanding": 26873000.0,
+    "revenue": 43278000.0,
+    "net_income": 4902000.0,
+    "market_cap": null
+  }
+]

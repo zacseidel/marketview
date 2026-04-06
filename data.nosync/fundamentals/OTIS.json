@@ -1,0 +1,209 @@
+[
+  {
+    "ticker": "OTIS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 394900000.0,
+    "revenue": 14431000000.0,
+    "net_income": 1455000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 394900000.0,
+    "revenue": 14431000000.0,
+    "net_income": 1455000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 392800000.0,
+    "revenue": 3690000000.0,
+    "net_income": 392000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 395800000.0,
+    "revenue": 3595000000.0,
+    "net_income": 423000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 399100000.0,
+    "revenue": 3350000000.0,
+    "net_income": 256000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 402700000.0,
+    "revenue": 3548000000.0,
+    "net_income": 557000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 405500000.0,
+    "revenue": 3601000000.0,
+    "net_income": 450000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 408100000.0,
+    "revenue": 3437000000.0,
+    "net_income": 374000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-02",
+    "shares_outstanding": 414600000.0,
+    "revenue": 14209000000.0,
+    "net_income": 1498000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 413700000.0,
+    "revenue": 3523000000.0,
+    "net_income": 395000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 416000000.0,
+    "revenue": 3720000000.0,
+    "net_income": 407000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 417800000.0,
+    "revenue": 3346000000.0,
+    "net_income": 352000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-03",
+    "shares_outstanding": 423000000.0,
+    "revenue": 13685000000.0,
+    "net_income": 1369000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 421200000.0,
+    "revenue": 3344000000.0,
+    "net_income": 350000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 424200000.0,
+    "revenue": 3488000000.0,
+    "net_income": 348000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 427700000.0,
+    "revenue": 3414000000.0,
+    "net_income": 353000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-04",
+    "shares_outstanding": 431400000.0,
+    "revenue": 14298000000.0,
+    "net_income": 1420000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-26",
+    "shares_outstanding": 430600000.0,
+    "revenue": 3620000000.0,
+    "net_income": 379000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 431600000.0,
+    "revenue": 3701000000.0,
+    "net_income": 379000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 433700000.0,
+    "revenue": 3408000000.0,
+    "net_income": 352000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-05",
+    "shares_outstanding": 434600000.0,
+    "revenue": 12756000000.0,
+    "net_income": 1056000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 435100000.0,
+    "revenue": 3268000000.0,
+    "net_income": 310000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OTIS",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 434100000.0,
+    "revenue": 3029000000.0,
+    "net_income": 265000000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "MUR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 144025000.0,
+    "revenue": 2718823000.0,
+    "net_income": 138799000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 144025000.0,
+    "revenue": 2718823000.0,
+    "net_income": 138799000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 142731000.0,
+    "revenue": 721000000.0,
+    "net_income": -8300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 143216000.0,
+    "revenue": 683000000.0,
+    "net_income": 35100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 145072000.0,
+    "revenue": 672700000.0,
+    "net_income": 89400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 151027000.0,
+    "revenue": 3028474000.0,
+    "net_income": 486485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 150353000.0,
+    "revenue": 753200000.0,
+    "net_income": 151100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 153144000.0,
+    "revenue": 801000000.0,
+    "net_income": 156300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 153817000.0,
+    "revenue": 794800000.0,
+    "net_income": 114700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 156646000.0,
+    "revenue": 3460147000.0,
+    "net_income": 723681000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 156829000.0,
+    "revenue": 953800000.0,
+    "net_income": 277800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 157299000.0,
+    "revenue": 812900000.0,
+    "net_income": 91900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 157389000.0,
+    "revenue": 840000000.0,
+    "net_income": 214300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 157475000.0,
+    "revenue": 3932662000.0,
+    "net_income": 1138719000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 157336000.0,
+    "revenue": 1166400000.0,
+    "net_income": 574100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 157455000.0,
+    "revenue": 1196200000.0,
+    "net_income": 409500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 154916000.0,
+    "revenue": 871400000.0,
+    "net_income": -65500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 154291000.0,
+    "revenue": 2299281000.0,
+    "net_income": 47528000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 155932000.0,
+    "revenue": 687600000.0,
+    "net_income": 137300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 154395000.0,
+    "revenue": 758800000.0,
+    "net_income": -27000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 153953000.0,
+    "revenue": 592500000.0,
+    "net_income": -266800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 153507000.0,
+    "revenue": 1967341000.0,
+    "net_income": -1262445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 153596000.0,
+    "revenue": 425300000.0,
+    "net_income": -266600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 153581000.0,
+    "revenue": 285700000.0,
+    "net_income": -324400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 153313000.0,
+    "revenue": 600600000.0,
+    "net_income": -508700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 164812000.0,
+    "revenue": 2829053000.0,
+    "net_income": 1253302000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 160980000.0,
+    "revenue": 750300000.0,
+    "net_income": 1111700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 169272000.0,
+    "revenue": 680400000.0,
+    "net_income": 123200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 174491343.0,
+    "revenue": 629400000.0,
+    "net_income": 72800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 174175267.0,
+    "revenue": 674797000.0,
+    "net_income": 93944000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 173982620.0,
+    "revenue": 618194000.0,
+    "net_income": 45518000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 174619524.0,
+    "revenue": 585605000.0,
+    "net_income": 168253000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-26",
+    "shares_outstanding": 172524061.0,
+    "revenue": 2225129000.0,
+    "net_income": -311789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 172572873.0,
+    "revenue": 498300000.0,
+    "net_income": -65900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 172557978.0,
+    "revenue": 509700000.0,
+    "net_income": -17600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 173088691.0,
+    "revenue": 544700000.0,
+    "net_income": 58500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 172173012.0,
+    "revenue": 1874129000.0,
+    "net_income": -275970000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 172199350.0,
+    "revenue": 486300000.0,
+    "net_income": -16200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 172799827.0,
+    "revenue": 411200000.0,
+    "net_income": 2900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 172114012.0,
+    "revenue": 429100000.0,
+    "net_income": -198800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 174351227.0,
+    "revenue": 3033080000.0,
+    "net_income": -2270833000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 172205433.0,
+    "revenue": 665600000.0,
+    "net_income": -1595400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 174488842.0,
+    "revenue": 718600000.0,
+    "net_income": -73800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 178241616.0,
+    "revenue": 749200000.0,
+    "net_income": -14500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 180070984.0,
+    "revenue": 5476084000.0,
+    "net_income": 905611000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 178856078.0,
+    "revenue": 1431000000.0,
+    "net_income": 245700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 180045020.0,
+    "revenue": 1357900000.0,
+    "net_income": 129400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 182576570.0,
+    "revenue": 1281200000.0,
+    "net_income": 155300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 189271398.0,
+    "revenue": 5390089000.0,
+    "net_income": 1123473000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 188337511.0,
+    "revenue": 1366500000.0,
+    "net_income": 284800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 189944793.0,
+    "revenue": 1315600000.0,
+    "net_income": 402700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 191765395.0,
+    "revenue": 1298900000.0,
+    "net_income": 360600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 194668737.0,
+    "revenue": 28626046000.0,
+    "net_income": 970876000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 195057952.0,
+    "revenue": 7130600000.0,
+    "net_income": 226700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 194846202.0,
+    "revenue": 7146800000.0,
+    "net_income": 295400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 194884733.0,
+    "revenue": 6953900000.0,
+    "net_income": 290100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 194512402.0,
+    "revenue": 27745549000.0,
+    "net_income": 872702000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 194411116.0,
+    "revenue": 7240400000.0,
+    "net_income": 406100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 194916194.0,
+    "revenue": 7415900000.0,
+    "net_income": 311600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 194597368.0,
+    "revenue": 6271700000.0,
+    "net_income": 268900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2010",
+    "filing_date": "2011-02-28",
+    "shares_outstanding": 193157814.0,
+    "revenue": 23345071000.0,
+    "net_income": 798081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 193437992.0,
+    "revenue": 6072400000.0,
+    "net_income": 202800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 193169099.0,
+    "revenue": 5592300000.0,
+    "net_income": 272300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-07",
+    "shares_outstanding": 192929735.0,
+    "revenue": 5228700000.0,
+    "net_income": 148900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 192468450.0,
+    "revenue": 19012392000.0,
+    "net_income": 837621000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-06",
+    "shares_outstanding": 192641808.0,
+    "revenue": 5183757000.0,
+    "net_income": 188877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MUR",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-07",
+    "shares_outstanding": 192380595.0,
+    "revenue": 4555846000.0,
+    "net_income": 158770000.0,
+    "market_cap": null
+  }
+]

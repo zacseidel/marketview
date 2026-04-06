@@ -1,0 +1,92 @@
+[
+  {
+    "ticker": "CRH",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 677000000.0,
+    "revenue": 37447000000.0,
+    "net_income": 3790000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRH",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 677000000.0,
+    "revenue": 37447000000.0,
+    "net_income": 3790000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRH",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 675500000.0,
+    "revenue": 11069000000.0,
+    "net_income": 1519000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRH",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 677700000.0,
+    "revenue": 10206000000.0,
+    "net_income": 1332000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRH",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-05",
+    "shares_outstanding": 676700000.0,
+    "revenue": 6756000000.0,
+    "net_income": -98000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRH",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 689500000.0,
+    "revenue": 35572000000.0,
+    "net_income": 3521000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRH",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 685500000.0,
+    "revenue": 10515000000.0,
+    "net_income": 1389000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRH",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 688800000.0,
+    "revenue": 9654000000.0,
+    "net_income": 1309000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRH",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-10",
+    "shares_outstanding": 693400000.0,
+    "revenue": 6533000000.0,
+    "net_income": 114000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 729200000.0,
+    "revenue": 34949000000.0,
+    "net_income": 3072000000.0,
+    "market_cap": null
+  }
+]

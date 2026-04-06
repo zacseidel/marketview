@@ -28,7 +28,6 @@ _MODELS_DIR = Path("data.nosync/models")
 _DECISIONS_DIR = Path("data.nosync/decisions")
 _POSITIONS_FILE = Path("data.nosync/positions/positions.json")
 _QUEUE_FILE = Path("data.nosync/queue/pending.json")
-_RETURNS_FILE = Path("data.nosync/strategy_observations/returns.json")
 _HISTORY_GAPS_FILE = Path("data.nosync/quant/history_gaps.json")
 _VAL_METRICS_FILE = Path("data.nosync/quant/val_metrics.json")
 
@@ -107,15 +106,23 @@ def _load_benchmarks() -> dict:
 def _load_week_price_changes() -> dict[str, float]:
     """
     Returns {ticker: log_return} over the last ~5 trading days.
-    Uses the earliest and latest of the 6 most recent daily price files.
+    Uses the earliest and latest of the 6 most recent daily price files that have data.
+    Skips empty files (e.g. market holidays where ingestion ran but returned no bars).
     """
     files = sorted(f for f in _PRICES_DIR.glob("*.json") if f.stem[0].isdigit())
-    files = files[-6:]
-    if len(files) < 2:
+    # Walk newest-first and collect up to 6 files that actually have data (> 2 bytes = not `[]`)
+    populated: list[Path] = []
+    for f in reversed(files):
+        if f.stat().st_size > 2:
+            populated.append(f)
+            if len(populated) == 6:
+                break
+    if len(populated) < 2:
         return {}
-    with open(files[0]) as f:
+    populated.reverse()  # back to chronological order
+    with open(populated[0]) as f:
         early = {r["ticker"]: r["close"] for r in json.load(f) if r.get("close")}
-    with open(files[-1]) as f:
+    with open(populated[-1]) as f:
         latest = {r["ticker"]: r["close"] for r in json.load(f) if r.get("close")}
     return {
         t: math.log(latest[t] / early[t])
@@ -215,13 +222,6 @@ def _load_quant_val_metrics() -> dict:
     if not _VAL_METRICS_FILE.exists():
         return {}
     with open(_VAL_METRICS_FILE) as f:
-        return json.load(f)
-
-
-def _load_strategy_returns() -> dict:
-    if not _RETURNS_FILE.exists():
-        return {}
-    with open(_RETURNS_FILE) as f:
         return json.load(f)
 
 
@@ -390,66 +390,6 @@ def _render_confluence(all_holdings: dict[str, list[dict]]) -> str:
     </div>"""
 
 
-def _render_strategies_reference() -> str:
-    strategies = [
-        (
-            "stock",
-            "Own stock outright",
-            "Default — full upside/downside exposure. No options overlay.",
-            "Always available",
-        ),
-        (
-            "covered_call",
-            "Stock + short call &Delta;0.20–0.25, 21–45 DTE",
-            "Generates premium income on existing stock position. Caps upside at the short strike.",
-            "Sideways or mild bull market; high IV environments",
-        ),
-        (
-            "leap_otm",
-            "Long call 10% OTM, ~500 DTE",
-            "Leveraged bullish bet with defined max loss (premium paid). Requires ~2yr runway for thesis to play out.",
-            "High-conviction long with limited capital at risk",
-        ),
-        (
-            "diagonal",
-            "Long ITM call ~500 DTE + short call &Delta;0.20–0.25, 21–45 DTE",
-            "Owns deep ITM long call for delta exposure; sells near-term call to offset cost. Complex — requires active management of the short leg.",
-            "Bull market; want to reduce cost basis of long call over time",
-        ),
-        (
-            "csp",
-            "Short put ATM, ~21 DTE",
-            "Collects premium; obligated to buy stock at strike if assigned. Max profit = premium; loss = strike &minus; premium if stock falls to zero.",
-            "Willing to own stock at lower price; high IV; near support levels",
-        ),
-    ]
-
-    rows = ""
-    for name, structure, description, when in strategies:
-        rows += (
-            f'<tr>'
-            f'<td class="ticker">{name}</td>'
-            f'<td class="small">{structure}</td>'
-            f'<td class="muted small">{description}</td>'
-            f'<td class="muted small" style="color:#58a6ff">{when}</td>'
-            f'</tr>'
-        )
-
-    return f"""
-    <div class="card wide">
-      <h2>Options Strategy Reference</h2>
-      <table>
-        <thead><tr>
-          <td class="muted small">Strategy</td>
-          <td class="muted small">Structure</td>
-          <td class="muted small">Mechanics</td>
-          <td class="muted small">Use When</td>
-        </tr></thead>
-        <tbody>{rows}</tbody>
-      </table>
-    </div>"""
-
-
 def _render_decision_row(r: dict) -> str:
     action = r.get("action", "")
     action_color = "#3fb950" if action == "buy" else "#f85149"
@@ -482,30 +422,6 @@ def _render_position_row(p: dict) -> str:
         f'<td style="color:{pnl_color}">{pnl_str}</td>'
         f'</tr>'
     )
-
-
-def _render_strategy_rows(returns: dict) -> str:
-    if not returns:
-        return '<tr><td colspan="6" class="muted">No closed strategy observations yet</td></tr>'
-    rows = ""
-    for model in sorted(returns):
-        for strategy in sorted(returns[model]):
-            s = returns[model][strategy]
-            mean = s["mean_log_return"]
-            win = s.get("win_rate")
-            win_str = f"{win*100:.0f}%" if win is not None else "—"
-            mean_color = "#3fb950" if mean > 0 else "#f85149" if mean < 0 else "#8b949e"
-            rows += (
-                f'<tr>'
-                f'<td class="muted small">{model}</td>'
-                f'<td class="ticker">{strategy}</td>'
-                f'<td>{s["count"]}</td>'
-                f'<td style="color:{mean_color}">{mean:+.4f}</td>'
-                f'<td class="muted">{s["std_log_return"]:.4f}</td>'
-                f'<td>{win_str}</td>'
-                f'</tr>'
-            )
-    return rows
 
 
 def _render_quant_scorecard(metrics: dict) -> str:
@@ -598,7 +514,6 @@ def _build_html(
     decisions: list[dict],
     positions: list[dict],
     queue: dict,
-    strategy_returns: dict,
     history_gaps: dict,
     quant_metrics: dict,
     price_changes: dict[str, float],
@@ -629,7 +544,6 @@ def _build_html(
         holdings_cards = '<div class="card wide"><h2>Model Holdings</h2><p class="muted">No model evaluations yet</p></div>'
 
     confluence_card = _render_confluence(all_holdings)
-    strategies_reference = _render_strategies_reference()
     history_gaps_card = _render_history_gaps_card(history_gaps)
     quant_scorecard = _render_quant_scorecard(quant_metrics)
 
@@ -649,7 +563,6 @@ def _build_html(
 
     queue_rows = _render_queue_rows(queue.get("by_type", {}))
     queue_total = queue.get("total", 0)
-    strategy_rows = _render_strategy_rows(strategy_returns)
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -801,25 +714,6 @@ def _build_html(
       </table>
     </div>
 
-    <!-- Options Strategy Reference -->
-    {strategies_reference}
-
-    <!-- Strategy Returns by Model -->
-    <div class="card wide">
-      <h2>Strategy Returns by Model</h2>
-      <table>
-        <thead><tr>
-          <td class="muted small">Model</td>
-          <td class="muted small">Strategy</td>
-          <td class="muted small">N</td>
-          <td class="muted small">Mean Log Return</td>
-          <td class="muted small">Std Dev</td>
-          <td class="muted small">Win Rate</td>
-        </tr></thead>
-        <tbody>{strategy_rows}</tbody>
-      </table>
-    </div>
-
   </div>
 </body>
 </html>"""
@@ -841,13 +735,12 @@ def generate_daily_dashboard(as_of_date: str | None = None) -> None:
     decisions = _load_recent_decisions()
     positions = _load_open_positions()
     queue = _load_queue_stats()
-    strategy_returns = _load_strategy_returns()
     history_gaps = _load_history_gaps()
     quant_metrics = _load_quant_val_metrics()
 
     html = _build_html(
         generated_at, universe, market, model_eval,
-        all_holdings, decisions, positions, queue, strategy_returns, history_gaps,
+        all_holdings, decisions, positions, queue, history_gaps,
         quant_metrics, price_changes,
     )
 

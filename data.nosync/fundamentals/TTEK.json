@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2026",
+    "filing_date": "2026-01-30",
+    "shares_outstanding": 262731000.0,
+    "revenue": 1210663000.0,
+    "net_income": 105222000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2025",
+    "filing_date": "2025-11-20",
+    "shares_outstanding": 267123000.0,
+    "revenue": 5442590000.0,
+    "net_income": 247949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 264855000.0,
+    "revenue": 1369816000.0,
+    "net_income": 113883000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 267439000.0,
+    "revenue": 1322113000.0,
+    "net_income": 5412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2025",
+    "filing_date": "2025-01-31",
+    "shares_outstanding": 271886000.0,
+    "revenue": 1420561000.0,
+    "net_income": 778000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2024",
+    "filing_date": "2024-11-19",
+    "shares_outstanding": 270042000.0,
+    "revenue": 5198679000.0,
+    "net_income": 333443000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 270260000.0,
+    "revenue": 1344323000.0,
+    "net_income": 85824000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 269375000.0,
+    "revenue": 1251616000.0,
+    "net_income": 76459000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2024",
+    "filing_date": "2024-02-02",
+    "shares_outstanding": 268690000.0,
+    "revenue": 1228267000.0,
+    "net_income": 74980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2023",
+    "filing_date": "2023-11-22",
+    "shares_outstanding": 53637000.0,
+    "revenue": 4522550000.0,
+    "net_income": 273452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2023",
+    "filing_date": "2023-08-10",
+    "shares_outstanding": 53653000.0,
+    "revenue": 1208947000.0,
+    "net_income": 60238000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-11",
+    "shares_outstanding": 53627000.0,
+    "revenue": 1158226000.0,
+    "net_income": 42841000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2023",
+    "filing_date": "2023-02-03",
+    "shares_outstanding": 53529000.0,
+    "revenue": 894766000.0,
+    "net_income": 116715000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2022",
+    "filing_date": "2022-11-25",
+    "shares_outstanding": 54163000.0,
+    "revenue": 3504048000.0,
+    "net_income": 263164000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 54006000.0,
+    "revenue": 890231000.0,
+    "net_income": 58657000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 54346000.0,
+    "revenue": 852744000.0,
+    "net_income": 53049000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2022",
+    "filing_date": "2022-02-04",
+    "shares_outstanding": 54577000.0,
+    "revenue": 858510000.0,
+    "net_income": 68499000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2021",
+    "filing_date": "2021-11-24",
+    "shares_outstanding": 54675000.0,
+    "revenue": 3213513000.0,
+    "net_income": 232831000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 54666000.0,
+    "revenue": 801633000.0,
+    "net_income": 51924000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 54736000.0,
+    "revenue": 754764000.0,
+    "net_income": 45528000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2021",
+    "filing_date": "2021-01-29",
+    "shares_outstanding": 54637000.0,
+    "revenue": 765104000.0,
+    "net_income": 52448000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2020",
+    "filing_date": "2020-11-23",
+    "shares_outstanding": 55022000.0,
+    "revenue": 2994891000.0,
+    "net_income": 173890000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 54692000.0,
+    "revenue": 709771000.0,
+    "net_income": 45503000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 55463000.0,
+    "revenue": 734133000.0,
+    "net_income": 36413000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2020",
+    "filing_date": "2020-01-31",
+    "shares_outstanding": 55438000.0,
+    "revenue": 797623000.0,
+    "net_income": 47317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2019",
+    "filing_date": "2019-11-29",
+    "shares_outstanding": 55936000.0,
+    "revenue": 3107348000.0,
+    "net_income": 158761000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 55768000.0,
+    "revenue": 825793000.0,
+    "net_income": 49251000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 55985000.0,
+    "revenue": 722621000.0,
+    "net_income": 55944000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2019",
+    "filing_date": "2019-02-01",
+    "shares_outstanding": 56366000.0,
+    "revenue": 717431000.0,
+    "net_income": 42032000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2018",
+    "filing_date": "2018-11-16",
+    "shares_outstanding": 56598000.0,
+    "revenue": 2964148000.0,
+    "net_income": 136957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 56390000.0,
+    "revenue": 764795000.0,
+    "net_income": 33345000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 56673000.0,
+    "revenue": 700262000.0,
+    "net_income": 28747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2018",
+    "filing_date": "2018-02-01",
+    "shares_outstanding": 56875000.0,
+    "revenue": 759749000.0,
+    "net_income": 46052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2017",
+    "filing_date": "2017-11-20",
+    "shares_outstanding": 57913000.0,
+    "revenue": 2753360000.0,
+    "net_income": 117917000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 58161000.0,
+    "revenue": 685539000.0,
+    "net_income": 29975000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 58270000.0,
+    "revenue": 663781000.0,
+    "net_income": 26867000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2017",
+    "filing_date": "2017-02-03",
+    "shares_outstanding": 58145000.0,
+    "revenue": 668851000.0,
+    "net_income": 26589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2016",
+    "filing_date": "2016-11-22",
+    "shares_outstanding": 58966000.0,
+    "revenue": 2583469000.0,
+    "net_income": 83853000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 58616000.0,
+    "revenue": 666869000.0,
+    "net_income": 25690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 59131000.0,
+    "revenue": 627384000.0,
+    "net_income": 3738000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2016",
+    "filing_date": "2016-01-29",
+    "shares_outstanding": 59793000.0,
+    "revenue": 560708000.0,
+    "net_income": 23240000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2015",
+    "filing_date": "2015-11-20",
+    "shares_outstanding": 61532000.0,
+    "revenue": 2299321000.0,
+    "net_income": 39228000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 60792000.0,
+    "revenue": 575108000.0,
+    "net_income": 26252000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 61723000.0,
+    "revenue": 564763000.0,
+    "net_income": 19010000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2015",
+    "filing_date": "2015-02-02",
+    "shares_outstanding": 63112000.0,
+    "revenue": 581056000.0,
+    "net_income": 25646000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2014",
+    "filing_date": "2014-11-19",
+    "shares_outstanding": 65146000.0,
+    "revenue": 2483814000.0,
+    "net_income": 108675000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2014",
+    "filing_date": "2014-08-04",
+    "shares_outstanding": 65302000.0,
+    "revenue": 629502000.0,
+    "net_income": 26711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 65710000.0,
+    "revenue": 586285000.0,
+    "net_income": 31909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2014",
+    "filing_date": "2014-01-31",
+    "shares_outstanding": 65048000.0,
+    "revenue": 645848000.0,
+    "net_income": 27327000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2013",
+    "filing_date": "2013-11-20",
+    "shares_outstanding": 64544000.0,
+    "revenue": 2613755000.0,
+    "net_income": -1506000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2013",
+    "filing_date": "2013-08-09",
+    "shares_outstanding": 64832000.0,
+    "revenue": 614835000.0,
+    "net_income": -78115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 65472000.0,
+    "revenue": 641999000.0,
+    "net_income": 24872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2013",
+    "filing_date": "2013-02-01",
+    "shares_outstanding": 64608000.0,
+    "revenue": 658545000.0,
+    "net_income": 26396000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2012",
+    "filing_date": "2012-11-15",
+    "shares_outstanding": 63934000.0,
+    "revenue": 2711075000.0,
+    "net_income": 104732000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 64179000.0,
+    "revenue": 684698000.0,
+    "net_income": 29168000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 63817000.0,
+    "revenue": 624345000.0,
+    "net_income": 22321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q1 2012",
+    "filing_date": "2012-02-03",
+    "shares_outstanding": 63068000.0,
+    "revenue": 682627000.0,
+    "net_income": 22703000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "FY 2011",
+    "filing_date": "2011-11-17",
+    "shares_outstanding": 62775000.0,
+    "revenue": 2573144000.0,
+    "net_income": 92982000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q3 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 62934000.0,
+    "revenue": 673792000.0,
+    "net_income": 24748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTEK",
+    "period": "Q2 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 62945000.0,
+    "revenue": 612566000.0,
+    "net_income": 18081000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "HRB",
+    "period": "Q2 2026",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 126566000.0,
+    "revenue": 198865000.0,
+    "net_income": -242166000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2026",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 131387000.0,
+    "revenue": 203551000.0,
+    "net_income": -165819000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2025",
+    "filing_date": "2025-08-15",
+    "shares_outstanding": 137340000.0,
+    "revenue": 3760995000.0,
+    "net_income": 605773000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 135329000.0,
+    "revenue": 2277104000.0,
+    "net_income": 722330000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2025",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 139154000.0,
+    "revenue": 193810000.0,
+    "net_income": -172576000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2024",
+    "filing_date": "2024-08-15",
+    "shares_outstanding": 143890000.0,
+    "revenue": 3610347000.0,
+    "net_income": 595317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2024",
+    "filing_date": "2024-05-09",
+    "shares_outstanding": 141540000.0,
+    "revenue": 2184834000.0,
+    "net_income": 690737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2024",
+    "filing_date": "2024-02-06",
+    "shares_outstanding": 142340000.0,
+    "revenue": 179083000.0,
+    "net_income": -189755000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2024",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 146273000.0,
+    "revenue": 183800000.0,
+    "net_income": -163482000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2023",
+    "filing_date": "2023-08-17",
+    "shares_outstanding": 157248000.0,
+    "revenue": 3472185000.0,
+    "net_income": 553700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 155561000.0,
+    "revenue": 2093649000.0,
+    "net_income": 643429000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2023",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 154119000.0,
+    "revenue": 166405000.0,
+    "net_income": -223579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2023",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 159284000.0,
+    "revenue": 179985000.0,
+    "net_income": -168421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2022",
+    "filing_date": "2022-08-16",
+    "shares_outstanding": 171435000.0,
+    "revenue": 3463270000.0,
+    "net_income": 553674000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 165612000.0,
+    "revenue": 2061757000.0,
+    "net_income": 673177000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2022",
+    "filing_date": "2022-02-04",
+    "shares_outstanding": 173378000.0,
+    "revenue": 158816000.0,
+    "net_income": -190605000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2022",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 178099000.0,
+    "revenue": 192624000.0,
+    "net_income": -151601000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2021",
+    "filing_date": "2021-06-15",
+    "shares_outstanding": 188777000.0,
+    "revenue": 3413987000.0,
+    "net_income": 583791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2021",
+    "filing_date": "2021-03-09",
+    "shares_outstanding": 183438000.0,
+    "revenue": 308227000.0,
+    "net_income": -232994000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2021",
+    "filing_date": "2020-12-08",
+    "shares_outstanding": 189607000.0,
+    "revenue": 176550000.0,
+    "net_income": -223726000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2021",
+    "filing_date": "2020-09-03",
+    "shares_outstanding": 194067000.0,
+    "revenue": 601030000.0,
+    "net_income": 91259000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2020",
+    "filing_date": "2020-06-17",
+    "shares_outstanding": 198108000.0,
+    "revenue": 2639720000.0,
+    "net_income": -7526000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2020",
+    "filing_date": "2020-03-09",
+    "shares_outstanding": 194077000.0,
+    "revenue": 519205000.0,
+    "net_income": -129683000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2020",
+    "filing_date": "2019-12-06",
+    "shares_outstanding": 198079000.0,
+    "revenue": 160801000.0,
+    "net_income": -187999000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2020",
+    "filing_date": "2019-09-06",
+    "shares_outstanding": 202037000.0,
+    "revenue": 150362000.0,
+    "net_income": -150247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2019",
+    "filing_date": "2019-06-14",
+    "shares_outstanding": 206724000.0,
+    "revenue": 3094881000.0,
+    "net_income": 422556000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2019",
+    "filing_date": "2019-03-08",
+    "shares_outstanding": 205532000.0,
+    "revenue": 468384000.0,
+    "net_income": -126454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2019",
+    "filing_date": "2018-12-07",
+    "shares_outstanding": 205520000.0,
+    "revenue": 148871000.0,
+    "net_income": -176276000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2019",
+    "filing_date": "2018-09-07",
+    "shares_outstanding": 207673000.0,
+    "revenue": 145183000.0,
+    "net_income": -152670000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2018",
+    "filing_date": "2018-06-15",
+    "shares_outstanding": 210213000.0,
+    "revenue": 3159931000.0,
+    "net_income": 613149000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2018",
+    "filing_date": "2018-03-08",
+    "shares_outstanding": 209080000.0,
+    "revenue": 488426000.0,
+    "net_income": -245645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2018",
+    "filing_date": "2017-12-07",
+    "shares_outstanding": 209065000.0,
+    "revenue": 140854000.0,
+    "net_income": -153566000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2018",
+    "filing_date": "2017-09-01",
+    "shares_outstanding": 207935000.0,
+    "revenue": 137802000.0,
+    "net_income": -130567000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2017",
+    "filing_date": "2017-06-16",
+    "shares_outstanding": 214095000.0,
+    "revenue": 3036314000.0,
+    "net_income": 408945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2017",
+    "filing_date": "2017-03-08",
+    "shares_outstanding": 207862000.0,
+    "revenue": 451882000.0,
+    "net_income": -104514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2017",
+    "filing_date": "2016-12-08",
+    "shares_outstanding": 215535000.0,
+    "revenue": 131332000.0,
+    "net_income": -146220000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2017",
+    "filing_date": "2016-09-01",
+    "shares_outstanding": 220484000.0,
+    "revenue": 125185000.0,
+    "net_income": -123673000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2016",
+    "filing_date": "2016-06-17",
+    "shares_outstanding": 250818000.0,
+    "revenue": 3038153000.0,
+    "net_income": 374253000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2016",
+    "filing_date": "2016-03-11",
+    "shares_outstanding": 231904000.0,
+    "revenue": 474543000.0,
+    "net_income": -81729000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2016",
+    "filing_date": "2015-12-09",
+    "shares_outstanding": 266267000.0,
+    "revenue": 128415000.0,
+    "net_income": -145007000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2016",
+    "filing_date": "2015-09-04",
+    "shares_outstanding": 275765000.0,
+    "revenue": 137718000.0,
+    "net_income": -99659000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2015",
+    "filing_date": "2015-06-17",
+    "shares_outstanding": 277136000.0,
+    "revenue": 3078658000.0,
+    "net_income": 473663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2015",
+    "filing_date": "2015-03-05",
+    "shares_outstanding": 275190000.0,
+    "revenue": 509074000.0,
+    "net_income": -36948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2015",
+    "filing_date": "2014-12-09",
+    "shares_outstanding": 275106000.0,
+    "revenue": 134628000.0,
+    "net_income": -111998000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2015",
+    "filing_date": "2014-09-04",
+    "shares_outstanding": 274575000.0,
+    "revenue": 133586000.0,
+    "net_income": -116232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2014",
+    "filing_date": "2014-06-19",
+    "shares_outstanding": 276027000.0,
+    "revenue": 3024295000.0,
+    "net_income": 475157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2014",
+    "filing_date": "2014-03-06",
+    "shares_outstanding": 274110000.0,
+    "revenue": 199770000.0,
+    "net_income": -214711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2014",
+    "filing_date": "2013-12-10",
+    "shares_outstanding": 273907000.0,
+    "revenue": 134340000.0,
+    "net_income": -104943000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2014",
+    "filing_date": "2013-09-05",
+    "shares_outstanding": -413000.0,
+    "revenue": 127195000.0,
+    "net_income": -115187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2013",
+    "filing_date": "2013-06-26",
+    "shares_outstanding": 274359000.0,
+    "revenue": 2905943000.0,
+    "net_income": 433948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2013",
+    "filing_date": "2013-03-07",
+    "shares_outstanding": 271542000.0,
+    "revenue": 471979000.0,
+    "net_income": -17708000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2013",
+    "filing_date": "2012-12-06",
+    "shares_outstanding": 271145000.0,
+    "revenue": 137263000.0,
+    "net_income": -105243000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2013",
+    "filing_date": "2012-09-05",
+    "shares_outstanding": 277155000.0,
+    "revenue": 96489000.0,
+    "net_income": -107441000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2012",
+    "filing_date": "2012-06-26",
+    "shares_outstanding": 298601000.0,
+    "revenue": 2893771000.0,
+    "net_income": 265932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2012",
+    "filing_date": "2012-03-07",
+    "shares_outstanding": 292963000.0,
+    "revenue": 663280000.0,
+    "net_income": -3349000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q2 2012",
+    "filing_date": "2011-12-05",
+    "shares_outstanding": 299895000.0,
+    "revenue": 129194000.0,
+    "net_income": -141724000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q1 2012",
+    "filing_date": "2011-09-01",
+    "shares_outstanding": 305491000.0,
+    "revenue": 100623000.0,
+    "net_income": -175098000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "FY 2011",
+    "filing_date": "2011-06-23",
+    "shares_outstanding": 309777000.0,
+    "revenue": 3774296000.0,
+    "net_income": 406110000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HRB",
+    "period": "Q3 2011",
+    "filing_date": "2011-03-09",
+    "shares_outstanding": 305144000.0,
+    "revenue": 851482000.0,
+    "net_income": -12721000.0,
+    "market_cap": null
+  }
+]

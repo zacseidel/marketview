@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "KBR",
+    "period": "TTM 2026",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 129000000.0,
+    "revenue": 7786000000.0,
+    "net_income": 403000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2026",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 129000000.0,
+    "revenue": 7786000000.0,
+    "net_income": 403000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2026",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 128000000.0,
+    "revenue": 1931000000.0,
+    "net_income": 117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2026",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 129000000.0,
+    "revenue": 1952000000.0,
+    "net_income": 58000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2026",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 132000000.0,
+    "revenue": 2055000000.0,
+    "net_income": 115000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 134000000.0,
+    "revenue": 7742000000.0,
+    "net_income": 381000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2025",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 133000000.0,
+    "revenue": 1947000000.0,
+    "net_income": 102000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2025",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 134000000.0,
+    "revenue": 1855000000.0,
+    "net_income": 107000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q4 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 135000000.0,
+    "revenue": 1818000000.0,
+    "net_income": 94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 135000000.0,
+    "revenue": 6956000000.0,
+    "net_income": -261000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 135000000.0,
+    "revenue": 1770000000.0,
+    "net_income": -18000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 135000000.0,
+    "revenue": 1753000000.0,
+    "net_income": -350000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-01",
+    "shares_outstanding": 154000000.0,
+    "revenue": 1703000000.0,
+    "net_income": 86000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-17",
+    "shares_outstanding": 156000000.0,
+    "revenue": 6564000000.0,
+    "net_income": 192000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 156000000.0,
+    "revenue": 1626000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 156000000.0,
+    "revenue": 1616000000.0,
+    "net_income": 94000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 140000000.0,
+    "revenue": 1714000000.0,
+    "net_income": -70000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 145000000.0,
+    "revenue": 7339000000.0,
+    "net_income": 26000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 145000000.0,
+    "revenue": 1843000000.0,
+    "net_income": 58000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 141000000.0,
+    "revenue": 1536000000.0,
+    "net_income": -149000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 144000000.0,
+    "revenue": 1461000000.0,
+    "net_income": 48000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 142000000.0,
+    "revenue": 5767000000.0,
+    "net_income": -51000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 142000000.0,
+    "revenue": 1379000000.0,
+    "net_income": 52000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 142000000.0,
+    "revenue": 1385000000.0,
+    "net_income": -39000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-04",
+    "shares_outstanding": 142000000.0,
+    "revenue": 1537000000.0,
+    "net_income": -84000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 142000000.0,
+    "revenue": 5639000000.0,
+    "net_income": 209000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 142000000.0,
+    "revenue": 1425000000.0,
+    "net_income": 58000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 141000000.0,
+    "revenue": 1422000000.0,
+    "net_income": 50000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 141000000.0,
+    "revenue": 1340000000.0,
+    "net_income": 42000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 141000000.0,
+    "revenue": 4913000000.0,
+    "net_income": 310000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 141000000.0,
+    "revenue": 1278000000.0,
+    "net_income": 60000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-30",
+    "shares_outstanding": 141000000.0,
+    "revenue": 1267000000.0,
+    "net_income": 62000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 140000000.0,
+    "revenue": 1038000000.0,
+    "net_income": 139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 141000000.0,
+    "revenue": 4171000000.0,
+    "net_income": 442000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 140000000.0,
+    "revenue": 1034000000.0,
+    "net_income": 47000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 141000000.0,
+    "revenue": 1094000000.0,
+    "net_income": 79000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-28",
+    "shares_outstanding": 143000000.0,
+    "revenue": 1106000000.0,
+    "net_income": 38000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 142000000.0,
+    "revenue": 4268000000.0,
+    "net_income": -51000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 142000000.0,
+    "revenue": 1073000000.0,
+    "net_income": -57000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 142000000.0,
+    "revenue": 1009000000.0,
+    "net_income": 47000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 142000000.0,
+    "revenue": 996000000.0,
+    "net_income": 45000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 144000000.0,
+    "revenue": 5096000000.0,
+    "net_income": 226000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-02",
+    "shares_outstanding": 144000000.0,
+    "revenue": 1199000000.0,
+    "net_income": 59000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 144000000.0,
+    "revenue": 1381000000.0,
+    "net_income": 68000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q4 2015",
+    "filing_date": "2015-04-29",
+    "shares_outstanding": 145000000.0,
+    "revenue": 1436000000.0,
+    "net_income": 51000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 146000000.0,
+    "revenue": 6366000000.0,
+    "net_income": -1198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 145000000.0,
+    "revenue": 1657000000.0,
+    "net_income": 45000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 145000000.0,
+    "revenue": 1659000000.0,
+    "net_income": 8000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2014",
+    "filing_date": "2014-06-19",
+    "shares_outstanding": 146000000.0,
+    "revenue": 1633000000.0,
+    "net_income": -20000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 149000000.0,
+    "revenue": 7283000000.0,
+    "net_income": 327000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 149000000.0,
+    "revenue": 1780000000.0,
+    "net_income": 87000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 148000000.0,
+    "revenue": 1950000000.0,
+    "net_income": 111000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 148000000.0,
+    "revenue": 1829000000.0,
+    "net_income": 97000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-20",
+    "shares_outstanding": 149000000.0,
+    "revenue": 7921000000.0,
+    "net_income": 202000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-24",
+    "shares_outstanding": 147000000.0,
+    "revenue": 1992000000.0,
+    "net_income": -60000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-25",
+    "shares_outstanding": 149000000.0,
+    "revenue": 2062000000.0,
+    "net_income": 112000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-25",
+    "shares_outstanding": 149000000.0,
+    "revenue": 2001000000.0,
+    "net_income": 98000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-22",
+    "shares_outstanding": 151000000.0,
+    "revenue": 9261000000.0,
+    "net_income": 540000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-26",
+    "shares_outstanding": 151000000.0,
+    "revenue": 2387000000.0,
+    "net_income": 191000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-27",
+    "shares_outstanding": 152000000.0,
+    "revenue": 2457000000.0,
+    "net_income": 127000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KBR",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-27",
+    "shares_outstanding": 152000000.0,
+    "revenue": 2321000000.0,
+    "net_income": 117000000.0,
+    "market_cap": null
+  }
+]

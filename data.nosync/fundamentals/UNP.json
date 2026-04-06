@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "UNP",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 595900000.0,
+    "revenue": 24510000000.0,
+    "net_income": 7138000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 595900000.0,
+    "revenue": 24510000000.0,
+    "net_income": 7138000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-23",
+    "shares_outstanding": 593200000.0,
+    "revenue": 6244000000.0,
+    "net_income": 1788000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 594800000.0,
+    "revenue": 6154000000.0,
+    "net_income": 1876000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 601900000.0,
+    "revenue": 6027000000.0,
+    "net_income": 1626000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2024",
+    "filing_date": "2025-02-07",
+    "shares_outstanding": 608600000.0,
+    "revenue": 24250000000.0,
+    "net_income": 6747000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 608600000.0,
+    "revenue": 6091000000.0,
+    "net_income": 1671000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 610300000.0,
+    "revenue": 6007000000.0,
+    "net_income": 1673000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 610200000.0,
+    "revenue": 6031000000.0,
+    "net_income": 1641000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2023",
+    "filing_date": "2024-02-09",
+    "shares_outstanding": 610200000.0,
+    "revenue": 24119000000.0,
+    "net_income": 6379000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-19",
+    "shares_outstanding": 609800000.0,
+    "revenue": 5941000000.0,
+    "net_income": 1528000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 609500000.0,
+    "revenue": 5963000000.0,
+    "net_income": 1569000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-20",
+    "shares_outstanding": 611500000.0,
+    "revenue": 6056000000.0,
+    "net_income": 1630000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2022",
+    "filing_date": "2023-02-10",
+    "shares_outstanding": 624000000.0,
+    "revenue": 24875000000.0,
+    "net_income": 6998000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-20",
+    "shares_outstanding": 621500000.0,
+    "revenue": 6566000000.0,
+    "net_income": 1895000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-21",
+    "shares_outstanding": 626800000.0,
+    "revenue": 6269000000.0,
+    "net_income": 1835000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-21",
+    "shares_outstanding": 633600000.0,
+    "revenue": 5860000000.0,
+    "net_income": 1630000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2021",
+    "filing_date": "2022-02-04",
+    "shares_outstanding": 655400000.0,
+    "revenue": 21804000000.0,
+    "net_income": 6523000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-21",
+    "shares_outstanding": 650300000.0,
+    "revenue": 5566000000.0,
+    "net_income": 1673000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-22",
+    "shares_outstanding": 660100000.0,
+    "revenue": 5504000000.0,
+    "net_income": 1798000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-22",
+    "shares_outstanding": 669200000.0,
+    "revenue": 5001000000.0,
+    "net_income": 1341000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2020",
+    "filing_date": "2021-02-05",
+    "shares_outstanding": 679100000.0,
+    "revenue": 19533000000.0,
+    "net_income": 5349000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 676800000.0,
+    "revenue": 4919000000.0,
+    "net_income": 1363000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-23",
+    "shares_outstanding": 679200000.0,
+    "revenue": 4244000000.0,
+    "net_income": 1132000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-23",
+    "shares_outstanding": 686200000.0,
+    "revenue": 5229000000.0,
+    "net_income": 1474000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2019",
+    "filing_date": "2020-02-07",
+    "shares_outstanding": 706100000.0,
+    "revenue": 21708000000.0,
+    "net_income": 5919000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-17",
+    "shares_outstanding": 701900000.0,
+    "revenue": 5516000000.0,
+    "net_income": 1555000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-18",
+    "shares_outstanding": 708000000.0,
+    "revenue": 5596000000.0,
+    "net_income": 1570000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-18",
+    "shares_outstanding": 719500000.0,
+    "revenue": 5384000000.0,
+    "net_income": 1391000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2018",
+    "filing_date": "2019-02-08",
+    "shares_outstanding": 754300000.0,
+    "revenue": 22832000000.0,
+    "net_income": 5966000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-25",
+    "shares_outstanding": 740900000.0,
+    "revenue": 5928000000.0,
+    "net_income": 1593000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-19",
+    "shares_outstanding": 763700000.0,
+    "revenue": 5672000000.0,
+    "net_income": 1509000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 779600000.0,
+    "revenue": 5475000000.0,
+    "net_income": 1310000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2017",
+    "filing_date": "2018-02-09",
+    "shares_outstanding": 801700000.0,
+    "revenue": 21240000000.0,
+    "net_income": 10712000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 797600000.0,
+    "revenue": 5408000000.0,
+    "net_income": 1194000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-20",
+    "shares_outstanding": 807200000.0,
+    "revenue": 5250000000.0,
+    "net_income": 1168000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 814800000.0,
+    "revenue": 5132000000.0,
+    "net_income": 1072000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2016",
+    "filing_date": "2017-02-03",
+    "shares_outstanding": 835400000.0,
+    "revenue": 19941000000.0,
+    "net_income": 4233000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-20",
+    "shares_outstanding": 832200000.0,
+    "revenue": 5174000000.0,
+    "net_income": 1131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-21",
+    "shares_outstanding": 840100000.0,
+    "revenue": 4770000000.0,
+    "net_income": 979000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-21",
+    "shares_outstanding": 846700000.0,
+    "revenue": 4829000000.0,
+    "net_income": 979000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2015",
+    "filing_date": "2016-02-05",
+    "shares_outstanding": 869400000.0,
+    "revenue": 21813000000.0,
+    "net_income": 4772000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-22",
+    "shares_outstanding": 865800000.0,
+    "revenue": 5562000000.0,
+    "net_income": 1300000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-24",
+    "shares_outstanding": 875200000.0,
+    "revenue": 5429000000.0,
+    "net_income": 1204000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-23",
+    "shares_outstanding": 882800000.0,
+    "revenue": 5614000000.0,
+    "net_income": 1151000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2014",
+    "filing_date": "2015-02-06",
+    "shares_outstanding": 901100000.0,
+    "revenue": 23988000000.0,
+    "net_income": 5180000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-23",
+    "shares_outstanding": 896900000.0,
+    "revenue": 6182000000.0,
+    "net_income": 1370000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-25",
+    "shares_outstanding": 905000000.0,
+    "revenue": 6015000000.0,
+    "net_income": 1291000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-17",
+    "shares_outstanding": 456200000.0,
+    "revenue": 5638000000.0,
+    "net_income": 1088000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2013",
+    "filing_date": "2014-02-07",
+    "shares_outstanding": 465800000.0,
+    "revenue": 21963000000.0,
+    "net_income": 4388000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-17",
+    "shares_outstanding": 464200000.0,
+    "revenue": 5573000000.0,
+    "net_income": 1151000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-19",
+    "shares_outstanding": 467600000.0,
+    "revenue": 5470000000.0,
+    "net_income": 1106000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-18",
+    "shares_outstanding": 470500000.0,
+    "revenue": 5290000000.0,
+    "net_income": 957000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2012",
+    "filing_date": "2013-02-08",
+    "shares_outstanding": 476500000.0,
+    "revenue": 20926000000.0,
+    "net_income": 3943000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-18",
+    "shares_outstanding": 475200000.0,
+    "revenue": 5343000000.0,
+    "net_income": 1042000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-20",
+    "shares_outstanding": 477200000.0,
+    "revenue": 5221000000.0,
+    "net_income": 1002000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-19",
+    "shares_outstanding": 481400000.0,
+    "revenue": 5112000000.0,
+    "net_income": 863000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "FY 2011",
+    "filing_date": "2012-02-03",
+    "shares_outstanding": 489800000.0,
+    "revenue": 19557000000.0,
+    "net_income": 3292000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-21",
+    "shares_outstanding": 488100000.0,
+    "revenue": 5101000000.0,
+    "net_income": 904000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-22",
+    "shares_outstanding": 492400000.0,
+    "revenue": 4858000000.0,
+    "net_income": 785000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UNP",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-21",
+    "shares_outstanding": 494100000.0,
+    "revenue": 4490000000.0,
+    "net_income": 639000000.0,
+    "market_cap": null
+  }
+]

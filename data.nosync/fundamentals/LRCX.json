@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2026",
+    "filing_date": "2026-01-29",
+    "shares_outstanding": 1261739000.0,
+    "revenue": 5344791000.0,
+    "net_income": 1593994000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2026",
+    "filing_date": "2025-10-24",
+    "shares_outstanding": 1269313000.0,
+    "revenue": 5324173000.0,
+    "net_income": 1568660000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2025",
+    "filing_date": "2025-08-11",
+    "shares_outstanding": 1290142000.0,
+    "revenue": 18435591000.0,
+    "net_income": 5358217000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2025",
+    "filing_date": "2025-04-25",
+    "shares_outstanding": 1288100000.0,
+    "revenue": 4720175000.0,
+    "net_income": 1330667000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2025",
+    "filing_date": "2025-01-31",
+    "shares_outstanding": 1291469000.0,
+    "revenue": 4376047000.0,
+    "net_income": 1191018000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2024",
+    "filing_date": "2024-08-29",
+    "shares_outstanding": 131995000.0,
+    "revenue": 14905386000.0,
+    "net_income": 3827772000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2024",
+    "filing_date": "2024-04-29",
+    "shares_outstanding": 131518000.0,
+    "revenue": 3793558000.0,
+    "net_income": 965826000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2024",
+    "filing_date": "2024-01-29",
+    "shares_outstanding": 132220000.0,
+    "revenue": 3758259000.0,
+    "net_income": 954266000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2024",
+    "filing_date": "2023-10-23",
+    "shares_outstanding": 133166000.0,
+    "revenue": 3482062000.0,
+    "net_income": 887398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2023",
+    "filing_date": "2023-08-15",
+    "shares_outstanding": 135834000.0,
+    "revenue": 17428516000.0,
+    "net_income": 4510931000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2023",
+    "filing_date": "2023-04-24",
+    "shares_outstanding": 135395000.0,
+    "revenue": 3869569000.0,
+    "net_income": 814008000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2023",
+    "filing_date": "2023-01-30",
+    "shares_outstanding": 136339000.0,
+    "revenue": 5277569000.0,
+    "net_income": 1468507000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2023",
+    "filing_date": "2022-10-24",
+    "shares_outstanding": 137208000.0,
+    "revenue": 5074121000.0,
+    "net_income": 1425879000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2022",
+    "filing_date": "2022-08-24",
+    "shares_outstanding": 140628000.0,
+    "revenue": 17227039000.0,
+    "net_income": 4605286000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2022",
+    "filing_date": "2022-04-26",
+    "shares_outstanding": 140057000.0,
+    "revenue": 4060416000.0,
+    "net_income": 1021778000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2022",
+    "filing_date": "2022-02-01",
+    "shares_outstanding": 141530000.0,
+    "revenue": 4226604000.0,
+    "net_income": 1194830000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2022",
+    "filing_date": "2021-10-26",
+    "shares_outstanding": 142612000.0,
+    "revenue": 4304465000.0,
+    "net_income": 1179744000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2021",
+    "filing_date": "2021-08-17",
+    "shares_outstanding": 145320000.0,
+    "revenue": 14626150000.0,
+    "net_income": 3908458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 144609000.0,
+    "revenue": 3847654000.0,
+    "net_income": 1071121000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2021",
+    "filing_date": "2021-02-02",
+    "shares_outstanding": 145910000.0,
+    "revenue": 3456237000.0,
+    "net_income": 869229000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2021",
+    "filing_date": "2020-10-27",
+    "shares_outstanding": 147248000.0,
+    "revenue": 3177080000.0,
+    "net_income": 823451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2020",
+    "filing_date": "2020-08-18",
+    "shares_outstanding": 149090000.0,
+    "revenue": 10044736000.0,
+    "net_income": 2251753000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2020",
+    "filing_date": "2020-04-28",
+    "shares_outstanding": 148165000.0,
+    "revenue": 2503625000.0,
+    "net_income": 574781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2020",
+    "filing_date": "2020-02-04",
+    "shares_outstanding": 150097000.0,
+    "revenue": 2583501000.0,
+    "net_income": 514510000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2020",
+    "filing_date": "2019-10-29",
+    "shares_outstanding": 150682000.0,
+    "revenue": 2165746000.0,
+    "net_income": 465789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2019",
+    "filing_date": "2019-08-20",
+    "shares_outstanding": 159915000.0,
+    "revenue": 9653559000.0,
+    "net_income": 2191430000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 157849000.0,
+    "revenue": 2439048000.0,
+    "net_income": 547390000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2019",
+    "filing_date": "2019-01-30",
+    "shares_outstanding": 162170000.0,
+    "revenue": 2522673000.0,
+    "net_income": 568855000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2019",
+    "filing_date": "2018-10-23",
+    "shares_outstanding": 165327000.0,
+    "revenue": 2330691000.0,
+    "net_income": 533360000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2018",
+    "filing_date": "2018-08-14",
+    "shares_outstanding": 180782000.0,
+    "revenue": 11076998000.0,
+    "net_income": 2380681000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2018",
+    "filing_date": "2018-04-24",
+    "shares_outstanding": 179779000.0,
+    "revenue": 2892115000.0,
+    "net_income": 778800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2018",
+    "filing_date": "2018-01-30",
+    "shares_outstanding": 161135000.0,
+    "revenue": 2580815000.0,
+    "net_income": -9955000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2018",
+    "filing_date": "2017-10-23",
+    "shares_outstanding": 183880000.0,
+    "revenue": 2478140000.0,
+    "net_income": 590690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2017",
+    "filing_date": "2017-08-15",
+    "shares_outstanding": 183770000.0,
+    "revenue": 8013620000.0,
+    "net_income": 1697763000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2017",
+    "filing_date": "2017-04-24",
+    "shares_outstanding": 185094000.0,
+    "revenue": 2153995000.0,
+    "net_income": 574713000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2017",
+    "filing_date": "2017-01-30",
+    "shares_outstanding": 183543000.0,
+    "revenue": 1882299000.0,
+    "net_income": 332791000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2017",
+    "filing_date": "2016-10-25",
+    "shares_outstanding": 180017000.0,
+    "revenue": 1632419000.0,
+    "net_income": 263835000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2016",
+    "filing_date": "2016-08-17",
+    "shares_outstanding": 175159000.0,
+    "revenue": 5885893000.0,
+    "net_income": 914049000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2016",
+    "filing_date": "2016-04-25",
+    "shares_outstanding": 174373000.0,
+    "revenue": 1314055000.0,
+    "net_income": 143451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2016",
+    "filing_date": "2016-02-03",
+    "shares_outstanding": 174242000.0,
+    "revenue": 1425534000.0,
+    "net_income": 222980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2016",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 174374000.0,
+    "revenue": 1600043000.0,
+    "net_income": 288679000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2015",
+    "filing_date": "2015-08-13",
+    "shares_outstanding": 177067000.0,
+    "revenue": 5259312000.0,
+    "net_income": 655577000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 177531000.0,
+    "revenue": 1393333000.0,
+    "net_income": 206285000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2015",
+    "filing_date": "2015-02-03",
+    "shares_outstanding": 177046000.0,
+    "revenue": 1232241000.0,
+    "net_income": 176940000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2015",
+    "filing_date": "2014-11-03",
+    "shares_outstanding": 177118000.0,
+    "revenue": 1152368000.0,
+    "net_income": 141081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2014",
+    "filing_date": "2014-08-26",
+    "shares_outstanding": 174503000.0,
+    "revenue": 4607309000.0,
+    "net_income": 632289000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 171636000.0,
+    "revenue": 1227392000.0,
+    "net_income": 164396000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2014",
+    "filing_date": "2014-02-06",
+    "shares_outstanding": 171757000.0,
+    "revenue": 1116061000.0,
+    "net_income": 148992000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2014",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 171363000.0,
+    "revenue": 1015059000.0,
+    "net_income": 85506000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2013",
+    "filing_date": "2013-08-27",
+    "shares_outstanding": 173430000.0,
+    "revenue": 3598916000.0,
+    "net_income": 113879000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 168504000.0,
+    "revenue": 844928000.0,
+    "net_income": 18996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2013",
+    "filing_date": "2013-01-31",
+    "shares_outstanding": 173027000.0,
+    "revenue": 860886000.0,
+    "net_income": 6408000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2013",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 181926000.0,
+    "revenue": 906888000.0,
+    "net_income": 2768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2012",
+    "filing_date": "2012-08-22",
+    "shares_outstanding": 125233000.0,
+    "revenue": 2665192000.0,
+    "net_income": 168723000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 120956000.0,
+    "revenue": 658961000.0,
+    "net_income": 45604000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2012",
+    "filing_date": "2012-02-03",
+    "shares_outstanding": 120873000.0,
+    "revenue": 583981000.0,
+    "net_income": 33212000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2012",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 124049000.0,
+    "revenue": 680436000.0,
+    "net_income": 71838000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "FY 2011",
+    "filing_date": "2011-08-19",
+    "shares_outstanding": 125019000.0,
+    "revenue": 3237693000.0,
+    "net_income": 723748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q3 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": 125293000.0,
+    "revenue": 809087000.0,
+    "net_income": 182240000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q2 2011",
+    "filing_date": "2011-02-03",
+    "shares_outstanding": 124786000.0,
+    "revenue": 870714000.0,
+    "net_income": 221856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LRCX",
+    "period": "Q1 2011",
+    "filing_date": "2010-11-03",
+    "shares_outstanding": 125202000.0,
+    "revenue": 805874000.0,
+    "net_income": 193724000.0,
+    "market_cap": null
+  }
+]

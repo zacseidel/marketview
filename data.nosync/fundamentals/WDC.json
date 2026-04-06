@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "WDC",
+    "period": "Q2 2026",
+    "filing_date": "2026-01-30",
+    "shares_outstanding": 381000000.0,
+    "revenue": 3017000000.0,
+    "net_income": 1842000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2026",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 376000000.0,
+    "revenue": 2818000000.0,
+    "net_income": 1182000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2025",
+    "filing_date": "2025-08-14",
+    "shares_outstanding": 359000000.0,
+    "revenue": 9520000000.0,
+    "net_income": 1889000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 358000000.0,
+    "revenue": 2294000000.0,
+    "net_income": 520000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2025",
+    "filing_date": "2025-01-31",
+    "shares_outstanding": 357000000.0,
+    "revenue": 2409000000.0,
+    "net_income": 594000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2025",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 357000000.0,
+    "revenue": 2212000000.0,
+    "net_income": 493000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2024",
+    "filing_date": "2024-08-20",
+    "shares_outstanding": 326000000.0,
+    "revenue": 13003000000.0,
+    "net_income": -798000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 335000000.0,
+    "revenue": 3457000000.0,
+    "net_income": 135000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2024",
+    "filing_date": "2024-02-12",
+    "shares_outstanding": 325000000.0,
+    "revenue": 3032000000.0,
+    "net_income": -287000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2024",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 323000000.0,
+    "revenue": 2750000000.0,
+    "net_income": -685000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2023",
+    "filing_date": "2023-08-22",
+    "shares_outstanding": 318000000.0,
+    "revenue": 12318000000.0,
+    "net_income": -1706000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2023",
+    "filing_date": "2023-05-10",
+    "shares_outstanding": 319000000.0,
+    "revenue": 2803000000.0,
+    "net_income": -572000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2023",
+    "filing_date": "2023-02-03",
+    "shares_outstanding": 318000000.0,
+    "revenue": 3107000000.0,
+    "net_income": -446000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2023",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 319000000.0,
+    "revenue": 3736000000.0,
+    "net_income": 27000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2022",
+    "filing_date": "2022-08-25",
+    "shares_outstanding": 316000000.0,
+    "revenue": 18793000000.0,
+    "net_income": 1500000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 316000000.0,
+    "revenue": 4381000000.0,
+    "net_income": 25000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2022",
+    "filing_date": "2022-02-03",
+    "shares_outstanding": 315000000.0,
+    "revenue": 4833000000.0,
+    "net_income": 564000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2022",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 316000000.0,
+    "revenue": 5051000000.0,
+    "net_income": 610000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2021",
+    "filing_date": "2021-08-27",
+    "shares_outstanding": 309000000.0,
+    "revenue": 16922000000.0,
+    "net_income": 821000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 313000000.0,
+    "revenue": 4137000000.0,
+    "net_income": 197000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2021",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 307000000.0,
+    "revenue": 3943000000.0,
+    "net_income": 62000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2021",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": -2000000.0,
+    "revenue": 3922000000.0,
+    "net_income": -60000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2020",
+    "filing_date": "2020-08-28",
+    "shares_outstanding": 298000000.0,
+    "revenue": 16736000000.0,
+    "net_income": -250000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 303000000.0,
+    "revenue": 4175000000.0,
+    "net_income": 17000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2020",
+    "filing_date": "2020-02-11",
+    "shares_outstanding": 298000000.0,
+    "revenue": 4234000000.0,
+    "net_income": -139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2020",
+    "filing_date": "2019-11-12",
+    "shares_outstanding": 296000000.0,
+    "revenue": 4040000000.0,
+    "net_income": -276000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2019",
+    "filing_date": "2019-08-27",
+    "shares_outstanding": 292000000.0,
+    "revenue": 16569000000.0,
+    "net_income": -754000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 292000000.0,
+    "revenue": 3674000000.0,
+    "net_income": -581000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2019",
+    "filing_date": "2019-02-05",
+    "shares_outstanding": 290000000.0,
+    "revenue": 4233000000.0,
+    "net_income": -487000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2019",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 298000000.0,
+    "revenue": 5028000000.0,
+    "net_income": 511000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2018",
+    "filing_date": "2018-08-24",
+    "shares_outstanding": 307000000.0,
+    "revenue": 20647000000.0,
+    "net_income": 675000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 308000000.0,
+    "revenue": 5013000000.0,
+    "net_income": 61000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2018",
+    "filing_date": "2018-02-06",
+    "shares_outstanding": 296000000.0,
+    "revenue": 5336000000.0,
+    "net_income": -823000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2018",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 306000000.0,
+    "revenue": 5181000000.0,
+    "net_income": 681000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2017",
+    "filing_date": "2017-08-29",
+    "shares_outstanding": 296000000.0,
+    "revenue": 19093000000.0,
+    "net_income": 397000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 299000000.0,
+    "revenue": 4649000000.0,
+    "net_income": 248000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2017",
+    "filing_date": "2017-02-07",
+    "shares_outstanding": 294000000.0,
+    "revenue": 4888000000.0,
+    "net_income": 235000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2017",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 285000000.0,
+    "revenue": 4714000000.0,
+    "net_income": -366000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2016",
+    "filing_date": "2016-08-29",
+    "shares_outstanding": 242000000.0,
+    "revenue": 12994000000.0,
+    "net_income": 242000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 234000000.0,
+    "revenue": 2822000000.0,
+    "net_income": 74000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2016",
+    "filing_date": "2016-02-10",
+    "shares_outstanding": 234000000.0,
+    "revenue": 3317000000.0,
+    "net_income": 251000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2016",
+    "filing_date": "2015-11-10",
+    "shares_outstanding": 234000000.0,
+    "revenue": 3360000000.0,
+    "net_income": 283000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2015",
+    "filing_date": "2015-08-21",
+    "shares_outstanding": 237000000.0,
+    "revenue": 14572000000.0,
+    "net_income": 1465000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2015",
+    "filing_date": "2015-05-12",
+    "shares_outstanding": 236000000.0,
+    "revenue": 3550000000.0,
+    "net_income": 384000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2015",
+    "filing_date": "2015-02-10",
+    "shares_outstanding": 238000000.0,
+    "revenue": 3888000000.0,
+    "net_income": 438000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2015",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 240000000.0,
+    "revenue": 3943000000.0,
+    "net_income": 423000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2014",
+    "filing_date": "2014-08-15",
+    "shares_outstanding": 242000000.0,
+    "revenue": 15130000000.0,
+    "net_income": 1617000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2014",
+    "filing_date": "2014-05-05",
+    "shares_outstanding": 242000000.0,
+    "revenue": 3703000000.0,
+    "net_income": 375000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2014",
+    "filing_date": "2014-01-31",
+    "shares_outstanding": 243000000.0,
+    "revenue": 3972000000.0,
+    "net_income": 430000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2014",
+    "filing_date": "2013-10-29",
+    "shares_outstanding": 242000000.0,
+    "revenue": 3804000000.0,
+    "net_income": 495000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2013",
+    "filing_date": "2013-08-19",
+    "shares_outstanding": 246000000.0,
+    "revenue": 15351000000.0,
+    "net_income": 980000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 245000000.0,
+    "revenue": 3764000000.0,
+    "net_income": 391000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2013",
+    "filing_date": "2013-02-01",
+    "shares_outstanding": 246000000.0,
+    "revenue": 3824000000.0,
+    "net_income": 335000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2013",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 252000000.0,
+    "revenue": 4035000000.0,
+    "net_income": 519000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2012",
+    "filing_date": "2012-08-20",
+    "shares_outstanding": 245000000.0,
+    "revenue": 12478000000.0,
+    "net_income": 1612000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 246000000.0,
+    "revenue": 3035000000.0,
+    "net_income": 483000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2012",
+    "filing_date": "2012-01-27",
+    "shares_outstanding": 237000000.0,
+    "revenue": 1995000000.0,
+    "net_income": 145000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2012",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 237000000.0,
+    "revenue": 2694000000.0,
+    "net_income": 239000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2011",
+    "filing_date": "2011-08-12",
+    "shares_outstanding": 235000000.0,
+    "revenue": 9526000000.0,
+    "net_income": 726000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2011",
+    "filing_date": "2011-05-02",
+    "shares_outstanding": 236000000.0,
+    "revenue": 2252000000.0,
+    "net_income": 146000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2011",
+    "filing_date": "2011-01-28",
+    "shares_outstanding": 235000000.0,
+    "revenue": 2475000000.0,
+    "net_income": 225000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2011",
+    "filing_date": "2010-10-29",
+    "shares_outstanding": 234000000.0,
+    "revenue": 2396000000.0,
+    "net_income": 197000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "FY 2010",
+    "filing_date": "2010-08-13",
+    "shares_outstanding": 233000000.0,
+    "revenue": 9850000000.0,
+    "net_income": 1382000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q3 2010",
+    "filing_date": "2010-04-30",
+    "shares_outstanding": 234000000.0,
+    "revenue": 2641000000.0,
+    "net_income": 400000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q2 2010",
+    "filing_date": "2010-01-29",
+    "shares_outstanding": 232000000.0,
+    "revenue": 2619000000.0,
+    "net_income": 429000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WDC",
+    "period": "Q1 2010",
+    "filing_date": "2009-10-29",
+    "shares_outstanding": 230000000.0,
+    "revenue": 2208000000.0,
+    "net_income": 288000000.0,
+    "market_cap": null
+  }
+]

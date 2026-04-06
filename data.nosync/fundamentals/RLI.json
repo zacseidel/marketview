@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "RLI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 92391000.0,
+    "revenue": 1882448000.0,
+    "net_income": 403337000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 92391000.0,
+    "revenue": 1882448000.0,
+    "net_income": 403337000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-22",
+    "shares_outstanding": 92310000.0,
+    "revenue": 509264000.0,
+    "net_income": 124610000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 92518000.0,
+    "revenue": 499826000.0,
+    "net_income": 124336000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-25",
+    "shares_outstanding": 92528000.0,
+    "revenue": 407665000.0,
+    "net_income": 63214000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 92451000.0,
+    "revenue": 1770384000.0,
+    "net_income": 345779000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 46220000.0,
+    "revenue": 469995000.0,
+    "net_income": 95027000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 46179000.0,
+    "revenue": 416442000.0,
+    "net_income": 81992000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 46163000.0,
+    "revenue": 444831000.0,
+    "net_income": 127900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 46077000.0,
+    "revenue": 1511994000.0,
+    "net_income": 304611000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 46065000.0,
+    "revenue": 331694000.0,
+    "net_income": 13536000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 46044000.0,
+    "revenue": 381862000.0,
+    "net_income": 77652000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-21",
+    "shares_outstanding": 46035000.0,
+    "revenue": 364923000.0,
+    "net_income": 98811000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 45794000.0,
+    "revenue": 1697992000.0,
+    "net_income": 583411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-21",
+    "shares_outstanding": 45775000.0,
+    "revenue": 859494000.0,
+    "net_income": 439893000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-22",
+    "shares_outstanding": 45354000.0,
+    "revenue": 213092000.0,
+    "net_income": -2239000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-22",
+    "shares_outstanding": 45714000.0,
+    "revenue": 264813000.0,
+    "net_income": 47923000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 45712000.0,
+    "revenue": 1179245000.0,
+    "net_income": 279354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-22",
+    "shares_outstanding": 45689000.0,
+    "revenue": 270470000.0,
+    "net_income": 29243000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-23",
+    "shares_outstanding": 45715000.0,
+    "revenue": 298080000.0,
+    "net_income": 81815000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-23",
+    "shares_outstanding": 45674000.0,
+    "revenue": 287331000.0,
+    "net_income": 73012000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 45376000.0,
+    "revenue": 983626000.0,
+    "net_income": 157091000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-23",
+    "shares_outstanding": 45426000.0,
+    "revenue": 262811000.0,
+    "net_income": 42387000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-24",
+    "shares_outstanding": 45274000.0,
+    "revenue": 298247000.0,
+    "net_income": 92166000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-28",
+    "shares_outstanding": 44920000.0,
+    "revenue": 118117000.0,
+    "net_income": -61267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 45257000.0,
+    "revenue": 1003591000.0,
+    "net_income": 191642000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 45349000.0,
+    "revenue": 17532000.0,
+    "net_income": 32324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 45219000.0,
+    "revenue": 16998000.0,
+    "net_income": 40467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-24",
+    "shares_outstanding": 44887000.0,
+    "revenue": 16565000.0,
+    "net_income": 65473000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 44835000.0,
+    "revenue": 818123000.0,
+    "net_income": 64179000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-24",
+    "shares_outstanding": 44940000.0,
+    "revenue": 16314000.0,
+    "net_income": 39372000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-20",
+    "shares_outstanding": 44742000.0,
+    "revenue": 14577000.0,
+    "net_income": 33251000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 44650000.0,
+    "revenue": 14232000.0,
+    "net_income": 12216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 44500000.0,
+    "revenue": 797224000.0,
+    "net_income": 105028000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-25",
+    "shares_outstanding": 44515000.0,
+    "revenue": 14187000.0,
+    "net_income": 1734000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-26",
+    "shares_outstanding": 44519000.0,
+    "revenue": 13238000.0,
+    "net_income": 26208000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 44502000.0,
+    "revenue": 13005000.0,
+    "net_income": 19828000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 44432000.0,
+    "revenue": 816328000.0,
+    "net_income": 114920000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-24",
+    "shares_outstanding": 44492000.0,
+    "revenue": 13504000.0,
+    "net_income": 22263000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-25",
+    "shares_outstanding": 44423000.0,
+    "revenue": 13048000.0,
+    "net_income": 29077000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-25",
+    "shares_outstanding": 44361000.0,
+    "revenue": 13370000.0,
+    "net_income": 31393000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 44131000.0,
+    "revenue": 794634000.0,
+    "net_income": 137544000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-23",
+    "shares_outstanding": 44153000.0,
+    "revenue": 13964000.0,
+    "net_income": 35908000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-24",
+    "shares_outstanding": 44019000.0,
+    "revenue": 13431000.0,
+    "net_income": 37185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-24",
+    "shares_outstanding": 43992000.0,
+    "revenue": 13495000.0,
+    "net_income": 30598000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 43819.0,
+    "revenue": 775165000.0,
+    "net_income": 135445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-27",
+    "shares_outstanding": 43712000.0,
+    "revenue": 14200000.0,
+    "net_income": 33254000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-28",
+    "shares_outstanding": 43688000.0,
+    "revenue": 13982000.0,
+    "net_income": 35725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-28",
+    "shares_outstanding": 43674000.0,
+    "revenue": 13582000.0,
+    "net_income": 28969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 43514000.0,
+    "revenue": 705601000.0,
+    "net_income": 126255000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-28",
+    "shares_outstanding": 21773000.0,
+    "revenue": 13598000.0,
+    "net_income": 37647000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-29",
+    "shares_outstanding": 21670000.0,
+    "revenue": 12847000.0,
+    "net_income": 29902000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-29",
+    "shares_outstanding": 21623000.0,
+    "revenue": 12886000.0,
+    "net_income": 24847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 21580000.0,
+    "revenue": 660774000.0,
+    "net_income": 103346000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-29",
+    "shares_outstanding": 21486000.0,
+    "revenue": 14221000.0,
+    "net_income": 25463000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-30",
+    "shares_outstanding": 21514000.0,
+    "revenue": 14826000.0,
+    "net_income": 24748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-30",
+    "shares_outstanding": 21528000.0,
+    "revenue": 15293000.0,
+    "net_income": 28038000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 21434000.0,
+    "revenue": 619169000.0,
+    "net_income": 130591000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-31",
+    "shares_outstanding": 21335000.0,
+    "revenue": 15954000.0,
+    "net_income": 26057000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 21332000.0,
+    "revenue": 15180000.0,
+    "net_income": 47381000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-28",
+    "shares_outstanding": 21285000.0,
+    "revenue": 16303000.0,
+    "net_income": 26461000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-26",
+    "shares_outstanding": 21090.0,
+    "revenue": 149623000.0,
+    "net_income": 27965000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "RLI",
+    "period": "Q2 2010",
+    "filing_date": "2010-07-28",
+    "shares_outstanding": 21223000.0,
+    "revenue": 142814000.0,
+    "net_income": 34994000.0,
+    "market_cap": null
+  }
+]

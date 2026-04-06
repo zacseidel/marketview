@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "TDG",
+    "period": "Q1 2026",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 58200000.0,
+    "revenue": 2285000000.0,
+    "net_income": 445000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2025",
+    "filing_date": "2025-11-12",
+    "shares_outstanding": 58200000.0,
+    "revenue": 8831000000.0,
+    "net_income": 2074000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 58100000.0,
+    "revenue": 2237000000.0,
+    "net_income": 493000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 58100000.0,
+    "revenue": 2150000000.0,
+    "net_income": 479000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2025",
+    "filing_date": "2025-02-04",
+    "shares_outstanding": 58300000.0,
+    "revenue": 2006000000.0,
+    "net_income": 493000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 57800000.0,
+    "revenue": 7940000000.0,
+    "net_income": 1715000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 57900000.0,
+    "revenue": 2046000000.0,
+    "net_income": 461000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 57800000.0,
+    "revenue": 1919000000.0,
+    "net_income": 404000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2024",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 57700000.0,
+    "revenue": 1789000000.0,
+    "net_income": 382000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2023",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 57200000.0,
+    "revenue": 6585000000.0,
+    "net_income": 1299000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 57200000.0,
+    "revenue": 1744000000.0,
+    "net_income": 352000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 57100000.0,
+    "revenue": 1592000000.0,
+    "net_income": 304000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2023",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 57100000.0,
+    "revenue": 1397000000.0,
+    "net_income": 229000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2022",
+    "filing_date": "2022-11-10",
+    "shares_outstanding": 58200000.0,
+    "revenue": 5429000000.0,
+    "net_income": 867000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 54400000.0,
+    "revenue": 1398000000.0,
+    "net_income": 239000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 55200000.0,
+    "revenue": 1327000000.0,
+    "net_income": 199000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2022",
+    "filing_date": "2022-02-08",
+    "shares_outstanding": 55300000.0,
+    "revenue": 1194000000.0,
+    "net_income": 164000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2021",
+    "filing_date": "2021-11-16",
+    "shares_outstanding": 54800000.0,
+    "revenue": 4798000000.0,
+    "net_income": 681000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2021",
+    "filing_date": "2021-08-10",
+    "shares_outstanding": 55000000.0,
+    "revenue": 1218000000.0,
+    "net_income": 317000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2021",
+    "filing_date": "2021-05-11",
+    "shares_outstanding": 54800000.0,
+    "revenue": 1194000000.0,
+    "net_income": 105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2021",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 54700000.0,
+    "revenue": 1108000000.0,
+    "net_income": 50000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2020",
+    "filing_date": "2020-11-12",
+    "shares_outstanding": 53900000.0,
+    "revenue": 5103000000.0,
+    "net_income": 700000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 54100000.0,
+    "revenue": 1022000000.0,
+    "net_income": -6000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 53800000.0,
+    "revenue": 1443000000.0,
+    "net_income": 319000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2020",
+    "filing_date": "2020-02-04",
+    "shares_outstanding": 53600000.0,
+    "revenue": 1465000000.0,
+    "net_income": 305000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2019",
+    "filing_date": "2019-11-19",
+    "shares_outstanding": 53091000.0,
+    "revenue": 5223203000.0,
+    "net_income": 891311000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 53208000.0,
+    "revenue": 1658319000.0,
+    "net_income": 144610000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 52979000.0,
+    "revenue": 1195938000.0,
+    "net_income": 202632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2019",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 52793000.0,
+    "revenue": 993302000.0,
+    "net_income": 196042000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2018",
+    "filing_date": "2018-11-09",
+    "shares_outstanding": 52345000.0,
+    "revenue": 3811126000.0,
+    "net_income": 957062000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 52470000.0,
+    "revenue": 980662000.0,
+    "net_income": 217246000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 52229000.0,
+    "revenue": 933070000.0,
+    "net_income": 196278000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2018",
+    "filing_date": "2018-02-07",
+    "shares_outstanding": 52024000.0,
+    "revenue": 847960000.0,
+    "net_income": 314775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2017",
+    "filing_date": "2017-11-13",
+    "shares_outstanding": 52517000.0,
+    "revenue": 3504286000.0,
+    "net_income": 596887000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 51932000.0,
+    "revenue": 907667000.0,
+    "net_income": 169053000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 52849000.0,
+    "revenue": 873232000.0,
+    "net_income": 155505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2017",
+    "filing_date": "2017-02-08",
+    "shares_outstanding": 53365000.0,
+    "revenue": 814018000.0,
+    "net_income": 118871000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2016",
+    "filing_date": "2016-11-15",
+    "shares_outstanding": 53326000.0,
+    "revenue": 3171411000.0,
+    "net_income": 586414000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2016",
+    "filing_date": "2016-08-10",
+    "shares_outstanding": 53076000.0,
+    "revenue": 797692000.0,
+    "net_income": 140597000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2016",
+    "filing_date": "2016-05-11",
+    "shares_outstanding": 53222000.0,
+    "revenue": 796801000.0,
+    "net_income": 138627000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2016",
+    "filing_date": "2016-02-10",
+    "shares_outstanding": 53706000.0,
+    "revenue": 701695000.0,
+    "net_income": 114901000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2015",
+    "filing_date": "2015-11-13",
+    "shares_outstanding": -1038306000.0,
+    "revenue": 2707115000.0,
+    "net_income": 447212000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": -1169025000.0,
+    "revenue": 691395000.0,
+    "net_income": 99112000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": -1326208000.0,
+    "revenue": 619030000.0,
+    "net_income": 110894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2015",
+    "filing_date": "2015-01-30",
+    "shares_outstanding": -1464733000.0,
+    "revenue": 586898000.0,
+    "net_income": 95533000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2014",
+    "filing_date": "2014-11-14",
+    "shares_outstanding": -1556099000.0,
+    "revenue": 2372906000.0,
+    "net_income": 306910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": -1591507000.0,
+    "revenue": 610582000.0,
+    "net_income": 16177000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": -125629000.0,
+    "revenue": 590761000.0,
+    "net_income": 90355000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2014",
+    "filing_date": "2014-02-05",
+    "shares_outstanding": -234182000.0,
+    "revenue": 529322000.0,
+    "net_income": 86123000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2013",
+    "filing_date": "2013-11-15",
+    "shares_outstanding": -336381000.0,
+    "revenue": 1924400000.0,
+    "net_income": 302789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 801726000.0,
+    "revenue": 488636000.0,
+    "net_income": 76655000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 685369000.0,
+    "revenue": 465609000.0,
+    "net_income": 67937000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2013",
+    "filing_date": "2013-02-05",
+    "shares_outstanding": 598847000.0,
+    "revenue": 430418000.0,
+    "net_income": 74170000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2012",
+    "filing_date": "2012-11-16",
+    "shares_outstanding": 1218834000.0,
+    "revenue": 1700208000.0,
+    "net_income": 324969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 1106649000.0,
+    "revenue": 461660000.0,
+    "net_income": 90446000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 994923000.0,
+    "revenue": 423469000.0,
+    "net_income": 81552000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q1 2012",
+    "filing_date": "2012-02-08",
+    "shares_outstanding": 887068000.0,
+    "revenue": 352473000.0,
+    "net_income": 65105000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "FY 2011",
+    "filing_date": "2011-11-18",
+    "shares_outstanding": 810949000.0,
+    "revenue": 1206021000.0,
+    "net_income": 172134000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2011",
+    "filing_date": "2011-08-10",
+    "shares_outstanding": 735323000.0,
+    "revenue": 325209000.0,
+    "net_income": 56280000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q2 2011",
+    "filing_date": "2011-05-11",
+    "shares_outstanding": 667026000.0,
+    "revenue": 304307000.0,
+    "net_income": 55817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TDG",
+    "period": "Q3 2010",
+    "filing_date": "2010-08-11",
+    "shares_outstanding": 535846000.0,
+    "revenue": 214182000.0,
+    "net_income": 44005000.0,
+    "market_cap": null
+  }
+]

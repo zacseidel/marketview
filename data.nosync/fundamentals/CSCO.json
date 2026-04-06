@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2026",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 3984000000.0,
+    "revenue": 15349000000.0,
+    "net_income": 3175000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2026",
+    "filing_date": "2025-11-18",
+    "shares_outstanding": 3993000000.0,
+    "revenue": 14883000000.0,
+    "net_income": 2860000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2025",
+    "filing_date": "2025-09-03",
+    "shares_outstanding": 3998000000.0,
+    "revenue": 56654000000.0,
+    "net_income": 10180000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2025",
+    "filing_date": "2025-05-20",
+    "shares_outstanding": 4002000000.0,
+    "revenue": 14149000000.0,
+    "net_income": 2491000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2025",
+    "filing_date": "2025-02-18",
+    "shares_outstanding": 4005000000.0,
+    "revenue": 13991000000.0,
+    "net_income": 2428000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2025",
+    "filing_date": "2024-11-19",
+    "shares_outstanding": 4013000000.0,
+    "revenue": 13841000000.0,
+    "net_income": 2711000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2024",
+    "filing_date": "2024-09-05",
+    "shares_outstanding": 4062000000.0,
+    "revenue": 53803000000.0,
+    "net_income": 10320000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2024",
+    "filing_date": "2024-05-21",
+    "shares_outstanding": 4060000000.0,
+    "revenue": 12702000000.0,
+    "net_income": 1886000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2024",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 4073000000.0,
+    "revenue": 12791000000.0,
+    "net_income": 2634000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2024",
+    "filing_date": "2023-11-21",
+    "shares_outstanding": 4087000000.0,
+    "revenue": 14668000000.0,
+    "net_income": 3638000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2023",
+    "filing_date": "2023-09-07",
+    "shares_outstanding": 4105000000.0,
+    "revenue": 56998000000.0,
+    "net_income": 12613000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2023",
+    "filing_date": "2023-05-24",
+    "shares_outstanding": 4110000000.0,
+    "revenue": 14571000000.0,
+    "net_income": 3212000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2023",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 4116000000.0,
+    "revenue": 13592000000.0,
+    "net_income": 2773000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2023",
+    "filing_date": "2022-11-22",
+    "shares_outstanding": 4116000000.0,
+    "revenue": 13632000000.0,
+    "net_income": 2670000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2022",
+    "filing_date": "2022-09-08",
+    "shares_outstanding": 4192000000.0,
+    "revenue": 51557000000.0,
+    "net_income": 11812000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2022",
+    "filing_date": "2022-05-25",
+    "shares_outstanding": 4170000000.0,
+    "revenue": 12835000000.0,
+    "net_income": 3044000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2022",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 4205000000.0,
+    "revenue": 12720000000.0,
+    "net_income": 2973000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2022",
+    "filing_date": "2021-11-23",
+    "shares_outstanding": 4243000000.0,
+    "revenue": 12900000000.0,
+    "net_income": 2980000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2021",
+    "filing_date": "2021-09-09",
+    "shares_outstanding": 4236000000.0,
+    "revenue": 49818000000.0,
+    "net_income": 10591000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2021",
+    "filing_date": "2021-05-25",
+    "shares_outstanding": 4238000000.0,
+    "revenue": 12803000000.0,
+    "net_income": 2863000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2021",
+    "filing_date": "2021-02-16",
+    "shares_outstanding": 4234000000.0,
+    "revenue": 11960000000.0,
+    "net_income": 2545000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2021",
+    "filing_date": "2020-11-17",
+    "shares_outstanding": 4244000000.0,
+    "revenue": 11929000000.0,
+    "net_income": 2174000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2020",
+    "filing_date": "2020-09-03",
+    "shares_outstanding": 4254000000.0,
+    "revenue": 49301000000.0,
+    "net_income": 11214000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2020",
+    "filing_date": "2020-05-18",
+    "shares_outstanding": 4243000000.0,
+    "revenue": 11983000000.0,
+    "net_income": 2774000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2020",
+    "filing_date": "2020-02-18",
+    "shares_outstanding": 4260000000.0,
+    "revenue": 12005000000.0,
+    "net_income": 2878000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2020",
+    "filing_date": "2019-11-19",
+    "shares_outstanding": 4273000000.0,
+    "revenue": 13159000000.0,
+    "net_income": 2926000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2019",
+    "filing_date": "2019-09-05",
+    "shares_outstanding": 4453000000.0,
+    "revenue": 51904000000.0,
+    "net_income": 11621000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2019",
+    "filing_date": "2019-05-21",
+    "shares_outstanding": 4415000000.0,
+    "revenue": 12958000000.0,
+    "net_income": 3044000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2019",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 4505000000.0,
+    "revenue": 12446000000.0,
+    "net_income": 2822000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2019",
+    "filing_date": "2018-11-20",
+    "shares_outstanding": 4614000000.0,
+    "revenue": 13072000000.0,
+    "net_income": 3549000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2018",
+    "filing_date": "2018-09-06",
+    "shares_outstanding": 4881000000.0,
+    "revenue": 49330000000.0,
+    "net_income": 110000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2018",
+    "filing_date": "2018-05-22",
+    "shares_outstanding": 4844000000.0,
+    "revenue": 12463000000.0,
+    "net_income": 2691000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2018",
+    "filing_date": "2018-02-20",
+    "shares_outstanding": 4924000000.0,
+    "revenue": 11887000000.0,
+    "net_income": -8778000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2018",
+    "filing_date": "2017-11-21",
+    "shares_outstanding": 4994000000.0,
+    "revenue": 12136000000.0,
+    "net_income": 2394000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2017",
+    "filing_date": "2017-09-07",
+    "shares_outstanding": 5049000000.0,
+    "revenue": 48005000000.0,
+    "net_income": 9609000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2017",
+    "filing_date": "2017-05-23",
+    "shares_outstanding": 5045000000.0,
+    "revenue": 11940000000.0,
+    "net_income": 2515000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2017",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 5040000000.0,
+    "revenue": 11580000000.0,
+    "net_income": 2348000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2017",
+    "filing_date": "2016-11-22",
+    "shares_outstanding": 5066000000.0,
+    "revenue": 12352000000.0,
+    "net_income": 2322000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2016",
+    "filing_date": "2016-09-08",
+    "shares_outstanding": 5088000000.0,
+    "revenue": 49247000000.0,
+    "net_income": 10739000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2016",
+    "filing_date": "2016-05-24",
+    "shares_outstanding": 5065000000.0,
+    "revenue": 12000000000.0,
+    "net_income": 2349000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2016",
+    "filing_date": "2016-02-18",
+    "shares_outstanding": 5097000000.0,
+    "revenue": 11927000000.0,
+    "net_income": 3147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2016",
+    "filing_date": "2015-11-19",
+    "shares_outstanding": 5113000000.0,
+    "revenue": 12682000000.0,
+    "net_income": 2430000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2015",
+    "filing_date": "2015-09-08",
+    "shares_outstanding": 5146000000.0,
+    "revenue": 49161000000.0,
+    "net_income": 8981000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2015",
+    "filing_date": "2015-05-20",
+    "shares_outstanding": 5148000000.0,
+    "revenue": 12137000000.0,
+    "net_income": 2437000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2015",
+    "filing_date": "2015-02-18",
+    "shares_outstanding": 5160000000.0,
+    "revenue": 11936000000.0,
+    "net_income": 2397000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2015",
+    "filing_date": "2014-11-20",
+    "shares_outstanding": 5156000000.0,
+    "revenue": 12245000000.0,
+    "net_income": 1828000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2014",
+    "filing_date": "2014-09-09",
+    "shares_outstanding": 5281000000.0,
+    "revenue": 47142000000.0,
+    "net_income": 7853000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2014",
+    "filing_date": "2014-05-22",
+    "shares_outstanding": 5180000000.0,
+    "revenue": 11545000000.0,
+    "net_income": 2181000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2014",
+    "filing_date": "2014-02-20",
+    "shares_outstanding": 5327000000.0,
+    "revenue": 11155000000.0,
+    "net_income": 1429000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2014",
+    "filing_date": "2013-11-22",
+    "shares_outstanding": 5430000000.0,
+    "revenue": 12085000000.0,
+    "net_income": 1996000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2013",
+    "filing_date": "2013-09-10",
+    "shares_outstanding": 5380000000.0,
+    "revenue": 48607000000.0,
+    "net_income": 9983000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2013",
+    "filing_date": "2013-05-21",
+    "shares_outstanding": 5387000000.0,
+    "revenue": 12216000000.0,
+    "net_income": 2478000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2013",
+    "filing_date": "2013-02-19",
+    "shares_outstanding": 5357000000.0,
+    "revenue": 12098000000.0,
+    "net_income": 3143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2013",
+    "filing_date": "2012-11-20",
+    "shares_outstanding": 5334000000.0,
+    "revenue": 11876000000.0,
+    "net_income": 2092000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2012",
+    "filing_date": "2012-09-12",
+    "shares_outstanding": 5404000000.0,
+    "revenue": 46061000000.0,
+    "net_income": 8041000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2012",
+    "filing_date": "2012-05-23",
+    "shares_outstanding": 5456000000.0,
+    "revenue": 11588000000.0,
+    "net_income": 2165000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2012",
+    "filing_date": "2012-02-21",
+    "shares_outstanding": 5401000000.0,
+    "revenue": 11527000000.0,
+    "net_income": 2182000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2012",
+    "filing_date": "2011-11-22",
+    "shares_outstanding": 5407000000.0,
+    "revenue": 11256000000.0,
+    "net_income": 1777000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "FY 2011",
+    "filing_date": "2011-09-14",
+    "shares_outstanding": 5563000000.0,
+    "revenue": 43218000000.0,
+    "net_income": 6490000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2011",
+    "filing_date": "2011-05-25",
+    "shares_outstanding": 5537000000.0,
+    "revenue": 10866000000.0,
+    "net_income": 1807000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q3 2010",
+    "filing_date": "2010-05-26",
+    "shares_outstanding": 5869000000.0,
+    "revenue": 10368000000.0,
+    "net_income": 2192000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q2 2010",
+    "filing_date": "2010-02-17",
+    "shares_outstanding": 5862000000.0,
+    "revenue": 9815000000.0,
+    "net_income": 1853000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CSCO",
+    "period": "Q1 2010",
+    "filing_date": "2009-11-18",
+    "shares_outstanding": 5871000000.0,
+    "revenue": 9021000000.0,
+    "net_income": 1787000000.0,
+    "market_cap": null
+  }
+]

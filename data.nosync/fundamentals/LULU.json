@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "LULU",
+    "period": "Q2 2026",
+    "filing_date": "2025-09-04",
+    "shares_outstanding": 119680000.0,
+    "revenue": 2525219000.0,
+    "net_income": 370905000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2026",
+    "filing_date": "2025-06-05",
+    "shares_outstanding": 120843000.0,
+    "revenue": 2370660000.0,
+    "net_income": 314572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2025",
+    "filing_date": "2025-03-27",
+    "shares_outstanding": 123935000.0,
+    "revenue": 10588126000.0,
+    "net_income": 1814616000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2025",
+    "filing_date": "2024-12-05",
+    "shares_outstanding": 122803000.0,
+    "revenue": 2396660000.0,
+    "net_income": 351870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2025",
+    "filing_date": "2024-08-29",
+    "shares_outstanding": 124857000.0,
+    "revenue": 2371078000.0,
+    "net_income": 392922000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2025",
+    "filing_date": "2024-06-05",
+    "shares_outstanding": 126336000.0,
+    "revenue": 2208891000.0,
+    "net_income": 321421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2024",
+    "filing_date": "2024-03-21",
+    "shares_outstanding": 127060000.0,
+    "revenue": 9619278000.0,
+    "net_income": 1550190000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2024",
+    "filing_date": "2023-12-07",
+    "shares_outstanding": 126770000.0,
+    "revenue": 2204218000.0,
+    "net_income": 248714000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2024",
+    "filing_date": "2023-08-31",
+    "shares_outstanding": 127263000.0,
+    "revenue": 2209165000.0,
+    "net_income": 341603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2024",
+    "filing_date": "2023-06-01",
+    "shares_outstanding": 127621000.0,
+    "revenue": 2000792000.0,
+    "net_income": 290405000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2023",
+    "filing_date": "2023-03-28",
+    "shares_outstanding": 128017000.0,
+    "revenue": 8110518000.0,
+    "net_income": 854800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2023",
+    "filing_date": "2022-12-08",
+    "shares_outstanding": 127820000.0,
+    "revenue": 1856889000.0,
+    "net_income": 255470000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2023",
+    "filing_date": "2022-09-01",
+    "shares_outstanding": 127906000.0,
+    "revenue": 1868328000.0,
+    "net_income": 289521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2023",
+    "filing_date": "2022-06-02",
+    "shares_outstanding": 128541000.0,
+    "revenue": 1613463000.0,
+    "net_income": 189998000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2022",
+    "filing_date": "2022-03-29",
+    "shares_outstanding": 130295000.0,
+    "revenue": 6256617000.0,
+    "net_income": 975322000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2022",
+    "filing_date": "2021-12-09",
+    "shares_outstanding": 130189000.0,
+    "revenue": 1450421000.0,
+    "net_income": 187788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2022",
+    "filing_date": "2021-09-08",
+    "shares_outstanding": 130490000.0,
+    "revenue": 1450618000.0,
+    "net_income": 208074000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2022",
+    "filing_date": "2021-06-03",
+    "shares_outstanding": 130984000.0,
+    "revenue": 1226465000.0,
+    "net_income": 144956000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2021",
+    "filing_date": "2021-03-30",
+    "shares_outstanding": 130871000.0,
+    "revenue": 4401879000.0,
+    "net_income": 588913000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2021",
+    "filing_date": "2020-12-10",
+    "shares_outstanding": 130924000.0,
+    "revenue": 1117426000.0,
+    "net_income": 143643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2021",
+    "filing_date": "2020-09-08",
+    "shares_outstanding": 130799000.0,
+    "revenue": 902942000.0,
+    "net_income": 86801000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2021",
+    "filing_date": "2020-06-11",
+    "shares_outstanding": 130803000.0,
+    "revenue": 651962000.0,
+    "net_income": 28632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2020",
+    "filing_date": "2020-03-26",
+    "shares_outstanding": 130955000.0,
+    "revenue": 3979296000.0,
+    "net_income": 645596000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2020",
+    "filing_date": "2019-12-11",
+    "shares_outstanding": 130805000.0,
+    "revenue": 916138000.0,
+    "net_income": 125982000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2020",
+    "filing_date": "2019-09-05",
+    "shares_outstanding": 130783000.0,
+    "revenue": 883352000.0,
+    "net_income": 124990000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2020",
+    "filing_date": "2019-06-12",
+    "shares_outstanding": 131337000.0,
+    "revenue": 782315000.0,
+    "net_income": 96603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2019",
+    "filing_date": "2019-03-27",
+    "shares_outstanding": 133971000.0,
+    "revenue": 3288319000.0,
+    "net_income": 483801000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2019",
+    "filing_date": "2018-12-06",
+    "shares_outstanding": 133077000.0,
+    "revenue": 747655000.0,
+    "net_income": 94413000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2019",
+    "filing_date": "2018-08-30",
+    "shares_outstanding": 134530000.0,
+    "revenue": 723500000.0,
+    "net_income": 95770000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2019",
+    "filing_date": "2018-05-31",
+    "shares_outstanding": 135931000.0,
+    "revenue": 649706000.0,
+    "net_income": 75153000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2018",
+    "filing_date": "2018-03-27",
+    "shares_outstanding": 136198000.0,
+    "revenue": 2649181000.0,
+    "net_income": 258662000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2018",
+    "filing_date": "2017-12-06",
+    "shares_outstanding": 135578000.0,
+    "revenue": 619018000.0,
+    "net_income": 58944000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2018",
+    "filing_date": "2017-08-31",
+    "shares_outstanding": 136303000.0,
+    "revenue": 581054000.0,
+    "net_income": 48711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2018",
+    "filing_date": "2017-06-01",
+    "shares_outstanding": 137192000.0,
+    "revenue": 520307000.0,
+    "net_income": 31246000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2017",
+    "filing_date": "2017-03-29",
+    "shares_outstanding": 137302000.0,
+    "revenue": 2344392000.0,
+    "net_income": 303381000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2017",
+    "filing_date": "2016-12-07",
+    "shares_outstanding": 137237000.0,
+    "revenue": 544416000.0,
+    "net_income": 68285000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2017",
+    "filing_date": "2016-09-01",
+    "shares_outstanding": 137229000.0,
+    "revenue": 514520000.0,
+    "net_income": 53625000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2017",
+    "filing_date": "2016-06-08",
+    "shares_outstanding": 137496000.0,
+    "revenue": 495516000.0,
+    "net_income": 45336000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2016",
+    "filing_date": "2016-03-30",
+    "shares_outstanding": 140610000.0,
+    "revenue": 2060523000.0,
+    "net_income": 266047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2016",
+    "filing_date": "2015-12-09",
+    "shares_outstanding": 140457000.0,
+    "revenue": 479693000.0,
+    "net_income": 53153000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2016",
+    "filing_date": "2015-09-10",
+    "shares_outstanding": 141644000.0,
+    "revenue": 453010000.0,
+    "net_income": 47668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2016",
+    "filing_date": "2015-06-09",
+    "shares_outstanding": 142337000.0,
+    "revenue": 423544000.0,
+    "net_income": 47810000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2015",
+    "filing_date": "2015-03-26",
+    "shares_outstanding": 144298000.0,
+    "revenue": 1797213000.0,
+    "net_income": 239033000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2015",
+    "filing_date": "2014-12-11",
+    "shares_outstanding": 143441000.0,
+    "revenue": 419396000.0,
+    "net_income": 60451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2015",
+    "filing_date": "2014-09-11",
+    "shares_outstanding": 145544000.0,
+    "revenue": 390708000.0,
+    "net_income": 48748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2015",
+    "filing_date": "2014-06-12",
+    "shares_outstanding": 145861000.0,
+    "revenue": 384618000.0,
+    "net_income": 18981000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2014",
+    "filing_date": "2014-03-27",
+    "shares_outstanding": 146043000.0,
+    "revenue": 1591188000.0,
+    "net_income": 279547000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2014",
+    "filing_date": "2013-12-12",
+    "shares_outstanding": 146014000.0,
+    "revenue": 379900000.0,
+    "net_income": 66111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2014",
+    "filing_date": "2013-09-12",
+    "shares_outstanding": 145916000.0,
+    "revenue": 344513000.0,
+    "net_income": 56465000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2014",
+    "filing_date": "2013-06-10",
+    "shares_outstanding": 145849000.0,
+    "revenue": 345782000.0,
+    "net_income": 47279000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2013",
+    "filing_date": "2013-03-21",
+    "shares_outstanding": 145806000.0,
+    "revenue": 1370358000.0,
+    "net_income": 271431000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2013",
+    "filing_date": "2012-12-06",
+    "shares_outstanding": 145748000.0,
+    "revenue": 316537000.0,
+    "net_income": 57380000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2013",
+    "filing_date": "2012-09-07",
+    "shares_outstanding": 145678000.0,
+    "revenue": 282634000.0,
+    "net_income": 57702000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2013",
+    "filing_date": "2012-06-07",
+    "shares_outstanding": 145637000.0,
+    "revenue": 285698000.0,
+    "net_income": 46974000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2012",
+    "filing_date": "2012-03-22",
+    "shares_outstanding": 145278000.0,
+    "revenue": 1000839000.0,
+    "net_income": 184964000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2012",
+    "filing_date": "2011-12-01",
+    "shares_outstanding": 145349000.0,
+    "revenue": 230216000.0,
+    "net_income": 38941000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2012",
+    "filing_date": "2011-09-09",
+    "shares_outstanding": 145228000.0,
+    "revenue": 212323000.0,
+    "net_income": 38618000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q1 2012",
+    "filing_date": "2011-06-10",
+    "shares_outstanding": 72455000.0,
+    "revenue": 186780000.0,
+    "net_income": 33516000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "FY 2011",
+    "filing_date": "2011-03-17",
+    "shares_outstanding": 71929000.0,
+    "revenue": 711704000.0,
+    "net_income": 121847000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q3 2011",
+    "filing_date": "2010-12-09",
+    "shares_outstanding": 71835000.0,
+    "revenue": 175800000.0,
+    "net_income": 25935000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LULU",
+    "period": "Q2 2011",
+    "filing_date": "2010-09-10",
+    "shares_outstanding": 71750000.0,
+    "revenue": 152208000.0,
+    "net_income": 21707000.0,
+    "market_cap": null
+  }
+]

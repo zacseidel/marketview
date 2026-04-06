@@ -1,0 +1,245 @@
+[
+  {
+    "ticker": "NVST",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 169200000.0,
+    "revenue": 2719500000.0,
+    "net_income": 47000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 169200000.0,
+    "revenue": 2719500000.0,
+    "net_income": 47000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 166100000.0,
+    "revenue": 669900000.0,
+    "net_income": -30300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 169900000.0,
+    "revenue": 682100000.0,
+    "net_income": 26400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 173600000.0,
+    "revenue": 616900000.0,
+    "net_income": 18000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 172200000.0,
+    "revenue": 2510600000.0,
+    "net_income": -1118600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 172900000.0,
+    "revenue": 601000000.0,
+    "net_income": 8200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 172100000.0,
+    "revenue": 633100000.0,
+    "net_income": -1151600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 173400000.0,
+    "revenue": 623600000.0,
+    "net_income": 23600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 166900000.0,
+    "revenue": 2566500000.0,
+    "net_income": -100200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 175200000.0,
+    "revenue": 631300000.0,
+    "net_income": 21500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 176300000.0,
+    "revenue": 662400000.0,
+    "net_income": 51900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 177400000.0,
+    "revenue": 627200000.0,
+    "net_income": 43800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 177600000.0,
+    "revenue": 2569100000.0,
+    "net_income": 243100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 176900000.0,
+    "revenue": 631100000.0,
+    "net_income": 47600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 178500000.0,
+    "revenue": 645800000.0,
+    "net_income": 47100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 179800000.0,
+    "revenue": 631400000.0,
+    "net_income": 74900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 177600000.0,
+    "revenue": 2508900000.0,
+    "net_income": 340500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 178100000.0,
+    "revenue": 607300000.0,
+    "net_income": 92900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 178400000.0,
+    "revenue": 637200000.0,
+    "net_income": 90100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 175900000.0,
+    "revenue": 612600000.0,
+    "net_income": 71700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 164100000.0,
+    "revenue": 2282000000.0,
+    "net_income": 33300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 163900000.0,
+    "revenue": 640500000.0,
+    "net_income": 35600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 3495900000.0,
+    "revenue": 362000000.0,
+    "net_income": -93500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-12",
+    "shares_outstanding": 159200000.0,
+    "revenue": 547200000.0,
+    "net_income": -17200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 136400000.0,
+    "revenue": 2751600000.0,
+    "net_income": 217600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NVST",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-24",
+    "shares_outstanding": 130600000.0,
+    "revenue": 659300000.0,
+    "net_income": 62100000.0,
+    "market_cap": null
+  }
+]

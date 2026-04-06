@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "OHI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-09",
+    "shares_outstanding": 304952000.0,
+    "revenue": 1190099000.0,
+    "net_income": 609467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-09",
+    "shares_outstanding": 304952000.0,
+    "revenue": 1190099000.0,
+    "net_income": 609467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 308173000.0,
+    "revenue": 311591000.0,
+    "net_income": 184956000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 303246000.0,
+    "revenue": 282506000.0,
+    "net_income": 140479000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 294928000.0,
+    "revenue": 276785000.0,
+    "net_income": 112060000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 270450000.0,
+    "revenue": 1051390000.0,
+    "net_income": 417804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 275557000.0,
+    "revenue": 276028000.0,
+    "net_income": 114914000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 261534000.0,
+    "revenue": 252745000.0,
+    "net_income": 117079000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 257264000.0,
+    "revenue": 243299000.0,
+    "net_income": 69346000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-12",
+    "shares_outstanding": 250451000.0,
+    "revenue": 949740000.0,
+    "net_income": 248796000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 255955000.0,
+    "revenue": 242032000.0,
+    "net_income": 93908000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 246100000.0,
+    "revenue": 250187000.0,
+    "net_income": 61521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 243188000.0,
+    "revenue": 218202000.0,
+    "net_income": 36845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2022",
+    "filing_date": "2023-02-14",
+    "shares_outstanding": 244290000.0,
+    "revenue": 878244000.0,
+    "net_income": 438841000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 243284000.0,
+    "revenue": 239430000.0,
+    "net_income": 105064000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 243326000.0,
+    "revenue": 244649000.0,
+    "net_income": 91915000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 247556000.0,
+    "revenue": 249315000.0,
+    "net_income": 195156000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 244338000.0,
+    "revenue": 1062809000.0,
+    "net_income": 428302000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 246617000.0,
+    "revenue": 281672000.0,
+    "net_income": 142835000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 243908000.0,
+    "revenue": 257420000.0,
+    "net_income": 86863000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 239907000.0,
+    "revenue": 273768000.0,
+    "net_income": 164366000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2020",
+    "filing_date": "2021-02-22",
+    "shares_outstanding": 235104000.0,
+    "revenue": 892381000.0,
+    "net_income": 163545000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 233675000.0,
+    "revenue": 119177000.0,
+    "net_income": -93768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 234523000.0,
+    "revenue": 256395000.0,
+    "net_income": 101960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 234506000.0,
+    "revenue": 253024000.0,
+    "net_income": 92279000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 222125000.0,
+    "revenue": 928830000.0,
+    "net_income": 351947000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 226513000.0,
+    "revenue": 233195000.0,
+    "net_income": 142948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 220479000.0,
+    "revenue": 225279000.0,
+    "net_income": 75671000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 213523000.0,
+    "revenue": 223688000.0,
+    "net_income": 72182000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 209711000.0,
+    "revenue": 881682000.0,
+    "net_income": 293884000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 210437000.0,
+    "revenue": 221852000.0,
+    "net_income": 59062000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 208460000.0,
+    "revenue": 219881000.0,
+    "net_income": 81986000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 207816000.0,
+    "revenue": 220199000.0,
+    "net_income": 87933000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 206790000.0,
+    "revenue": 908385000.0,
+    "net_income": 104910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 206662000.0,
+    "revenue": 219638000.0,
+    "net_income": -131678000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 206672000.0,
+    "revenue": 235797000.0,
+    "net_income": 65257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 206174000.0,
+    "revenue": 231744000.0,
+    "net_income": 104440000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 201635000.0,
+    "revenue": 900827000.0,
+    "net_income": 383367000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 204078.0,
+    "revenue": 224638000.0,
+    "net_income": 78549000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 199157.0,
+    "revenue": 228824000.0,
+    "net_income": 108052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 198350000.0,
+    "revenue": 212879000.0,
+    "net_income": 55555000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 180508.0,
+    "revenue": 743617000.0,
+    "net_income": 233315000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 195183000.0,
+    "revenue": 201974000.0,
+    "net_income": 83254000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 194482000.0,
+    "revenue": 197711000.0,
+    "net_income": 43466000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 134806000.0,
+    "revenue": 133420000.0,
+    "net_income": 43052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 127294000.0,
+    "revenue": 504787000.0,
+    "net_income": null,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 128428000.0,
+    "revenue": 130665000.0,
+    "net_income": 61713000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 127436000.0,
+    "revenue": 121800000.0,
+    "net_income": 46817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 124822000.0,
+    "revenue": 121001000.0,
+    "net_income": 55829000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2013",
+    "filing_date": "2014-02-11",
+    "shares_outstanding": 118100000.0,
+    "revenue": 418714000.0,
+    "net_income": 172521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 118462000.0,
+    "revenue": 103301000.0,
+    "net_income": 38137000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-05",
+    "shares_outstanding": 117022000.0,
+    "revenue": 102515000.0,
+    "net_income": 49058000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 113522000.0,
+    "revenue": 101761000.0,
+    "net_income": 38120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 108011000.0,
+    "revenue": 350460000.0,
+    "net_income": 120698000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 109667000.0,
+    "revenue": 87108000.0,
+    "net_income": 30119000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 106033000.0,
+    "revenue": 83825000.0,
+    "net_income": 30572000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 104012000.0,
+    "revenue": 84515000.0,
+    "net_income": 26084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 102177000.0,
+    "revenue": 292204000.0,
+    "net_income": 52606000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 103231000.0,
+    "revenue": 72818000.0,
+    "net_income": 21436000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 102001000.0,
+    "revenue": 72606000.0,
+    "net_income": 17790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OHI",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-09",
+    "shares_outstanding": 100086000.0,
+    "revenue": 70476000.0,
+    "net_income": -5913000.0,
+    "market_cap": null
+  }
+]

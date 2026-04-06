@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "AMD",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 1636000000.0,
+    "revenue": 34639000000.0,
+    "net_income": 4335000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 1636000000.0,
+    "revenue": 34639000000.0,
+    "net_income": 4335000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 1641000000.0,
+    "revenue": 9246000000.0,
+    "net_income": 1243000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 1630000000.0,
+    "revenue": 7685000000.0,
+    "net_income": 872000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 1626000000.0,
+    "revenue": 7438000000.0,
+    "net_income": 709000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2024",
+    "filing_date": "2025-02-05",
+    "shares_outstanding": 1637000000.0,
+    "revenue": 25785000000.0,
+    "net_income": 1641000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 1636000000.0,
+    "revenue": 6819000000.0,
+    "net_income": 771000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 1637000000.0,
+    "revenue": 5835000000.0,
+    "net_income": 265000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 1639000000.0,
+    "revenue": 5473000000.0,
+    "net_income": 123000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2023",
+    "filing_date": "2024-01-31",
+    "shares_outstanding": 1625000000.0,
+    "revenue": 22680000000.0,
+    "net_income": 854000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 1629000000.0,
+    "revenue": 5800000000.0,
+    "net_income": 299000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 1627000000.0,
+    "revenue": 5359000000.0,
+    "net_income": 27000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 1611000000.0,
+    "revenue": 5353000000.0,
+    "net_income": -139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 1571000000.0,
+    "revenue": 23601000000.0,
+    "net_income": 1320000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 1625000000.0,
+    "revenue": 5565000000.0,
+    "net_income": 66000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 1632000000.0,
+    "revenue": 6550000000.0,
+    "net_income": 447000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 1410000000.0,
+    "revenue": 5887000000.0,
+    "net_income": 786000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2021",
+    "filing_date": "2022-02-03",
+    "shares_outstanding": 1229000000.0,
+    "revenue": 16434000000.0,
+    "net_income": 3162000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 1230000000.0,
+    "revenue": 4313000000.0,
+    "net_income": 923000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 1232000000.0,
+    "revenue": 3850000000.0,
+    "net_income": 710000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 1231000000.0,
+    "revenue": 3445000000.0,
+    "net_income": 555000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2020",
+    "filing_date": "2021-01-29",
+    "shares_outstanding": 1207000000.0,
+    "revenue": 9763000000.0,
+    "net_income": 2490000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 1215000000.0,
+    "revenue": 2801000000.0,
+    "net_income": 390000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 1227000000.0,
+    "revenue": 1932000000.0,
+    "net_income": 157000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 1224000000.0,
+    "revenue": 1786000000.0,
+    "net_income": 162000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2019",
+    "filing_date": "2020-02-04",
+    "shares_outstanding": 1120000000.0,
+    "revenue": 6731000000.0,
+    "net_income": 341000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 1117000000.0,
+    "revenue": 1801000000.0,
+    "net_income": 120000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 1109000000.0,
+    "revenue": 1531000000.0,
+    "net_income": 35000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 1094000000.0,
+    "revenue": 1272000000.0,
+    "net_income": 16000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2018",
+    "filing_date": "2019-02-08",
+    "shares_outstanding": 1064000000.0,
+    "revenue": 6475000000.0,
+    "net_income": 337000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 1076000000.0,
+    "revenue": 1653000000.0,
+    "net_income": 102000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 1147000000.0,
+    "revenue": 1756000000.0,
+    "net_income": 116000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 1039000000.0,
+    "revenue": 1647000000.0,
+    "net_income": 81000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 1039000000.0,
+    "revenue": 5329000000.0,
+    "net_income": 43000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 1042000000.0,
+    "revenue": 1643000000.0,
+    "net_income": 71000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 945000000.0,
+    "revenue": 1222000000.0,
+    "net_income": -16000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 939000000.0,
+    "revenue": 984000000.0,
+    "net_income": -73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 835000000.0,
+    "revenue": 4272000000.0,
+    "net_income": -497000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-26",
+    "shares_outstanding": 815000000.0,
+    "revenue": 1307000000.0,
+    "net_income": -406000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-26",
+    "shares_outstanding": 821000000.0,
+    "revenue": 1027000000.0,
+    "net_income": 69000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 793000000.0,
+    "revenue": 832000000.0,
+    "net_income": -109000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2015",
+    "filing_date": "2016-02-18",
+    "shares_outstanding": 783000000.0,
+    "revenue": 3991000000.0,
+    "net_income": -660000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 785000000.0,
+    "revenue": 1061000000.0,
+    "net_income": -197000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 778000000.0,
+    "revenue": 942000000.0,
+    "net_income": -181000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-29",
+    "shares_outstanding": 777000000.0,
+    "revenue": 1030000000.0,
+    "net_income": -180000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2014",
+    "filing_date": "2015-02-19",
+    "shares_outstanding": 768000000.0,
+    "revenue": 5506000000.0,
+    "net_income": -403000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 785000000.0,
+    "revenue": 1429000000.0,
+    "net_income": 17000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 764000000.0,
+    "revenue": 1441000000.0,
+    "net_income": -36000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 761000000.0,
+    "revenue": 1397000000.0,
+    "net_income": -20000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2013",
+    "filing_date": "2014-02-18",
+    "shares_outstanding": 754000000.0,
+    "revenue": 5299000000.0,
+    "net_income": -83000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 764000000.0,
+    "revenue": 1461000000.0,
+    "net_income": 48000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 752000000.0,
+    "revenue": 1161000000.0,
+    "net_income": -74000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-06",
+    "shares_outstanding": 749000000.0,
+    "revenue": 1088000000.0,
+    "net_income": -146000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 741000000.0,
+    "revenue": 5422000000.0,
+    "net_income": -1183000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 745000000.0,
+    "revenue": 1269000000.0,
+    "net_income": -157000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 755000000.0,
+    "revenue": 1413000000.0,
+    "net_income": 37000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 734000000.0,
+    "revenue": 1585000000.0,
+    "net_income": -590000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 742000000.0,
+    "revenue": 6568000000.0,
+    "net_income": 491000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 741000000.0,
+    "revenue": 1690000000.0,
+    "net_income": 97000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-10",
+    "shares_outstanding": 743000000.0,
+    "revenue": 1574000000.0,
+    "net_income": 61000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 764000000.0,
+    "revenue": 1613000000.0,
+    "net_income": 510000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-03",
+    "shares_outstanding": 713000000.0,
+    "revenue": 1618000000.0,
+    "net_income": -118000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMD",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-04",
+    "shares_outstanding": 709000000.0,
+    "revenue": 1653000000.0,
+    "net_income": -43000000.0,
+    "market_cap": null
+  }
+]

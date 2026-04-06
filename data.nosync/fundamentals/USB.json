@@ -1,0 +1,614 @@
+[
+  {
+    "ticker": "USB",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 1558000000.0,
+    "revenue": 28656000000.0,
+    "net_income": 7596000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 1558000000.0,
+    "revenue": 28656000000.0,
+    "net_income": 7596000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 1557000000.0,
+    "revenue": 7329000000.0,
+    "net_income": 2008000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 1559000000.0,
+    "revenue": 7004000000.0,
+    "net_income": 1821000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 1560000000.0,
+    "revenue": 6958000000.0,
+    "net_income": 1716000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 1561000000.0,
+    "revenue": 27455000000.0,
+    "net_income": 6329000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 1561000000.0,
+    "revenue": 6864000000.0,
+    "net_income": 1722000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 1561000000.0,
+    "revenue": 6867000000.0,
+    "net_income": 1611000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 1559000000.0,
+    "revenue": 6715000000.0,
+    "net_income": 1326000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 1543000000.0,
+    "revenue": 28144000000.0,
+    "net_income": 5458000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 1549000000.0,
+    "revenue": 7032000000.0,
+    "net_income": 1524000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-07",
+    "shares_outstanding": 1533000000.0,
+    "revenue": 7526000000.0,
+    "net_income": 1369000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-08",
+    "shares_outstanding": 1532000000.0,
+    "revenue": 6964000000.0,
+    "net_income": 1704000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 1490000000.0,
+    "revenue": 17945000000.0,
+    "net_income": 5838000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 1486000000.0,
+    "revenue": 4728000000.0,
+    "net_income": 1816000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 1487000000.0,
+    "revenue": 3825000000.0,
+    "net_income": 1534000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 1486000000.0,
+    "revenue": 3418000000.0,
+    "net_income": 1558000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 1490000000.0,
+    "revenue": 13487000000.0,
+    "net_income": 7985000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 1484000000.0,
+    "revenue": 3409000000.0,
+    "net_income": 2034000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 1490000000.0,
+    "revenue": 3382000000.0,
+    "net_income": 1988000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 1503000000.0,
+    "revenue": 3341000000.0,
+    "net_income": 2285000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2020",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 1510000000.0,
+    "revenue": 14840000000.0,
+    "net_income": 4985000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 1507000000.0,
+    "revenue": 3573000000.0,
+    "net_income": 1586000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 1507000000.0,
+    "revenue": 3672000000.0,
+    "net_income": 695000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 1519000000.0,
+    "revenue": 4116000000.0,
+    "net_income": 1179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 1583000000.0,
+    "revenue": 17494000000.0,
+    "net_income": 6946000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 1578000000.0,
+    "revenue": 5920000000.0,
+    "net_income": 1917000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 1592000000.0,
+    "revenue": 5822000000.0,
+    "net_income": 1828000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 1605000000.0,
+    "revenue": 5577000000.0,
+    "net_income": 1708000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 1638000000.0,
+    "revenue": 22637000000.0,
+    "net_income": 7124000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 1633000000.0,
+    "revenue": 5699000000.0,
+    "net_income": 1822000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 1646000000.0,
+    "revenue": 5640000000.0,
+    "net_income": 1758000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 1657000000.0,
+    "revenue": 5469000000.0,
+    "net_income": 1682000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 1683000000.0,
+    "revenue": 22057000000.0,
+    "net_income": 6253000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 1678000000.0,
+    "revenue": 5608000000.0,
+    "net_income": 1569000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 1690000000.0,
+    "revenue": 5487000000.0,
+    "net_income": 1512000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 1701000000.0,
+    "revenue": 5324000000.0,
+    "net_income": 1486000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 1724000000.0,
+    "revenue": 21308000000.0,
+    "net_income": 5944000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 1716000000.0,
+    "revenue": 5388000000.0,
+    "net_income": 1516000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 1731000000.0,
+    "revenue": 5448000000.0,
+    "net_income": 1536000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 1743000000.0,
+    "revenue": 5037000000.0,
+    "net_income": 1401000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 1772000000.0,
+    "revenue": 20306000000.0,
+    "net_income": 5933000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 1766000000.0,
+    "revenue": 5147000000.0,
+    "net_income": 1503000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 1779000000.0,
+    "revenue": 5042000000.0,
+    "net_income": 1497000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 1789000000.0,
+    "revenue": 4906000000.0,
+    "net_income": 1444000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 1813000000.0,
+    "revenue": 20161000000.0,
+    "net_income": 5908000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 1807000000.0,
+    "revenue": 4990000000.0,
+    "net_income": 1486000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 1821000000.0,
+    "revenue": 5188000000.0,
+    "net_income": 1509000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 1828000000.0,
+    "revenue": 4814000000.0,
+    "net_income": 1412000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 1849000000.0,
+    "revenue": 19602000000.0,
+    "net_income": 5732000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 1843000000.0,
+    "revenue": 4891000000.0,
+    "net_income": 1430000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 1853000000.0,
+    "revenue": 3038000000.0,
+    "net_income": 1444000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 1867000000.0,
+    "revenue": 3111000000.0,
+    "net_income": 1387000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 1896000000.0,
+    "revenue": 12883000000.0,
+    "net_income": 5490000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-05",
+    "shares_outstanding": 1897000000.0,
+    "revenue": 3227000000.0,
+    "net_income": 1432000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 1898000000.0,
+    "revenue": 3228000000.0,
+    "net_income": 1378000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q4 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 1910000000.0,
+    "revenue": 3232000000.0,
+    "net_income": 1305000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 1923000000.0,
+    "revenue": 12639000000.0,
+    "net_income": 4788000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 1922000000.0,
+    "revenue": 3200000000.0,
+    "net_income": 1252000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 1929000000.0,
+    "revenue": 3119000000.0,
+    "net_income": 1179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 1928000000.0,
+    "revenue": 3100000000.0,
+    "net_income": 1029000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2010",
+    "filing_date": "2011-02-28",
+    "shares_outstanding": 1921000000.0,
+    "revenue": 12158000000.0,
+    "net_income": 3265000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-08",
+    "shares_outstanding": 1920000000.0,
+    "revenue": 3077000000.0,
+    "net_income": 894000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 1921000000.0,
+    "revenue": 2995000000.0,
+    "net_income": 752000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-07",
+    "shares_outstanding": 1919000000.0,
+    "revenue": 2993000000.0,
+    "net_income": 663000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "FY 2009",
+    "filing_date": "2010-02-26",
+    "shares_outstanding": 1859000000.0,
+    "revenue": 11538000000.0,
+    "net_income": 2237000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-06",
+    "shares_outstanding": 1917000000.0,
+    "revenue": 2857000000.0,
+    "net_income": 605000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "USB",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-10",
+    "shares_outstanding": 1840000000.0,
+    "revenue": 2840000000.0,
+    "net_income": 485000000.0,
+    "market_cap": null
+  }
+]

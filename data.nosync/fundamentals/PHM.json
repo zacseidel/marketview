@@ -1,0 +1,515 @@
+[
+  {
+    "ticker": "PHM",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 199537000.0,
+    "revenue": 17311953000.0,
+    "net_income": 2218730000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2025",
+    "filing_date": "2026-02-04",
+    "shares_outstanding": 199537000.0,
+    "revenue": 17311953000.0,
+    "net_income": 2218730000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-21",
+    "shares_outstanding": 198141000.0,
+    "revenue": 4404799000.0,
+    "net_income": 585834000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-22",
+    "shares_outstanding": 200681000.0,
+    "revenue": 4403755000.0,
+    "net_income": 608483000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-22",
+    "shares_outstanding": 203664000.0,
+    "revenue": 3892650000.0,
+    "net_income": 522799000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-22",
+    "shares_outstanding": 208460000.0,
+    "revenue": 4476342000.0,
+    "net_income": 697914000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-23",
+    "shares_outstanding": 211201000.0,
+    "revenue": 4599655000.0,
+    "net_income": 809133000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-23",
+    "shares_outstanding": 213546000.0,
+    "revenue": 3949160000.0,
+    "net_income": 662976000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2023",
+    "filing_date": "2024-02-05",
+    "shares_outstanding": 221163000.0,
+    "revenue": 16061578000.0,
+    "net_income": 2602372000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-24",
+    "shares_outstanding": 219682000.0,
+    "revenue": 4003533000.0,
+    "net_income": 638775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-25",
+    "shares_outstanding": 223392000.0,
+    "revenue": 4188753000.0,
+    "net_income": 720345000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-25",
+    "shares_outstanding": 225957000.0,
+    "revenue": 3575641000.0,
+    "net_income": 532259000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2022",
+    "filing_date": "2023-02-06",
+    "shares_outstanding": 236166000.0,
+    "revenue": 16228995000.0,
+    "net_income": 2617317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-25",
+    "shares_outstanding": 232300000.0,
+    "revenue": 3943816000.0,
+    "net_income": 627928000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-26",
+    "shares_outstanding": 237646000.0,
+    "revenue": 3926186000.0,
+    "net_income": 652435000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 246865000.0,
+    "revenue": 3187615000.0,
+    "net_income": 454723000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2021",
+    "filing_date": "2022-02-07",
+    "shares_outstanding": 259928000.0,
+    "revenue": 13926882000.0,
+    "net_income": 1946320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-26",
+    "shares_outstanding": 258899000.0,
+    "revenue": 3479050000.0,
+    "net_income": 475549000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-27",
+    "shares_outstanding": 262747000.0,
+    "revenue": 3359484000.0,
+    "net_income": 503399000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-27",
+    "shares_outstanding": 266012000.0,
+    "revenue": 2729790000.0,
+    "net_income": 304107000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2020",
+    "filing_date": "2021-02-02",
+    "shares_outstanding": 269414000.0,
+    "revenue": 11036082000.0,
+    "net_income": 1406839000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-22",
+    "shares_outstanding": 268961000.0,
+    "revenue": 2954957000.0,
+    "net_income": 416398000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-23",
+    "shares_outstanding": 269025000.0,
+    "revenue": 2593781000.0,
+    "net_income": 348620000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-23",
+    "shares_outstanding": 271218000.0,
+    "revenue": 2294980000.0,
+    "net_income": 203711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2019",
+    "filing_date": "2020-01-30",
+    "shares_outstanding": 275297000.0,
+    "revenue": 10212957000.0,
+    "net_income": 1016700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-22",
+    "shares_outstanding": 273632000.0,
+    "revenue": 2710365000.0,
+    "net_income": 273104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-23",
+    "shares_outstanding": 277584000.0,
+    "revenue": 2488985000.0,
+    "net_income": 241041000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-23",
+    "shares_outstanding": 278640000.0,
+    "revenue": 1996693000.0,
+    "net_income": 166757000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2018",
+    "filing_date": "2019-01-31",
+    "shares_outstanding": 284865000.0,
+    "revenue": 10188331000.0,
+    "net_income": 1022023000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-23",
+    "shares_outstanding": 284672000.0,
+    "revenue": 2649366000.0,
+    "net_income": 289535000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 286654000.0,
+    "revenue": 2569722000.0,
+    "net_income": 324089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-24",
+    "shares_outstanding": 288026000.0,
+    "revenue": 1970093000.0,
+    "net_income": 170751000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2017",
+    "filing_date": "2018-02-07",
+    "shares_outstanding": 306814000.0,
+    "revenue": 8573250000.0,
+    "net_income": 447221000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-24",
+    "shares_outstanding": 300228000.0,
+    "revenue": 2130019000.0,
+    "net_income": 177539000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-25",
+    "shares_outstanding": 313880000.0,
+    "revenue": 2020846000.0,
+    "net_income": 100749000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-25",
+    "shares_outstanding": 320085000.0,
+    "revenue": 1628828000.0,
+    "net_income": 91518000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2016",
+    "filing_date": "2017-02-01",
+    "shares_outstanding": 342123000.0,
+    "revenue": 7668476000.0,
+    "net_income": 602703000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-20",
+    "shares_outstanding": 342421000.0,
+    "revenue": 1942905000.0,
+    "net_income": 128470000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-21",
+    "shares_outstanding": 347999000.0,
+    "revenue": 1799914000.0,
+    "net_income": 117760000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-21",
+    "shares_outstanding": 350477000.0,
+    "revenue": 1432578000.0,
+    "net_income": 83300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2015",
+    "filing_date": "2016-02-08",
+    "shares_outstanding": 359793000.0,
+    "revenue": 5981964000.0,
+    "net_income": 494090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-22",
+    "shares_outstanding": 353372000.0,
+    "revenue": 1506747000.0,
+    "net_income": 107769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-23",
+    "shares_outstanding": 364241000.0,
+    "revenue": 1280291000.0,
+    "net_income": 103324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-23",
+    "shares_outstanding": 370110000.0,
+    "revenue": 1133298000.0,
+    "net_income": 54971000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2014",
+    "filing_date": "2015-02-04",
+    "shares_outstanding": 374102000.0,
+    "revenue": 5822363000.0,
+    "net_income": 474338000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-23",
+    "shares_outstanding": 377292000.0,
+    "revenue": 1594725000.0,
+    "net_income": 140545000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-24",
+    "shares_outstanding": 379664000.0,
+    "revenue": 1286187000.0,
+    "net_income": 41880000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q4 2014",
+    "filing_date": "2014-04-24",
+    "shares_outstanding": 387806000.0,
+    "revenue": 1118894000.0,
+    "net_income": 74819000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2013",
+    "filing_date": "2014-02-05",
+    "shares_outstanding": 386866000.0,
+    "revenue": 5679595000.0,
+    "net_income": 2620116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q4 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 386103000.0,
+    "revenue": 1582078000.0,
+    "net_income": 2281884000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2012",
+    "filing_date": "2013-02-06",
+    "shares_outstanding": 384564000.0,
+    "revenue": 4819998000.0,
+    "net_income": 206145000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q4 2012",
+    "filing_date": "2012-10-25",
+    "shares_outstanding": 384570000.0,
+    "revenue": 1302591000.0,
+    "net_income": 116633000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "FY 2011",
+    "filing_date": "2012-02-09",
+    "shares_outstanding": 379877000.0,
+    "revenue": 4136690000.0,
+    "net_income": -210388000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 380025000.0,
+    "revenue": 1141931000.0,
+    "net_income": -129298000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-01",
+    "shares_outstanding": 379781000.0,
+    "revenue": 927212000.0,
+    "net_income": -55385000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-28",
+    "shares_outstanding": 379544000.0,
+    "revenue": 805202000.0,
+    "net_income": -39526000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PHM",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 380412000.0,
+    "revenue": 1305898000.0,
+    "net_income": 76303000.0,
+    "market_cap": null
+  }
+]

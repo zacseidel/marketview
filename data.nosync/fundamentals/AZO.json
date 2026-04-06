@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "AZO",
+    "period": "Q1 2026",
+    "filing_date": "2025-12-19",
+    "shares_outstanding": 17102000.0,
+    "revenue": 4628630000.0,
+    "net_income": 530823000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2025",
+    "filing_date": "2025-10-27",
+    "shares_outstanding": 17245000.0,
+    "revenue": 18938717000.0,
+    "net_income": 2498247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2025",
+    "filing_date": "2025-06-13",
+    "shares_outstanding": 17207000.0,
+    "revenue": 4464339000.0,
+    "net_income": 608440000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2025",
+    "filing_date": "2025-03-21",
+    "shares_outstanding": 17245000.0,
+    "revenue": 3952012000.0,
+    "net_income": 487923000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2024",
+    "filing_date": "2024-06-07",
+    "shares_outstanding": 17761000.0,
+    "revenue": 4235485000.0,
+    "net_income": 651726000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2024",
+    "filing_date": "2024-03-15",
+    "shares_outstanding": 17828000.0,
+    "revenue": 3859126000.0,
+    "net_income": 515030000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2024",
+    "filing_date": "2023-12-18",
+    "shares_outstanding": 18234000.0,
+    "revenue": 4190277000.0,
+    "net_income": 593463000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2023",
+    "filing_date": "2023-10-24",
+    "shares_outstanding": 19103000.0,
+    "revenue": 17457209000.0,
+    "net_income": 2528426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2023",
+    "filing_date": "2023-06-09",
+    "shares_outstanding": 18983000.0,
+    "revenue": 4090541000.0,
+    "net_income": 647723000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2023",
+    "filing_date": "2023-03-17",
+    "shares_outstanding": 19337000.0,
+    "revenue": 3690982000.0,
+    "net_income": 476544000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2023",
+    "filing_date": "2022-12-20",
+    "shares_outstanding": 19645000.0,
+    "revenue": 3985067000.0,
+    "net_income": 539318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2022",
+    "filing_date": "2022-10-24",
+    "shares_outstanding": 20733000.0,
+    "revenue": 16252230000.0,
+    "net_income": 2429604000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2022",
+    "filing_date": "2022-06-10",
+    "shares_outstanding": 20414000.0,
+    "revenue": 3865222000.0,
+    "net_income": 592571000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2022",
+    "filing_date": "2022-03-18",
+    "shares_outstanding": 21158000.0,
+    "revenue": 3369750000.0,
+    "net_income": 471755000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2022",
+    "filing_date": "2021-12-17",
+    "shares_outstanding": 21609000.0,
+    "revenue": 3668904000.0,
+    "net_income": 555235000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2021",
+    "filing_date": "2021-10-25",
+    "shares_outstanding": 22799000.0,
+    "revenue": 14629585000.0,
+    "net_income": 2170314000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2021",
+    "filing_date": "2021-06-11",
+    "shares_outstanding": 22515000.0,
+    "revenue": 3651023000.0,
+    "net_income": 596164000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2021",
+    "filing_date": "2021-03-19",
+    "shares_outstanding": 23168000.0,
+    "revenue": 2910818000.0,
+    "net_income": 345946000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2021",
+    "filing_date": "2020-12-18",
+    "shares_outstanding": 23778000.0,
+    "revenue": 3154261000.0,
+    "net_income": 442433000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2020",
+    "filing_date": "2020-10-26",
+    "shares_outstanding": 24093000.0,
+    "revenue": 12631967000.0,
+    "net_income": 1732972000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2020",
+    "filing_date": "2020-06-12",
+    "shares_outstanding": 23828000.0,
+    "revenue": 2779299000.0,
+    "net_income": 342896000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2020",
+    "filing_date": "2020-03-17",
+    "shares_outstanding": 24160000.0,
+    "revenue": 2513663000.0,
+    "net_income": 299282000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2020",
+    "filing_date": "2019-12-20",
+    "shares_outstanding": 24493000.0,
+    "revenue": 2793038000.0,
+    "net_income": 350338000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2019",
+    "filing_date": "2019-10-28",
+    "shares_outstanding": 25498000.0,
+    "revenue": 11863743000.0,
+    "net_income": 1617221000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2019",
+    "filing_date": "2019-06-07",
+    "shares_outstanding": 25394000.0,
+    "revenue": 2783006000.0,
+    "net_income": 405949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2019",
+    "filing_date": "2019-03-15",
+    "shares_outstanding": 25643000.0,
+    "revenue": 2450568000.0,
+    "net_income": 294638000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2019",
+    "filing_date": "2018-12-18",
+    "shares_outstanding": 26097000.0,
+    "revenue": 2641733000.0,
+    "net_income": 351406000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2018",
+    "filing_date": "2018-10-24",
+    "shares_outstanding": 27424000.0,
+    "revenue": 11221077000.0,
+    "net_income": 1337536000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2018",
+    "filing_date": "2018-06-08",
+    "shares_outstanding": 27329000.0,
+    "revenue": 2660152000.0,
+    "net_income": 366721000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2018",
+    "filing_date": "2018-03-16",
+    "shares_outstanding": 27882000.0,
+    "revenue": 2413026000.0,
+    "net_income": 289530000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2018",
+    "filing_date": "2017-12-19",
+    "shares_outstanding": 28096000.0,
+    "revenue": 2589131000.0,
+    "net_income": 281003000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2017",
+    "filing_date": "2017-10-25",
+    "shares_outstanding": 29065000.0,
+    "revenue": 10888676000.0,
+    "net_income": 1280869000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2017",
+    "filing_date": "2017-06-14",
+    "shares_outstanding": 29005000.0,
+    "revenue": 2619007000.0,
+    "net_income": 331700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2017",
+    "filing_date": "2017-03-21",
+    "shares_outstanding": 29340000.0,
+    "revenue": 2289219000.0,
+    "net_income": 237145000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2017",
+    "filing_date": "2016-12-14",
+    "shares_outstanding": 29703000.0,
+    "revenue": 2467845000.0,
+    "net_income": 278125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2016",
+    "filing_date": "2016-10-24",
+    "shares_outstanding": 30488000.0,
+    "revenue": 10635676000.0,
+    "net_income": 1241007000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2016",
+    "filing_date": "2016-06-15",
+    "shares_outstanding": 30405000.0,
+    "revenue": 2593672000.0,
+    "net_income": 327515000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2016",
+    "filing_date": "2016-03-22",
+    "shares_outstanding": 30778000.0,
+    "revenue": 2257192000.0,
+    "net_income": 228613000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2016",
+    "filing_date": "2015-12-16",
+    "shares_outstanding": 31138000.0,
+    "revenue": 2386043000.0,
+    "net_income": 258112000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2015",
+    "filing_date": "2015-10-26",
+    "shares_outstanding": 32206000.0,
+    "revenue": 10187340000.0,
+    "net_income": 1160241000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2015",
+    "filing_date": "2015-06-17",
+    "shares_outstanding": 32301000.0,
+    "revenue": 2493021000.0,
+    "net_income": 309071000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2015",
+    "filing_date": "2015-03-24",
+    "shares_outstanding": 32540000.0,
+    "revenue": 2143651000.0,
+    "net_income": 211723000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2015",
+    "filing_date": "2014-12-18",
+    "shares_outstanding": 32761000.0,
+    "revenue": 2260264000.0,
+    "net_income": 238310000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2014",
+    "filing_date": "2014-10-27",
+    "shares_outstanding": 33882000.0,
+    "revenue": 9475313000.0,
+    "net_income": 1069744000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2014",
+    "filing_date": "2014-06-18",
+    "shares_outstanding": 33716000.0,
+    "revenue": 2341545000.0,
+    "net_income": 285157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2014",
+    "filing_date": "2014-03-25",
+    "shares_outstanding": 34261000.0,
+    "revenue": 1990494000.0,
+    "net_income": 192830000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2014",
+    "filing_date": "2013-12-18",
+    "shares_outstanding": 34676000.0,
+    "revenue": 2093578000.0,
+    "net_income": 218087000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2013",
+    "filing_date": "2013-10-28",
+    "shares_outstanding": 36581000.0,
+    "revenue": 9147530000.0,
+    "net_income": 1016480000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2013",
+    "filing_date": "2013-06-12",
+    "shares_outstanding": 36529000.0,
+    "revenue": 2205878000.0,
+    "net_income": 265583000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2013",
+    "filing_date": "2013-03-07",
+    "shares_outstanding": 36904000.0,
+    "revenue": 1855198000.0,
+    "net_income": 176247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2013",
+    "filing_date": "2012-12-13",
+    "shares_outstanding": 37586000.0,
+    "revenue": 1991040000.0,
+    "net_income": 203452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2012",
+    "filing_date": "2012-10-22",
+    "shares_outstanding": 39625000.0,
+    "revenue": 8603863000.0,
+    "net_income": 930373000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2012",
+    "filing_date": "2012-06-13",
+    "shares_outstanding": 39590000.0,
+    "revenue": 2111866000.0,
+    "net_income": 248586000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2012",
+    "filing_date": "2012-03-08",
+    "shares_outstanding": 40237000.0,
+    "revenue": 1804069000.0,
+    "net_income": 166930000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2012",
+    "filing_date": "2011-12-15",
+    "shares_outstanding": 40864000.0,
+    "revenue": 1924341000.0,
+    "net_income": 191125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2011",
+    "filing_date": "2011-10-24",
+    "shares_outstanding": 43603000.0,
+    "revenue": 8072973000.0,
+    "net_income": 848974000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2011",
+    "filing_date": "2011-06-15",
+    "shares_outstanding": 42955000.0,
+    "revenue": 1978369000.0,
+    "net_income": 227373000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2011",
+    "filing_date": "2011-03-17",
+    "shares_outstanding": 44378000.0,
+    "revenue": 1660946000.0,
+    "net_income": 148056000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2011",
+    "filing_date": "2010-12-16",
+    "shares_outstanding": 45634000.0,
+    "revenue": 1791662000.0,
+    "net_income": 172076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "FY 2010",
+    "filing_date": "2010-10-25",
+    "shares_outstanding": 49304000.0,
+    "revenue": 7362618000.0,
+    "net_income": 738311000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q3 2010",
+    "filing_date": "2010-06-16",
+    "shares_outstanding": 49212000.0,
+    "revenue": 1821990000.0,
+    "net_income": 202745000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q2 2010",
+    "filing_date": "2010-03-18",
+    "shares_outstanding": 50186000.0,
+    "revenue": 1506225000.0,
+    "net_income": 123333000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AZO",
+    "period": "Q1 2010",
+    "filing_date": "2009-12-17",
+    "shares_outstanding": 50824000.0,
+    "revenue": 1589244000.0,
+    "net_income": 143300000.0,
+    "market_cap": null
+  }
+]

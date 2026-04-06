@@ -1,0 +1,110 @@
+[
+  {
+    "obs_id": "CIEN_stock_2026-04-04_g1",
+    "ticker": "CIEN",
+    "strategy": "stock",
+    "description": "Own stock outright",
+    "entry_date": "2026-04-04",
+    "entry_cost": 447.76,
+    "originating_models": [
+      "momentum"
+    ],
+    "legs": [
+      {
+        "leg_type": "long_stock",
+        "entry_price": 447.76,
+        "contract_symbol": null,
+        "strike": null,
+        "expiration": null,
+        "entry_delta": null,
+        "entry_iv": null,
+        "close_price": null,
+        "close_date": null,
+        "close_reason": null
+      }
+    ],
+    "generation": 1,
+    "status": "open",
+    "close_date": null,
+    "close_value": null,
+    "log_return": null,
+    "close_reason": null,
+    "notes": null
+  },
+  {
+    "obs_id": "CIEN_covered_call_2026-04-04_g1",
+    "ticker": "CIEN",
+    "strategy": "covered_call",
+    "description": "Stock + short call, delta 0.20\u20130.25, 21\u201345 DTE",
+    "entry_date": "2026-04-04",
+    "entry_cost": 0.0,
+    "originating_models": [
+      "momentum"
+    ],
+    "legs": [],
+    "generation": 1,
+    "status": "no_contracts",
+    "close_date": null,
+    "close_value": null,
+    "log_return": null,
+    "close_reason": null,
+    "notes": "No suitable contracts found in chain"
+  },
+  {
+    "obs_id": "CIEN_leap_otm_2026-04-04_g1",
+    "ticker": "CIEN",
+    "strategy": "leap_otm",
+    "description": "Long call, 10% OTM, ~500 DTE",
+    "entry_date": "2026-04-04",
+    "entry_cost": 0.0,
+    "originating_models": [
+      "momentum"
+    ],
+    "legs": [],
+    "generation": 1,
+    "status": "no_contracts",
+    "close_date": null,
+    "close_value": null,
+    "log_return": null,
+    "close_reason": null,
+    "notes": "No suitable contracts found in chain"
+  },
+  {
+    "obs_id": "CIEN_diagonal_2026-04-04_g1",
+    "ticker": "CIEN",
+    "strategy": "diagonal",
+    "description": "Long call 25% ITM ~500 DTE + short call delta 0.20\u20130.25 21\u201345 DTE",
+    "entry_date": "2026-04-04",
+    "entry_cost": 0.0,
+    "originating_models": [
+      "momentum"
+    ],
+    "legs": [],
+    "generation": 1,
+    "status": "no_contracts",
+    "close_date": null,
+    "close_value": null,
+    "log_return": null,
+    "close_reason": null,
+    "notes": "No suitable contracts found in chain"
+  },
+  {
+    "obs_id": "CIEN_csp_2026-04-04_g1",
+    "ticker": "CIEN",
+    "strategy": "csp",
+    "description": "Short put, ATM, ~21 DTE",
+    "entry_date": "2026-04-04",
+    "entry_cost": 0.0,
+    "originating_models": [
+      "momentum"
+    ],
+    "legs": [],
+    "generation": 1,
+    "status": "no_contracts",
+    "close_date": null,
+    "close_value": null,
+    "log_return": null,
+    "close_reason": null,
+    "notes": "No suitable contracts found in chain"
+  }
+]

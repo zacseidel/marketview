@@ -1,0 +1,326 @@
+[
+  {
+    "ticker": "VST",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 345656067.0,
+    "revenue": 17738000000.0,
+    "net_income": 944000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 345656067.0,
+    "revenue": 17738000000.0,
+    "net_income": 944000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 345035160.0,
+    "revenue": 4971000000.0,
+    "net_income": 652000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 345505188.0,
+    "revenue": 4250000000.0,
+    "net_income": 327000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 339799989.0,
+    "revenue": 3933000000.0,
+    "net_income": -268000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 352567060.0,
+    "revenue": 17224000000.0,
+    "net_income": 2812000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 350203692.0,
+    "revenue": 6288000000.0,
+    "net_income": 1837000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-09",
+    "shares_outstanding": 354327393.0,
+    "revenue": 3845000000.0,
+    "net_income": 467000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-10",
+    "shares_outstanding": 348966197.0,
+    "revenue": 3054000000.0,
+    "net_income": 18000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 375193110.0,
+    "revenue": 14779000000.0,
+    "net_income": 1492000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 372149099.0,
+    "revenue": 4086000000.0,
+    "net_income": 502000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 376794258.0,
+    "revenue": 3189000000.0,
+    "net_income": 476000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 387553379.0,
+    "revenue": 4425000000.0,
+    "net_income": 698000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 422447074.0,
+    "revenue": 13728000000.0,
+    "net_income": -1210000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 417482511.0,
+    "revenue": 5146000000.0,
+    "net_income": 678000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 429193031.0,
+    "revenue": 1588000000.0,
+    "net_income": -1357000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 451603354.0,
+    "revenue": 3125000000.0,
+    "net_income": -284000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 482214544.0,
+    "revenue": 12077000000.0,
+    "net_income": -1264000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 484494546.0,
+    "revenue": 2991000000.0,
+    "net_income": 10000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 487366226.0,
+    "revenue": 2565000000.0,
+    "net_income": 35000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 484699267.0,
+    "revenue": 3207000000.0,
+    "net_income": -2040000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 491090468.0,
+    "revenue": 11443000000.0,
+    "net_income": 624000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-04",
+    "shares_outstanding": 491025940.0,
+    "revenue": 3552000000.0,
+    "net_income": 442000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 490468735.0,
+    "revenue": 2509000000.0,
+    "net_income": 164000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 490638626.0,
+    "revenue": 2858000000.0,
+    "net_income": 45000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 499935490.0,
+    "revenue": 11809000000.0,
+    "net_income": 926000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 493670295.0,
+    "revenue": 3194000000.0,
+    "net_income": 114000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 507500383.0,
+    "revenue": 2832000000.0,
+    "net_income": 354000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 509139988.0,
+    "revenue": 2923000000.0,
+    "net_income": 224000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 7867000000.0,
+    "revenue": 9144000000.0,
+    "net_income": -56000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 540972802.0,
+    "revenue": 3243000000.0,
+    "net_income": 331000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-06",
+    "shares_outstanding": 533786824.0,
+    "revenue": 2574000000.0,
+    "net_income": 105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 428450384.0,
+    "revenue": 765000000.0,
+    "net_income": -306000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "FY 2017",
+    "filing_date": "2018-02-26",
+    "shares_outstanding": 6342000000.0,
+    "revenue": null,
+    "net_income": null,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 6935000000.0,
+    "revenue": null,
+    "net_income": null,
+    "market_cap": null
+  },
+  {
+    "ticker": "VST",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 6658000000.0,
+    "revenue": null,
+    "net_income": null,
+    "market_cap": null
+  }
+]

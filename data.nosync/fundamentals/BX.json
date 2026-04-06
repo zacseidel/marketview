@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "BX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 780215856.0,
+    "revenue": 14450265000.0,
+    "net_income": 6046623000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 780215856.0,
+    "revenue": 14450265000.0,
+    "net_income": 6046623000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 782681135.0,
+    "revenue": 3088635000.0,
+    "net_income": 1236925000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 782401237.0,
+    "revenue": 3711900000.0,
+    "net_income": 1626133000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 772434602.0,
+    "revenue": 3289458000.0,
+    "net_income": 1208774000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 769234677.0,
+    "revenue": 2796381000.0,
+    "net_income": 948363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 760257644.0,
+    "revenue": 3687828000.0,
+    "net_income": 1595983000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 755419936.0,
+    "revenue": 8022841000.0,
+    "net_income": 2444253000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 758046096.0,
+    "revenue": 2541285000.0,
+    "net_income": 920742000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 758548248.0,
+    "revenue": 2814691000.0,
+    "net_income": 1203707000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 746643929.0,
+    "revenue": 1381845000.0,
+    "net_income": 210681000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 740942399.0,
+    "revenue": 8517673000.0,
+    "net_income": 2988909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 742495532.0,
+    "revenue": 1058114000.0,
+    "net_income": 3700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 707382293.0,
+    "revenue": 629220000.0,
+    "net_income": -255746000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 734966915.0,
+    "revenue": 5126280000.0,
+    "net_income": 2497614000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 720125043.0,
+    "revenue": 22577148000.0,
+    "net_income": 12374995000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 722433099.0,
+    "revenue": 6224265000.0,
+    "net_income": 3205993000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 721265180.0,
+    "revenue": 5291354000.0,
+    "net_income": 2857498000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 709912344.0,
+    "revenue": 5298872000.0,
+    "net_income": 3371135000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 697258296.0,
+    "revenue": 6101927000.0,
+    "net_income": 2261506000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 700527966.0,
+    "revenue": 3032898000.0,
+    "net_income": 1700151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 1204411957.0,
+    "revenue": 2516069000.0,
+    "net_income": 1354346000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 676305359.0,
+    "revenue": -3075964000.0,
+    "net_income": -2607155000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 676167851.0,
+    "revenue": 7338270000.0,
+    "net_income": 3865967000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 676219758.0,
+    "revenue": 1735113000.0,
+    "net_income": 1167735000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 673985944.0,
+    "revenue": 1486806000.0,
+    "net_income": 646961000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 1200480240.0,
+    "revenue": 2024871000.0,
+    "net_income": 1072877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2018",
+    "filing_date": "2019-03-01",
+    "shares_outstanding": 1206962846.0,
+    "revenue": 6833259000.0,
+    "net_income": 3263551000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 1205877983.0,
+    "revenue": 1926580000.0,
+    "net_income": 948988000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 682010610.0,
+    "revenue": 2632570000.0,
+    "net_income": 1550977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 1210573854.0,
+    "revenue": 1769131000.0,
+    "net_income": 842304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 666246846.0,
+    "revenue": 7119053000.0,
+    "net_income": 3373954000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 1200502292.0,
+    "revenue": 1746777000.0,
+    "net_income": 846953000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 1200006339.0,
+    "revenue": 1549355000.0,
+    "net_income": 744689000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 1199506983.0,
+    "revenue": 1940723000.0,
+    "net_income": 1019768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 1195114590.0,
+    "revenue": 5125834000.0,
+    "net_income": 2249648000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 1195805315.0,
+    "revenue": 1431685000.0,
+    "net_income": 691589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 1194478212.0,
+    "revenue": 1192426000.0,
+    "net_income": 463111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 1194570331.0,
+    "revenue": 932354000.0,
+    "net_income": 324640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 1188085411.0,
+    "revenue": 4646552000.0,
+    "net_income": 1624350000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 638832799.0,
+    "revenue": 11573000.0,
+    "net_income": -483864000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 634192649.0,
+    "revenue": 1225202000.0,
+    "net_income": 349534000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 631232041.0,
+    "revenue": 2512358000.0,
+    "net_income": 1364001000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 613176405.0,
+    "revenue": 7484728000.0,
+    "net_income": 3695553000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 614978870.0,
+    "revenue": 1679426000.0,
+    "net_income": 553862000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 609897829.0,
+    "revenue": 2257860000.0,
+    "net_income": 1223382000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 605669164.0,
+    "revenue": 1526668000.0,
+    "net_income": 654875000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 590546640.0,
+    "revenue": 6613168000.0,
+    "net_income": 2892919000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 592920795.0,
+    "revenue": 1216845000.0,
+    "net_income": 460915000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 586763053.0,
+    "revenue": 1440470000.0,
+    "net_income": 510592000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-08",
+    "shares_outstanding": 585699899.0,
+    "revenue": 1246473000.0,
+    "net_income": 427589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 538669070.0,
+    "revenue": 4019441000.0,
+    "net_income": 829882000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 546923603.0,
+    "revenue": 1223089000.0,
+    "net_income": 196502000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 528778977.0,
+    "revenue": 627203000.0,
+    "net_income": 94277000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 517389558.0,
+    "revenue": 952036000.0,
+    "net_income": 417632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 8666680000.0,
+    "revenue": 3252576000.0,
+    "net_income": -268453000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 7848311000.0,
+    "revenue": -124079000.0,
+    "net_income": -986775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 483643646.0,
+    "revenue": 1308281000.0,
+    "net_income": 184597000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 457652916.0,
+    "revenue": 1153269000.0,
+    "net_income": 78364000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "BX",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 6584093000.0,
+    "revenue": 550088000.0,
+    "net_income": -656320000.0,
+    "market_cap": null
+  }
+]

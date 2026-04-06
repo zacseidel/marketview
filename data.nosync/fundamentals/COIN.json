@@ -1,0 +1,191 @@
+[
+  {
+    "ticker": "COIN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 287209000.0,
+    "revenue": 7181325000.0,
+    "net_income": 1260327000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 287209000.0,
+    "revenue": 7181325000.0,
+    "net_income": 1260327000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 291958000.0,
+    "revenue": 1868693000.0,
+    "net_income": 432552000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 278913000.0,
+    "revenue": 1497208000.0,
+    "net_income": 1428900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 271251000.0,
+    "revenue": 2034295000.0,
+    "net_income": 65608000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 273377000.0,
+    "revenue": 6564028000.0,
+    "net_income": 2579066000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 267440000.0,
+    "revenue": 1205193000.0,
+    "net_income": 75495000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 266831000.0,
+    "revenue": 1449628000.0,
+    "net_income": 36150000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 267945000.0,
+    "revenue": 1637570000.0,
+    "net_income": 1176245000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 254391000.0,
+    "revenue": 3108383000.0,
+    "net_income": 94871000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 237270000.0,
+    "revenue": 674148000.0,
+    "net_income": -2265000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 234641000.0,
+    "revenue": 707911000.0,
+    "net_income": -97405000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 231489000.0,
+    "revenue": 772529000.0,
+    "net_income": -78896000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 222338000.0,
+    "revenue": 3194208000.0,
+    "net_income": -2624949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 223916000.0,
+    "revenue": 590339000.0,
+    "net_income": -544635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 221034000.0,
+    "revenue": 808325000.0,
+    "net_income": -1093654000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 217472000.0,
+    "revenue": 1166436000.0,
+    "net_income": -429659000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 219965000.0,
+    "revenue": 7839444000.0,
+    "net_income": 3624120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-10",
+    "shares_outstanding": 250536000.0,
+    "revenue": 1311908000.0,
+    "net_income": 406100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-11",
+    "shares_outstanding": 248147000.0,
+    "revenue": 2227962000.0,
+    "net_income": 1606349000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "COIN",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-15",
+    "shares_outstanding": 12087391.0,
+    "revenue": 1429710.0,
+    "net_income": 1016362.0,
+    "market_cap": null
+  }
+]

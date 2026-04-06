@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "THG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 36500000.0,
+    "revenue": 6594400000.0,
+    "net_income": 662500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 36500000.0,
+    "revenue": 6594400000.0,
+    "net_income": 662500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 36400000.0,
+    "revenue": 1665000000.0,
+    "net_income": 178700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 36500000.0,
+    "revenue": 1654400000.0,
+    "net_income": 157100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 36600000.0,
+    "revenue": 1603200000.0,
+    "net_income": 128200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2024",
+    "filing_date": "2025-02-24",
+    "shares_outstanding": 36400000.0,
+    "revenue": 6237400000.0,
+    "net_income": 426000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 36500000.0,
+    "revenue": 1565300000.0,
+    "net_income": 102100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 36300000.0,
+    "revenue": 1536700000.0,
+    "net_income": 40500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 36300000.0,
+    "revenue": 1551100000.0,
+    "net_income": 115500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 36100000.0,
+    "revenue": 5993500000.0,
+    "net_income": 35300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 36100000.0,
+    "revenue": 1516600000.0,
+    "net_income": 8600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 35700000.0,
+    "revenue": 1504400000.0,
+    "net_income": -69200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 35600000.0,
+    "revenue": 1443700000.0,
+    "net_income": -12000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 36100000.0,
+    "revenue": 5468600000.0,
+    "net_income": 116000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 36100000.0,
+    "revenue": 1366300000.0,
+    "net_income": 200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 36100000.0,
+    "revenue": 1292900000.0,
+    "net_income": 22600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 36100000.0,
+    "revenue": 1330700000.0,
+    "net_income": 104800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 36400000.0,
+    "revenue": 5227800000.0,
+    "net_income": 418700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 36300000.0,
+    "revenue": 1276400000.0,
+    "net_income": 34000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 36500000.0,
+    "revenue": 1293400000.0,
+    "net_income": 128500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 36900000.0,
+    "revenue": 1283300000.0,
+    "net_income": 92700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 38100000.0,
+    "revenue": 4827300000.0,
+    "net_income": 358700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 38000000.0,
+    "revenue": 1249800000.0,
+    "net_income": 118900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 38300000.0,
+    "revenue": 1224300000.0,
+    "net_income": 115200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 38300000.0,
+    "revenue": 1056200000.0,
+    "net_income": -40000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 40600000.0,
+    "revenue": 4890700000.0,
+    "net_income": 425100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 40200000.0,
+    "revenue": 1214700000.0,
+    "net_income": 118900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 41200000.0,
+    "revenue": 1198600000.0,
+    "net_income": 74000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 41200000.0,
+    "revenue": 1219500000.0,
+    "net_income": 122400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 43000000.0,
+    "revenue": 4494300000.0,
+    "net_income": 391000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 43100000.0,
+    "revenue": 1166600000.0,
+    "net_income": 100400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 43100000.0,
+    "revenue": 1133400000.0,
+    "net_income": 99300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 43100000.0,
+    "revenue": 1091500000.0,
+    "net_income": 67700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 43000000.0,
+    "revenue": 5184400000.0,
+    "net_income": 186200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 42900000.0,
+    "revenue": 1325200000.0,
+    "net_income": 11100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 42800000.0,
+    "revenue": 1266100000.0,
+    "net_income": 78400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 42900000.0,
+    "revenue": 1260900000.0,
+    "net_income": 45200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2016",
+    "filing_date": "2017-02-22",
+    "shares_outstanding": 43200000.0,
+    "revenue": 4945800000.0,
+    "net_income": 155100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 43000000.0,
+    "revenue": 1241200000.0,
+    "net_income": 88400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 43400000.0,
+    "revenue": 1222000000.0,
+    "net_income": 2000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 43500000.0,
+    "revenue": 1227600000.0,
+    "net_income": 78200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 44800000.0,
+    "revenue": 5034000000.0,
+    "net_income": 331500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 44900000.0,
+    "revenue": 1233500000.0,
+    "net_income": 78300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 45000000.0,
+    "revenue": 1297100000.0,
+    "net_income": 120700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 45100000.0,
+    "revenue": 1298700000.0,
+    "net_income": 54900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 44900000.0,
+    "revenue": 5067600000.0,
+    "net_income": 282000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 44900000.0,
+    "revenue": 1265600000.0,
+    "net_income": 54900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 44900000.0,
+    "revenue": 1273000000.0,
+    "net_income": 82600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 44800000.0,
+    "revenue": 1243900000.0,
+    "net_income": 54600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 44900000.0,
+    "revenue": 4793700000.0,
+    "net_income": 251000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 44600000.0,
+    "revenue": 1201800000.0,
+    "net_income": 61300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 44800000.0,
+    "revenue": 1182600000.0,
+    "net_income": 53400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 45300000.0,
+    "revenue": 1180300000.0,
+    "net_income": 66200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 45300000.0,
+    "revenue": 4590700000.0,
+    "net_income": 55900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 45200000.0,
+    "revenue": 1157700000.0,
+    "net_income": 40400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 45400000.0,
+    "revenue": 1127200000.0,
+    "net_income": 20800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 45500000.0,
+    "revenue": 1121800000.0,
+    "net_income": 49700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 45800000.0,
+    "revenue": 3931600000.0,
+    "net_income": 37100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 45300000.0,
+    "revenue": 1108000000.0,
+    "net_income": -9700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 45.4,
+    "revenue": 853900000.0,
+    "net_income": -31800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-09",
+    "shares_outstanding": 46000000.0,
+    "revenue": 833800000.0,
+    "net_income": 29300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "FY 2010",
+    "filing_date": "2011-02-24",
+    "shares_outstanding": 46300000.0,
+    "revenue": 3152200000.0,
+    "net_income": 153700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-04",
+    "shares_outstanding": 45700000.0,
+    "revenue": 804000000.0,
+    "net_income": 51900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THG",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 45500000.0,
+    "revenue": 768300000.0,
+    "net_income": 2100000.0,
+    "market_cap": null
+  }
+]

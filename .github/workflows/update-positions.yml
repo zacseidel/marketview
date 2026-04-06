@@ -2,7 +2,7 @@ name: Update Positions
 
 on:
   schedule:
-    - cron: "30 0 * * 2-6"  # Weekdays 8:30 PM ET (UTC-4), runs Tue–Sat UTC
+    - cron: "0 19 * * 1-5"  # Weekdays 1:00 PM MT (UTC-6)
   workflow_dispatch:
 
 permissions:

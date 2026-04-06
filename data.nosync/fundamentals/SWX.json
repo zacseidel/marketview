@@ -1,0 +1,353 @@
+[
+  {
+    "ticker": "SWX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 72337000.0,
+    "revenue": 1940380000.0,
+    "net_income": 435180000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 72337000.0,
+    "revenue": 1940380000.0,
+    "net_income": 435180000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 72405000.0,
+    "revenue": 316911000.0,
+    "net_income": 260117000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 72088000.0,
+    "revenue": 1120370000.0,
+    "net_income": -37600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-12",
+    "shares_outstanding": 72138000.0,
+    "revenue": 1296497000.0,
+    "net_income": 109187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 72032000.0,
+    "revenue": 5112445000.0,
+    "net_income": 204836000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 72086000.0,
+    "revenue": 1079184000.0,
+    "net_income": 2663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 72015000.0,
+    "revenue": 1182168000.0,
+    "net_income": 20210000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-08",
+    "shares_outstanding": 71882000.0,
+    "revenue": 1580956000.0,
+    "net_income": 87562000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 70990000.0,
+    "revenue": 5433972000.0,
+    "net_income": 155517000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-08",
+    "shares_outstanding": 71851000.0,
+    "revenue": 1169492000.0,
+    "net_income": 3967000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 71722000.0,
+    "revenue": 1293645000.0,
+    "net_income": 30259000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 68419000.0,
+    "revenue": 1603304000.0,
+    "net_income": 47650000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 65558000.0,
+    "revenue": 4960009000.0,
+    "net_income": -197684000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 67325000.0,
+    "revenue": 1125588000.0,
+    "net_income": -11318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 67190000.0,
+    "revenue": 1146120000.0,
+    "net_income": -6081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 60854000.0,
+    "revenue": 1267409000.0,
+    "net_income": 97250000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 59259000.0,
+    "revenue": 3680451000.0,
+    "net_income": 207202000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-09",
+    "shares_outstanding": 59816000.0,
+    "revenue": 888696000.0,
+    "net_income": -9294000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 58710000.0,
+    "revenue": 821421000.0,
+    "net_income": 26474000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 57679000.0,
+    "revenue": 885907000.0,
+    "net_income": 118845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 56076000.0,
+    "revenue": 3298873000.0,
+    "net_income": 238985000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 56357000.0,
+    "revenue": 791226000.0,
+    "net_income": 21063000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 55532000.0,
+    "revenue": 757247000.0,
+    "net_income": 39881000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 55363000.0,
+    "revenue": 836320000.0,
+    "net_income": 73005000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 54312000.0,
+    "revenue": 3119917000.0,
+    "net_income": 216647000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 54748000.0,
+    "revenue": 725230000.0,
+    "net_income": 6525000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 54003000.0,
+    "revenue": 713011000.0,
+    "net_income": 22832000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 53424000.0,
+    "revenue": 833539000.0,
+    "net_income": 95384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 49476000.0,
+    "revenue": 2880013000.0,
+    "net_income": 181652000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 49553000.0,
+    "revenue": 668146000.0,
+    "net_income": 12331000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 48880000.0,
+    "revenue": 670883000.0,
+    "net_income": 21551000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 48459000.0,
+    "revenue": 754330000.0,
+    "net_income": 78294000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 47991000.0,
+    "revenue": 2451633000.0,
+    "net_income": 193942000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 47986000.0,
+    "revenue": 593153000.0,
+    "net_income": 10420000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 47884000.0,
+    "revenue": 560469000.0,
+    "net_income": 18121000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 47864000.0,
+    "revenue": 654737000.0,
+    "net_income": 69005000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "TTM 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 47814000.0,
+    "revenue": 2460490000.0,
+    "net_income": 153055000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 47814000.0,
+    "revenue": 2460490000.0,
+    "net_income": 153055000.0,
+    "market_cap": null
+  }
+]

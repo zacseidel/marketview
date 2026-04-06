@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2026",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 150500000.0,
+    "revenue": 1035400000.0,
+    "net_income": 79200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 155100000.0,
+    "revenue": 4086900000.0,
+    "net_income": 477100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 150300000.0,
+    "revenue": 965000000.0,
+    "net_income": 105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 158800000.0,
+    "revenue": 953200000.0,
+    "net_income": 68700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2025",
+    "filing_date": "2025-02-05",
+    "shares_outstanding": 161400000.0,
+    "revenue": 1068500000.0,
+    "net_income": 162000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2024",
+    "filing_date": "2024-11-15",
+    "shares_outstanding": 161500000.0,
+    "revenue": 4178000000.0,
+    "net_income": 596000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 161400000.0,
+    "revenue": 905500000.0,
+    "net_income": 120900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 161400000.0,
+    "revenue": 1046000000.0,
+    "net_income": 183300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2024",
+    "filing_date": "2024-01-31",
+    "shares_outstanding": 161000000.0,
+    "revenue": 1201500000.0,
+    "net_income": 231300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2023",
+    "filing_date": "2023-11-17",
+    "shares_outstanding": 160300000.0,
+    "revenue": 4772400000.0,
+    "net_income": 982800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 160000000.0,
+    "revenue": 1071200000.0,
+    "net_income": 195800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 159900000.0,
+    "revenue": 1153100000.0,
+    "net_income": 232800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2023",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 160200000.0,
+    "revenue": 1329300000.0,
+    "net_income": 309400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2022",
+    "filing_date": "2022-11-23",
+    "shares_outstanding": 163300000.0,
+    "revenue": 5485500000.0,
+    "net_income": 1275200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 161500000.0,
+    "revenue": 1232600000.0,
+    "net_income": 267300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 164400000.0,
+    "revenue": 1335600000.0,
+    "net_income": 305800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2022",
+    "filing_date": "2022-02-04",
+    "shares_outstanding": 166400000.0,
+    "revenue": 1510400000.0,
+    "net_income": 399900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2021",
+    "filing_date": "2021-11-24",
+    "shares_outstanding": 167000000.0,
+    "revenue": 5109100000.0,
+    "net_income": 1498300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 167000000.0,
+    "revenue": 1116400000.0,
+    "net_income": 337800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 166800000.0,
+    "revenue": 1171800000.0,
+    "net_income": 325000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2021",
+    "filing_date": "2021-01-29",
+    "shares_outstanding": 167000000.0,
+    "revenue": 1510000000.0,
+    "net_income": 509300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2020",
+    "filing_date": "2020-11-17",
+    "shares_outstanding": 169900000.0,
+    "revenue": 3355700000.0,
+    "net_income": 814800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2020",
+    "filing_date": "2020-07-24",
+    "shares_outstanding": 168300000.0,
+    "revenue": 736800000.0,
+    "net_income": 129700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 171100000.0,
+    "revenue": 766100000.0,
+    "net_income": 181100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2020",
+    "filing_date": "2020-01-24",
+    "shares_outstanding": 171600000.0,
+    "revenue": 896100000.0,
+    "net_income": 257100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2019",
+    "filing_date": "2019-11-14",
+    "shares_outstanding": 174500000.0,
+    "revenue": 3376800000.0,
+    "net_income": 853600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 173400000.0,
+    "revenue": 767000000.0,
+    "net_income": 144100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 174600000.0,
+    "revenue": 810400000.0,
+    "net_income": 214000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2019",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 177700000.0,
+    "revenue": 972000000.0,
+    "net_income": 284900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2018",
+    "filing_date": "2018-11-15",
+    "shares_outstanding": 183200000.0,
+    "revenue": 3868000000.0,
+    "net_income": 918400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2018",
+    "filing_date": "2018-07-20",
+    "shares_outstanding": 182800000.0,
+    "revenue": 894300000.0,
+    "net_income": 286500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 184300000.0,
+    "revenue": 913400000.0,
+    "net_income": 276000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2018",
+    "filing_date": "2018-02-05",
+    "shares_outstanding": 185500000.0,
+    "revenue": 1051900000.0,
+    "net_income": 70400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2017",
+    "filing_date": "2017-11-13",
+    "shares_outstanding": 186700000.0,
+    "revenue": 3651400000.0,
+    "net_income": 1010200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 186600000.0,
+    "revenue": 900800000.0,
+    "net_income": 246200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 187100000.0,
+    "revenue": 851700000.0,
+    "net_income": 224900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2017",
+    "filing_date": "2017-02-07",
+    "shares_outstanding": 187300000.0,
+    "revenue": 914300000.0,
+    "net_income": 257800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2016",
+    "filing_date": "2016-11-22",
+    "shares_outstanding": 192100000.0,
+    "revenue": 3289000000.0,
+    "net_income": 995200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 191700000.0,
+    "revenue": 751700000.0,
+    "net_income": 185000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 193300000.0,
+    "revenue": 775100000.0,
+    "net_income": 208100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2016",
+    "filing_date": "2016-02-03",
+    "shares_outstanding": 194700000.0,
+    "revenue": 926800000.0,
+    "net_income": 355300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2015",
+    "filing_date": "2015-11-24",
+    "shares_outstanding": 194900000.0,
+    "revenue": 3258400000.0,
+    "net_income": 798300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 195400000.0,
+    "revenue": 810000000.0,
+    "net_income": 207400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 195200000.0,
+    "revenue": 762100000.0,
+    "net_income": 166500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2015",
+    "filing_date": "2015-02-04",
+    "shares_outstanding": 194200000.0,
+    "revenue": 805500000.0,
+    "net_income": 195200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2014",
+    "filing_date": "2014-11-25",
+    "shares_outstanding": 192600000.0,
+    "revenue": 2291500000.0,
+    "net_income": 457700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 193200000.0,
+    "revenue": 587000000.0,
+    "net_income": 111400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 192200000.0,
+    "revenue": 481000000.0,
+    "net_income": 76900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2014",
+    "filing_date": "2014-01-29",
+    "shares_outstanding": 191200000.0,
+    "revenue": 505200000.0,
+    "net_income": 94500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2013",
+    "filing_date": "2013-11-18",
+    "shares_outstanding": 192200000.0,
+    "revenue": 1792000000.0,
+    "net_income": 278100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 191200000.0,
+    "revenue": 436100000.0,
+    "net_income": 65700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 193100000.0,
+    "revenue": 425200000.0,
+    "net_income": 61700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2013",
+    "filing_date": "2013-01-31",
+    "shares_outstanding": 194001000.0,
+    "revenue": 453700000.0,
+    "net_income": 66500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2012",
+    "filing_date": "2012-11-21",
+    "shares_outstanding": 191846000.0,
+    "revenue": 1568581000.0,
+    "net_income": 202078000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 192457000.0,
+    "revenue": 389038000.0,
+    "net_income": 49317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 191016000.0,
+    "revenue": 364690000.0,
+    "net_income": 34033000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2012",
+    "filing_date": "2012-02-07",
+    "shares_outstanding": 189682000.0,
+    "revenue": 393740000.0,
+    "net_income": 57126000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2011",
+    "filing_date": "2011-11-28",
+    "shares_outstanding": 190667000.0,
+    "revenue": 1418922000.0,
+    "net_income": 226585000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 191380000.0,
+    "revenue": 356075000.0,
+    "net_income": 51548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2011",
+    "filing_date": "2011-05-11",
+    "shares_outstanding": 191961000.0,
+    "revenue": 325411000.0,
+    "net_income": 49960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q1 2011",
+    "filing_date": "2011-02-08",
+    "shares_outstanding": 188541000.0,
+    "revenue": 335120000.0,
+    "net_income": 60868000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "FY 2010",
+    "filing_date": "2010-11-29",
+    "shares_outstanding": 182738000.0,
+    "revenue": 1071849000.0,
+    "net_income": 137294000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q3 2010",
+    "filing_date": "2010-08-10",
+    "shares_outstanding": 183889000.0,
+    "revenue": 275370000.0,
+    "net_income": 34736000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SWKS",
+    "period": "Q2 2010",
+    "filing_date": "2010-05-11",
+    "shares_outstanding": 182924000.0,
+    "revenue": 238058000.0,
+    "net_income": 27744000.0,
+    "market_cap": null
+  }
+]

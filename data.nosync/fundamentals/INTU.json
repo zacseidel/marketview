@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "INTU",
+    "period": "Q2 2026",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 280000000.0,
+    "revenue": 4651000000.0,
+    "net_income": 693000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2026",
+    "filing_date": "2025-11-20",
+    "shares_outstanding": 281000000.0,
+    "revenue": 3885000000.0,
+    "net_income": 446000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2025",
+    "filing_date": "2025-09-03",
+    "shares_outstanding": 283000000.0,
+    "revenue": 18831000000.0,
+    "net_income": 3869000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2025",
+    "filing_date": "2025-05-22",
+    "shares_outstanding": 282000000.0,
+    "revenue": 7754000000.0,
+    "net_income": 2820000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2025",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 283000000.0,
+    "revenue": 3963000000.0,
+    "net_income": 471000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2025",
+    "filing_date": "2024-11-21",
+    "shares_outstanding": 283000000.0,
+    "revenue": 3283000000.0,
+    "net_income": 197000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2024",
+    "filing_date": "2024-09-04",
+    "shares_outstanding": 284000000.0,
+    "revenue": 16285000000.0,
+    "net_income": 2963000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2024",
+    "filing_date": "2024-05-23",
+    "shares_outstanding": 284000000.0,
+    "revenue": 6737000000.0,
+    "net_income": 2389000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2024",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 284000000.0,
+    "revenue": 3386000000.0,
+    "net_income": 353000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2024",
+    "filing_date": "2023-11-28",
+    "shares_outstanding": 283000000.0,
+    "revenue": 2978000000.0,
+    "net_income": 241000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2023",
+    "filing_date": "2023-09-01",
+    "shares_outstanding": 283000000.0,
+    "revenue": 14368000000.0,
+    "net_income": 2384000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2023",
+    "filing_date": "2023-05-23",
+    "shares_outstanding": 283000000.0,
+    "revenue": 6018000000.0,
+    "net_income": 2087000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2023",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 282000000.0,
+    "revenue": 3041000000.0,
+    "net_income": 168000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2023",
+    "filing_date": "2022-11-29",
+    "shares_outstanding": 284000000.0,
+    "revenue": 2597000000.0,
+    "net_income": 40000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2022",
+    "filing_date": "2022-09-02",
+    "shares_outstanding": 284000000.0,
+    "revenue": 12726000000.0,
+    "net_income": 2066000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2022",
+    "filing_date": "2022-05-24",
+    "shares_outstanding": 286000000.0,
+    "revenue": 5632000000.0,
+    "net_income": 1794000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2022",
+    "filing_date": "2022-03-02",
+    "shares_outstanding": 287000000.0,
+    "revenue": 2673000000.0,
+    "net_income": 100000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2022",
+    "filing_date": "2021-11-18",
+    "shares_outstanding": 277000000.0,
+    "revenue": 2007000000.0,
+    "net_income": 228000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2021",
+    "filing_date": "2021-09-08",
+    "shares_outstanding": 273000000.0,
+    "revenue": 9633000000.0,
+    "net_income": 2062000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2021",
+    "filing_date": "2021-05-25",
+    "shares_outstanding": 276000000.0,
+    "revenue": 4173000000.0,
+    "net_income": 1464000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2021",
+    "filing_date": "2021-02-23",
+    "shares_outstanding": 273000000.0,
+    "revenue": 1576000000.0,
+    "net_income": 20000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2021",
+    "filing_date": "2020-11-19",
+    "shares_outstanding": 265000000.0,
+    "revenue": 1323000000.0,
+    "net_income": 198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2020",
+    "filing_date": "2020-08-31",
+    "shares_outstanding": 264000000.0,
+    "revenue": 7679000000.0,
+    "net_income": 1826000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2020",
+    "filing_date": "2020-05-21",
+    "shares_outstanding": 264000000.0,
+    "revenue": 3002000000.0,
+    "net_income": 1084000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2020",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 264000000.0,
+    "revenue": 1696000000.0,
+    "net_income": 240000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2020",
+    "filing_date": "2019-11-21",
+    "shares_outstanding": 264000000.0,
+    "revenue": 1165000000.0,
+    "net_income": 57000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2019",
+    "filing_date": "2019-08-30",
+    "shares_outstanding": 264000000.0,
+    "revenue": 6784000000.0,
+    "net_income": 1557000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2019",
+    "filing_date": "2019-05-23",
+    "shares_outstanding": 264000000.0,
+    "revenue": 3272000000.0,
+    "net_income": 1378000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2019",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 264000000.0,
+    "revenue": 1502000000.0,
+    "net_income": 189000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2019",
+    "filing_date": "2018-11-20",
+    "shares_outstanding": 264000000.0,
+    "revenue": 1016000000.0,
+    "net_income": 34000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2018",
+    "filing_date": "2018-08-31",
+    "shares_outstanding": 261000000.0,
+    "revenue": 5964000000.0,
+    "net_income": 1211000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2018",
+    "filing_date": "2018-05-22",
+    "shares_outstanding": 262000000.0,
+    "revenue": 2925000000.0,
+    "net_income": 1200000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2018",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 256000000.0,
+    "revenue": 1165000000.0,
+    "net_income": -21000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2018",
+    "filing_date": "2017-11-20",
+    "shares_outstanding": 256000000.0,
+    "revenue": 886000000.0,
+    "net_income": -17000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2017",
+    "filing_date": "2017-09-01",
+    "shares_outstanding": 261000000.0,
+    "revenue": 5177000000.0,
+    "net_income": 971000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2017",
+    "filing_date": "2017-05-23",
+    "shares_outstanding": 260000000.0,
+    "revenue": 2541000000.0,
+    "net_income": 964000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2017",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 260000000.0,
+    "revenue": 1016000000.0,
+    "net_income": 13000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2017",
+    "filing_date": "2016-11-18",
+    "shares_outstanding": 258000000.0,
+    "revenue": 778000000.0,
+    "net_income": -30000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2016",
+    "filing_date": "2016-09-01",
+    "shares_outstanding": 265000000.0,
+    "revenue": 4694000000.0,
+    "net_income": 979000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2016",
+    "filing_date": "2016-05-24",
+    "shares_outstanding": 260000000.0,
+    "revenue": 2304000000.0,
+    "net_income": 1026000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2016",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 266000000.0,
+    "revenue": 923000000.0,
+    "net_income": 24000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2016",
+    "filing_date": "2015-11-20",
+    "shares_outstanding": 272000000.0,
+    "revenue": 713000000.0,
+    "net_income": -31000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2015",
+    "filing_date": "2015-09-01",
+    "shares_outstanding": 286000000.0,
+    "revenue": 4192000000.0,
+    "net_income": 365000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2015",
+    "filing_date": "2015-05-22",
+    "shares_outstanding": 282000000.0,
+    "revenue": 2135000000.0,
+    "net_income": 501000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2015",
+    "filing_date": "2015-02-19",
+    "shares_outstanding": 285000000.0,
+    "revenue": 749000000.0,
+    "net_income": -66000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2015",
+    "filing_date": "2014-11-21",
+    "shares_outstanding": 286000000.0,
+    "revenue": 612000000.0,
+    "net_income": -84000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2014",
+    "filing_date": "2014-09-12",
+    "shares_outstanding": 291000000.0,
+    "revenue": 4506000000.0,
+    "net_income": 907000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2014",
+    "filing_date": "2014-05-21",
+    "shares_outstanding": 290000000.0,
+    "revenue": 2388000000.0,
+    "net_income": 984000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2014",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 284000000.0,
+    "revenue": 782000000.0,
+    "net_income": -37000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2014",
+    "filing_date": "2013-11-22",
+    "shares_outstanding": 288000000.0,
+    "revenue": 622000000.0,
+    "net_income": -11000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2013",
+    "filing_date": "2013-09-13",
+    "shares_outstanding": 303000000.0,
+    "revenue": 4171000000.0,
+    "net_income": 858000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2013",
+    "filing_date": "2013-05-30",
+    "shares_outstanding": 304000000.0,
+    "revenue": 2178000000.0,
+    "net_income": 822000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2013",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 303000000.0,
+    "revenue": 968000000.0,
+    "net_income": 71000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2013",
+    "filing_date": "2012-11-29",
+    "shares_outstanding": 296000000.0,
+    "revenue": 647000000.0,
+    "net_income": -19000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2012",
+    "filing_date": "2012-09-13",
+    "shares_outstanding": 305000000.0,
+    "revenue": 4151000000.0,
+    "net_income": 792000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2012",
+    "filing_date": "2012-05-25",
+    "shares_outstanding": 303000000.0,
+    "revenue": 1945000000.0,
+    "net_income": 734000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2012",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 306000000.0,
+    "revenue": 1019000000.0,
+    "net_income": 118000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2012",
+    "filing_date": "2011-12-01",
+    "shares_outstanding": 300000000.0,
+    "revenue": 594000000.0,
+    "net_income": -64000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2011",
+    "filing_date": "2011-09-14",
+    "shares_outstanding": 317000000.0,
+    "revenue": 3851000000.0,
+    "net_income": 634000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2011",
+    "filing_date": "2011-06-01",
+    "shares_outstanding": 313000000.0,
+    "revenue": 1848000000.0,
+    "net_income": 688000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2011",
+    "filing_date": "2011-03-01",
+    "shares_outstanding": 318000000.0,
+    "revenue": 878000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2011",
+    "filing_date": "2010-12-06",
+    "shares_outstanding": 4000000.0,
+    "revenue": 532000000.0,
+    "net_income": -70000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "FY 2010",
+    "filing_date": "2010-09-16",
+    "shares_outstanding": 325000000.0,
+    "revenue": 3455000000.0,
+    "net_income": 574000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q3 2010",
+    "filing_date": "2010-05-28",
+    "shares_outstanding": 323000000.0,
+    "revenue": 1607000000.0,
+    "net_income": 576000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q2 2010",
+    "filing_date": "2010-03-01",
+    "shares_outstanding": 323000000.0,
+    "revenue": 837000000.0,
+    "net_income": 114000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "INTU",
+    "period": "Q1 2010",
+    "filing_date": "2009-12-04",
+    "shares_outstanding": 320000000.0,
+    "revenue": 474000000.0,
+    "net_income": -68000000.0,
+    "market_cap": null
+  }
+]

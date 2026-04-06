@@ -1,0 +1,443 @@
+[
+  {
+    "ticker": "LSCC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 138238000.0,
+    "revenue": 523262000.0,
+    "net_income": 3084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2026",
+    "filing_date": "2025-11-03",
+    "shares_outstanding": 138103000.0,
+    "revenue": 133349000.0,
+    "net_income": 2794000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q4 2025",
+    "filing_date": "2025-05-05",
+    "shares_outstanding": 138317000.0,
+    "revenue": 120150000.0,
+    "net_income": 5022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-04",
+    "shares_outstanding": 137894000.0,
+    "revenue": 127091000.0,
+    "net_income": 7190000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 138243000.0,
+    "revenue": 124076000.0,
+    "net_income": 22631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 138774000.0,
+    "revenue": 140815000.0,
+    "net_income": 14796000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 139790000.0,
+    "revenue": 737154000.0,
+    "net_income": 259061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 139828000.0,
+    "revenue": 192169000.0,
+    "net_income": 53788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 139768000.0,
+    "revenue": 190079000.0,
+    "net_income": 50644000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 140101000.0,
+    "revenue": 184310000.0,
+    "net_income": 55923000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-17",
+    "shares_outstanding": 140667000.0,
+    "revenue": 660356000.0,
+    "net_income": 178882000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 139935000.0,
+    "revenue": 172509000.0,
+    "net_income": 46359000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 139935000.0,
+    "revenue": 172509000.0,
+    "net_income": 46359000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 141281000.0,
+    "revenue": 150515000.0,
+    "net_income": 36078000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 141276000.0,
+    "revenue": 408120000.0,
+    "net_income": 47392000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2021",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 141524000.0,
+    "revenue": 103042000.0,
+    "net_income": 12607000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2021",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 139202000.0,
+    "revenue": 100589000.0,
+    "net_income": 10629000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q4 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 138044000.0,
+    "revenue": 97316000.0,
+    "net_income": 8167000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 137274000.0,
+    "revenue": 404093000.0,
+    "net_income": 43493000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 138894000.0,
+    "revenue": 103469000.0,
+    "net_income": 13539000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 137221000.0,
+    "revenue": 102296000.0,
+    "net_income": 8559000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 134810000.0,
+    "revenue": 98091000.0,
+    "net_income": 7408000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 258457000.0,
+    "revenue": 398799000.0,
+    "net_income": -26322000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-29",
+    "shares_outstanding": 129474000.0,
+    "revenue": 101484000.0,
+    "net_income": 6974000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 230620000.0,
+    "revenue": 102715000.0,
+    "net_income": -20223000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 245672000.0,
+    "revenue": 98623000.0,
+    "net_income": -5952000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2017",
+    "filing_date": "2018-03-14",
+    "shares_outstanding": 217693000.0,
+    "revenue": 385961000.0,
+    "net_income": -70562000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 218292000.0,
+    "revenue": 91971000.0,
+    "net_income": -43052000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-10",
+    "shares_outstanding": 258765000.0,
+    "revenue": 94137000.0,
+    "net_income": -13022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-11",
+    "shares_outstanding": 267495000.0,
+    "revenue": 104587000.0,
+    "net_income": -7275000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 119994000.0,
+    "revenue": 427054000.0,
+    "net_income": -54099000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-10",
+    "shares_outstanding": 120584000.0,
+    "revenue": 113225000.0,
+    "net_income": -12414000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-11",
+    "shares_outstanding": 119445000.0,
+    "revenue": 99209000.0,
+    "net_income": -13810000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q1 2016",
+    "filing_date": "2015-05-15",
+    "shares_outstanding": 116863000.0,
+    "revenue": 88597000.0,
+    "net_income": -53362000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2014",
+    "filing_date": "2015-03-04",
+    "shares_outstanding": 120245000.0,
+    "revenue": 366127000.0,
+    "net_income": 48580000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2015",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 120970000.0,
+    "revenue": 86570000.0,
+    "net_income": 9406000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2015",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 120944000.0,
+    "revenue": 99320000.0,
+    "net_income": 11771000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q4 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 118917000.0,
+    "revenue": 96637000.0,
+    "net_income": 11984000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2013",
+    "filing_date": "2014-03-11",
+    "shares_outstanding": 117081000.0,
+    "revenue": 332525000.0,
+    "net_income": 22321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 117349000.0,
+    "revenue": 87154000.0,
+    "net_income": 8844000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 117109000.0,
+    "revenue": 84694000.0,
+    "net_income": 5040000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 116714000.0,
+    "revenue": 71158000.0,
+    "net_income": 1890000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2012",
+    "filing_date": "2013-03-08",
+    "shares_outstanding": 117194000.0,
+    "revenue": 279256000.0,
+    "net_income": -29606000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 116785000.0,
+    "revenue": 70889000.0,
+    "net_income": -2175000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 117874000.0,
+    "revenue": 70792000.0,
+    "net_income": -12542000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 118174000.0,
+    "revenue": 71700000.0,
+    "net_income": -7714000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "FY 2011",
+    "filing_date": "2012-03-12",
+    "shares_outstanding": 121139000.0,
+    "revenue": 318366000.0,
+    "net_income": 78232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 120627000.0,
+    "revenue": 81720000.0,
+    "net_income": 13337000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LSCC",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 121468000.0,
+    "revenue": 83861000.0,
+    "net_income": 13031000.0,
+    "market_cap": null
+  }
+]

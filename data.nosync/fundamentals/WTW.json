@@ -1,0 +1,416 @@
+[
+  {
+    "ticker": "WTW",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 99000000.0,
+    "revenue": 9708000000.0,
+    "net_income": 1613000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 99000000.0,
+    "revenue": 9708000000.0,
+    "net_income": 1613000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 98000000.0,
+    "revenue": 2288000000.0,
+    "net_income": 306000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 100000000.0,
+    "revenue": 2261000000.0,
+    "net_income": 332000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 101000000.0,
+    "revenue": 2223000000.0,
+    "net_income": 239000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 102000000.0,
+    "revenue": 9930000000.0,
+    "net_income": -88000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 102000000.0,
+    "revenue": 2289000000.0,
+    "net_income": -1672000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 103000000.0,
+    "revenue": 2265000000.0,
+    "net_income": 142000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 104000000.0,
+    "revenue": 2341000000.0,
+    "net_income": 194000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 106000000.0,
+    "revenue": 9483000000.0,
+    "net_income": 1064000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 105000000.0,
+    "revenue": 2166000000.0,
+    "net_income": 139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 107000000.0,
+    "revenue": 2159000000.0,
+    "net_income": 96000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 108000000.0,
+    "revenue": 2244000000.0,
+    "net_income": 206000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 112000000.0,
+    "revenue": 8866000000.0,
+    "net_income": 1024000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 111000000.0,
+    "revenue": 1953000000.0,
+    "net_income": 192000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 112000000.0,
+    "revenue": 2031000000.0,
+    "net_income": 114000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 118000000.0,
+    "revenue": 2160000000.0,
+    "net_income": 125000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 66964000.0,
+    "revenue": 363164000.0,
+    "net_income": -10726000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2018",
+    "filing_date": "2019-02-26",
+    "shares_outstanding": 70115000.0,
+    "revenue": 1514121000.0,
+    "net_income": 223568000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 70331000.0,
+    "revenue": 365765000.0,
+    "net_income": 70132000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 70154000.0,
+    "revenue": 409747000.0,
+    "net_income": 70720000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 69501000.0,
+    "revenue": 408223000.0,
+    "net_income": 39112000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 68248000.0,
+    "revenue": 1306911000.0,
+    "net_income": 163317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 68686000.0,
+    "revenue": 323687000.0,
+    "net_income": 44719000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 67737000.0,
+    "revenue": 341673000.0,
+    "net_income": 45173000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 66527000.0,
+    "revenue": 329063000.0,
+    "net_income": 10653000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 65897000.0,
+    "revenue": 1164902000.0,
+    "net_income": 67493000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2016",
+    "filing_date": "2015-11-10",
+    "shares_outstanding": 57266000.0,
+    "revenue": 273324000.0,
+    "net_income": 21790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2016",
+    "filing_date": "2015-08-11",
+    "shares_outstanding": 57155000.0,
+    "revenue": 309754000.0,
+    "net_income": 27877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2016",
+    "filing_date": "2015-05-14",
+    "shares_outstanding": 56806000.0,
+    "revenue": 322103000.0,
+    "net_income": -5433000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2014",
+    "filing_date": "2015-03-04",
+    "shares_outstanding": 56705000.0,
+    "revenue": 1479916000.0,
+    "net_income": 98593000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2015",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 56769000.0,
+    "revenue": 345184000.0,
+    "net_income": 37793000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2015",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 56657000.0,
+    "revenue": 397547000.0,
+    "net_income": 54092000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q4 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 56506000.0,
+    "revenue": 409358000.0,
+    "net_income": 21531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 56394000.0,
+    "revenue": 1724123000.0,
+    "net_income": 204725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 56504000.0,
+    "revenue": 396334000.0,
+    "net_income": 60258000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 56325000.0,
+    "revenue": 470888000.0,
+    "net_income": 64916000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 56245000.0,
+    "revenue": 490790000.0,
+    "net_income": 48753000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 60923000.0,
+    "revenue": 1826812000.0,
+    "net_income": 257426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 56122000.0,
+    "revenue": 430610000.0,
+    "net_income": 67364000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 57141000.0,
+    "revenue": 484752000.0,
+    "net_income": 77462000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 74164000.0,
+    "revenue": 503535000.0,
+    "net_income": 54605000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 74131000.0,
+    "revenue": 1819156000.0,
+    "net_income": 304344000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-10",
+    "shares_outstanding": 74263000.0,
+    "revenue": 428434000.0,
+    "net_income": 80650000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-11",
+    "shares_outstanding": 74353000.0,
+    "revenue": 486013000.0,
+    "net_income": 86856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "WTW",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-12",
+    "shares_outstanding": 73709000.0,
+    "revenue": 503432000.0,
+    "net_income": 73177000.0,
+    "market_cap": null
+  }
+]

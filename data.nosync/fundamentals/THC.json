@@ -1,0 +1,515 @@
+[
+  {
+    "ticker": "THC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 90833000.0,
+    "revenue": 21310000000.0,
+    "net_income": 2367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 90833000.0,
+    "revenue": 21310000000.0,
+    "net_income": 2367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 88610000.0,
+    "revenue": 5289000000.0,
+    "net_income": 579000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 91791000.0,
+    "revenue": 5271000000.0,
+    "net_income": 522000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-14",
+    "shares_outstanding": 36584920.0,
+    "revenue": 0.0,
+    "net_income": -10408000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 95019000.0,
+    "revenue": 5223000000.0,
+    "net_income": 622000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2024",
+    "filing_date": "2025-03-25",
+    "shares_outstanding": 15271705.0,
+    "revenue": 0.0,
+    "net_income": -17602000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2024",
+    "filing_date": "2025-02-18",
+    "shares_outstanding": 97881000.0,
+    "revenue": 20665000000.0,
+    "net_income": 4064000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-13",
+    "shares_outstanding": 97223055.0,
+    "revenue": 9237762.0,
+    "net_income": 3960469.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 96652000.0,
+    "revenue": 5122000000.0,
+    "net_income": 681000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 98444000.0,
+    "revenue": 5103000000.0,
+    "net_income": 477000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 100598000.0,
+    "revenue": 5368000000.0,
+    "net_income": 2334000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 104800000.0,
+    "revenue": 20548000000.0,
+    "net_income": 1311000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-30",
+    "shares_outstanding": 104425000.0,
+    "revenue": 5066000000.0,
+    "net_income": 266000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-31",
+    "shares_outstanding": 104778000.0,
+    "revenue": 5082000000.0,
+    "net_income": 293000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 106006000.0,
+    "revenue": 5021000000.0,
+    "net_income": 296000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 110516000.0,
+    "revenue": 19174000000.0,
+    "net_income": 1001000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 109888000.0,
+    "revenue": 4801000000.0,
+    "net_income": 268000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 108750000.0,
+    "revenue": 4638000000.0,
+    "net_income": 179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 112020000.0,
+    "revenue": 4745000000.0,
+    "net_income": 280000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 108571000.0,
+    "revenue": 19485000000.0,
+    "net_income": 1476000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 108761000.0,
+    "revenue": 4894000000.0,
+    "net_income": 578000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 108569000.0,
+    "revenue": 4954000000.0,
+    "net_income": 257000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 108065000.0,
+    "revenue": 4781000000.0,
+    "net_income": 222000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 106263000.0,
+    "revenue": 17640000000.0,
+    "net_income": 768000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 105263000.0,
+    "revenue": 4557000000.0,
+    "net_income": -106000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-03",
+    "shares_outstanding": 105578000.0,
+    "revenue": 3648000000.0,
+    "net_income": 169000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-04",
+    "shares_outstanding": 105733000.0,
+    "revenue": 4520000000.0,
+    "net_income": 159000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 103398000.0,
+    "revenue": 18479000000.0,
+    "net_income": 154000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-04",
+    "shares_outstanding": 103558000.0,
+    "revenue": 4568000000.0,
+    "net_income": -152000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-05",
+    "shares_outstanding": 104629000.0,
+    "revenue": 4560000000.0,
+    "net_income": 112000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-29",
+    "shares_outstanding": 102788000.0,
+    "revenue": 4545000000.0,
+    "net_income": 65000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2018",
+    "filing_date": "2019-02-25",
+    "shares_outstanding": 103881000.0,
+    "revenue": 18313000000.0,
+    "net_income": 466000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 102402000.0,
+    "revenue": 4489000000.0,
+    "net_income": 65000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-06",
+    "shares_outstanding": 104177000.0,
+    "revenue": 4506000000.0,
+    "net_income": 108000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-30",
+    "shares_outstanding": 102656000.0,
+    "revenue": 4699000000.0,
+    "net_income": 191000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2017",
+    "filing_date": "2018-02-26",
+    "shares_outstanding": 100592000.0,
+    "revenue": 20613000000.0,
+    "net_income": -320000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 100812000.0,
+    "revenue": 4941000000.0,
+    "net_income": -289000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-07",
+    "shares_outstanding": 100612000.0,
+    "revenue": 5173000000.0,
+    "net_income": 32000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-01",
+    "shares_outstanding": 100000000.0,
+    "revenue": 5196000000.0,
+    "net_income": 36000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 99321000.0,
+    "revenue": 21070000000.0,
+    "net_income": 176000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-31",
+    "shares_outstanding": 99523000.0,
+    "revenue": 5216000000.0,
+    "net_income": 80000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-01",
+    "shares_outstanding": 99341000.0,
+    "revenue": 5220000000.0,
+    "net_income": 39000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-02",
+    "shares_outstanding": 98768000.0,
+    "revenue": 5420000000.0,
+    "net_income": 34000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2015",
+    "filing_date": "2016-02-22",
+    "shares_outstanding": 99167000.0,
+    "revenue": 20111000000.0,
+    "net_income": 78000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-02",
+    "shares_outstanding": 99537000.0,
+    "revenue": 5063000000.0,
+    "net_income": 28000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-03",
+    "shares_outstanding": 99244000.0,
+    "revenue": 4844000000.0,
+    "net_income": -28000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-04",
+    "shares_outstanding": 100872000.0,
+    "revenue": 4791000000.0,
+    "net_income": 76000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2014",
+    "filing_date": "2015-02-23",
+    "shares_outstanding": 100287000.0,
+    "revenue": 17920000000.0,
+    "net_income": 76000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-03",
+    "shares_outstanding": 100926000.0,
+    "revenue": 4428000000.0,
+    "net_income": 18000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-04",
+    "shares_outstanding": 97677000.0,
+    "revenue": 4042000000.0,
+    "net_income": -7000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-05",
+    "shares_outstanding": 97161000.0,
+    "revenue": 3926000000.0,
+    "net_income": -16000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2013",
+    "filing_date": "2014-02-24",
+    "shares_outstanding": 101648000.0,
+    "revenue": 11102000000.0,
+    "net_income": -104000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-04",
+    "shares_outstanding": 103098000.0,
+    "revenue": 2618000000.0,
+    "net_income": 36000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 103010000.0,
+    "revenue": 2422000000.0,
+    "net_income": -43000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-30",
+    "shares_outstanding": 104103000.0,
+    "revenue": 2387000000.0,
+    "net_income": -83000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "THC",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 108926000.0,
+    "revenue": 9119000000.0,
+    "net_income": 133000000.0,
+    "market_cap": null
+  }
+]

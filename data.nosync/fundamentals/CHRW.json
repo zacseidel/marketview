@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "CHRW",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 121502000.0,
+    "revenue": 16232763000.0,
+    "net_income": 587081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 121502000.0,
+    "revenue": 16232763000.0,
+    "net_income": 587081000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 121349000.0,
+    "revenue": 4136846000.0,
+    "net_income": 162987000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 121025000.0,
+    "revenue": 4136543000.0,
+    "net_income": 152471000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 121932000.0,
+    "revenue": 4046740000.0,
+    "net_income": 135302000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2024",
+    "filing_date": "2025-02-14",
+    "shares_outstanding": 120679000.0,
+    "revenue": 17724956000.0,
+    "net_income": 465690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 119920000.0,
+    "revenue": 4483348000.0,
+    "net_income": 126251000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 119604000.0,
+    "revenue": 4412311000.0,
+    "net_income": 92904000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 119677000.0,
+    "revenue": 17596443000.0,
+    "net_income": 325129000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 119751000.0,
+    "revenue": 4341030000.0,
+    "net_income": 81949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 119807000.0,
+    "revenue": 4421856000.0,
+    "net_income": 97316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 119909000.0,
+    "revenue": 4611670000.0,
+    "net_income": 114891000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2022",
+    "filing_date": "2023-02-17",
+    "shares_outstanding": 127150000.0,
+    "revenue": 24696625000.0,
+    "net_income": 940524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 127190000.0,
+    "revenue": 6015376000.0,
+    "net_income": 225798000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 130338000.0,
+    "revenue": 6798475000.0,
+    "net_income": 348185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 132155000.0,
+    "revenue": 6815953000.0,
+    "net_income": 270348000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 133834000.0,
+    "revenue": 23102138000.0,
+    "net_income": 844245000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 133436000.0,
+    "revenue": 6263695000.0,
+    "net_income": 247053000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 134856000.0,
+    "revenue": 5532726000.0,
+    "net_income": 193789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 135745000.0,
+    "revenue": 4803869000.0,
+    "net_income": 173305000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 136173000.0,
+    "revenue": 16207106000.0,
+    "net_income": 506421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 137128000.0,
+    "revenue": 4224800000.0,
+    "net_income": 136529000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 135610000.0,
+    "revenue": 3627846000.0,
+    "net_income": 143939000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 135969000.0,
+    "revenue": 3805008000.0,
+    "net_income": 78146000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2019",
+    "filing_date": "2020-02-19",
+    "shares_outstanding": 137735000.0,
+    "revenue": 15309508000.0,
+    "net_income": 576968000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-04",
+    "shares_outstanding": 137476000.0,
+    "revenue": 3856132000.0,
+    "net_income": 146894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 138256000.0,
+    "revenue": 3908840000.0,
+    "net_income": 169180000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 138955000.0,
+    "revenue": 3751210000.0,
+    "net_income": 161788000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2018",
+    "filing_date": "2019-02-25",
+    "shares_outstanding": 140405000.0,
+    "revenue": 16631172000.0,
+    "net_income": 664505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 140160000.0,
+    "revenue": 4291900000.0,
+    "net_income": 175895000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 140611000.0,
+    "revenue": 4276037000.0,
+    "net_income": 159163000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 141270000.0,
+    "revenue": 3925327000.0,
+    "net_income": 142297000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 141382000.0,
+    "revenue": 14869380000.0,
+    "net_income": 504893000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 141022000.0,
+    "revenue": 3784451000.0,
+    "net_income": 119186000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 141587000.0,
+    "revenue": 3710018000.0,
+    "net_income": 111071000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 141858000.0,
+    "revenue": 3415125000.0,
+    "net_income": 122080000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 142991000.0,
+    "revenue": 13144413000.0,
+    "net_income": 513384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 142883000.0,
+    "revenue": 3355754000.0,
+    "net_income": 129028000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-08",
+    "shares_outstanding": 143216000.0,
+    "revenue": 3299741000.0,
+    "net_income": 143090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-10",
+    "shares_outstanding": 143658000.0,
+    "revenue": 3073943000.0,
+    "net_income": 118963000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 145349000.0,
+    "revenue": 13476084000.0,
+    "net_income": 509699000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 144782000.0,
+    "revenue": 3419253000.0,
+    "net_income": 139432000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": 145679000.0,
+    "revenue": 3545088000.0,
+    "net_income": 137208000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-11",
+    "shares_outstanding": 146383000.0,
+    "revenue": 3300890000.0,
+    "net_income": 106476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 147542000.0,
+    "revenue": 13470067000.0,
+    "net_income": 449711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 146856000.0,
+    "revenue": 3467362000.0,
+    "net_income": 124981000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-11",
+    "shares_outstanding": 147974000.0,
+    "revenue": 3502918000.0,
+    "net_income": 118596000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-12",
+    "shares_outstanding": 149008000.0,
+    "revenue": 3142585000.0,
+    "net_income": 93187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 157080000.0,
+    "revenue": 12752076000.0,
+    "net_income": 415904000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 157044000.0,
+    "revenue": 3316665000.0,
+    "net_income": 107737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 159917000.0,
+    "revenue": 3288262000.0,
+    "net_income": 111872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 160690000.0,
+    "revenue": 2994267000.0,
+    "net_income": 103343000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 161946000.0,
+    "revenue": 11359113000.0,
+    "net_income": 593804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 161003000.0,
+    "revenue": 2880409000.0,
+    "net_income": 116330000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 162200000.0,
+    "revenue": 2955714000.0,
+    "net_income": 114582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-10",
+    "shares_outstanding": 163023000.0,
+    "revenue": 2552114000.0,
+    "net_income": 106500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 164741000.0,
+    "revenue": 10336346000.0,
+    "net_income": 431612000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 164471000.0,
+    "revenue": 2694928000.0,
+    "net_income": 114347000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 165194000.0,
+    "revenue": 2707662000.0,
+    "net_income": 111023000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 165764000.0,
+    "revenue": 2365472000.0,
+    "net_income": 97028000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2010",
+    "filing_date": "2011-03-01",
+    "shares_outstanding": 165972000.0,
+    "revenue": 9274305000.0,
+    "net_income": 387026000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-09",
+    "shares_outstanding": 165576000.0,
+    "revenue": 2420357000.0,
+    "net_income": 102627000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-09",
+    "shares_outstanding": 165765000.0,
+    "revenue": 2453982000.0,
+    "net_income": 97226000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-10",
+    "shares_outstanding": 166575000.0,
+    "revenue": 2074617000.0,
+    "net_income": 84012000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "FY 2009",
+    "filing_date": "2010-03-01",
+    "shares_outstanding": 169194000.0,
+    "revenue": 7577189000.0,
+    "net_income": 360830000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-09",
+    "shares_outstanding": 168648000.0,
+    "revenue": 1954803000.0,
+    "net_income": 95460000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CHRW",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-10",
+    "shares_outstanding": 169584000.0,
+    "revenue": 1926020000.0,
+    "net_income": 92253000.0,
+    "market_cap": null
+  }
+]

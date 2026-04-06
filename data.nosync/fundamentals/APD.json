@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "APD",
+    "period": "Q1 2026",
+    "filing_date": "2026-01-30",
+    "shares_outstanding": 222900000.0,
+    "revenue": 3102500000.0,
+    "net_income": 691400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2025",
+    "filing_date": "2025-11-20",
+    "shares_outstanding": 222700000.0,
+    "revenue": 12037300000.0,
+    "net_income": -354400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 222900000.0,
+    "revenue": 3022700000.0,
+    "net_income": 723200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 222800000.0,
+    "revenue": 2916200000.0,
+    "net_income": -1737500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2024",
+    "filing_date": "2024-11-21",
+    "shares_outstanding": 222800000.0,
+    "revenue": 12100600000.0,
+    "net_income": 3862400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 222800000.0,
+    "revenue": 2985500000.0,
+    "net_income": 708900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 222700000.0,
+    "revenue": 2930200000.0,
+    "net_income": 580900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2024",
+    "filing_date": "2024-02-05",
+    "shares_outstanding": 222800000.0,
+    "revenue": 2997400000.0,
+    "net_income": 621600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2023",
+    "filing_date": "2023-11-16",
+    "shares_outstanding": 222700000.0,
+    "revenue": 12600000000.0,
+    "net_income": 2338600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 222800000.0,
+    "revenue": 3033900000.0,
+    "net_income": 610500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 222700000.0,
+    "revenue": 3200100000.0,
+    "net_income": 449900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2023",
+    "filing_date": "2023-02-02",
+    "shares_outstanding": 222600000.0,
+    "revenue": 3174700000.0,
+    "net_income": 583800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2022",
+    "filing_date": "2022-11-22",
+    "shares_outstanding": 222500000.0,
+    "revenue": 12698600000.0,
+    "net_income": 2266500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 222500000.0,
+    "revenue": 3189300000.0,
+    "net_income": 587100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 222500000.0,
+    "revenue": 2945100000.0,
+    "net_income": 536800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2022",
+    "filing_date": "2022-02-04",
+    "shares_outstanding": 222600000.0,
+    "revenue": 2994200000.0,
+    "net_income": 549600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2021",
+    "filing_date": "2021-11-18",
+    "shares_outstanding": 222500000.0,
+    "revenue": 10323000000.0,
+    "net_income": 2114900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2021",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": 222500000.0,
+    "revenue": 2604700000.0,
+    "net_income": 532300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2021",
+    "filing_date": "2021-05-10",
+    "shares_outstanding": 222500000.0,
+    "revenue": 2502000000.0,
+    "net_income": 477100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2021",
+    "filing_date": "2021-02-04",
+    "shares_outstanding": 222600000.0,
+    "revenue": 2375200000.0,
+    "net_income": 486700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2020",
+    "filing_date": "2020-11-19",
+    "shares_outstanding": 222300000.0,
+    "revenue": 8856300000.0,
+    "net_income": 1931100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2020",
+    "filing_date": "2020-07-23",
+    "shares_outstanding": 222400000.0,
+    "revenue": 2065200000.0,
+    "net_income": 457100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2020",
+    "filing_date": "2020-04-23",
+    "shares_outstanding": 222300000.0,
+    "revenue": 2216300000.0,
+    "net_income": 490400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2020",
+    "filing_date": "2020-01-24",
+    "shares_outstanding": 222200000.0,
+    "revenue": 2254700000.0,
+    "net_income": 488900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2019",
+    "filing_date": "2019-11-26",
+    "shares_outstanding": 221600000.0,
+    "revenue": 8918900000.0,
+    "net_income": 1809400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 221900000.0,
+    "revenue": 2224000000.0,
+    "net_income": 500200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2019",
+    "filing_date": "2019-04-24",
+    "shares_outstanding": 221400000.0,
+    "revenue": 2187700000.0,
+    "net_income": 433500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2019",
+    "filing_date": "2019-01-25",
+    "shares_outstanding": 221000000.0,
+    "revenue": 2224000000.0,
+    "net_income": 357000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2018",
+    "filing_date": "2018-11-20",
+    "shares_outstanding": 220800000.0,
+    "revenue": 8930200000.0,
+    "net_income": 1532900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 220900000.0,
+    "revenue": 2259000000.0,
+    "net_income": 487900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2018",
+    "filing_date": "2018-04-26",
+    "shares_outstanding": 220800000.0,
+    "revenue": 2155700000.0,
+    "net_income": 423600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2018",
+    "filing_date": "2018-01-26",
+    "shares_outstanding": 220400000.0,
+    "revenue": 2216600000.0,
+    "net_income": 161700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2017",
+    "filing_date": "2017-11-16",
+    "shares_outstanding": 219800000.0,
+    "revenue": 8187600000.0,
+    "net_income": 3021200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 219800000.0,
+    "revenue": 2121900000.0,
+    "net_income": 104100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 219700000.0,
+    "revenue": 1980100000.0,
+    "net_income": 2135700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2017",
+    "filing_date": "2017-01-27",
+    "shares_outstanding": 219700000.0,
+    "revenue": 1882500000.0,
+    "net_income": 306400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2016",
+    "filing_date": "2016-11-21",
+    "shares_outstanding": 218300000.0,
+    "revenue": 9524400000.0,
+    "net_income": 661500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 218500000.0,
+    "revenue": 2434400000.0,
+    "net_income": 354100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 217900000.0,
+    "revenue": 2271200000.0,
+    "net_income": -465500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2016",
+    "filing_date": "2016-01-29",
+    "shares_outstanding": 217600000.0,
+    "revenue": 2355800000.0,
+    "net_income": 372000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2015",
+    "filing_date": "2015-11-24",
+    "shares_outstanding": 217300000.0,
+    "revenue": 9894900000.0,
+    "net_income": 1317600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 217400000.0,
+    "revenue": 2470200000.0,
+    "net_income": 333200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 217400000.0,
+    "revenue": 2414500000.0,
+    "net_income": 296900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2015",
+    "filing_date": "2015-01-30",
+    "shares_outstanding": 216600000.0,
+    "revenue": 2560800000.0,
+    "net_income": 337500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2014",
+    "filing_date": "2014-11-24",
+    "shares_outstanding": 215200000.0,
+    "revenue": 10439000000.0,
+    "net_income": 993100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2014",
+    "filing_date": "2014-07-24",
+    "shares_outstanding": 215400000.0,
+    "revenue": 2634600000.0,
+    "net_income": 323500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2014",
+    "filing_date": "2014-04-24",
+    "shares_outstanding": 214900000.0,
+    "revenue": 2581900000.0,
+    "net_income": 291500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2014",
+    "filing_date": "2014-01-29",
+    "shares_outstanding": 214300000.0,
+    "revenue": 2545500000.0,
+    "net_income": 299100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2013",
+    "filing_date": "2013-11-26",
+    "shares_outstanding": 212300000.0,
+    "revenue": 10180400000.0,
+    "net_income": 1032500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2013",
+    "filing_date": "2013-07-24",
+    "shares_outstanding": 211900000.0,
+    "revenue": 2547300000.0,
+    "net_income": 298400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 211000000.0,
+    "revenue": 2484200000.0,
+    "net_income": 299600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2013",
+    "filing_date": "2013-01-25",
+    "shares_outstanding": 212600000.0,
+    "revenue": 2562400000.0,
+    "net_income": 287200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2012",
+    "filing_date": "2012-11-20",
+    "shares_outstanding": 214700000.0,
+    "revenue": 9611700000.0,
+    "net_income": 1193300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 214700000.0,
+    "revenue": 2340100000.0,
+    "net_income": 492500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2012",
+    "filing_date": "2012-04-27",
+    "shares_outstanding": 215000000.0,
+    "revenue": 2344300000.0,
+    "net_income": 302200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2012",
+    "filing_date": "2012-01-27",
+    "shares_outstanding": 213900000.0,
+    "revenue": 2321500000.0,
+    "net_income": 256300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2011",
+    "filing_date": "2011-11-22",
+    "shares_outstanding": 217600000.0,
+    "revenue": 10082000000.0,
+    "net_income": 1261500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2011",
+    "filing_date": "2011-07-27",
+    "shares_outstanding": 217300000.0,
+    "revenue": 2577800000.0,
+    "net_income": 335000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2011",
+    "filing_date": "2011-04-26",
+    "shares_outstanding": 218800000.0,
+    "revenue": 2501300000.0,
+    "net_income": 311500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2010",
+    "filing_date": "2010-11-23",
+    "shares_outstanding": 217100000.0,
+    "revenue": 9026000000.0,
+    "net_income": 1054500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q2 2010",
+    "filing_date": "2010-04-26",
+    "shares_outstanding": 216900000.0,
+    "revenue": 2249000000.0,
+    "net_income": 258400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q1 2010",
+    "filing_date": "2010-01-26",
+    "shares_outstanding": 217000000.0,
+    "revenue": 2173500000.0,
+    "net_income": 256800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "FY 2009",
+    "filing_date": "2009-11-25",
+    "shares_outstanding": 213500000.0,
+    "revenue": 8256200000.0,
+    "net_income": 631300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APD",
+    "period": "Q3 2009",
+    "filing_date": "2009-07-24",
+    "shares_outstanding": 214000000.0,
+    "revenue": 1976200000.0,
+    "net_income": 113200000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "MLI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 111492000.0,
+    "revenue": 4178547000.0,
+    "net_income": 773590000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 111492000.0,
+    "revenue": 4178547000.0,
+    "net_income": 773590000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-22",
+    "shares_outstanding": 110930000.0,
+    "revenue": 1077824000.0,
+    "net_income": 210248000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-23",
+    "shares_outstanding": 110942000.0,
+    "revenue": 1138173000.0,
+    "net_income": 248483000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-23",
+    "shares_outstanding": 113072000.0,
+    "revenue": 1000165000.0,
+    "net_income": 159287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 113965000.0,
+    "revenue": 3768766000.0,
+    "net_income": 617542000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 113775000.0,
+    "revenue": 997831000.0,
+    "net_income": 171783000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 113979000.0,
+    "revenue": 997745000.0,
+    "net_income": 163447000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 114145000.0,
+    "revenue": 849654000.0,
+    "net_income": 141709000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 113662000.0,
+    "revenue": 3420345000.0,
+    "net_income": 609649000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 113868000.0,
+    "revenue": 819792000.0,
+    "net_income": 135709000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 57000000.0,
+    "revenue": 896984000.0,
+    "net_income": 179551000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 56400000.0,
+    "revenue": 971192000.0,
+    "net_income": 175093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 56555000.0,
+    "revenue": 3982455000.0,
+    "net_income": 662820000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-19",
+    "shares_outstanding": 56424000.0,
+    "revenue": 944830000.0,
+    "net_income": 155813000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-20",
+    "shares_outstanding": 56528000.0,
+    "revenue": 1150042000.0,
+    "net_income": 207524000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-20",
+    "shares_outstanding": 56910000.0,
+    "revenue": 1010002000.0,
+    "net_income": 159248000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 56798000.0,
+    "revenue": 3769345000.0,
+    "net_income": 475124000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-20",
+    "shares_outstanding": 56808000.0,
+    "revenue": 982248000.0,
+    "net_income": 172256000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-21",
+    "shares_outstanding": 56812000.0,
+    "revenue": 1012592000.0,
+    "net_income": 110932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-21",
+    "shares_outstanding": 56672000.0,
+    "revenue": 818148000.0,
+    "net_income": 65238000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 56390000.0,
+    "revenue": 2398043000.0,
+    "net_income": 143649000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-21",
+    "shares_outstanding": 56366000.0,
+    "revenue": 619105000.0,
+    "net_income": 43957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-22",
+    "shares_outstanding": 56194000.0,
+    "revenue": 500168000.0,
+    "net_income": 28487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-22",
+    "shares_outstanding": 56458000.0,
+    "revenue": 602919000.0,
+    "net_income": 33951000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-26",
+    "shares_outstanding": 56343000.0,
+    "revenue": 2430616000.0,
+    "net_income": 106232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-23",
+    "shares_outstanding": 56314000.0,
+    "revenue": 608602000.0,
+    "net_income": 30444000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-24",
+    "shares_outstanding": 56314000.0,
+    "revenue": 666394000.0,
+    "net_income": 28676000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-24",
+    "shares_outstanding": 56254000.0,
+    "revenue": 611781000.0,
+    "net_income": 17139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 57269000.0,
+    "revenue": 2507878000.0,
+    "net_income": 106820000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-24",
+    "shares_outstanding": 57417000.0,
+    "revenue": 645958000.0,
+    "net_income": 20863000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-24",
+    "shares_outstanding": 57311000.0,
+    "revenue": 662773000.0,
+    "net_income": 33882000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 57417000.0,
+    "revenue": 640060000.0,
+    "net_income": 24344000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 57484000.0,
+    "revenue": 2266073000.0,
+    "net_income": 87011000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-25",
+    "shares_outstanding": 57443000.0,
+    "revenue": 550363000.0,
+    "net_income": 22754000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-26",
+    "shares_outstanding": 57417000.0,
+    "revenue": 614266000.0,
+    "net_income": 27833000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-26",
+    "shares_outstanding": 57438000.0,
+    "revenue": 577920000.0,
+    "net_income": 30455000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 57169000.0,
+    "revenue": 2055622000.0,
+    "net_income": 99754000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 57217000.0,
+    "revenue": 506584000.0,
+    "net_income": 26062000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 56929000.0,
+    "revenue": 544071000.0,
+    "net_income": 28259000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-27",
+    "shares_outstanding": 56962000.0,
+    "revenue": 532809000.0,
+    "net_income": 28665000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 56968000.0,
+    "revenue": 2100002000.0,
+    "net_income": 88407000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-21",
+    "shares_outstanding": 56973000.0,
+    "revenue": 535184000.0,
+    "net_income": 18095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-22",
+    "shares_outstanding": 56990000.0,
+    "revenue": 555593000.0,
+    "net_income": 33862000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-23",
+    "shares_outstanding": 56924000.0,
+    "revenue": 537242000.0,
+    "net_income": 22340000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 56768000.0,
+    "revenue": 2364227000.0,
+    "net_income": 102534000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-24",
+    "shares_outstanding": 56744000.0,
+    "revenue": 602820000.0,
+    "net_income": 24322000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-25",
+    "shares_outstanding": 56720000.0,
+    "revenue": 649691000.0,
+    "net_income": 35209000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-25",
+    "shares_outstanding": 56771000.0,
+    "revenue": 574374000.0,
+    "net_income": 24954000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 28242000.0,
+    "revenue": 2158541000.0,
+    "net_income": 173289000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-28",
+    "shares_outstanding": 28255000.0,
+    "revenue": 528854000.0,
+    "net_income": 39993000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-26",
+    "shares_outstanding": 28210000.0,
+    "revenue": 582282000.0,
+    "net_income": 91842000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-26",
+    "shares_outstanding": 28196000.0,
+    "revenue": 559690000.0,
+    "net_income": 26434000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 35746000.0,
+    "revenue": 2189938000.0,
+    "net_income": 83673000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 37957000.0,
+    "revenue": 514165000.0,
+    "net_income": 15570000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 38465000.0,
+    "revenue": 594099000.0,
+    "net_income": 18540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-27",
+    "shares_outstanding": 38458000.0,
+    "revenue": 577668000.0,
+    "net_income": 32817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 884762000.0,
+    "revenue": null,
+    "net_income": null,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 38361000.0,
+    "revenue": 585809000.0,
+    "net_income": 10741000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 38093.0,
+    "revenue": 652923000.0,
+    "net_income": 22731000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MLI",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-28",
+    "shares_outstanding": 37986000.0,
+    "revenue": 687681000.0,
+    "net_income": 40542000.0,
+    "market_cap": null
+  }
+]

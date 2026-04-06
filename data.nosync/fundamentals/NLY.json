@@ -1,0 +1,587 @@
+[
+  {
+    "ticker": "NLY",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 641042741.0,
+    "revenue": 1135500000.0,
+    "net_income": 2051690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 641042741.0,
+    "revenue": 1135500000.0,
+    "net_income": 2051690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 657856427.0,
+    "revenue": 275750000.0,
+    "net_income": 843063000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 621103218.0,
+    "revenue": 273200000.0,
+    "net_income": 60371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 588420998.0,
+    "revenue": 219971000.0,
+    "net_income": 130305000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 522747610.0,
+    "revenue": 247796000.0,
+    "net_income": 1011768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 516832152.0,
+    "revenue": 13401000.0,
+    "net_income": 82351000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-29",
+    "shares_outstanding": 500950563.0,
+    "revenue": 53558000.0,
+    "net_income": -8833000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 501182043.0,
+    "revenue": -6451000.0,
+    "net_income": 465174000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 494541323.0,
+    "revenue": -111384000.0,
+    "net_income": -1638457000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 494330361.0,
+    "revenue": -45334000.0,
+    "net_income": -569084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 494358982.0,
+    "revenue": -31963000.0,
+    "net_income": 161187000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 489688364.0,
+    "revenue": 19463000.0,
+    "net_income": -839328000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 411621758.0,
+    "revenue": 1469152000.0,
+    "net_income": 1726420000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 429858876.0,
+    "revenue": 277997000.0,
+    "net_income": -273977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-01",
+    "shares_outstanding": 1523595000.0,
+    "revenue": 475140000.0,
+    "net_income": 863317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 1462451965.0,
+    "revenue": 580928000.0,
+    "net_income": 2023894000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2021",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 1428569003.0,
+    "revenue": 1733793000.0,
+    "net_income": 2396280000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 1446357867.0,
+    "revenue": 362534000.0,
+    "net_income": 521534000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 1410239138.0,
+    "revenue": 322859000.0,
+    "net_income": -294848000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 1400000727.0,
+    "revenue": 687405000.0,
+    "net_income": 1751134000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 1414659439.0,
+    "revenue": 1330513000.0,
+    "net_income": -889772000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 1404368300.0,
+    "revenue": 447317000.0,
+    "net_income": 1015548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 1423909112.0,
+    "revenue": 398780000.0,
+    "net_income": 856234000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 1430994319.0,
+    "revenue": 51553000.0,
+    "net_income": -3640189000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 1434912682.0,
+    "revenue": 1002422000.0,
+    "net_income": -2163091000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 1453359211.0,
+    "revenue": 152394000.0,
+    "net_income": -747169000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 1456038736.0,
+    "revenue": 177381000.0,
+    "net_income": -1776413000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 1398614205.0,
+    "revenue": 218491000.0,
+    "net_income": -849251000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2018",
+    "filing_date": "2019-02-15",
+    "shares_outstanding": 1209601809.0,
+    "revenue": 1434703000.0,
+    "net_income": 54148000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 1202353851.0,
+    "revenue": 315623000.0,
+    "net_income": 385429000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 1160979451.0,
+    "revenue": 334114000.0,
+    "net_income": 595887000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 1160103185.0,
+    "revenue": 512066000.0,
+    "net_income": 1327704000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 1066351616.0,
+    "revenue": 0.0,
+    "net_income": 1569016000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 1073040637.0,
+    "revenue": 353613000.0,
+    "net_income": 367315000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 1019000817.0,
+    "revenue": 315145000.0,
+    "net_income": 14522000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 1019307379.0,
+    "revenue": 389302000.0,
+    "net_income": 440408000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 970102353.0,
+    "revenue": 1553199000.0,
+    "net_income": 1432786000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 1007963406.0,
+    "revenue": 384514000.0,
+    "net_income": 730880000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 924887316.0,
+    "revenue": 304363000.0,
+    "net_income": -278497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 926813588.0,
+    "revenue": 240696000.0,
+    "net_income": -868080000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 947276742.0,
+    "revenue": 24848000.0,
+    "net_income": 465747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 947795500.0,
+    "revenue": 340429000.0,
+    "net_income": -627491000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 947929762.0,
+    "revenue": 511205000.0,
+    "net_income": 900071000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 947669831.0,
+    "revenue": 389694000.0,
+    "net_income": -476499000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 947539294.0,
+    "revenue": 31343000.0,
+    "net_income": -842279000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 987315527.0,
+    "revenue": 517571000.0,
+    "net_income": 354856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-07",
+    "shares_outstanding": 947515127.0,
+    "revenue": 557855000.0,
+    "net_income": -335512000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-08",
+    "shares_outstanding": 947458813.0,
+    "revenue": 530930000.0,
+    "net_income": -203351000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 995557026.0,
+    "revenue": 43643000.0,
+    "net_income": 3729698000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 955690471.0,
+    "revenue": 551684000.0,
+    "net_income": 192458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 995229637.0,
+    "revenue": 548681000.0,
+    "net_income": 1638213000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 994815169.0,
+    "revenue": 559627000.0,
+    "net_income": 870278000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 1005755057.0,
+    "revenue": 2591973000.0,
+    "net_income": 1735900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 997007829.0,
+    "revenue": 579372000.0,
+    "net_income": 224758000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 974555392.0,
+    "revenue": 719881000.0,
+    "net_income": -91159000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 1010588609.0,
+    "revenue": 721550000.0,
+    "net_income": 901806000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2011",
+    "filing_date": "2012-02-28",
+    "shares_outstanding": 874518938.0,
+    "revenue": 5618000.0,
+    "net_income": 344461000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 948545975.0,
+    "revenue": 2772000.0,
+    "net_income": -921813000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 827754731.0,
+    "revenue": -77000.0,
+    "net_income": 120817000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-09",
+    "shares_outstanding": 790993841.0,
+    "revenue": 2904000.0,
+    "net_income": 699895000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "FY 2010",
+    "filing_date": "2011-02-25",
+    "shares_outstanding": 625307174.0,
+    "revenue": 2095000.0,
+    "net_income": 1267280000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 611904518.0,
+    "revenue": 915000.0,
+    "net_income": -14060000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 559700836.0,
+    "revenue": 500000.0,
+    "net_income": -218229000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NLY",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-06",
+    "shares_outstanding": 550099709.0,
+    "revenue": 387805000.0,
+    "net_income": 597054000.0,
+    "market_cap": null
+  }
+]

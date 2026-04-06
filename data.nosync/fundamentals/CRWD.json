@@ -1,0 +1,245 @@
+[
+  {
+    "ticker": "CRWD",
+    "period": "TTM 2026",
+    "filing_date": "2026-03-05",
+    "shares_outstanding": 250576000.0,
+    "revenue": 4812005000.0,
+    "net_income": -161165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "FY 2026",
+    "filing_date": "2026-03-05",
+    "shares_outstanding": 250576000.0,
+    "revenue": 4812005000.0,
+    "net_income": -161165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q3 2026",
+    "filing_date": "2025-12-03",
+    "shares_outstanding": 251326000.0,
+    "revenue": 1234244000.0,
+    "net_income": -33988000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q2 2026",
+    "filing_date": "2025-08-28",
+    "shares_outstanding": 249909000.0,
+    "revenue": 1168952000.0,
+    "net_income": -77645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q1 2026",
+    "filing_date": "2025-06-04",
+    "shares_outstanding": 248432000.0,
+    "revenue": 1103434000.0,
+    "net_income": -110993000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "FY 2025",
+    "filing_date": "2025-03-10",
+    "shares_outstanding": 244750000.0,
+    "revenue": 3953624000.0,
+    "net_income": -16596000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q2 2025",
+    "filing_date": "2024-08-29",
+    "shares_outstanding": 251265000.0,
+    "revenue": 963872000.0,
+    "net_income": 46690000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q1 2025",
+    "filing_date": "2024-06-05",
+    "shares_outstanding": 250164000.0,
+    "revenue": 921036000.0,
+    "net_income": 46264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "FY 2024",
+    "filing_date": "2024-03-07",
+    "shares_outstanding": 243635000.0,
+    "revenue": 3055555000.0,
+    "net_income": 90585000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q3 2024",
+    "filing_date": "2023-11-29",
+    "shares_outstanding": 243799000.0,
+    "revenue": 786014000.0,
+    "net_income": 26669000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q2 2024",
+    "filing_date": "2023-08-31",
+    "shares_outstanding": 242144000.0,
+    "revenue": 731626000.0,
+    "net_income": 8476000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q1 2024",
+    "filing_date": "2023-06-01",
+    "shares_outstanding": 240598000.0,
+    "revenue": 692580000.0,
+    "net_income": 499000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "FY 2023",
+    "filing_date": "2023-03-09",
+    "shares_outstanding": 233139000.0,
+    "revenue": 2241236000.0,
+    "net_income": -182285000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q3 2023",
+    "filing_date": "2022-11-30",
+    "shares_outstanding": 233785000.0,
+    "revenue": 580882000.0,
+    "net_income": -54631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q2 2023",
+    "filing_date": "2022-08-31",
+    "shares_outstanding": 232554000.0,
+    "revenue": 535153000.0,
+    "net_income": -48313000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q1 2023",
+    "filing_date": "2022-06-03",
+    "shares_outstanding": 231179000.0,
+    "revenue": 487834000.0,
+    "net_income": -30409000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "FY 2022",
+    "filing_date": "2022-03-16",
+    "shares_outstanding": 227142000.0,
+    "revenue": 1451594000.0,
+    "net_income": -232378000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q3 2022",
+    "filing_date": "2021-12-02",
+    "shares_outstanding": 228293000.0,
+    "revenue": 380051000.0,
+    "net_income": -50450000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q2 2022",
+    "filing_date": "2021-09-01",
+    "shares_outstanding": 226362000.0,
+    "revenue": 337690000.0,
+    "net_income": -57318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q1 2022",
+    "filing_date": "2021-06-04",
+    "shares_outstanding": 224153000.0,
+    "revenue": 302843000.0,
+    "net_income": -82871000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "FY 2021",
+    "filing_date": "2021-03-18",
+    "shares_outstanding": 871874000.0,
+    "revenue": 874438000.0,
+    "net_income": -92629000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q3 2021",
+    "filing_date": "2020-12-03",
+    "shares_outstanding": 814785000.0,
+    "revenue": 232460000.0,
+    "net_income": -24531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q2 2021",
+    "filing_date": "2020-09-03",
+    "shares_outstanding": 792015000.0,
+    "revenue": 198971000.0,
+    "net_income": -29874000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q1 2021",
+    "filing_date": "2020-06-03",
+    "shares_outstanding": 753153000.0,
+    "revenue": 178078000.0,
+    "net_income": -19222000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "FY 2020",
+    "filing_date": "2020-03-23",
+    "shares_outstanding": 742607000.0,
+    "revenue": 481413000.0,
+    "net_income": -141779000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q3 2020",
+    "filing_date": "2019-12-06",
+    "shares_outstanding": 717042000.0,
+    "revenue": 125119000.0,
+    "net_income": -35505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CRWD",
+    "period": "Q2 2020",
+    "filing_date": "2019-09-06",
+    "shares_outstanding": 728097000.0,
+    "revenue": 108108000.0,
+    "net_income": -51889000.0,
+    "market_cap": null
+  }
+]

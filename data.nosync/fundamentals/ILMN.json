@@ -1,0 +1,470 @@
+[
+  {
+    "ticker": "ILMN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 156000000.0,
+    "revenue": 4343000000.0,
+    "net_income": 850000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 156000000.0,
+    "revenue": 4343000000.0,
+    "net_income": 850000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-31",
+    "shares_outstanding": 154000000.0,
+    "revenue": 1084000000.0,
+    "net_income": 150000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 157000000.0,
+    "revenue": 1059000000.0,
+    "net_income": 235000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 159000000.0,
+    "revenue": 1041000000.0,
+    "net_income": 131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2024",
+    "filing_date": "2025-02-12",
+    "shares_outstanding": 159000000.0,
+    "revenue": 4372000000.0,
+    "net_income": -1223000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 160000000.0,
+    "revenue": 1080000000.0,
+    "net_income": 705000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 159000000.0,
+    "revenue": 1112000000.0,
+    "net_income": -1988000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 159000000.0,
+    "revenue": 1076000000.0,
+    "net_income": -126000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-16",
+    "shares_outstanding": 158000000.0,
+    "revenue": 4504000000.0,
+    "net_income": -1161000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-13",
+    "shares_outstanding": 158000000.0,
+    "revenue": 1119000000.0,
+    "net_income": -754000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-10",
+    "shares_outstanding": 158000000.0,
+    "revenue": 1176000000.0,
+    "net_income": -234000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 158000000.0,
+    "revenue": 1087000000.0,
+    "net_income": 3000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2022",
+    "filing_date": "2022-02-18",
+    "shares_outstanding": 151000000.0,
+    "revenue": 4526000000.0,
+    "net_income": 762000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2022",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 153000000.0,
+    "revenue": 1108000000.0,
+    "net_income": 317000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2022",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 147000000.0,
+    "revenue": 1126000000.0,
+    "net_income": 185000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q1 2022",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 147000000.0,
+    "revenue": 1093000000.0,
+    "net_income": 147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2020",
+    "filing_date": "2021-02-17",
+    "shares_outstanding": 148000000.0,
+    "revenue": 3239000000.0,
+    "net_income": 656000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2021",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 148000000.0,
+    "revenue": 794000000.0,
+    "net_income": 179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2021",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 148000000.0,
+    "revenue": 633000000.0,
+    "net_income": 47000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q4 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 148000000.0,
+    "revenue": 859000000.0,
+    "net_income": 173000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2019",
+    "filing_date": "2020-02-11",
+    "shares_outstanding": 149000000.0,
+    "revenue": 3543000000.0,
+    "net_income": 990000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 148000000.0,
+    "revenue": 907000000.0,
+    "net_income": 234000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 149000000.0,
+    "revenue": 838000000.0,
+    "net_income": 293000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-26",
+    "shares_outstanding": 149000000.0,
+    "revenue": 846000000.0,
+    "net_income": 224000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2018",
+    "filing_date": "2019-02-12",
+    "shares_outstanding": 149000000.0,
+    "revenue": 3333000000.0,
+    "net_income": 782000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-24",
+    "shares_outstanding": 149000000.0,
+    "revenue": 853000000.0,
+    "net_income": 188000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-31",
+    "shares_outstanding": 148000000.0,
+    "revenue": 830000000.0,
+    "net_income": 200000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 148000000.0,
+    "revenue": 782000000.0,
+    "net_income": 197000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2017",
+    "filing_date": "2018-02-13",
+    "shares_outstanding": 148000000.0,
+    "revenue": 2752000000.0,
+    "net_income": 678000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2017",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 147901000.0,
+    "revenue": 607000000.0,
+    "net_income": 117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2017",
+    "filing_date": "2016-08-02",
+    "shares_outstanding": 147889000.0,
+    "revenue": 600000000.0,
+    "net_income": 116000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q1 2017",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 148357000.0,
+    "revenue": 572000000.0,
+    "net_income": 88000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2015",
+    "filing_date": "2016-03-02",
+    "shares_outstanding": 149069000.0,
+    "revenue": 2219762000.0,
+    "net_income": 457390000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2016",
+    "filing_date": "2015-11-02",
+    "shares_outstanding": 149672000.0,
+    "revenue": 550271000.0,
+    "net_income": 115621000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2016",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 148969000.0,
+    "revenue": 539378000.0,
+    "net_income": 102247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q4 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 148683000.0,
+    "revenue": 538565000.0,
+    "net_income": 136658000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2014",
+    "filing_date": "2015-02-18",
+    "shares_outstanding": 148977000.0,
+    "revenue": 1861358000.0,
+    "net_income": 353351000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 147512000.0,
+    "revenue": 480630000.0,
+    "net_income": 93489000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 149121000.0,
+    "revenue": 447568000.0,
+    "net_income": 46605000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 150619000.0,
+    "revenue": 420781000.0,
+    "net_income": 59977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2013",
+    "filing_date": "2014-02-18",
+    "shares_outstanding": 139936000.0,
+    "revenue": 1421178000.0,
+    "net_income": 125308000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 140601000.0,
+    "revenue": 356800000.0,
+    "net_income": 31357000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-29",
+    "shares_outstanding": 139377000.0,
+    "revenue": 346094000.0,
+    "net_income": 35877000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 123768000.0,
+    "revenue": 330958000.0,
+    "net_income": -22587000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2012",
+    "filing_date": "2013-02-15",
+    "shares_outstanding": 133693000.0,
+    "revenue": 1148516000.0,
+    "net_income": 151254000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-30",
+    "shares_outstanding": 133011000.0,
+    "revenue": 280607000.0,
+    "net_income": 23401000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 133859000.0,
+    "revenue": 272770000.0,
+    "net_income": 26202000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2012",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 135966000.0,
+    "revenue": 235499000.0,
+    "net_income": 20151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "FY 2011",
+    "filing_date": "2011-02-28",
+    "shares_outstanding": 143433000.0,
+    "revenue": 902741000.0,
+    "net_income": 124891000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q3 2011",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 145205000.0,
+    "revenue": 237309000.0,
+    "net_income": 35447000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ILMN",
+    "period": "Q2 2011",
+    "filing_date": "2010-08-04",
+    "shares_outstanding": 140951000.0,
+    "revenue": 212003000.0,
+    "net_income": 29796000.0,
+    "market_cap": null
+  }
+]

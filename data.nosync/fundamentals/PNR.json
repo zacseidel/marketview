@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "PNR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 165500000.0,
+    "revenue": 4176000000.0,
+    "net_income": 653800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 165500000.0,
+    "revenue": 4176000000.0,
+    "net_income": 653800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-21",
+    "shares_outstanding": 165100000.0,
+    "revenue": 1022000000.0,
+    "net_income": 184300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-22",
+    "shares_outstanding": 165700000.0,
+    "revenue": 1123100000.0,
+    "net_income": 148500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-22",
+    "shares_outstanding": 166300000.0,
+    "revenue": 1010400000.0,
+    "net_income": 154900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 167100000.0,
+    "revenue": 4082800000.0,
+    "net_income": 625400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-22",
+    "shares_outstanding": 167000000.0,
+    "revenue": 993400000.0,
+    "net_income": 139600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-23",
+    "shares_outstanding": 167300000.0,
+    "revenue": 1099300000.0,
+    "net_income": 186100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-23",
+    "shares_outstanding": 167200000.0,
+    "revenue": 1017200000.0,
+    "net_income": 133300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 166300000.0,
+    "revenue": 4104500000.0,
+    "net_income": 622700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-24",
+    "shares_outstanding": 166600000.0,
+    "revenue": 1008800000.0,
+    "net_income": 132100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 166100000.0,
+    "revenue": 1082500000.0,
+    "net_income": 152900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 165800000.0,
+    "revenue": 1028600000.0,
+    "net_income": 129700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2022",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 165600000.0,
+    "revenue": 4121800000.0,
+    "net_income": 480900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-25",
+    "shares_outstanding": 165200000.0,
+    "revenue": 1055100000.0,
+    "net_income": 115400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-26",
+    "shares_outstanding": 165500000.0,
+    "revenue": 1064200000.0,
+    "net_income": 152900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-21",
+    "shares_outstanding": 166500000.0,
+    "revenue": 999600000.0,
+    "net_income": 117600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 167500000.0,
+    "revenue": 3764800000.0,
+    "net_income": 553000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-26",
+    "shares_outstanding": 167600000.0,
+    "revenue": 969200000.0,
+    "net_income": 143600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-27",
+    "shares_outstanding": 167800000.0,
+    "revenue": 941100000.0,
+    "net_income": 132100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-22",
+    "shares_outstanding": 167700000.0,
+    "revenue": 865900000.0,
+    "net_income": 128600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-16",
+    "shares_outstanding": 167400000.0,
+    "revenue": 3017800000.0,
+    "net_income": 358600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-20",
+    "shares_outstanding": 167100000.0,
+    "revenue": 798500000.0,
+    "net_income": 110800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-23",
+    "shares_outstanding": 166400000.0,
+    "revenue": 713300000.0,
+    "net_income": 72100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 168700000.0,
+    "revenue": 710000000.0,
+    "net_income": 72700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 170400000.0,
+    "revenue": 2957200000.0,
+    "net_income": 355700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-23",
+    "shares_outstanding": 168600000.0,
+    "revenue": 713600000.0,
+    "net_income": 92300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-23",
+    "shares_outstanding": 170500000.0,
+    "revenue": 799500000.0,
+    "net_income": 114300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-23",
+    "shares_outstanding": 172500000.0,
+    "revenue": 688900000.0,
+    "net_income": 51300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2018",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 177300000.0,
+    "revenue": 2965100000.0,
+    "net_income": 347400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-23",
+    "shares_outstanding": 175700000.0,
+    "revenue": 711400000.0,
+    "net_income": 110100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-25",
+    "shares_outstanding": 178600000.0,
+    "revenue": 780600000.0,
+    "net_income": 41500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-20",
+    "shares_outstanding": 181500000.0,
+    "revenue": 732600000.0,
+    "net_income": 102900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2017",
+    "filing_date": "2018-02-27",
+    "shares_outstanding": 183700000.0,
+    "revenue": 4936500000.0,
+    "net_income": 666500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-24",
+    "shares_outstanding": 183500000.0,
+    "revenue": 1226800000.0,
+    "net_income": 125400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-25",
+    "shares_outstanding": 183800000.0,
+    "revenue": 1265300000.0,
+    "net_income": 263700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-25",
+    "shares_outstanding": 184000000.0,
+    "revenue": 1183500000.0,
+    "net_income": 87800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 183100000.0,
+    "revenue": 4890000000.0,
+    "net_income": 522200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-25",
+    "shares_outstanding": 183600000.0,
+    "revenue": 1210700000.0,
+    "net_income": 141000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 183000000.0,
+    "revenue": 1301200000.0,
+    "net_income": 142800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-26",
+    "shares_outstanding": 182400000.0,
+    "revenue": 1190000000.0,
+    "net_income": 107400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 182600000.0,
+    "revenue": 6449000000.0,
+    "net_income": -76400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-20",
+    "shares_outstanding": 182600000.0,
+    "revenue": 1552100000.0,
+    "net_income": 115200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-21",
+    "shares_outstanding": 182300000.0,
+    "revenue": 1661200000.0,
+    "net_income": 147800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-21",
+    "shares_outstanding": 182700000.0,
+    "revenue": 1475000000.0,
+    "net_income": 113900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 193700000.0,
+    "revenue": 7039000000.0,
+    "net_income": 214900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-21",
+    "shares_outstanding": 193100000.0,
+    "revenue": 1758400000.0,
+    "net_income": 192500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 196400000.0,
+    "revenue": 1834100000.0,
+    "net_income": 159200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-22",
+    "shares_outstanding": 199700000.0,
+    "revenue": 1644000000.0,
+    "net_income": 125500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 204600000.0,
+    "revenue": 7479700000.0,
+    "net_income": 542600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-22",
+    "shares_outstanding": 202800000.0,
+    "revenue": 1824800000.0,
+    "net_income": 174200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-23",
+    "shares_outstanding": 205500000.0,
+    "revenue": 1963700000.0,
+    "net_income": 155400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-23",
+    "shares_outstanding": 208200000.0,
+    "revenue": 1774500000.0,
+    "net_income": 53300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 127368000.0,
+    "revenue": 4416146000.0,
+    "net_income": -104612000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 102910000.0,
+    "revenue": 865512000.0,
+    "net_income": 32595000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-24",
+    "shares_outstanding": 101165000.0,
+    "revenue": 941525000.0,
+    "net_income": 73485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-24",
+    "shares_outstanding": 100407000.0,
+    "revenue": 858177000.0,
+    "net_income": 63099000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "FY 2011",
+    "filing_date": "2012-02-21",
+    "shares_outstanding": 99753000.0,
+    "revenue": 3456686000.0,
+    "net_income": 38521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-26",
+    "shares_outstanding": 99802000.0,
+    "revenue": 890546000.0,
+    "net_income": 52054000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-26",
+    "shares_outstanding": 100065000.0,
+    "revenue": 910175000.0,
+    "net_income": 68137000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PNR",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-26",
+    "shares_outstanding": 99670000.0,
+    "revenue": 790273000.0,
+    "net_income": 52034000.0,
+    "market_cap": null
+  }
+]

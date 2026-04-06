@@ -1,0 +1,506 @@
+[
+  {
+    "ticker": "MTDR",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 124586000.0,
+    "revenue": 3696277000.0,
+    "net_income": 860769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 124586000.0,
+    "revenue": 3696277000.0,
+    "net_income": 860769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-24",
+    "shares_outstanding": 124410000.0,
+    "revenue": 939015000.0,
+    "net_income": 200624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-25",
+    "shares_outstanding": 124456000.0,
+    "revenue": 895312000.0,
+    "net_income": 182359000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-28",
+    "shares_outstanding": 125342000.0,
+    "revenue": 1013958000.0,
+    "net_income": 262247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 124076000.0,
+    "revenue": 3504981000.0,
+    "net_income": 971343000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-25",
+    "shares_outstanding": 124983000.0,
+    "revenue": 899783000.0,
+    "net_income": 272677000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 120253000.0,
+    "revenue": 787693000.0,
+    "net_income": 213190000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 119980000.0,
+    "revenue": 2806785000.0,
+    "net_income": 910359000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 120081000.0,
+    "revenue": 772294000.0,
+    "net_income": 278399000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 119842000.0,
+    "revenue": 638083000.0,
+    "net_income": 177095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 119702000.0,
+    "revenue": 560276000.0,
+    "net_income": 178924000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 120131000.0,
+    "revenue": 3058025000.0,
+    "net_income": 1286317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 119850000.0,
+    "revenue": 840928000.0,
+    "net_income": 354028000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 119903000.0,
+    "revenue": 943930000.0,
+    "net_income": 436195000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 119814000.0,
+    "revenue": 565692000.0,
+    "net_income": 224185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2021",
+    "filing_date": "2022-02-28",
+    "shares_outstanding": 119163000.0,
+    "revenue": 1662981000.0,
+    "net_income": 640636000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 119197000.0,
+    "revenue": 472351000.0,
+    "net_income": 218062000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 118993000.0,
+    "revenue": 357427000.0,
+    "net_income": 121831000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 118669000.0,
+    "revenue": 266845000.0,
+    "net_income": 69498000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 116068000.0,
+    "revenue": 862126000.0,
+    "net_income": -553560000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 116155000.0,
+    "revenue": 203386000.0,
+    "net_income": -266107000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 116071000.0,
+    "revenue": 62920000.0,
+    "net_income": -345943000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 116684000.0,
+    "revenue": 371585000.0,
+    "net_income": 135083000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 117063000.0,
+    "revenue": 983670000.0,
+    "net_income": 122982000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-01",
+    "shares_outstanding": 116976000.0,
+    "revenue": 279402000.0,
+    "net_income": 53753000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 116903000.0,
+    "revenue": 241704000.0,
+    "net_income": 45072000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 115315000.0,
+    "revenue": 173889000.0,
+    "net_income": -9485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2018",
+    "filing_date": "2019-03-01",
+    "shares_outstanding": 113691000.0,
+    "revenue": 899599000.0,
+    "net_income": 299764000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-01",
+    "shares_outstanding": 116912000.0,
+    "revenue": 207178000.0,
+    "net_income": 25115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-06",
+    "shares_outstanding": 113056000.0,
+    "revenue": 211367000.0,
+    "net_income": 65637000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 109412000.0,
+    "revenue": 191180000.0,
+    "net_income": 64924000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 102543000.0,
+    "revenue": 544276000.0,
+    "net_income": 125867000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 100504000.0,
+    "revenue": 126279000.0,
+    "net_income": 17979000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-07",
+    "shares_outstanding": 100227000.0,
+    "revenue": 129611000.0,
+    "net_income": 31687000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 100298000.0,
+    "revenue": 134814000.0,
+    "net_income": 45900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 91273000.0,
+    "revenue": 264422000.0,
+    "net_income": -97400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 93724000.0,
+    "revenue": 88733000.0,
+    "net_income": 12047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 92346000.0,
+    "revenue": 45176000.0,
+    "net_income": -105747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 85305000.0,
+    "revenue": 44150000.0,
+    "net_income": -107667000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 81537000.0,
+    "revenue": 316169000.0,
+    "net_income": -679785000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 84685000.0,
+    "revenue": 98410000.0,
+    "net_income": -242014000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": 82938000.0,
+    "revenue": 78096000.0,
+    "net_income": -157016000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-11",
+    "shares_outstanding": 73819000.0,
+    "revenue": 72412000.0,
+    "net_income": -50198000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 70906000.0,
+    "revenue": 431036000.0,
+    "net_income": 110754000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 74028000.0,
+    "revenue": 112209000.0,
+    "net_income": 29619000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 69220000.0,
+    "revenue": 90907000.0,
+    "net_income": 18226000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 66229000.0,
+    "revenue": 73980000.0,
+    "net_income": 16363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2013",
+    "filing_date": "2014-03-17",
+    "shares_outstanding": 58929000.0,
+    "revenue": 260889000.0,
+    "net_income": 45094000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 58152000.0,
+    "revenue": 71376000.0,
+    "net_income": 20105000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-09",
+    "shares_outstanding": 55937000.0,
+    "revenue": 65959000.0,
+    "net_income": 25119000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 55272000.0,
+    "revenue": 54886000.0,
+    "net_income": -15505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "FY 2012",
+    "filing_date": "2013-03-18",
+    "shares_outstanding": 53957000.0,
+    "revenue": 165156000.0,
+    "net_income": -33261000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-14",
+    "shares_outstanding": 55271000.0,
+    "revenue": 38008000.0,
+    "net_income": -9197000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-14",
+    "shares_outstanding": 55271000.0,
+    "revenue": 36078000.0,
+    "net_income": -6676000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MTDR",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-15",
+    "shares_outstanding": 50085289.0,
+    "revenue": 29164000.0,
+    "net_income": 3801000.0,
+    "market_cap": null
+  }
+]

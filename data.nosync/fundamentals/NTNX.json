@@ -1,0 +1,335 @@
+[
+  {
+    "ticker": "NTNX",
+    "period": "Q2 2026",
+    "filing_date": "2026-03-02",
+    "shares_outstanding": 291910.0,
+    "revenue": 722825000.0,
+    "net_income": 103022000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "FY 2025",
+    "filing_date": "2025-09-24",
+    "shares_outstanding": 294083.0,
+    "revenue": 2537927000.0,
+    "net_income": 188366000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q3 2025",
+    "filing_date": "2025-06-03",
+    "shares_outstanding": 296804.0,
+    "revenue": 638983000.0,
+    "net_income": 63363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q2 2025",
+    "filing_date": "2025-03-06",
+    "shares_outstanding": 293351.0,
+    "revenue": 654721000.0,
+    "net_income": 56427000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q1 2025",
+    "filing_date": "2024-12-05",
+    "shares_outstanding": 288829.0,
+    "revenue": 590956000.0,
+    "net_income": 29926000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "FY 2024",
+    "filing_date": "2024-09-19",
+    "shares_outstanding": 244743.0,
+    "revenue": 2148816000.0,
+    "net_income": -124775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q3 2024",
+    "filing_date": "2024-06-10",
+    "shares_outstanding": 245766000.0,
+    "revenue": 524577000.0,
+    "net_income": -15616000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q2 2024",
+    "filing_date": "2024-03-07",
+    "shares_outstanding": 298540000.0,
+    "revenue": 565233000.0,
+    "net_income": 32795000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q1 2024",
+    "filing_date": "2023-12-07",
+    "shares_outstanding": 241490000.0,
+    "revenue": 511054000.0,
+    "net_income": -15853000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "FY 2023",
+    "filing_date": "2023-09-21",
+    "shares_outstanding": 233247.0,
+    "revenue": 1862895000.0,
+    "net_income": -254560000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q3 2023",
+    "filing_date": "2023-06-02",
+    "shares_outstanding": 234735000.0,
+    "revenue": 448581000.0,
+    "net_income": -70969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-24",
+    "shares_outstanding": 231924000.0,
+    "revenue": 486495000.0,
+    "net_income": -70790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q1 2023",
+    "filing_date": "2022-12-07",
+    "shares_outstanding": 228544000.0,
+    "revenue": 433609000.0,
+    "net_income": -99514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "FY 2022",
+    "filing_date": "2022-09-21",
+    "shares_outstanding": 220529.0,
+    "revenue": 1580796000.0,
+    "net_income": -797538000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q3 2022",
+    "filing_date": "2022-06-02",
+    "shares_outstanding": -721866000.0,
+    "revenue": 403658000.0,
+    "net_income": -111635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q2 2022",
+    "filing_date": "2022-03-10",
+    "shares_outstanding": -725617000.0,
+    "revenue": 413081000.0,
+    "net_income": -115061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q1 2022",
+    "filing_date": "2021-12-02",
+    "shares_outstanding": -698739000.0,
+    "revenue": 378517000.0,
+    "net_income": -419852000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "FY 2021",
+    "filing_date": "2021-09-21",
+    "shares_outstanding": -1012041000.0,
+    "revenue": 1394364000.0,
+    "net_income": -1034260000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q3 2021",
+    "filing_date": "2021-06-03",
+    "shares_outstanding": -746774000.0,
+    "revenue": 344508000.0,
+    "net_income": -123640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q2 2021",
+    "filing_date": "2021-03-04",
+    "shares_outstanding": -758392000.0,
+    "revenue": 346382000.0,
+    "net_income": -287390000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q1 2021",
+    "filing_date": "2020-12-03",
+    "shares_outstanding": -557355000.0,
+    "revenue": 312754000.0,
+    "net_income": -265048000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "FY 2020",
+    "filing_date": "2020-09-23",
+    "shares_outstanding": -274977000.0,
+    "revenue": 1307682000.0,
+    "net_income": -872883000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q3 2020",
+    "filing_date": "2020-06-04",
+    "shares_outstanding": -184039000.0,
+    "revenue": 318273000.0,
+    "net_income": -240671000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q2 2020",
+    "filing_date": "2020-03-05",
+    "shares_outstanding": -66102000.0,
+    "revenue": 346767000.0,
+    "net_income": -217564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q1 2020",
+    "filing_date": "2019-12-05",
+    "shares_outstanding": 63529000.0,
+    "revenue": 314768000.0,
+    "net_income": -229300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "FY 2019",
+    "filing_date": "2019-09-24",
+    "shares_outstanding": 186893000.0,
+    "revenue": 1236143000.0,
+    "net_income": -621179000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q3 2019",
+    "filing_date": "2019-06-05",
+    "shares_outstanding": 305446000.0,
+    "revenue": 287624000.0,
+    "net_income": -209813000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q2 2019",
+    "filing_date": "2019-03-12",
+    "shares_outstanding": 385531000.0,
+    "revenue": 335360000.0,
+    "net_income": -122763000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q1 2019",
+    "filing_date": "2018-12-10",
+    "shares_outstanding": 431319000.0,
+    "revenue": 313283000.0,
+    "net_income": -94265000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "FY 2018",
+    "filing_date": "2018-09-24",
+    "shares_outstanding": 326779000.0,
+    "revenue": 1155457000.0,
+    "net_income": -297161000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q3 2018",
+    "filing_date": "2018-06-12",
+    "shares_outstanding": 354581000.0,
+    "revenue": 289413000.0,
+    "net_income": -85674000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q2 2018",
+    "filing_date": "2018-03-15",
+    "shares_outstanding": 300479000.0,
+    "revenue": 286744000.0,
+    "net_income": -62631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q1 2018",
+    "filing_date": "2017-12-13",
+    "shares_outstanding": 216580000.0,
+    "revenue": 275552000.0,
+    "net_income": -61487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "FY 2017",
+    "filing_date": "2017-09-18",
+    "shares_outstanding": 48202000.0,
+    "revenue": 766869000.0,
+    "net_income": -458011000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q3 2017",
+    "filing_date": "2017-06-02",
+    "shares_outstanding": 95238000.0,
+    "revenue": 191763000.0,
+    "net_income": -111977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q2 2017",
+    "filing_date": "2017-03-10",
+    "shares_outstanding": 131883000.0,
+    "revenue": 182195000.0,
+    "net_income": -93212000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NTNX",
+    "period": "Q1 2017",
+    "filing_date": "2016-12-08",
+    "shares_outstanding": 171663000.0,
+    "revenue": 166809000.0,
+    "net_income": -162169000.0,
+    "market_cap": null
+  }
+]

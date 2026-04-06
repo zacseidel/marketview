@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "GIS",
+    "period": "Q3 2026",
+    "filing_date": "2026-03-18",
+    "shares_outstanding": 537300000.0,
+    "revenue": 4436700000.0,
+    "net_income": 305500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2026",
+    "filing_date": "2025-12-17",
+    "shares_outstanding": 537300000.0,
+    "revenue": 4860800000.0,
+    "net_income": 414300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2025",
+    "filing_date": "2025-06-26",
+    "shares_outstanding": 557500000.0,
+    "revenue": 19486600000.0,
+    "net_income": 2318900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2025",
+    "filing_date": "2025-03-19",
+    "shares_outstanding": 555000000.0,
+    "revenue": 4842200000.0,
+    "net_income": 631000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2025",
+    "filing_date": "2024-12-18",
+    "shares_outstanding": 560400000.0,
+    "revenue": 5240100000.0,
+    "net_income": 802300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2025",
+    "filing_date": "2024-09-18",
+    "shares_outstanding": 563800000.0,
+    "revenue": 4848100000.0,
+    "net_income": 583600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2024",
+    "filing_date": "2024-06-26",
+    "shares_outstanding": 579500000.0,
+    "revenue": 2037800000.0,
+    "net_income": 2518600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2024",
+    "filing_date": "2024-03-20",
+    "shares_outstanding": 572800000.0,
+    "revenue": 5099200000.0,
+    "net_income": 676300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2024",
+    "filing_date": "2023-12-20",
+    "shares_outstanding": 583400000.0,
+    "revenue": 5139400000.0,
+    "net_income": 602300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2024",
+    "filing_date": "2023-09-20",
+    "shares_outstanding": 591400000.0,
+    "revenue": 4904700000.0,
+    "net_income": 680300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2023",
+    "filing_date": "2023-06-28",
+    "shares_outstanding": 601200000.0,
+    "revenue": 1957400000.0,
+    "net_income": 2609600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2023",
+    "filing_date": "2023-03-23",
+    "shares_outstanding": 599000000.0,
+    "revenue": 5125900000.0,
+    "net_income": 557900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2023",
+    "filing_date": "2022-12-20",
+    "shares_outstanding": 602000000.0,
+    "revenue": 5220700000.0,
+    "net_income": 608300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2023",
+    "filing_date": "2022-09-21",
+    "shares_outstanding": 606000000.0,
+    "revenue": 4717600000.0,
+    "net_income": 823300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2022",
+    "filing_date": "2022-06-30",
+    "shares_outstanding": 612600000.0,
+    "revenue": 2134300000.0,
+    "net_income": 2735000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2022",
+    "filing_date": "2022-03-23",
+    "shares_outstanding": 612400000.0,
+    "revenue": 4537700000.0,
+    "net_income": 662600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2022",
+    "filing_date": "2021-12-21",
+    "shares_outstanding": 613000000.0,
+    "revenue": 5024000000.0,
+    "net_income": 608400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2022",
+    "filing_date": "2021-09-22",
+    "shares_outstanding": 614800000.0,
+    "revenue": 4539900000.0,
+    "net_income": 638200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2021",
+    "filing_date": "2021-06-30",
+    "shares_outstanding": 619100000.0,
+    "revenue": 2189200000.0,
+    "net_income": 2346000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2021",
+    "filing_date": "2021-03-24",
+    "shares_outstanding": 619400000.0,
+    "revenue": 4520000000.0,
+    "net_income": 603800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2021",
+    "filing_date": "2020-12-17",
+    "shares_outstanding": 619600000.0,
+    "revenue": 4719400000.0,
+    "net_income": 695900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2021",
+    "filing_date": "2020-09-23",
+    "shares_outstanding": 619800000.0,
+    "revenue": 4364000000.0,
+    "net_income": 646400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2020",
+    "filing_date": "2020-07-02",
+    "shares_outstanding": 613300000.0,
+    "revenue": 17626600000.0,
+    "net_income": 2210800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2020",
+    "filing_date": "2020-03-18",
+    "shares_outstanding": 612800000.0,
+    "revenue": 4180300000.0,
+    "net_income": 463900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2020",
+    "filing_date": "2019-12-18",
+    "shares_outstanding": 612300000.0,
+    "revenue": 4420800000.0,
+    "net_income": 591400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2020",
+    "filing_date": "2019-09-18",
+    "shares_outstanding": 611500000.0,
+    "revenue": 4002500000.0,
+    "net_income": 528500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2019",
+    "filing_date": "2019-06-28",
+    "shares_outstanding": 605400000.0,
+    "revenue": 16865200000.0,
+    "net_income": 1786200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2019",
+    "filing_date": "2019-03-20",
+    "shares_outstanding": 604500000.0,
+    "revenue": 4198300000.0,
+    "net_income": 457900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2019",
+    "filing_date": "2018-12-19",
+    "shares_outstanding": 604500000.0,
+    "revenue": 4411200000.0,
+    "net_income": 351200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2019",
+    "filing_date": "2018-09-18",
+    "shares_outstanding": 603300000.0,
+    "revenue": 4094000000.0,
+    "net_income": 395900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2018",
+    "filing_date": "2018-06-29",
+    "shares_outstanding": 585700000.0,
+    "revenue": 15740400000.0,
+    "net_income": 2163000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2018",
+    "filing_date": "2018-03-21",
+    "shares_outstanding": 582700000.0,
+    "revenue": 3882300000.0,
+    "net_income": 952500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2018",
+    "filing_date": "2017-12-20",
+    "shares_outstanding": 580300000.0,
+    "revenue": 4198700000.0,
+    "net_income": 443800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2018",
+    "filing_date": "2017-09-20",
+    "shares_outstanding": 586900000.0,
+    "revenue": 3769200000.0,
+    "net_income": 408600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2017",
+    "filing_date": "2017-06-29",
+    "shares_outstanding": 598000000.0,
+    "revenue": 15619800000.0,
+    "net_income": 1701100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2017",
+    "filing_date": "2017-03-21",
+    "shares_outstanding": 591400000.0,
+    "revenue": 3793200000.0,
+    "net_income": 370200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2017",
+    "filing_date": "2016-12-20",
+    "shares_outstanding": 599700000.0,
+    "revenue": 4112100000.0,
+    "net_income": 495800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2017",
+    "filing_date": "2016-09-21",
+    "shares_outstanding": 612400000.0,
+    "revenue": 3907900000.0,
+    "net_income": 419500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2016",
+    "filing_date": "2016-06-30",
+    "shares_outstanding": 611900000.0,
+    "revenue": 16563100000.0,
+    "net_income": 1736800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2016",
+    "filing_date": "2016-03-23",
+    "shares_outstanding": 608500000.0,
+    "revenue": 4002400000.0,
+    "net_income": 367700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2016",
+    "filing_date": "2015-12-17",
+    "shares_outstanding": 612400000.0,
+    "revenue": 4424900000.0,
+    "net_income": 529500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2016",
+    "filing_date": "2015-09-23",
+    "shares_outstanding": 615500000.0,
+    "revenue": 4207900000.0,
+    "net_income": 426600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2015",
+    "filing_date": "2015-07-06",
+    "shares_outstanding": 618800000.0,
+    "revenue": 17630300000.0,
+    "net_income": 1221300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2015",
+    "filing_date": "2015-03-18",
+    "shares_outstanding": 613800000.0,
+    "revenue": 4350900000.0,
+    "net_income": 343200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2015",
+    "filing_date": "2014-12-17",
+    "shares_outstanding": 618400000.0,
+    "revenue": 4712200000.0,
+    "net_income": 346100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2015",
+    "filing_date": "2014-09-18",
+    "shares_outstanding": 629100000.0,
+    "revenue": 4268400000.0,
+    "net_income": 345200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2014",
+    "filing_date": "2014-07-03",
+    "shares_outstanding": 645700000.0,
+    "revenue": 17909600000.0,
+    "net_income": 1824400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2014",
+    "filing_date": "2014-03-19",
+    "shares_outstanding": 640200000.0,
+    "revenue": 4377400000.0,
+    "net_income": 410600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2014",
+    "filing_date": "2013-12-18",
+    "shares_outstanding": 650000000.0,
+    "revenue": 4875700000.0,
+    "net_income": 549900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2014",
+    "filing_date": "2013-09-18",
+    "shares_outstanding": 660300000.0,
+    "revenue": 4372700000.0,
+    "net_income": 459300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2013",
+    "filing_date": "2013-07-03",
+    "shares_outstanding": 665600000.0,
+    "revenue": 17774100000.0,
+    "net_income": 1863200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2013",
+    "filing_date": "2013-03-20",
+    "shares_outstanding": 665100000.0,
+    "revenue": 4430600000.0,
+    "net_income": 398400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2013",
+    "filing_date": "2012-12-19",
+    "shares_outstanding": 664500000.0,
+    "revenue": 4881800000.0,
+    "net_income": 541600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2013",
+    "filing_date": "2012-09-19",
+    "shares_outstanding": 667400000.0,
+    "revenue": 4051000000.0,
+    "net_income": 548900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2012",
+    "filing_date": "2012-07-03",
+    "shares_outstanding": 666700000.0,
+    "revenue": 16657900000.0,
+    "net_income": 1574100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2012",
+    "filing_date": "2012-03-21",
+    "shares_outstanding": 667300000.0,
+    "revenue": 4120100000.0,
+    "net_income": 391500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q2 2012",
+    "filing_date": "2011-12-20",
+    "shares_outstanding": 665800000.0,
+    "revenue": 4623800000.0,
+    "net_income": 444800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q1 2012",
+    "filing_date": "2011-09-21",
+    "shares_outstanding": 667000000.0,
+    "revenue": 3847600000.0,
+    "net_income": 405600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "FY 2011",
+    "filing_date": "2011-07-08",
+    "shares_outstanding": 664800000.0,
+    "revenue": 14880200000.0,
+    "net_income": 1803500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GIS",
+    "period": "Q3 2011",
+    "filing_date": "2011-03-23",
+    "shares_outstanding": 660100000.0,
+    "revenue": 3646200000.0,
+    "net_income": 393500000.0,
+    "market_cap": null
+  }
+]

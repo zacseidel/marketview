@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "ASGN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 43600000.0,
+    "revenue": 3980400000.0,
+    "net_income": 113500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 43600000.0,
+    "revenue": 3980400000.0,
+    "net_income": 113500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 43700000.0,
+    "revenue": 1011400000.0,
+    "net_income": 38100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 44000000.0,
+    "revenue": 1020600000.0,
+    "net_income": 29300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 44000000.0,
+    "revenue": 968300000.0,
+    "net_income": 20900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2024",
+    "filing_date": "2025-02-24",
+    "shares_outstanding": 45700000.0,
+    "revenue": 4099700000.0,
+    "net_income": 175200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 45000000.0,
+    "revenue": 1031000000.0,
+    "net_income": 47500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 46100000.0,
+    "revenue": 1034700000.0,
+    "net_income": 47200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 46900000.0,
+    "revenue": 1049000000.0,
+    "net_income": 38100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 48700000.0,
+    "revenue": 4450600000.0,
+    "net_income": 219300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 48400000.0,
+    "revenue": 1116800000.0,
+    "net_income": 59400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 49200000.0,
+    "revenue": 1130900000.0,
+    "net_income": 60100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 49800000.0,
+    "revenue": 1128800000.0,
+    "net_income": 49500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 51300000.0,
+    "revenue": 4581100000.0,
+    "net_income": 268100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-07",
+    "shares_outstanding": 50700000.0,
+    "revenue": 1197900000.0,
+    "net_income": 73200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 51600000.0,
+    "revenue": 1141800000.0,
+    "net_income": 72500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 52300000.0,
+    "revenue": 1091000000.0,
+    "net_income": 66800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 53500000.0,
+    "revenue": 4009500000.0,
+    "net_income": 409900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-09",
+    "shares_outstanding": 53400000.0,
+    "revenue": 1073800000.0,
+    "net_income": 212000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": 53900000.0,
+    "revenue": 974900000.0,
+    "net_income": 64200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 53700000.0,
+    "revenue": 907000000.0,
+    "net_income": 48700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 53300000.0,
+    "revenue": 3950600000.0,
+    "net_income": 200300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-09",
+    "shares_outstanding": 53000000.0,
+    "revenue": 1011900000.0,
+    "net_income": 52300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-10",
+    "shares_outstanding": 53000000.0,
+    "revenue": 936800000.0,
+    "net_income": 48800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 53300000.0,
+    "revenue": 990500000.0,
+    "net_income": 43800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 53400000.0,
+    "revenue": 3923900000.0,
+    "net_income": 174700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 53400000.0,
+    "revenue": 1002700000.0,
+    "net_income": 57400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 53400000.0,
+    "revenue": 972300000.0,
+    "net_income": 43100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-10",
+    "shares_outstanding": 53200000.0,
+    "revenue": 923700000.0,
+    "net_income": 34900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2018",
+    "filing_date": "2019-03-01",
+    "shares_outstanding": 53061000.0,
+    "revenue": 3399781000.0,
+    "net_income": 157706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-09",
+    "shares_outstanding": 53034000.0,
+    "revenue": 906449000.0,
+    "net_income": 49172000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 53010000.0,
+    "revenue": 878509000.0,
+    "net_income": 33561000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 52831000.0,
+    "revenue": 685173000.0,
+    "net_income": 29092000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 53205000.0,
+    "revenue": 2625924000.0,
+    "net_income": 157675000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 53173000.0,
+    "revenue": 667048000.0,
+    "net_income": 34856000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-07",
+    "shares_outstanding": 53473000.0,
+    "revenue": 653313000.0,
+    "net_income": 33097000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-10",
+    "shares_outstanding": 53249000.0,
+    "revenue": 626528000.0,
+    "net_income": 22391000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 53747000.0,
+    "revenue": 2440413000.0,
+    "net_income": 97201000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 53768000.0,
+    "revenue": 629401000.0,
+    "net_income": 29768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 53911000.0,
+    "revenue": 608088000.0,
+    "net_income": 26004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 53644000.0,
+    "revenue": 582040000.0,
+    "net_income": 17401000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 53005000.0,
+    "revenue": 2065008000.0,
+    "net_income": 71947000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 53304000.0,
+    "revenue": 572123000.0,
+    "net_income": 24925000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 52633000.0,
+    "revenue": 485323000.0,
+    "net_income": 14252000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 52209000.0,
+    "revenue": 430045000.0,
+    "net_income": 39135000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 54294000.0,
+    "revenue": 1859922000.0,
+    "net_income": 77184000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 54129000.0,
+    "revenue": 477391000.0,
+    "net_income": 22005000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-11",
+    "shares_outstanding": 55173000.0,
+    "revenue": 468081000.0,
+    "net_income": 20789000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-09",
+    "shares_outstanding": 54975000.0,
+    "revenue": 438642000.0,
+    "net_income": 13917000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 54555000.0,
+    "revenue": 1631997000.0,
+    "net_income": 53672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 54624000.0,
+    "revenue": 421491000.0,
+    "net_income": 20150000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 54327000.0,
+    "revenue": 407864000.0,
+    "net_income": 7339000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 54036000.0,
+    "revenue": 379044000.0,
+    "net_income": 24613000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2012",
+    "filing_date": "2013-03-18",
+    "shares_outstanding": 47826000.0,
+    "revenue": 1239705000.0,
+    "net_income": 42653000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 53162000.0,
+    "revenue": 388283000.0,
+    "net_income": 17433000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 38154000.0,
+    "revenue": 167078000.0,
+    "net_income": 5383000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "FY 2011",
+    "filing_date": "2012-03-14",
+    "shares_outstanding": 37758000.0,
+    "revenue": 597281000.0,
+    "net_income": 24297000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 37769000.0,
+    "revenue": 162370000.0,
+    "net_income": 7767000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ASGN",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 37718.0,
+    "revenue": 143683000.0,
+    "net_income": 5865000.0,
+    "market_cap": null
+  }
+]

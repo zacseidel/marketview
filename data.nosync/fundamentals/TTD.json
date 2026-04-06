@@ -1,0 +1,353 @@
+[
+  {
+    "ticker": "TTD",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 493551000.0,
+    "revenue": 2896284000.0,
+    "net_income": 443304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 493551000.0,
+    "revenue": 2896284000.0,
+    "net_income": 443304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 492984000.0,
+    "revenue": 739433000.0,
+    "net_income": 115547000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 495776000.0,
+    "revenue": 694039000.0,
+    "net_income": 90129000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 502944000.0,
+    "revenue": 616021000.0,
+    "net_income": 50678000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 501924000.0,
+    "revenue": 2444831000.0,
+    "net_income": 393076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 502563000.0,
+    "revenue": 628016000.0,
+    "net_income": 94158000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 500040000.0,
+    "revenue": 584550000.0,
+    "net_income": 85029000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-10",
+    "shares_outstanding": 498192000.0,
+    "revenue": 491253000.0,
+    "net_income": 31660000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 500182000.0,
+    "revenue": 1946120000.0,
+    "net_income": 178940000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 501880000.0,
+    "revenue": 493266000.0,
+    "net_income": 39352000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 499349000.0,
+    "revenue": 464254000.0,
+    "net_income": 32939000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-10",
+    "shares_outstanding": 499795000.0,
+    "revenue": 382803000.0,
+    "net_income": 9326000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "FY 2022",
+    "filing_date": "2023-02-15",
+    "shares_outstanding": 499925000.0,
+    "revenue": 1577795000.0,
+    "net_income": 53385000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 500300000.0,
+    "revenue": 394773000.0,
+    "net_income": 15869000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 486310000.0,
+    "revenue": 376962000.0,
+    "net_income": -19073000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 484190000.0,
+    "revenue": 315323000.0,
+    "net_income": -14598000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 498540000.0,
+    "revenue": 1196467000.0,
+    "net_income": 137762000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-08",
+    "shares_outstanding": 498912000.0,
+    "revenue": 301091000.0,
+    "net_income": 59384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": 496987000.0,
+    "revenue": 279967000.0,
+    "net_income": 47697000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-10",
+    "shares_outstanding": 49792000.0,
+    "revenue": 219811000.0,
+    "net_income": 22642000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "FY 2020",
+    "filing_date": "2021-02-19",
+    "shares_outstanding": 48988000.0,
+    "revenue": 836033000.0,
+    "net_income": 242317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 49220000.0,
+    "revenue": 216113000.0,
+    "net_income": 41247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 48654000.0,
+    "revenue": 139355000.0,
+    "net_income": 25111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 48313000.0,
+    "revenue": 160660000.0,
+    "net_income": 24057000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 47806000.0,
+    "revenue": 661058000.0,
+    "net_income": 108318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 48037000.0,
+    "revenue": 164203000.0,
+    "net_income": 19422000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-09",
+    "shares_outstanding": 47828000.0,
+    "revenue": 159924000.0,
+    "net_income": 27800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 47314000.0,
+    "revenue": 120987000.0,
+    "net_income": 10151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 45793000.0,
+    "revenue": 477294000.0,
+    "net_income": 88140000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-09",
+    "shares_outstanding": 46576000.0,
+    "revenue": 118825000.0,
+    "net_income": 20292000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 45242000.0,
+    "revenue": 112333000.0,
+    "net_income": 19343000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 44543000.0,
+    "revenue": 85668000.0,
+    "net_income": 9070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 44056000.0,
+    "revenue": 308217000.0,
+    "net_income": 50798000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-13",
+    "shares_outstanding": 44245000.0,
+    "revenue": 79413000.0,
+    "net_income": 10229000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-11",
+    "shares_outstanding": 43944000.0,
+    "revenue": 72804000.0,
+    "net_income": 18849000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-11",
+    "shares_outstanding": 43557000.0,
+    "revenue": 53352000.0,
+    "net_income": 4909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "FY 2016",
+    "filing_date": "2017-02-16",
+    "shares_outstanding": 18280000.0,
+    "revenue": 202926000.0,
+    "net_income": 20482000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TTD",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-10",
+    "shares_outstanding": 17064000.0,
+    "revenue": 52956000.0,
+    "net_income": 3644000.0,
+    "market_cap": null
+  }
+]

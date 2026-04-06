@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "MSI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 169000000.0,
+    "revenue": 11682000000.0,
+    "net_income": 2160000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 169000000.0,
+    "revenue": 11682000000.0,
+    "net_income": 2160000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 169000000.0,
+    "revenue": 3009000000.0,
+    "net_income": 564000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 168800000.0,
+    "revenue": 2765000000.0,
+    "net_income": 515000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 169800000.0,
+    "revenue": 2528000000.0,
+    "net_income": 432000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 170900000.0,
+    "revenue": 2790000000.0,
+    "net_income": 563000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 170300000.0,
+    "revenue": 2628000000.0,
+    "net_income": 445000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 166300000.0,
+    "revenue": 2389000000.0,
+    "net_income": -38000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-15",
+    "shares_outstanding": 172100000.0,
+    "revenue": 9978000000.0,
+    "net_income": 1714000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 171700000.0,
+    "revenue": 2556000000.0,
+    "net_income": 465000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 172600000.0,
+    "revenue": 2403000000.0,
+    "net_income": 373000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 172600000.0,
+    "revenue": 2171000000.0,
+    "net_income": 279000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2022",
+    "filing_date": "2023-02-16",
+    "shares_outstanding": 171900000.0,
+    "revenue": 9112000000.0,
+    "net_income": 1367000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 171500000.0,
+    "revenue": 2373000000.0,
+    "net_income": 280000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 170900000.0,
+    "revenue": 2140000000.0,
+    "net_income": 229000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-12",
+    "shares_outstanding": 173100000.0,
+    "revenue": 1892000000.0,
+    "net_income": 268000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 173600000.0,
+    "revenue": 8171000000.0,
+    "net_income": 1250000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 174100000.0,
+    "revenue": 2107000000.0,
+    "net_income": 308000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 173100000.0,
+    "revenue": 1971000000.0,
+    "net_income": 294000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 173200000.0,
+    "revenue": 1773000000.0,
+    "net_income": 245000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2020",
+    "filing_date": "2021-02-12",
+    "shares_outstanding": 174100000.0,
+    "revenue": 7414000000.0,
+    "net_income": 953000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 173500000.0,
+    "revenue": 1868000000.0,
+    "net_income": 206000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 173600000.0,
+    "revenue": 1618000000.0,
+    "net_income": 136000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 175900000.0,
+    "revenue": 1655000000.0,
+    "net_income": 198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2019",
+    "filing_date": "2020-02-14",
+    "shares_outstanding": 175600000.0,
+    "revenue": 7887000000.0,
+    "net_income": 871000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 176400000.0,
+    "revenue": 1994000000.0,
+    "net_income": 268000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 176100000.0,
+    "revenue": 1860000000.0,
+    "net_income": 208000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 174600000.0,
+    "revenue": 1657000000.0,
+    "net_income": 152000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2018",
+    "filing_date": "2019-02-15",
+    "shares_outstanding": 172000000.0,
+    "revenue": 7343000000.0,
+    "net_income": 969000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 172600000.0,
+    "revenue": 1862000000.0,
+    "net_income": 248000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 171700000.0,
+    "revenue": 1760000000.0,
+    "net_income": 181000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 170600000.0,
+    "revenue": 1468000000.0,
+    "net_income": 117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 162900000.0,
+    "revenue": 6380000000.0,
+    "net_income": -151000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 169000000.0,
+    "revenue": 1645000000.0,
+    "net_income": 213000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 169000000.0,
+    "revenue": 1497000000.0,
+    "net_income": 132000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 169900000.0,
+    "revenue": 1281000000.0,
+    "net_income": 78000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 173100000.0,
+    "revenue": 6038000000.0,
+    "net_income": 562000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 169600000.0,
+    "revenue": 1532000000.0,
+    "net_income": 193000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 174800000.0,
+    "revenue": 1430000000.0,
+    "net_income": 108000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 177000000.0,
+    "revenue": 1193000000.0,
+    "net_income": 17000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2015",
+    "filing_date": "2016-02-23",
+    "shares_outstanding": 201800000.0,
+    "revenue": 5695000000.0,
+    "net_income": 613000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 201300000.0,
+    "revenue": 1422000000.0,
+    "net_income": 115000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 209500000.0,
+    "revenue": 1368000000.0,
+    "net_income": 143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 217800000.0,
+    "revenue": 1223000000.0,
+    "net_income": 75000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2014",
+    "filing_date": "2015-02-13",
+    "shares_outstanding": 245600000.0,
+    "revenue": 5881000000.0,
+    "net_income": 1300000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 248200000.0,
+    "revenue": 1436000000.0,
+    "net_income": 148000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 256200000.0,
+    "revenue": 1393000000.0,
+    "net_income": 824000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 258300000.0,
+    "revenue": 1228000000.0,
+    "net_income": 127000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2013",
+    "filing_date": "2014-02-13",
+    "shares_outstanding": 270500000.0,
+    "revenue": 8696000000.0,
+    "net_income": 1105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-23",
+    "shares_outstanding": 265300000.0,
+    "revenue": 2112000000.0,
+    "net_income": 308000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-24",
+    "shares_outstanding": 274700000.0,
+    "revenue": 2107000000.0,
+    "net_income": 262000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-24",
+    "shares_outstanding": 280700000.0,
+    "revenue": 1973000000.0,
+    "net_income": 192000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2012",
+    "filing_date": "2013-02-12",
+    "shares_outstanding": 297400000.0,
+    "revenue": 8698000000.0,
+    "net_income": 881000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-24",
+    "shares_outstanding": 287400000.0,
+    "revenue": 2153000000.0,
+    "net_income": 206000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-25",
+    "shares_outstanding": 296100000.0,
+    "revenue": 2148000000.0,
+    "net_income": 182000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-25",
+    "shares_outstanding": 317700000.0,
+    "revenue": 1956000000.0,
+    "net_income": 157000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "FY 2011",
+    "filing_date": "2012-02-15",
+    "shares_outstanding": 339700000.0,
+    "revenue": 8203000000.0,
+    "net_income": 1152000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-27",
+    "shares_outstanding": 339500000.0,
+    "revenue": 2085000000.0,
+    "net_income": 129000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-28",
+    "shares_outstanding": 348500000.0,
+    "revenue": 1984000000.0,
+    "net_income": 347000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MSI",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-02",
+    "shares_outstanding": 344200000.0,
+    "revenue": 1834000000.0,
+    "net_income": 491000000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ticker": "GTM",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 324014369.0,
+    "revenue": 1249500000.0,
+    "net_income": 124200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTM",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 324014369.0,
+    "revenue": 1249500000.0,
+    "net_income": 124200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTM",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-03",
+    "shares_outstanding": 316966947.0,
+    "revenue": 318000000.0,
+    "net_income": 38700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GTM",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-04",
+    "shares_outstanding": 327242798.0,
+    "revenue": 306700000.0,
+    "net_income": 24000000.0,
+    "market_cap": null
+  }
+]

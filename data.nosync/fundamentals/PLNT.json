@@ -1,0 +1,380 @@
+[
+  {
+    "ticker": "PLNT",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": -483378000.0,
+    "revenue": 1324144000.0,
+    "net_income": 220264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": -483378000.0,
+    "revenue": 1324144000.0,
+    "net_income": 220264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": -194357000.0,
+    "revenue": 330345000.0,
+    "net_income": 59183000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": -158281000.0,
+    "revenue": 340879000.0,
+    "net_income": 58295000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": -219864000.0,
+    "revenue": 276662000.0,
+    "net_income": 42079000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": -215373000.0,
+    "revenue": 1181654000.0,
+    "net_income": 174243000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": -267114000.0,
+    "revenue": 292246000.0,
+    "net_income": 42395000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": -319830000.0,
+    "revenue": 300941000.0,
+    "net_income": 49312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-09",
+    "shares_outstanding": -99231000.0,
+    "revenue": 248017000.0,
+    "net_income": 34973000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": -164930000.0,
+    "revenue": 277551000.0,
+    "net_income": 41324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": -215961000.0,
+    "revenue": 286463000.0,
+    "net_income": 44180000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-08",
+    "shares_outstanding": -158579000.0,
+    "revenue": 222225000.0,
+    "net_income": 24769000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": -211561000.0,
+    "revenue": 936772000.0,
+    "net_income": 110456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": -248106000.0,
+    "revenue": 244386000.0,
+    "net_income": 30677000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": -229008000.0,
+    "revenue": 224442000.0,
+    "net_income": 25071000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": -210938000.0,
+    "revenue": 186676000.0,
+    "net_income": 18376000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": -642845000.0,
+    "revenue": 587023000.0,
+    "net_income": 46122000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": -658405000.0,
+    "revenue": 154255000.0,
+    "net_income": 18632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": -679370000.0,
+    "revenue": 137251000.0,
+    "net_income": 15016000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": -696678000.0,
+    "revenue": 111877000.0,
+    "net_income": 6190000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": -705673000.0,
+    "revenue": 406618000.0,
+    "net_income": -15204000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": -722919000.0,
+    "revenue": 105383000.0,
+    "net_income": -3284000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": -721700000.0,
+    "revenue": 40233000.0,
+    "net_income": -31985000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": -692169000.0,
+    "revenue": 127231000.0,
+    "net_income": 10383000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": -707754000.0,
+    "revenue": 688803000.0,
+    "net_income": 135413000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": -442117000.0,
+    "revenue": 166815000.0,
+    "net_income": 29692000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": -314372000.0,
+    "revenue": 181661000.0,
+    "net_income": 39827000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": -354042000.0,
+    "revenue": 148817000.0,
+    "net_income": 31639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "FY 2018",
+    "filing_date": "2019-03-01",
+    "shares_outstanding": -382789000.0,
+    "revenue": 572898000.0,
+    "net_income": 103162000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": -110148000.0,
+    "revenue": 136656000.0,
+    "net_income": 20472000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": -91248000.0,
+    "revenue": 140550000.0,
+    "net_income": 30418000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": -122434000.0,
+    "revenue": 121333000.0,
+    "net_income": 23493000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": -136937000.0,
+    "revenue": 429942000.0,
+    "net_income": 55601000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": -139639000.0,
+    "revenue": 97496000.0,
+    "net_income": 18902000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": -156755000.0,
+    "revenue": 107316000.0,
+    "net_income": 18004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": -188024000.0,
+    "revenue": 91102000.0,
+    "net_income": 17866000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "FY 2016",
+    "filing_date": "2017-03-06",
+    "shares_outstanding": -214755000.0,
+    "revenue": 378241000.0,
+    "net_income": 71247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 28658000.0,
+    "revenue": 87007000.0,
+    "net_income": 14863000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-12",
+    "shares_outstanding": 18591000.0,
+    "revenue": 91472000.0,
+    "net_income": 18091000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-11",
+    "shares_outstanding": 7261000.0,
+    "revenue": 83343000.0,
+    "net_income": 16345000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "FY 2015",
+    "filing_date": "2016-03-04",
+    "shares_outstanding": null,
+    "revenue": 330537000.0,
+    "net_income": 38130000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PLNT",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-13",
+    "shares_outstanding": null,
+    "revenue": 68817000.0,
+    "net_income": 738000.0,
+    "market_cap": null
+  }
+]

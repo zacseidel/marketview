@@ -1,0 +1,479 @@
+[
+  {
+    "ticker": "CDNS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 273312000.0,
+    "revenue": 5296759000.0,
+    "net_income": 1108888000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 273312000.0,
+    "revenue": 5296759000.0,
+    "net_income": 1108888000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-29",
+    "shares_outstanding": 273798000.0,
+    "revenue": 1338838000.0,
+    "net_income": 287122000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 272899000.0,
+    "revenue": 1275441000.0,
+    "net_income": 160051000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 273631000.0,
+    "revenue": 1242366000.0,
+    "net_income": 273579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-21",
+    "shares_outstanding": 273833000.0,
+    "revenue": 4641264000.0,
+    "net_income": 1055484000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 273958000.0,
+    "revenue": 1215499000.0,
+    "net_income": 238111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 273520000.0,
+    "revenue": 1060681000.0,
+    "net_income": 229520000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 273544000.0,
+    "revenue": 1009103000.0,
+    "net_income": 247643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 272748000.0,
+    "revenue": 4089986000.0,
+    "net_income": 1041144000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-23",
+    "shares_outstanding": 272427000.0,
+    "revenue": 1023094000.0,
+    "net_income": 254321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-24",
+    "shares_outstanding": 272996000.0,
+    "revenue": 976579000.0,
+    "net_income": 221120000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-24",
+    "shares_outstanding": 273159000.0,
+    "revenue": 1021690000.0,
+    "net_income": 241804000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-13",
+    "shares_outstanding": 275011000.0,
+    "revenue": 3561718000.0,
+    "net_income": 848952000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-24",
+    "shares_outstanding": 274957000.0,
+    "revenue": 902554000.0,
+    "net_income": 186305000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-25",
+    "shares_outstanding": 275172000.0,
+    "revenue": 857521000.0,
+    "net_income": 186920000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-25",
+    "shares_outstanding": 276918000.0,
+    "revenue": 901766000.0,
+    "net_income": 235335000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-22",
+    "shares_outstanding": 279641000.0,
+    "revenue": 2682891000.0,
+    "net_income": 590644000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2021",
+    "filing_date": "2020-10-19",
+    "shares_outstanding": 280024000.0,
+    "revenue": 666607000.0,
+    "net_income": 161630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2021",
+    "filing_date": "2020-07-20",
+    "shares_outstanding": 279080000.0,
+    "revenue": 638418000.0,
+    "net_income": 131288000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q4 2020",
+    "filing_date": "2020-04-20",
+    "shares_outstanding": 279265000.0,
+    "revenue": 617957000.0,
+    "net_income": 123988000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 280515000.0,
+    "revenue": 2336319000.0,
+    "net_income": 988979000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-21",
+    "shares_outstanding": 280666000.0,
+    "revenue": 579603000.0,
+    "net_income": 101514000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-22",
+    "shares_outstanding": 281054000.0,
+    "revenue": 580419000.0,
+    "net_income": 107235000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-22",
+    "shares_outstanding": 280615000.0,
+    "revenue": 576742000.0,
+    "net_income": 120555000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 281144000.0,
+    "revenue": 2138022000.0,
+    "net_income": 345777000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-22",
+    "shares_outstanding": 281646000.0,
+    "revenue": 532468000.0,
+    "net_income": 99318000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-23",
+    "shares_outstanding": 280774000.0,
+    "revenue": 518391000.0,
+    "net_income": 75149000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 281651000.0,
+    "revenue": 517313000.0,
+    "net_income": 72885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-20",
+    "shares_outstanding": 280221000.0,
+    "revenue": 1943032000.0,
+    "net_income": 204101000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 281400000.0,
+    "revenue": 485398000.0,
+    "net_income": 81157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-24",
+    "shares_outstanding": 279526000.0,
+    "revenue": 479001000.0,
+    "net_income": 69127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-25",
+    "shares_outstanding": 277736000.0,
+    "revenue": 476911000.0,
+    "net_income": 68259000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2016",
+    "filing_date": "2017-02-10",
+    "shares_outstanding": 291256000.0,
+    "revenue": 1816083000.0,
+    "net_income": 203086000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-24",
+    "shares_outstanding": 287473000.0,
+    "revenue": 446220000.0,
+    "net_income": 64712000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-25",
+    "shares_outstanding": 295201000.0,
+    "revenue": 453021000.0,
+    "net_income": 49335000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-25",
+    "shares_outstanding": 303434000.0,
+    "revenue": 447862000.0,
+    "net_income": 50562000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2014",
+    "filing_date": "2015-02-20",
+    "shares_outstanding": 306775000.0,
+    "revenue": 1580932000.0,
+    "net_income": 158898000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2015",
+    "filing_date": "2014-10-20",
+    "shares_outstanding": 309995000.0,
+    "revenue": 400496000.0,
+    "net_income": 37535000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2015",
+    "filing_date": "2014-07-21",
+    "shares_outstanding": 305755000.0,
+    "revenue": 378788000.0,
+    "net_income": 23263000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q4 2014",
+    "filing_date": "2014-04-21",
+    "shares_outstanding": 301034000.0,
+    "revenue": 378550000.0,
+    "net_income": 33070000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2013",
+    "filing_date": "2014-02-20",
+    "shares_outstanding": 294564000.0,
+    "revenue": 1460116000.0,
+    "net_income": 164243000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-24",
+    "shares_outstanding": 296958000.0,
+    "revenue": 366647000.0,
+    "net_income": 38500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-25",
+    "shares_outstanding": 294443000.0,
+    "revenue": 362481000.0,
+    "net_income": 9429000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-25",
+    "shares_outstanding": 292151000.0,
+    "revenue": 354266000.0,
+    "net_income": 78609000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 280667000.0,
+    "revenue": 1326424000.0,
+    "net_income": 439948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-25",
+    "shares_outstanding": 283328000.0,
+    "revenue": 338533000.0,
+    "net_income": 58584000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-26",
+    "shares_outstanding": 275318000.0,
+    "revenue": 326476000.0,
+    "net_income": 36386000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-27",
+    "shares_outstanding": 277733000.0,
+    "revenue": 315830000.0,
+    "net_income": 31104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 270816000.0,
+    "revenue": 1149835000.0,
+    "net_income": 72229000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 270741000.0,
+    "revenue": 292457000.0,
+    "net_income": 28106000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-29",
+    "shares_outstanding": 270885000.0,
+    "revenue": 283270000.0,
+    "net_income": 26908000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDNS",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-29",
+    "shares_outstanding": 268578000.0,
+    "revenue": 266102000.0,
+    "net_income": 6323000.0,
+    "market_cap": null
+  }
+]

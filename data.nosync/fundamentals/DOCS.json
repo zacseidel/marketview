@@ -1,0 +1,164 @@
+[
+  {
+    "ticker": "DOCS",
+    "period": "Q3 2026",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 199224000.0,
+    "revenue": 185053000.0,
+    "net_income": 61558000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q2 2026",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 200745000.0,
+    "revenue": 168525000.0,
+    "net_income": 62059000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q1 2026",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 201158000.0,
+    "revenue": 145913000.0,
+    "net_income": 53320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "FY 2025",
+    "filing_date": "2025-05-20",
+    "shares_outstanding": 201208000.0,
+    "revenue": 570399000.0,
+    "net_income": 223185000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q2 2025",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 200407000.0,
+    "revenue": 136832000.0,
+    "net_income": 44154000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q1 2025",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 199224000.0,
+    "revenue": 126676000.0,
+    "net_income": 41377000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "FY 2024",
+    "filing_date": "2024-05-23",
+    "shares_outstanding": 205734000.0,
+    "revenue": 475422000.0,
+    "net_income": 147582000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q3 2024",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 200463000.0,
+    "revenue": 135284000.0,
+    "net_income": 47956000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q2 2024",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 209014000.0,
+    "revenue": 113612000.0,
+    "net_income": 30602000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q1 2024",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 212355000.0,
+    "revenue": 108469000.0,
+    "net_income": 28406000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "FY 2023",
+    "filing_date": "2023-05-26",
+    "shares_outstanding": 213425000.0,
+    "revenue": 419052000.0,
+    "net_income": 112818000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q3 2023",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 212065000.0,
+    "revenue": 115262000.0,
+    "net_income": 33468000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q2 2023",
+    "filing_date": "2022-11-10",
+    "shares_outstanding": 213949000.0,
+    "revenue": 102185000.0,
+    "net_income": 26299000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q1 2023",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 214954000.0,
+    "revenue": 90639000.0,
+    "net_income": 22383000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "FY 2022",
+    "filing_date": "2022-05-27",
+    "shares_outstanding": 191017000.0,
+    "revenue": 343548000.0,
+    "net_income": 154783000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q3 2022",
+    "filing_date": "2022-02-09",
+    "shares_outstanding": 216396000.0,
+    "revenue": 97876000.0,
+    "net_income": 55647000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q2 2022",
+    "filing_date": "2021-11-10",
+    "shares_outstanding": 216672000.0,
+    "revenue": 79350000.0,
+    "net_income": 36088000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DOCS",
+    "period": "Q1 2022",
+    "filing_date": "2021-08-12",
+    "shares_outstanding": 114920000.0,
+    "revenue": 72669000.0,
+    "net_income": 26322000.0,
+    "market_cap": null
+  }
+]

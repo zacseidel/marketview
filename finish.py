@@ -32,7 +32,6 @@ def run() -> None:
     steps = [
         ("Process decision file",       ["python", "-m", "src.decisions.process"] + ([date_arg] if date_arg else [])),
         ("Record fills",                ["python", "-m", "src.decisions.execute"] + ([date_arg] if date_arg else [])),
-        ("Evaluate strategies",         ["python", "-m", "src.strategy.runner"]),
         ("Update position P&L",         ["python", "-m", "src.tracking.pnl"]),
         ("Update portfolio history",    ["python", "-m", "src.tracking.portfolio"]),
         ("Regenerate dashboard",        ["python", "-m", "src.reports.daily"]),

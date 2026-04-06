@@ -1,0 +1,245 @@
+[
+  {
+    "ticker": "CTRA",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 764000000.0,
+    "revenue": 7645000000.0,
+    "net_income": 1717000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 764000000.0,
+    "revenue": 7645000000.0,
+    "net_income": 1717000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 767000000.0,
+    "revenue": 1817000000.0,
+    "net_income": 322000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 767000000.0,
+    "revenue": 1965000000.0,
+    "net_income": 511000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 761000000.0,
+    "revenue": 1904000000.0,
+    "net_income": 516000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 745000000.0,
+    "revenue": 5458000000.0,
+    "net_income": 1121000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 744000000.0,
+    "revenue": 1359000000.0,
+    "net_income": 252000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 748000000.0,
+    "revenue": 1271000000.0,
+    "net_income": 220000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 755000000.0,
+    "revenue": 1433000000.0,
+    "net_income": 352000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "FY 2023",
+    "filing_date": "2024-02-23",
+    "shares_outstanding": 760000000.0,
+    "revenue": 5914000000.0,
+    "net_income": 1625000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 758000000.0,
+    "revenue": 1356000000.0,
+    "net_income": 323000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 760000000.0,
+    "revenue": 1185000000.0,
+    "net_income": 209000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 768000000.0,
+    "revenue": 1777000000.0,
+    "net_income": 677000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 799000000.0,
+    "revenue": 9051000000.0,
+    "net_income": 4065000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 797000000.0,
+    "revenue": 2520000000.0,
+    "net_income": 1196000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 808000000.0,
+    "revenue": 2572000000.0,
+    "net_income": 1229000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 814000000.0,
+    "revenue": 1679000000.0,
+    "net_income": 608000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 504000000.0,
+    "revenue": 3449000000.0,
+    "net_income": 1158000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "FY 2020",
+    "filing_date": "2021-03-15",
+    "shares_outstanding": 18298362.0,
+    "revenue": 1416187000.0,
+    "net_income": -446899000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-09",
+    "shares_outstanding": 18319947.0,
+    "revenue": 400691000.0,
+    "net_income": -68637000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 18304853.0,
+    "revenue": 411838000.0,
+    "net_income": -238301000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 18245911.0,
+    "revenue": 470460000.0,
+    "net_income": -39808000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "FY 2019",
+    "filing_date": "2020-03-18",
+    "shares_outstanding": 18808460.0,
+    "revenue": 2290260000.0,
+    "net_income": -316319000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-14",
+    "shares_outstanding": 19025462.0,
+    "revenue": 525864000.0,
+    "net_income": -68532000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-14",
+    "shares_outstanding": 19420471.0,
+    "revenue": 656206000.0,
+    "net_income": -113661000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-15",
+    "shares_outstanding": 19538629.0,
+    "revenue": 609114000.0,
+    "net_income": 6815000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CTRA",
+    "period": "FY 2018",
+    "filing_date": "2019-04-01",
+    "shares_outstanding": 11712653.0,
+    "revenue": 2031205000.0,
+    "net_income": 299165000.0,
+    "market_cap": null
+  }
+]

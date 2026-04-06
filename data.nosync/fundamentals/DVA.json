@@ -1,0 +1,596 @@
+[
+  {
+    "ticker": "DVA",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 75885000.0,
+    "revenue": 13643069000.0,
+    "net_income": 1078716000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2025",
+    "filing_date": "2026-02-11",
+    "shares_outstanding": 75885000.0,
+    "revenue": 13643069000.0,
+    "net_income": 1078716000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-29",
+    "shares_outstanding": 73769000.0,
+    "revenue": 3420227000.0,
+    "net_income": 240249000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 77362000.0,
+    "revenue": 3379526000.0,
+    "net_income": 275220000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-12",
+    "shares_outstanding": 81275000.0,
+    "revenue": 3223529000.0,
+    "net_income": 232216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2024",
+    "filing_date": "2025-02-13",
+    "shares_outstanding": 87274000.0,
+    "revenue": 12815550000.0,
+    "net_income": 1250737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 85795000.0,
+    "revenue": 3263590000.0,
+    "net_income": 295760000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 88950000.0,
+    "revenue": 3186722000.0,
+    "net_income": 299752000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 90547000.0,
+    "revenue": 3070555000.0,
+    "net_income": 305980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 93182000.0,
+    "revenue": 12140147000.0,
+    "net_income": 956978000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 94041000.0,
+    "revenue": 3121332000.0,
+    "net_income": 309361000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 93418000.0,
+    "revenue": 3000369000.0,
+    "net_income": 246377000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-08",
+    "shares_outstanding": 92483000.0,
+    "revenue": 2872699000.0,
+    "net_income": 170668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 95834000.0,
+    "revenue": 11609894000.0,
+    "net_income": 781643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-31",
+    "shares_outstanding": 93263000.0,
+    "revenue": 2948694000.0,
+    "net_income": 164694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-01",
+    "shares_outstanding": 97772000.0,
+    "revenue": 2926757000.0,
+    "net_income": 284616000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 100503000.0,
+    "revenue": 2817555000.0,
+    "net_income": 205718000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2021",
+    "filing_date": "2022-02-11",
+    "shares_outstanding": 109948000.0,
+    "revenue": 11618797000.0,
+    "net_income": 1211762000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 109838000.0,
+    "revenue": 2938319000.0,
+    "net_income": 319754000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 111423000.0,
+    "revenue": 2916510000.0,
+    "net_income": 351031000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 113852000.0,
+    "revenue": 2820001000.0,
+    "net_income": 291545000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2020",
+    "filing_date": "2021-02-12",
+    "shares_outstanding": 122623000.0,
+    "revenue": 11550604000.0,
+    "net_income": 994677000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 123953879.0,
+    "revenue": 2924066000.0,
+    "net_income": 217540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 124068278.0,
+    "revenue": 2879979000.0,
+    "net_income": 254872000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 126894847.0,
+    "revenue": 2841237000.0,
+    "net_income": 287895000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 153812064.0,
+    "revenue": 11388479000.0,
+    "net_income": 1021294000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 151295950.0,
+    "revenue": 2904078000.0,
+    "net_income": 201688000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 166799525.0,
+    "revenue": 2842705000.0,
+    "net_income": 327157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 166780657.0,
+    "revenue": 2743112000.0,
+    "net_income": 189487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 172364581.0,
+    "revenue": 11404851000.0,
+    "net_income": 333040000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 167262000.0,
+    "revenue": 2847330000.0,
+    "net_income": -96668000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 174105884.0,
+    "revenue": 2886953000.0,
+    "net_income": 306322000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 181834547.0,
+    "revenue": 2849444000.0,
+    "net_income": 225229000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 191349000.0,
+    "revenue": 10876634000.0,
+    "net_income": 830555000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 188884000.0,
+    "revenue": 2765071000.0,
+    "net_income": -172034000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 193987983.0,
+    "revenue": 2699399000.0,
+    "net_income": 161625000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 195281000.0,
+    "revenue": 2631251000.0,
+    "net_income": 500285000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2016",
+    "filing_date": "2017-02-24",
+    "shares_outstanding": 204904656.0,
+    "revenue": 14745105000.0,
+    "net_income": 1033082000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 206961450.0,
+    "revenue": 3730576000.0,
+    "net_income": 612150000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-08",
+    "shares_outstanding": 208047172.0,
+    "revenue": 3717651000.0,
+    "net_income": 94503000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 207928096.0,
+    "revenue": 3581136000.0,
+    "net_income": 138159000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 216251807.0,
+    "revenue": 13781837000.0,
+    "net_income": 427410000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 216691461.0,
+    "revenue": 3525665000.0,
+    "net_income": 261307000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 217606198.0,
+    "revenue": 3434618000.0,
+    "net_income": 207777000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 213387253.0,
+    "revenue": 3287965000.0,
+    "net_income": -76148000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 216927681.0,
+    "revenue": 12795106000.0,
+    "net_income": 863330000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-06",
+    "shares_outstanding": 217236493.0,
+    "revenue": 3251824000.0,
+    "net_income": 219784000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 216720944.0,
+    "revenue": 3172489000.0,
+    "net_income": 181421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 216118922.0,
+    "revenue": 3042776000.0,
+    "net_income": 211737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2013",
+    "filing_date": "2014-02-21",
+    "shares_outstanding": 214763887.0,
+    "revenue": 11764050000.0,
+    "net_income": 757201000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 214902860.0,
+    "revenue": 2999586000.0,
+    "net_income": 169836000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 107424582.0,
+    "revenue": 2871673000.0,
+    "net_income": 283358000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 107063633.0,
+    "revenue": 2829582000.0,
+    "net_income": 59734000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 97971080.0,
+    "revenue": 8186280000.0,
+    "net_income": 641237000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 96634620.0,
+    "revenue": 1945888000.0,
+    "net_income": 172550000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 96002190.0,
+    "revenue": 1913006000.0,
+    "net_income": 120004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-02",
+    "shares_outstanding": 95729105.0,
+    "revenue": 1849533000.0,
+    "net_income": 164883000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 96532110.0,
+    "revenue": 6982214000.0,
+    "net_income": 573395000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 95171225.0,
+    "revenue": 1807869000.0,
+    "net_income": 161846000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 97657578.0,
+    "revenue": 1708643000.0,
+    "net_income": 120665000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 98378371.0,
+    "revenue": 1603384000.0,
+    "net_income": 114752000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 104449065.0,
+    "revenue": 1586907000.0,
+    "net_income": 123893000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-03",
+    "shares_outstanding": 104765600.0,
+    "revenue": 1559418000.0,
+    "net_income": 125000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "FY 2009",
+    "filing_date": "2010-02-25",
+    "shares_outstanding": 104167685.0,
+    "revenue": 6108800000.0,
+    "net_income": 479759000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-05",
+    "shares_outstanding": 104607318.0,
+    "revenue": 1573915000.0,
+    "net_income": 126270000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DVA",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-07",
+    "shares_outstanding": 103925843.0,
+    "revenue": 1519041000.0,
+    "net_income": 105819000.0,
+    "market_cap": null
+  }
+]

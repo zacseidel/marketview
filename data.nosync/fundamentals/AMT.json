@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "AMT",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 469039000.0,
+    "revenue": 2717400000.0,
+    "net_income": 912600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-29",
+    "shares_outstanding": 468791000.0,
+    "revenue": 2626900000.0,
+    "net_income": 380500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 468519000.0,
+    "revenue": 2562800000.0,
+    "net_income": 498600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 468120000.0,
+    "revenue": 10127200000.0,
+    "net_income": 2280200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 468261000.0,
+    "revenue": 2522300000.0,
+    "net_income": -780400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 467781000.0,
+    "revenue": 2544700000.0,
+    "net_income": 908400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 467660000.0,
+    "revenue": 2512600000.0,
+    "net_income": 921700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 467162000.0,
+    "revenue": 11144200000.0,
+    "net_income": 1367100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 467161000.0,
+    "revenue": 2818600000.0,
+    "net_income": 577300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 466979000.0,
+    "revenue": 2771700000.0,
+    "net_income": 461500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 466810000.0,
+    "revenue": 2767200000.0,
+    "net_income": 315000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 462750000.0,
+    "revenue": 10711100000.0,
+    "net_income": 1696700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 466801000.0,
+    "revenue": 2671500000.0,
+    "net_income": 819700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 459819000.0,
+    "revenue": 2674300000.0,
+    "net_income": 890900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q4 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 457211000.0,
+    "revenue": 2660300000.0,
+    "net_income": 702700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 453294000.0,
+    "revenue": 9356900000.0,
+    "net_income": 2567600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 456977000.0,
+    "revenue": 2454300000.0,
+    "net_income": 726200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 452354000.0,
+    "revenue": 2298900000.0,
+    "net_income": 747900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 446294000.0,
+    "revenue": 2158500000.0,
+    "net_income": 652300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 446104000.0,
+    "revenue": 8041500000.0,
+    "net_income": 1691500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 446156000.0,
+    "revenue": 2012900000.0,
+    "net_income": 462900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-30",
+    "shares_outstanding": 445867000.0,
+    "revenue": 1913000000.0,
+    "net_income": 448400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 445832000.0,
+    "revenue": 1993100000.0,
+    "net_income": 418600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2019",
+    "filing_date": "2020-02-25",
+    "shares_outstanding": 445520000.0,
+    "revenue": 7580300000.0,
+    "net_income": 1916600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 445829000.0,
+    "revenue": 1953600000.0,
+    "net_income": 505300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 445337000.0,
+    "revenue": 1889600000.0,
+    "net_income": 434300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 444621000.0,
+    "revenue": 1813400000.0,
+    "net_income": 407600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 442960000.0,
+    "revenue": 7440100000.0,
+    "net_income": 1264700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 444121000.0,
+    "revenue": 1785500000.0,
+    "net_income": 377300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-31",
+    "shares_outstanding": 444362000.0,
+    "revenue": 1780900000.0,
+    "net_income": 314400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 438520000.0,
+    "revenue": 1741800000.0,
+    "net_income": 280300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 431688000.0,
+    "revenue": 6663900000.0,
+    "net_income": 1225400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 432831000.0,
+    "revenue": 1680700000.0,
+    "net_income": 334700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 430487000.0,
+    "revenue": 1662500000.0,
+    "net_income": 388500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 430199000.0,
+    "revenue": 1616200000.0,
+    "net_income": 307400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 429283000.0,
+    "revenue": 5785668000.0,
+    "net_income": 970359000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-27",
+    "shares_outstanding": 429925000.0,
+    "revenue": 1514845000.0,
+    "net_income": 263735000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 429004000.0,
+    "revenue": 1442227000.0,
+    "net_income": 192464000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 427888000.0,
+    "revenue": 1289047000.0,
+    "net_income": 281307000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 423015000.0,
+    "revenue": 4771516000.0,
+    "net_income": 672007000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 427227000.0,
+    "revenue": 1237910000.0,
+    "net_income": 97740000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-29",
+    "shares_outstanding": 426933000.0,
+    "revenue": 1174375000.0,
+    "net_income": 157180000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 409399000.0,
+    "revenue": 1079190000.0,
+    "net_income": 195492000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 400086000.0,
+    "revenue": 4100048000.0,
+    "net_income": 803199000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-30",
+    "shares_outstanding": 400397000.0,
+    "revenue": 1038188000.0,
+    "net_income": 206630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-30",
+    "shares_outstanding": 399588000.0,
+    "revenue": 1031457000.0,
+    "net_income": 221659000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 399120000.0,
+    "revenue": 984089000.0,
+    "net_income": 193313000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 399146000.0,
+    "revenue": 3361407000.0,
+    "net_income": 482208000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 398348000.0,
+    "revenue": 807880000.0,
+    "net_income": 163222000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-31",
+    "shares_outstanding": 399458000.0,
+    "revenue": 808830000.0,
+    "net_income": 84113000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 399659000.0,
+    "revenue": 802728000.0,
+    "net_income": 160948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 399287000.0,
+    "revenue": 2875960000.0,
+    "net_income": 594025000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 399487000.0,
+    "revenue": 713335000.0,
+    "net_income": 231825000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 398811000.0,
+    "revenue": 697734000.0,
+    "net_income": 33689000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 398453000.0,
+    "revenue": 696517000.0,
+    "net_income": 210358000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 400195000.0,
+    "revenue": 2443532000.0,
+    "net_income": 381840000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 395183000.0,
+    "revenue": 630403000.0,
+    "net_income": -19726000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 400250000.0,
+    "revenue": 597235000.0,
+    "net_income": 113171000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 401899000.0,
+    "revenue": 562695000.0,
+    "net_income": 91961000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-06",
+    "shares_outstanding": 406080000.0,
+    "revenue": 454434000.0,
+    "net_income": 96483000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "FY 2009",
+    "filing_date": "2010-03-01",
+    "shares_outstanding": 406948000.0,
+    "revenue": 1724114000.0,
+    "net_income": 247127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-05",
+    "shares_outstanding": 405728000.0,
+    "revenue": 444105000.0,
+    "net_income": 67578000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMT",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-06",
+    "shares_outstanding": 408832000.0,
+    "revenue": 423358000.0,
+    "net_income": 56481000.0,
+    "market_cap": null
+  }
+]

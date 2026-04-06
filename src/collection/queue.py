@@ -19,7 +19,7 @@ import structlog
 
 log = structlog.get_logger()
 
-TaskType = Literal["price_fetch", "price_backfill", "options_chain", "ticker_details", "financials", "split_correction"]
+TaskType = Literal["price_fetch", "price_backfill", "ticker_details", "financials", "split_correction"]
 Priority = Literal["high", "normal", "low"]
 TaskStatus = Literal["pending", "ready", "completed", "failed", "expired"]
 

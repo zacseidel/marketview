@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2026",
+    "filing_date": "2026-02-05",
+    "shares_outstanding": 545500000.0,
+    "revenue": 1186000000.0,
+    "net_income": 62700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2026",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 545000000.0,
+    "revenue": 1140400000.0,
+    "net_income": 41700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2026",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 539200000.0,
+    "revenue": 1075500000.0,
+    "net_income": -18600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2025",
+    "filing_date": "2025-05-23",
+    "shares_outstanding": 537300000.0,
+    "revenue": 4401600000.0,
+    "net_income": -500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2025",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 542000000.0,
+    "revenue": 1163800000.0,
+    "net_income": 78400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2025",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 542800000.0,
+    "revenue": 1241300000.0,
+    "net_income": 129300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2024",
+    "filing_date": "2024-05-23",
+    "shares_outstanding": 548000000.0,
+    "revenue": 7634400000.0,
+    "net_income": 1906900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2024",
+    "filing_date": "2024-02-01",
+    "shares_outstanding": 546500000.0,
+    "revenue": 1765700000.0,
+    "net_income": 419200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2024",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 549200000.0,
+    "revenue": 2254300000.0,
+    "net_income": 666600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2024",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 551400000.0,
+    "revenue": 2288600000.0,
+    "net_income": 666400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2023",
+    "filing_date": "2023-05-25",
+    "shares_outstanding": 557300000.0,
+    "revenue": 8438700000.0,
+    "net_income": 2237700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2023",
+    "filing_date": "2023-02-02",
+    "shares_outstanding": 555400000.0,
+    "revenue": 2169200000.0,
+    "net_income": 580300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2023",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 558300000.0,
+    "revenue": 2073200000.0,
+    "net_income": 546200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2023",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 561500000.0,
+    "revenue": 1963600000.0,
+    "net_income": 507200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2022",
+    "filing_date": "2022-05-20",
+    "shares_outstanding": 565900000.0,
+    "revenue": 6820900000.0,
+    "net_income": 1285500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2022",
+    "filing_date": "2022-02-03",
+    "shares_outstanding": 567300000.0,
+    "revenue": 1757500000.0,
+    "net_income": 352800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2022",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 565900000.0,
+    "revenue": 1649800000.0,
+    "net_income": 242000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2022",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 282600000.0,
+    "revenue": 1569400000.0,
+    "net_income": 252800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2021",
+    "filing_date": "2021-05-18",
+    "shares_outstanding": 270600000.0,
+    "revenue": 5438400000.0,
+    "net_income": 349400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2021",
+    "filing_date": "2021-02-04",
+    "shares_outstanding": 275400000.0,
+    "revenue": 1352100000.0,
+    "net_income": 36200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2021",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 267700000.0,
+    "revenue": 1309500000.0,
+    "net_income": 73600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2021",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 257800000.0,
+    "revenue": 1309700000.0,
+    "net_income": 123600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2020",
+    "filing_date": "2020-05-22",
+    "shares_outstanding": 256200000.0,
+    "revenue": 5274200000.0,
+    "net_income": 570600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2020",
+    "filing_date": "2020-02-04",
+    "shares_outstanding": 258300000.0,
+    "revenue": 1287400000.0,
+    "net_income": 311100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2020",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 255300000.0,
+    "revenue": 1337800000.0,
+    "net_income": 108900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2020",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 253900000.0,
+    "revenue": 1322600000.0,
+    "net_income": 50700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2019",
+    "filing_date": "2019-05-30",
+    "shares_outstanding": 249900000.0,
+    "revenue": 5349500000.0,
+    "net_income": 355900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2019",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 244600000.0,
+    "revenue": 1374700000.0,
+    "net_income": 49200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2019",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 251800000.0,
+    "revenue": 1432500000.0,
+    "net_income": 96300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2019",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 252200000.0,
+    "revenue": 1212500000.0,
+    "net_income": 35700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2018",
+    "filing_date": "2018-05-18",
+    "shares_outstanding": 248900000.0,
+    "revenue": 3980800000.0,
+    "net_income": 255400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2018",
+    "filing_date": "2018-02-07",
+    "shares_outstanding": 234106000.0,
+    "revenue": 994200000.0,
+    "net_income": -251100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2018",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 244767000.0,
+    "revenue": 1012100000.0,
+    "net_income": 189200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2018",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 242902000.0,
+    "revenue": 972100000.0,
+    "net_income": 170600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2017",
+    "filing_date": "2017-05-30",
+    "shares_outstanding": 234806000.0,
+    "revenue": 3407807000.0,
+    "net_income": 164639000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2017",
+    "filing_date": "2017-02-08",
+    "shares_outstanding": 235424000.0,
+    "revenue": 834366000.0,
+    "net_income": 107175000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2017",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 233960000.0,
+    "revenue": 871364000.0,
+    "net_income": 33919000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2017",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 214345000.0,
+    "revenue": 799411000.0,
+    "net_income": -113363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2016",
+    "filing_date": "2016-05-24",
+    "shares_outstanding": 217388000.0,
+    "revenue": 2173334000.0,
+    "net_income": 323925000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2016",
+    "filing_date": "2016-02-05",
+    "shares_outstanding": 217975000.0,
+    "revenue": 540344000.0,
+    "net_income": 61211000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2016",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 217099000.0,
+    "revenue": 541391000.0,
+    "net_income": 64899000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2016",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 216767000.0,
+    "revenue": 533952000.0,
+    "net_income": 130460000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2015",
+    "filing_date": "2015-05-27",
+    "shares_outstanding": 223561000.0,
+    "revenue": 2147036000.0,
+    "net_income": 365325000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2015",
+    "filing_date": "2015-02-03",
+    "shares_outstanding": 223487000.0,
+    "revenue": 528710000.0,
+    "net_income": 84798000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2015",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 225284000.0,
+    "revenue": 546243000.0,
+    "net_income": 92038000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2015",
+    "filing_date": "2014-08-11",
+    "shares_outstanding": 224527000.0,
+    "revenue": 528876000.0,
+    "net_income": 89909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2014",
+    "filing_date": "2014-05-30",
+    "shares_outstanding": 217630000.0,
+    "revenue": 1931217000.0,
+    "net_income": 395281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2014",
+    "filing_date": "2014-02-07",
+    "shares_outstanding": 219089000.0,
+    "revenue": 482372000.0,
+    "net_income": 105401000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2014",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 216475000.0,
+    "revenue": 492669000.0,
+    "net_income": 99806000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2014",
+    "filing_date": "2013-08-09",
+    "shares_outstanding": 212266000.0,
+    "revenue": 462792000.0,
+    "net_income": 78579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2013",
+    "filing_date": "2013-05-30",
+    "shares_outstanding": 205776000.0,
+    "revenue": 1581623000.0,
+    "net_income": 127389000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2013",
+    "filing_date": "2013-02-11",
+    "shares_outstanding": 204405000.0,
+    "revenue": 416047000.0,
+    "net_income": 10173000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2013",
+    "filing_date": "2012-11-09",
+    "shares_outstanding": 194060000.0,
+    "revenue": 383298000.0,
+    "net_income": -21184000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2013",
+    "filing_date": "2012-08-09",
+    "shares_outstanding": 203700000.0,
+    "revenue": 352134000.0,
+    "net_income": 78710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2012",
+    "filing_date": "2012-05-30",
+    "shares_outstanding": 203519000.0,
+    "revenue": 1383176000.0,
+    "net_income": 336705000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q3 2012",
+    "filing_date": "2012-02-06",
+    "shares_outstanding": 203291000.0,
+    "revenue": 329156000.0,
+    "net_income": 77489000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q2 2012",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 200199000.0,
+    "revenue": 340602000.0,
+    "net_income": 79287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "Q1 2012",
+    "filing_date": "2011-08-09",
+    "shares_outstanding": 204567000.0,
+    "revenue": 374507000.0,
+    "net_income": 99293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "MCHP",
+    "period": "FY 2011",
+    "filing_date": "2011-05-31",
+    "shares_outstanding": 194715000.0,
+    "revenue": 1487205000.0,
+    "net_income": 418950000.0,
+    "market_cap": null
+  }
+]

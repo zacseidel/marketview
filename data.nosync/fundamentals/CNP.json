@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "CNP",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 656000000.0,
+    "revenue": 9357000000.0,
+    "net_income": 1052000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 656000000.0,
+    "revenue": 9357000000.0,
+    "net_income": 1052000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-23",
+    "shares_outstanding": 656000000.0,
+    "revenue": 1988000000.0,
+    "net_income": 293000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 654000000.0,
+    "revenue": 1944000000.0,
+    "net_income": 198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 653000000.0,
+    "revenue": 2920000000.0,
+    "net_income": 297000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 644000000.0,
+    "revenue": 8643000000.0,
+    "net_income": 1019000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 642000000.0,
+    "revenue": 1905000000.0,
+    "net_income": 228000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 634000000.0,
+    "revenue": 2620000000.0,
+    "net_income": 350000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 633000000.0,
+    "revenue": 8696000000.0,
+    "net_income": 917000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 633000000.0,
+    "revenue": 1860000000.0,
+    "net_income": 282000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 633000000.0,
+    "revenue": 1875000000.0,
+    "net_income": 118000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 633000000.0,
+    "revenue": 2779000000.0,
+    "net_income": 325000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2022",
+    "filing_date": "2023-02-17",
+    "shares_outstanding": 632000000.0,
+    "revenue": 9321000000.0,
+    "net_income": 1057000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 633000000.0,
+    "revenue": 1903000000.0,
+    "net_income": 202000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 632000000.0,
+    "revenue": 1944000000.0,
+    "net_income": 190000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 631000000.0,
+    "revenue": 2763000000.0,
+    "net_income": 531000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 610000000.0,
+    "revenue": 8352000000.0,
+    "net_income": 1486000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 609000000.0,
+    "revenue": 1749000000.0,
+    "net_income": 218000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 596000000.0,
+    "revenue": 1742000000.0,
+    "net_income": 251000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 631000000.0,
+    "revenue": 2547000000.0,
+    "net_income": 363000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 531000000.0,
+    "revenue": 7418000000.0,
+    "net_income": -773000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 548000000.0,
+    "revenue": 1622000000.0,
+    "net_income": 121000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 531000000.0,
+    "revenue": 1575000000.0,
+    "net_income": 105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 502000000.0,
+    "revenue": 2167000000.0,
+    "net_income": -1199000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 505000000.0,
+    "revenue": 12301000000.0,
+    "net_income": 791000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 505000000.0,
+    "revenue": 2742000000.0,
+    "net_income": 241000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-07",
+    "shares_outstanding": 505000000.0,
+    "revenue": 2798000000.0,
+    "net_income": 165000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 503944000.0,
+    "revenue": 3531000000.0,
+    "net_income": 140000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 452465000.0,
+    "revenue": 10589000000.0,
+    "net_income": 368000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 434891000.0,
+    "revenue": 2212000000.0,
+    "net_income": 153000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 431523000.0,
+    "revenue": 2186000000.0,
+    "net_income": -75000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 434008000.0,
+    "revenue": 3155000000.0,
+    "net_income": 165000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 434308000.0,
+    "revenue": 9614000000.0,
+    "net_income": 1792000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-03",
+    "shares_outstanding": 434086000.0,
+    "revenue": 2098000000.0,
+    "net_income": 169000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 433797000.0,
+    "revenue": 2143000000.0,
+    "net_income": 135000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 433348000.0,
+    "revenue": 2735000000.0,
+    "net_income": 192000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2016",
+    "filing_date": "2017-02-28",
+    "shares_outstanding": 433603000.0,
+    "revenue": 7528000000.0,
+    "net_income": 432000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 433396000.0,
+    "revenue": 1889000000.0,
+    "net_income": 179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 430653000.0,
+    "revenue": 1574000000.0,
+    "net_income": -2000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-10",
+    "shares_outstanding": 432594000.0,
+    "revenue": 1984000000.0,
+    "net_income": 154000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 430180000.0,
+    "revenue": 7386000000.0,
+    "net_income": -692000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 430262000.0,
+    "revenue": 1630000000.0,
+    "net_income": -391000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": 431733000.0,
+    "revenue": 1532000000.0,
+    "net_income": 77000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-11",
+    "shares_outstanding": 431183000.0,
+    "revenue": 2433000000.0,
+    "net_income": 131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 431668000.0,
+    "revenue": 9226000000.0,
+    "net_income": 611000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 431573000.0,
+    "revenue": 1807000000.0,
+    "net_income": 143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 431409000.0,
+    "revenue": 1884000000.0,
+    "net_income": 107000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-01",
+    "shares_outstanding": 430559000.0,
+    "revenue": 3163000000.0,
+    "net_income": 185000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2013",
+    "filing_date": "2014-02-26",
+    "shares_outstanding": 430930000.0,
+    "revenue": 8106000000.0,
+    "net_income": 311000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 430867000.0,
+    "revenue": 1640000000.0,
+    "net_income": 151000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 430554000.0,
+    "revenue": 1894000000.0,
+    "net_income": -100000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-02",
+    "shares_outstanding": 429672000.0,
+    "revenue": 2388000000.0,
+    "net_income": 147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 429794000.0,
+    "revenue": 7452000000.0,
+    "net_income": 417000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-07",
+    "shares_outstanding": 429983000.0,
+    "revenue": 1705000000.0,
+    "net_income": 10000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-02",
+    "shares_outstanding": 429629000.0,
+    "revenue": 1525000000.0,
+    "net_income": 126000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 428492000.0,
+    "revenue": 2084000000.0,
+    "net_income": 147000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 428724000.0,
+    "revenue": 8450000000.0,
+    "net_income": 1357000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 428842000.0,
+    "revenue": 1881000000.0,
+    "net_income": 973000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 428284000.0,
+    "revenue": 1837000000.0,
+    "net_income": 119000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNP",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 427415000.0,
+    "revenue": 2587000000.0,
+    "net_income": 148000000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "ticker": "GMED",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 135394000.0,
+    "revenue": 769048000.0,
+    "net_income": 118966000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 136499000.0,
+    "revenue": 745342000.0,
+    "net_income": 202846000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-08",
+    "shares_outstanding": 139774000.0,
+    "revenue": 598121000.0,
+    "net_income": 75462000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 137863000.0,
+    "revenue": 2519355000.0,
+    "net_income": 102984000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 138062000.0,
+    "revenue": 625705000.0,
+    "net_income": 51836000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 136979000.0,
+    "revenue": 629691000.0,
+    "net_income": 31760000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 135358000.0,
+    "revenue": 606666000.0,
+    "net_income": -7117000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 114630000.0,
+    "revenue": 1568476000.0,
+    "net_income": 122873000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 115245000.0,
+    "revenue": 383639000.0,
+    "net_income": 998000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 101782000.0,
+    "revenue": 291615000.0,
+    "net_income": 57712000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 102196000.0,
+    "revenue": 276688000.0,
+    "net_income": 49129000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2022",
+    "filing_date": "2023-02-21",
+    "shares_outstanding": 102643000.0,
+    "revenue": 1022843000.0,
+    "net_income": 190169000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 101417000.0,
+    "revenue": 254148000.0,
+    "net_income": 47431000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 102884000.0,
+    "revenue": 263648000.0,
+    "net_income": 54590000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 104077000.0,
+    "revenue": 230549000.0,
+    "net_income": 38084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2021",
+    "filing_date": "2022-02-17",
+    "shares_outstanding": 103623000.0,
+    "revenue": 958102000.0,
+    "net_income": 149191000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 104418000.0,
+    "revenue": 229721000.0,
+    "net_income": 47211000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 103475000.0,
+    "revenue": 251016000.0,
+    "net_income": 41545000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 102420000.0,
+    "revenue": 227344000.0,
+    "net_income": 45329000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2020",
+    "filing_date": "2021-02-17",
+    "shares_outstanding": 100971000.0,
+    "revenue": 789042000.0,
+    "net_income": 102285000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 100485000.0,
+    "revenue": 216098000.0,
+    "net_income": 44216000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 97509000.0,
+    "revenue": 148922000.0,
+    "net_income": -20837000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 102146000.0,
+    "revenue": 190577000.0,
+    "net_income": 25949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 101998000.0,
+    "revenue": 785368000.0,
+    "net_income": 155210000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 102100000.0,
+    "revenue": 196215000.0,
+    "net_income": 38307000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-01",
+    "shares_outstanding": 101582000.0,
+    "revenue": 194539000.0,
+    "net_income": 38163000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 101367000.0,
+    "revenue": 182947000.0,
+    "net_income": 33210000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 101316000.0,
+    "revenue": 712969000.0,
+    "net_income": 156474000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 101804000.0,
+    "revenue": 169236000.0,
+    "net_income": 35208000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 101510000.0,
+    "revenue": 173384000.0,
+    "net_income": 44977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 100496000.0,
+    "revenue": 174411000.0,
+    "net_income": 39538000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 97887000.0,
+    "revenue": 635977000.0,
+    "net_income": 107348000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 97849000.0,
+    "revenue": 151744000.0,
+    "net_income": 25591000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 97818000.0,
+    "revenue": 152390000.0,
+    "net_income": 28667000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 97148000.0,
+    "revenue": 155809000.0,
+    "net_income": 28714000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2016",
+    "filing_date": "2017-03-16",
+    "shares_outstanding": 96432000.0,
+    "revenue": 563994000.0,
+    "net_income": 104341000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 96492000.0,
+    "revenue": 135651000.0,
+    "net_income": 26227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-27",
+    "shares_outstanding": 96426000.0,
+    "revenue": 137489000.0,
+    "net_income": 25806000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 96293000.0,
+    "revenue": 139264000.0,
+    "net_income": 28010000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 96073000.0,
+    "revenue": 544753000.0,
+    "net_income": 112784000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-04",
+    "shares_outstanding": 96119000.0,
+    "revenue": 136992000.0,
+    "net_income": 26481000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 96049000.0,
+    "revenue": 133570000.0,
+    "net_income": 24054000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 95905000.0,
+    "revenue": 131604000.0,
+    "net_income": 24648000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 95457000.0,
+    "revenue": 474371000.0,
+    "net_income": 92485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 95475000.0,
+    "revenue": 117787000.0,
+    "net_income": 23061000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 95480000.0,
+    "revenue": 113573000.0,
+    "net_income": 20647000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 95172000.0,
+    "revenue": 114210000.0,
+    "net_income": 21139000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2013",
+    "filing_date": "2014-03-14",
+    "shares_outstanding": 94192000.0,
+    "revenue": 434459000.0,
+    "net_income": 68612000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 94422000.0,
+    "revenue": 107187000.0,
+    "net_income": 20310000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 93970000.0,
+    "revenue": 107009000.0,
+    "net_income": 7426000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 93573000.0,
+    "revenue": 105018000.0,
+    "net_income": 19891000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "FY 2012",
+    "filing_date": "2013-03-05",
+    "shares_outstanding": 92208000.0,
+    "revenue": 385994000.0,
+    "net_income": 73831000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "GMED",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 92697000.0,
+    "revenue": 94764000.0,
+    "net_income": 16487000.0,
+    "market_cap": null
+  }
+]

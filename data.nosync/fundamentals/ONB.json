@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "ONB",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 365464000.0,
+    "revenue": 3269853000.0,
+    "net_income": 669257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 365464000.0,
+    "revenue": 3269853000.0,
+    "net_income": 669257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 361436000.0,
+    "revenue": 824961000.0,
+    "net_income": 125408000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 321016000.0,
+    "revenue": 630399000.0,
+    "net_income": 144659000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2024",
+    "filing_date": "2025-02-19",
+    "shares_outstanding": 311001000.0,
+    "revenue": 2601651000.0,
+    "net_income": 539188000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 317331000.0,
+    "revenue": 679925000.0,
+    "net_income": 143802000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 316461000.0,
+    "revenue": 663663000.0,
+    "net_income": 121229000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 292207000.0,
+    "revenue": 595981000.0,
+    "net_income": 120284000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 291855000.0,
+    "revenue": 2206821000.0,
+    "net_income": 581992000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 291717000.0,
+    "revenue": 576519000.0,
+    "net_income": 147876000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 291266000.0,
+    "revenue": 544902000.0,
+    "net_income": 155036000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 292756000.0,
+    "revenue": 495649000.0,
+    "net_income": 146600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 276688000.0,
+    "revenue": 1454202000.0,
+    "net_income": 428287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 292483000.0,
+    "revenue": 406518000.0,
+    "net_income": 140153000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 291881000.0,
+    "revenue": 354358000.0,
+    "net_income": 114985000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 227002000.0,
+    "revenue": 235505000.0,
+    "net_income": -27586000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2021",
+    "filing_date": "2022-02-10",
+    "shares_outstanding": 165929000.0,
+    "revenue": 125616000.0,
+    "net_income": 277538000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 165939000.0,
+    "revenue": 31785000.0,
+    "net_income": 71746000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 165934000.0,
+    "revenue": 32184000.0,
+    "net_income": 62786000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 165707000.0,
+    "revenue": 30158000.0,
+    "net_income": 86818000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2020",
+    "filing_date": "2021-02-10",
+    "shares_outstanding": 166177000.0,
+    "revenue": 118433000.0,
+    "net_income": 226409000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 165419000.0,
+    "revenue": 160086000.0,
+    "net_income": 77944000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 165302000.0,
+    "revenue": 161974000.0,
+    "net_income": 51705000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-29",
+    "shares_outstanding": 168404000.0,
+    "revenue": 167999000.0,
+    "net_income": 22640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2019",
+    "filing_date": "2020-02-12",
+    "shares_outstanding": 172687000.0,
+    "revenue": 130804000.0,
+    "net_income": 238206000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 171551000.0,
+    "revenue": 185853000.0,
+    "net_income": 69781000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 173675000.0,
+    "revenue": 189063000.0,
+    "net_income": 62964000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 175368000.0,
+    "revenue": 178918000.0,
+    "net_income": 56276000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2018",
+    "filing_date": "2019-02-12",
+    "shares_outstanding": 156539000.0,
+    "revenue": 127364000.0,
+    "net_income": 190830000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 152784000.0,
+    "revenue": 155369000.0,
+    "net_income": 51348000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 152568000.0,
+    "revenue": 153736000.0,
+    "net_income": 44001000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-02",
+    "shares_outstanding": 152370000.0,
+    "revenue": 147706000.0,
+    "net_income": 47983000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2017",
+    "filing_date": "2018-02-15",
+    "shares_outstanding": 138513000.0,
+    "revenue": 495336000.0,
+    "net_income": 95725000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 135796000.0,
+    "revenue": 123525000.0,
+    "net_income": 39372000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 135697000.0,
+    "revenue": 118209000.0,
+    "net_income": 38854000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 135431000.0,
+    "revenue": 118468000.0,
+    "net_income": 35992000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2016",
+    "filing_date": "2017-02-16",
+    "shares_outstanding": 128301000.0,
+    "revenue": 447134000.0,
+    "net_income": 134264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-04",
+    "shares_outstanding": 135011000.0,
+    "revenue": 119713000.0,
+    "net_income": 34709000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 127973000.0,
+    "revenue": 110243000.0,
+    "net_income": 39122000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-06",
+    "shares_outstanding": 114563000.0,
+    "revenue": 95329000.0,
+    "net_income": 26977000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 116255000.0,
+    "revenue": 399189000.0,
+    "net_income": 116716000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 115153000.0,
+    "revenue": 105671000.0,
+    "net_income": 37669000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 116223000.0,
+    "revenue": 99964000.0,
+    "net_income": 26156000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-01",
+    "shares_outstanding": 119076000.0,
+    "revenue": 98594000.0,
+    "net_income": 20906000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2014",
+    "filing_date": "2015-02-25",
+    "shares_outstanding": 108365000.0,
+    "revenue": 389729000.0,
+    "net_income": 103667000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 111947000.0,
+    "revenue": 114618000.0,
+    "net_income": 29134000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 104361000.0,
+    "revenue": 89528000.0,
+    "net_income": 18773000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 100325000.0,
+    "revenue": 88265000.0,
+    "net_income": 26510000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 101198000.0,
+    "revenue": 341810000.0,
+    "net_income": 100920000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 101131000.0,
+    "revenue": 83894000.0,
+    "net_income": 23948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 101352000.0,
+    "revenue": 85682000.0,
+    "net_income": 28478000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 101547000.0,
+    "revenue": 86102000.0,
+    "net_income": 23945000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 96833000.0,
+    "revenue": 344699000.0,
+    "net_income": 91675000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 96125000.0,
+    "revenue": 82772000.0,
+    "net_income": 19737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 94871000.0,
+    "revenue": 85264000.0,
+    "net_income": 27206000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 94833000.0,
+    "revenue": 84263000.0,
+    "net_income": 21723000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 94772000.0,
+    "revenue": 326593000.0,
+    "net_income": 72460000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 94785000.0,
+    "revenue": 87169000.0,
+    "net_income": 16797000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 94701000.0,
+    "revenue": 76872000.0,
+    "net_income": 17016000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "ONB",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 94670000.0,
+    "revenue": 76317000.0,
+    "net_income": 16433000.0,
+    "market_cap": null
+  }
+]

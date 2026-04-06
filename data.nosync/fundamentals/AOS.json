@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "AOS",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 140894888.0,
+    "revenue": 942500000.0,
+    "net_income": 132000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 142483521.0,
+    "revenue": 1011300000.0,
+    "net_income": 152200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 144407720.0,
+    "revenue": 963900000.0,
+    "net_income": 136600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-11",
+    "shares_outstanding": 147084080.0,
+    "revenue": 3818100000.0,
+    "net_income": 533600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 146700340.0,
+    "revenue": 902600000.0,
+    "net_income": 120100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 147599585.0,
+    "revenue": 1024300000.0,
+    "net_income": 156200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-26",
+    "shares_outstanding": 148297481.0,
+    "revenue": 978800000.0,
+    "net_income": 147600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-13",
+    "shares_outstanding": 151015574.0,
+    "revenue": 3852800000.0,
+    "net_income": 556600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-27",
+    "shares_outstanding": 151209974.0,
+    "revenue": 937500000.0,
+    "net_income": 135400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-28",
+    "shares_outstanding": 151541100.0,
+    "revenue": 960800000.0,
+    "net_income": 157000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 151900847.0,
+    "revenue": 966400000.0,
+    "net_income": 126900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-14",
+    "shares_outstanding": 155779364.0,
+    "revenue": 3753900000.0,
+    "net_income": 235700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-28",
+    "shares_outstanding": 155074862.0,
+    "revenue": 874200000.0,
+    "net_income": 109800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-29",
+    "shares_outstanding": 156631672.0,
+    "revenue": 965900000.0,
+    "net_income": 126200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-02",
+    "shares_outstanding": 158317699.0,
+    "revenue": 977700000.0,
+    "net_income": 119800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-11",
+    "shares_outstanding": 161319902.0,
+    "revenue": 3538900000.0,
+    "net_income": 487100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-29",
+    "shares_outstanding": 160628348.0,
+    "revenue": 914600000.0,
+    "net_income": 131600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 161731973.0,
+    "revenue": 859800000.0,
+    "net_income": 118200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 162785323.0,
+    "revenue": 769000000.0,
+    "net_income": 97700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-12",
+    "shares_outstanding": 162604149.0,
+    "revenue": 2895300000.0,
+    "net_income": 344900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-06",
+    "shares_outstanding": 162479678.0,
+    "revenue": 760000000.0,
+    "net_income": 105400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 162173842.0,
+    "revenue": 663900000.0,
+    "net_income": 67800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 162897605.0,
+    "revenue": 636900000.0,
+    "net_income": 51700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 166710897.0,
+    "revenue": 2992700000.0,
+    "net_income": 370000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 165543245.0,
+    "revenue": 728200000.0,
+    "net_income": 87300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 168086268.0,
+    "revenue": 765400000.0,
+    "net_income": 102100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 169096142.0,
+    "revenue": 748200000.0,
+    "net_income": 89300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-15",
+    "shares_outstanding": 172194040.0,
+    "revenue": 3187900000.0,
+    "net_income": 444200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 172084616.0,
+    "revenue": 754100000.0,
+    "net_income": 104600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-06",
+    "shares_outstanding": 172730166.0,
+    "revenue": 833300000.0,
+    "net_income": 114500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 173350664.0,
+    "revenue": 788000000.0,
+    "net_income": 98800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-16",
+    "shares_outstanding": 174605189.0,
+    "revenue": 2996700000.0,
+    "net_income": 296500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-06",
+    "shares_outstanding": 174355743.0,
+    "revenue": 749900000.0,
+    "net_income": 93700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 174889449.0,
+    "revenue": 738200000.0,
+    "net_income": 92400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 175419919.0,
+    "revenue": 740000000.0,
+    "net_income": 87700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2016",
+    "filing_date": "2017-02-17",
+    "shares_outstanding": 176825280.0,
+    "revenue": 2685900000.0,
+    "net_income": 326500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-08",
+    "shares_outstanding": 176548378.0,
+    "revenue": 683900000.0,
+    "net_income": 83200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-08",
+    "shares_outstanding": 88499360.0,
+    "revenue": 667000000.0,
+    "net_income": 87100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 88905361.0,
+    "revenue": 636900000.0,
+    "net_income": 73500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-17",
+    "shares_outstanding": 89504590.0,
+    "revenue": 2536500000.0,
+    "net_income": 282900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": 89369574.0,
+    "revenue": 625100000.0,
+    "net_income": 73600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-10",
+    "shares_outstanding": 89825155.0,
+    "revenue": 653500000.0,
+    "net_income": 71100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 90166925.0,
+    "revenue": 618500000.0,
+    "net_income": 58400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2014",
+    "filing_date": "2015-02-17",
+    "shares_outstanding": 90986981.0,
+    "revenue": 2356000000.0,
+    "net_income": 207800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-03",
+    "shares_outstanding": 90605750.0,
+    "revenue": 581600000.0,
+    "net_income": 50600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 91156313.0,
+    "revenue": 595400000.0,
+    "net_income": 57300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-05",
+    "shares_outstanding": 91965995.0,
+    "revenue": 552200000.0,
+    "net_income": 46700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2013",
+    "filing_date": "2014-02-20",
+    "shares_outstanding": 92787670.0,
+    "revenue": 2153800000.0,
+    "net_income": 169700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-04",
+    "shares_outstanding": 92728061.0,
+    "revenue": 536200000.0,
+    "net_income": 46200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-05",
+    "shares_outstanding": 93231908.0,
+    "revenue": 549100000.0,
+    "net_income": 42100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-06",
+    "shares_outstanding": 93184890.0,
+    "revenue": 509600000.0,
+    "net_income": 39000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 46554061.0,
+    "revenue": 1939300000.0,
+    "net_income": 158700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 46569092.0,
+    "revenue": 462300000.0,
+    "net_income": 37000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 46573981.0,
+    "revenue": 484200000.0,
+    "net_income": 35000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 46488336.0,
+    "revenue": 468600000.0,
+    "net_income": 47500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 46574618.0,
+    "revenue": 1710500000.0,
+    "net_income": 305700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 46642523.0,
+    "revenue": 412000000.0,
+    "net_income": 182300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 46646497.0,
+    "revenue": 405300000.0,
+    "net_income": 50300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": -52348.0,
+    "revenue": 417400000.0,
+    "net_income": 41000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AOS",
+    "period": "FY 2010",
+    "filing_date": "2011-02-24",
+    "shares_outstanding": 881400000.0,
+    "revenue": 1489300000.0,
+    "net_income": 111500000.0,
+    "market_cap": null
+  }
+]

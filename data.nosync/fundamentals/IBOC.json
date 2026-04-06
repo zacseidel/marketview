@@ -1,0 +1,551 @@
+[
+  {
+    "ticker": "IBOC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 62256907.0,
+    "revenue": 886274000.0,
+    "net_income": 412293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 62256907.0,
+    "revenue": 886274000.0,
+    "net_income": 412293000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 62245032.0,
+    "revenue": 226778000.0,
+    "net_income": 108375000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 62232768.0,
+    "revenue": 220967000.0,
+    "net_income": 100142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-05",
+    "shares_outstanding": 62304991.0,
+    "revenue": 214639000.0,
+    "net_income": 96892000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 62298278.0,
+    "revenue": 865982000.0,
+    "net_income": 409167000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 62309574.0,
+    "revenue": 222657000.0,
+    "net_income": 99772000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 62292058.0,
+    "revenue": 215672000.0,
+    "net_income": 96980000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 62267293.0,
+    "revenue": 212089000.0,
+    "net_income": 97331000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-26",
+    "shares_outstanding": 62221601.0,
+    "revenue": 800162000.0,
+    "net_income": 411768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 62195486.0,
+    "revenue": 204175000.0,
+    "net_income": 103264000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 62205297.0,
+    "revenue": 198124000.0,
+    "net_income": 100485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 62282328.0,
+    "revenue": 188149000.0,
+    "net_income": 101643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 62810234.0,
+    "revenue": 525781000.0,
+    "net_income": 300232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 62371475.0,
+    "revenue": 145087000.0,
+    "net_income": 83356000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 63085429.0,
+    "revenue": 109584000.0,
+    "net_income": 57971000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 63498268.0,
+    "revenue": 96432000.0,
+    "net_income": 53493000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 63486366.0,
+    "revenue": 398103000.0,
+    "net_income": 253922000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 63498542.0,
+    "revenue": 101192000.0,
+    "net_income": 54599000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 63518556.0,
+    "revenue": 97979000.0,
+    "net_income": 92026000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 63419706.0,
+    "revenue": 97874000.0,
+    "net_income": 50771000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 63853135.0,
+    "revenue": 427008000.0,
+    "net_income": 167319000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 63386292.0,
+    "revenue": 99983000.0,
+    "net_income": 42742000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 63397199.0,
+    "revenue": 113650000.0,
+    "net_income": 41509000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 65228824.0,
+    "revenue": 116612000.0,
+    "net_income": 34838000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 65685684.0,
+    "revenue": 492401000.0,
+    "net_income": 205104000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-06",
+    "shares_outstanding": 65636116.0,
+    "revenue": 124119000.0,
+    "net_income": 51444000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 65867234.0,
+    "revenue": 126860000.0,
+    "net_income": 50020000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 65831162.0,
+    "revenue": 124063000.0,
+    "net_income": 51906000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 66633820.0,
+    "revenue": 465822000.0,
+    "net_income": 215931000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-07",
+    "shares_outstanding": 66423209.0,
+    "revenue": 118374000.0,
+    "net_income": 51095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 66932113.0,
+    "revenue": 115066000.0,
+    "net_income": 52887000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 66863895.0,
+    "revenue": 111407000.0,
+    "net_income": 53420000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 66778436.0,
+    "revenue": 415136000.0,
+    "net_income": 157436000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 66745350.0,
+    "revenue": 106945000.0,
+    "net_income": 39628000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-07",
+    "shares_outstanding": 66715171.0,
+    "revenue": 103174000.0,
+    "net_income": 40569000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 66747499.0,
+    "revenue": 96981000.0,
+    "net_income": 32004000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 66313490.0,
+    "revenue": 387914000.0,
+    "net_income": 133932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-07",
+    "shares_outstanding": 66291556.0,
+    "revenue": 96624000.0,
+    "net_income": 35787000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-05",
+    "shares_outstanding": 66159105.0,
+    "revenue": 97896000.0,
+    "net_income": 29688000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 66118082.0,
+    "revenue": 97057000.0,
+    "net_income": 32984000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 66636353.0,
+    "revenue": 396754000.0,
+    "net_income": 136726000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 66661841.0,
+    "revenue": 100724000.0,
+    "net_income": 32019000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 66684136.0,
+    "revenue": 98975000.0,
+    "net_income": 33875000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 66555392.0,
+    "revenue": 99132000.0,
+    "net_income": 35859000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 67056456.0,
+    "revenue": 393599000.0,
+    "net_income": 153151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 67016937.0,
+    "revenue": 97958000.0,
+    "net_income": 33233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-11",
+    "shares_outstanding": 67071370.0,
+    "revenue": 99340000.0,
+    "net_income": 37719000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-05",
+    "shares_outstanding": 67272299.0,
+    "revenue": 97637000.0,
+    "net_income": 43646000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2013",
+    "filing_date": "2014-02-24",
+    "shares_outstanding": 67314859.0,
+    "revenue": 363217000.0,
+    "net_income": 126351000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-06",
+    "shares_outstanding": 67333442.0,
+    "revenue": 91650000.0,
+    "net_income": 31826000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-05",
+    "shares_outstanding": 67292053.0,
+    "revenue": 86324000.0,
+    "net_income": 27513000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 67279981.0,
+    "revenue": 87110000.0,
+    "net_income": 28069000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2012",
+    "filing_date": "2013-02-25",
+    "shares_outstanding": 67313963.0,
+    "revenue": 375639000.0,
+    "net_income": 107835000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-05",
+    "shares_outstanding": 67301701.0,
+    "revenue": 93775000.0,
+    "net_income": 25878000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 67323912.0,
+    "revenue": 93683000.0,
+    "net_income": 24550000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 67355427.0,
+    "revenue": 95782000.0,
+    "net_income": 31687000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 67569468.0,
+    "revenue": 418124000.0,
+    "net_income": 127149000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 67469889.0,
+    "revenue": 103623000.0,
+    "net_income": 30631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 67689784.0,
+    "revenue": 107844000.0,
+    "net_income": 32624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IBOC",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 67779608.0,
+    "revenue": 107138000.0,
+    "net_income": 33521000.0,
+    "market_cap": null
+  }
+]

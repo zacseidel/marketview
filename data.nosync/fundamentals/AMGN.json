@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "AMGN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 542000000.0,
+    "revenue": 36751000000.0,
+    "net_income": 7711000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-13",
+    "shares_outstanding": 542000000.0,
+    "revenue": 36751000000.0,
+    "net_income": 7711000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 542000000.0,
+    "revenue": 9557000000.0,
+    "net_income": 3216000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 541000000.0,
+    "revenue": 9179000000.0,
+    "net_income": 1432000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 541000000.0,
+    "revenue": 8149000000.0,
+    "net_income": 1730000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 542000000.0,
+    "revenue": 8503000000.0,
+    "net_income": 2830000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 541000000.0,
+    "revenue": 8388000000.0,
+    "net_income": 746000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 536000000.0,
+    "revenue": 7447000000.0,
+    "net_income": -113000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 538000000.0,
+    "revenue": 28190000000.0,
+    "net_income": 6717000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 538000000.0,
+    "revenue": 6903000000.0,
+    "net_income": 1730000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 537000000.0,
+    "revenue": 6986000000.0,
+    "net_income": 1379000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-28",
+    "shares_outstanding": 538000000.0,
+    "revenue": 6105000000.0,
+    "net_income": 2841000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 541000000.0,
+    "revenue": 26323000000.0,
+    "net_income": 6552000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 538000000.0,
+    "revenue": 6652000000.0,
+    "net_income": 2143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 537000000.0,
+    "revenue": 6594000000.0,
+    "net_income": 1317000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 551000000.0,
+    "revenue": 6238000000.0,
+    "net_income": 1476000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2021",
+    "filing_date": "2022-02-16",
+    "shares_outstanding": 573000000.0,
+    "revenue": 25979000000.0,
+    "net_income": 5893000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 570000000.0,
+    "revenue": 6706000000.0,
+    "net_income": 1884000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 576000000.0,
+    "revenue": 6526000000.0,
+    "net_income": 464000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 581000000.0,
+    "revenue": 5901000000.0,
+    "net_income": 1646000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2020",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 590000000.0,
+    "revenue": 25424000000.0,
+    "net_income": 7264000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 589000000.0,
+    "revenue": 6423000000.0,
+    "net_income": 2021000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-29",
+    "shares_outstanding": 592000000.0,
+    "revenue": 6206000000.0,
+    "net_income": 1803000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 594000000.0,
+    "revenue": 6161000000.0,
+    "net_income": 1825000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2019",
+    "filing_date": "2020-02-12",
+    "shares_outstanding": 609000000.0,
+    "revenue": 23362000000.0,
+    "net_income": 7842000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 602000000.0,
+    "revenue": 5737000000.0,
+    "net_income": 1968000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 610000000.0,
+    "revenue": 5871000000.0,
+    "net_income": 2179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 626000000.0,
+    "revenue": 5557000000.0,
+    "net_income": 1992000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2018",
+    "filing_date": "2019-02-13",
+    "shares_outstanding": 665000000.0,
+    "revenue": 23747000000.0,
+    "net_income": 8394000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 649000000.0,
+    "revenue": 5904000000.0,
+    "net_income": 1859000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-27",
+    "shares_outstanding": 660000000.0,
+    "revenue": 6059000000.0,
+    "net_income": 2296000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-25",
+    "shares_outstanding": 711000000.0,
+    "revenue": 5554000000.0,
+    "net_income": 2311000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2017",
+    "filing_date": "2018-02-13",
+    "shares_outstanding": 735000000.0,
+    "revenue": 22849000000.0,
+    "net_income": 1979000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-26",
+    "shares_outstanding": 733000000.0,
+    "revenue": 5453000000.0,
+    "net_income": 2021000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-26",
+    "shares_outstanding": 738000000.0,
+    "revenue": 5574000000.0,
+    "net_income": 2151000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-27",
+    "shares_outstanding": 741000000.0,
+    "revenue": 5199000000.0,
+    "net_income": 2071000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2016",
+    "filing_date": "2017-02-14",
+    "shares_outstanding": 754000000.0,
+    "revenue": 22991000000.0,
+    "net_income": 7722000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 753000000.0,
+    "revenue": 5516000000.0,
+    "net_income": 2017000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 756000000.0,
+    "revenue": 5474000000.0,
+    "net_income": 1870000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-02",
+    "shares_outstanding": 760000000.0,
+    "revenue": 5239000000.0,
+    "net_income": 1900000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2015",
+    "filing_date": "2016-02-16",
+    "shares_outstanding": 766000000.0,
+    "revenue": 21662000000.0,
+    "net_income": 6939000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-02",
+    "shares_outstanding": 764000000.0,
+    "revenue": 5516000000.0,
+    "net_income": 1863000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 768000000.0,
+    "revenue": 5225000000.0,
+    "net_income": 1653000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-27",
+    "shares_outstanding": 770000000.0,
+    "revenue": 4874000000.0,
+    "net_income": 1623000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2014",
+    "filing_date": "2015-02-19",
+    "shares_outstanding": 770000000.0,
+    "revenue": 20063000000.0,
+    "net_income": 5158000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 771000000.0,
+    "revenue": 4848000000.0,
+    "net_income": 1244000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 768000000.0,
+    "revenue": 4949000000.0,
+    "net_income": 1547000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-30",
+    "shares_outstanding": 768000000.0,
+    "revenue": 4356000000.0,
+    "net_income": 1073000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2013",
+    "filing_date": "2014-02-24",
+    "shares_outstanding": 765000000.0,
+    "revenue": 18676000000.0,
+    "net_income": 5081000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-29",
+    "shares_outstanding": 766000000.0,
+    "revenue": 4647000000.0,
+    "net_income": 1368000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 764000000.0,
+    "revenue": 4595000000.0,
+    "net_income": 1258000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 764000000.0,
+    "revenue": 4151000000.0,
+    "net_income": 1434000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 787000000.0,
+    "revenue": 17265000000.0,
+    "net_income": 4345000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 783000000.0,
+    "revenue": 4201000000.0,
+    "net_income": 1107000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 785000000.0,
+    "revenue": 4200000000.0,
+    "net_income": 1266000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 800000000.0,
+    "revenue": 3901000000.0,
+    "net_income": 1184000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 912000000.0,
+    "revenue": 15582000000.0,
+    "net_income": 3683000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 914000000.0,
+    "revenue": 3877000000.0,
+    "net_income": 454000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 935000000.0,
+    "revenue": 3893000000.0,
+    "net_income": 1170000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-10",
+    "shares_outstanding": 941000000.0,
+    "revenue": 3618000000.0,
+    "net_income": 1125000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2010",
+    "filing_date": "2011-02-25",
+    "shares_outstanding": 965000000.0,
+    "revenue": 15053000000.0,
+    "net_income": 4627000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-08",
+    "shares_outstanding": 962000000.0,
+    "revenue": 3759000000.0,
+    "net_income": 1236000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-09",
+    "shares_outstanding": 964000000.0,
+    "revenue": 3613000000.0,
+    "net_income": 1202000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-07",
+    "shares_outstanding": 988000000.0,
+    "revenue": 3528000000.0,
+    "net_income": 1167000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "FY 2009",
+    "filing_date": "2010-03-01",
+    "shares_outstanding": 1021000000.0,
+    "revenue": 14642000000.0,
+    "net_income": 4605000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-06",
+    "shares_outstanding": 1022000000.0,
+    "revenue": 3812000000.0,
+    "net_income": 1386000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AMGN",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-10",
+    "shares_outstanding": 1017000000.0,
+    "revenue": 3713000000.0,
+    "net_income": 1269000000.0,
+    "market_cap": null
+  }
+]

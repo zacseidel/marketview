@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "IEX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 75300000.0,
+    "revenue": 3457500000.0,
+    "net_income": 482500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 75300000.0,
+    "revenue": 3457500000.0,
+    "net_income": 482500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "shares_outstanding": 75500000.0,
+    "revenue": 865400000.0,
+    "net_income": 131100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 75800000.0,
+    "revenue": 814300000.0,
+    "net_income": 95400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 75900000.0,
+    "revenue": 3268800000.0,
+    "net_income": 504600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 75900000.0,
+    "revenue": 798200000.0,
+    "net_income": 118900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 75900000.0,
+    "revenue": 807200000.0,
+    "net_income": 141200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 75900000.0,
+    "revenue": 800500000.0,
+    "net_income": 121300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 75900000.0,
+    "revenue": 3273900000.0,
+    "net_income": 595600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-26",
+    "shares_outstanding": 75900000.0,
+    "revenue": 793400000.0,
+    "net_income": 209000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 75900000.0,
+    "revenue": 846200000.0,
+    "net_income": 138500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 75900000.0,
+    "revenue": 845400000.0,
+    "net_income": 139800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 76000000.0,
+    "revenue": 3181900000.0,
+    "net_income": 586700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 75800000.0,
+    "revenue": 824000000.0,
+    "net_income": 178700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 76100000.0,
+    "revenue": 796100000.0,
+    "net_income": 138100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 76400000.0,
+    "revenue": 751100000.0,
+    "net_income": 139900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 76400000.0,
+    "revenue": 2764800000.0,
+    "net_income": 449300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 76452000.0,
+    "revenue": 712019000.0,
+    "net_income": 115714000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-28",
+    "shares_outstanding": 76429000.0,
+    "revenue": 685947000.0,
+    "net_income": 102179000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 76341000.0,
+    "revenue": 652036000.0,
+    "net_income": 112672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 76400000.0,
+    "revenue": 2351646000.0,
+    "net_income": 377778000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 75960000.0,
+    "revenue": 581113000.0,
+    "net_income": 103848000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-24",
+    "shares_outstanding": 75937000.0,
+    "revenue": 561249000.0,
+    "net_income": 70864000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-24",
+    "shares_outstanding": 76452000.0,
+    "revenue": 594462000.0,
+    "net_income": 101998000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-21",
+    "shares_outstanding": 76454000.0,
+    "revenue": 2494573000.0,
+    "net_income": 425521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-30",
+    "shares_outstanding": 76577000.0,
+    "revenue": 624246000.0,
+    "net_income": 105194000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-26",
+    "shares_outstanding": 76387000.0,
+    "revenue": 642099000.0,
+    "net_income": 113209000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-26",
+    "shares_outstanding": 76284000.0,
+    "revenue": 622231000.0,
+    "net_income": 110268000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 77563000.0,
+    "revenue": 2483666000.0,
+    "net_income": 410573000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-24",
+    "shares_outstanding": 77709000.0,
+    "revenue": 622888000.0,
+    "net_income": 106352000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-25",
+    "shares_outstanding": 77704000.0,
+    "revenue": 634360000.0,
+    "net_income": 107126000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-30",
+    "shares_outstanding": 77739000.0,
+    "revenue": 612324000.0,
+    "net_income": 98958000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 77333000.0,
+    "revenue": 2287312000.0,
+    "net_income": 337257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-23",
+    "shares_outstanding": 77523000.0,
+    "revenue": 574490000.0,
+    "net_income": 83768000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-26",
+    "shares_outstanding": 77320000.0,
+    "revenue": 573366000.0,
+    "net_income": 83844000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2017",
+    "filing_date": "2017-04-26",
+    "shares_outstanding": 76894000.0,
+    "revenue": 553552000.0,
+    "net_income": 75899000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 76758000.0,
+    "revenue": 2113043000.0,
+    "net_income": 271109000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-25",
+    "shares_outstanding": 76880000.0,
+    "revenue": 530356000.0,
+    "net_income": 69873000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-01",
+    "shares_outstanding": 76674000.0,
+    "revenue": 549696000.0,
+    "net_income": 75759000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-25",
+    "shares_outstanding": 76699000.0,
+    "revenue": 502572000.0,
+    "net_income": 68130000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-19",
+    "shares_outstanding": 77972000.0,
+    "revenue": 2020668000.0,
+    "net_income": 282807000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-27",
+    "shares_outstanding": 77646000.0,
+    "revenue": 503791000.0,
+    "net_income": 79505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-27",
+    "shares_outstanding": 78297000.0,
+    "revenue": 514881000.0,
+    "net_income": 69585000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-28",
+    "shares_outstanding": 78856000.0,
+    "revenue": 502198000.0,
+    "net_income": 65954000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-23",
+    "shares_outstanding": 80728000.0,
+    "revenue": 2147767000.0,
+    "net_income": 279386000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-27",
+    "shares_outstanding": 80561000.0,
+    "revenue": 533179000.0,
+    "net_income": 71441000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-29",
+    "shares_outstanding": 81149000.0,
+    "revenue": 546693000.0,
+    "net_income": 71777000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-29",
+    "shares_outstanding": 81575000.0,
+    "revenue": 543996000.0,
+    "net_income": 74548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-13",
+    "shares_outstanding": 82489000.0,
+    "revenue": 2024130000.0,
+    "net_income": 255215000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 82218000.0,
+    "revenue": 490617000.0,
+    "net_income": 63799000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-05",
+    "shares_outstanding": 82734000.0,
+    "revenue": 518445000.0,
+    "net_income": 62561000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-06",
+    "shares_outstanding": 83152000.0,
+    "revenue": 494448000.0,
+    "net_income": 61300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 83641000.0,
+    "revenue": 1954258000.0,
+    "net_income": 37630000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 83370000.0,
+    "revenue": 479859000.0,
+    "net_income": 50127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 84090000.0,
+    "revenue": 494144000.0,
+    "net_income": 54351000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 83902000.0,
+    "revenue": 489417000.0,
+    "net_income": 52171000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 83543000.0,
+    "revenue": 1838451000.0,
+    "net_income": 193857000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-31",
+    "shares_outstanding": 83586000.0,
+    "revenue": 476881000.0,
+    "net_income": 48336000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 83778000.0,
+    "revenue": 453798000.0,
+    "net_income": 50182000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": 83248000.0,
+    "revenue": 427089000.0,
+    "net_income": 47951000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "FY 2010",
+    "filing_date": "2011-02-25",
+    "shares_outstanding": 81983000.0,
+    "revenue": 1513073000.0,
+    "net_income": 157100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-04",
+    "shares_outstanding": 81938000.0,
+    "revenue": 373731000.0,
+    "net_income": 38564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IEX",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 81800000.0,
+    "revenue": 378526000.0,
+    "net_income": 40398000.0,
+    "market_cap": null
+  }
+]

@@ -93,7 +93,7 @@ def _load_prior_ranks(eval_date: str) -> dict[str, int]:
     )
     for d in prior_dirs:
         path = d / "momentum_ranks.json"
-        if path.exists():
+        if path.exists() and path.stat().st_size > 2:
             with open(path) as f:
                 records = json.load(f)
             log.info("momentum.prior_ranks_loaded", from_date=d.name, count=len(records))

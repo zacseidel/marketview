@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "LLY",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 899300000.0,
+    "revenue": 65179000000.0,
+    "net_income": 20640000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2025",
+    "filing_date": "2026-02-12",
+    "shares_outstanding": 899300000.0,
+    "revenue": 65179000000.0,
+    "net_income": 20640000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 898800000.0,
+    "revenue": 17600800000.0,
+    "net_income": 5582500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 899800000.0,
+    "revenue": 15557700000.0,
+    "net_income": 5660500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 900600000.0,
+    "revenue": 12728500000.0,
+    "net_income": 2759300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2024",
+    "filing_date": "2025-02-19",
+    "shares_outstanding": 904059000.0,
+    "revenue": 45042700000.0,
+    "net_income": 10590000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 905000000.0,
+    "revenue": 11439100000.0,
+    "net_income": 970300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 904200000.0,
+    "revenue": 11302800000.0,
+    "net_income": 2967000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 903800000.0,
+    "revenue": 8768000000.0,
+    "net_income": 2242900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 903284000.0,
+    "revenue": 34124100000.0,
+    "net_income": 5240400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 899800000.0,
+    "revenue": 9498600000.0,
+    "net_income": -57400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 902700000.0,
+    "revenue": 8312100000.0,
+    "net_income": 1763200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 903300000.0,
+    "revenue": 6960000000.0,
+    "net_income": 1344900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 904619000.0,
+    "revenue": 28541400000.0,
+    "net_income": 6244800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 903800000.0,
+    "revenue": 6941600000.0,
+    "net_income": 1451700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 902900000.0,
+    "revenue": 6488000000.0,
+    "net_income": 952500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 906400000.0,
+    "revenue": 7810000000.0,
+    "net_income": 1902900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 911681000.0,
+    "revenue": 28318400000.0,
+    "net_income": 5581700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 910800000.0,
+    "revenue": 6772800000.0,
+    "net_income": 1110100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 910400000.0,
+    "revenue": 6740100000.0,
+    "net_income": 1390200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 912400000.0,
+    "revenue": 6805600000.0,
+    "net_income": 1355300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2020",
+    "filing_date": "2021-02-17",
+    "shares_outstanding": 912505000.0,
+    "revenue": 24539800000.0,
+    "net_income": 6193700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-28",
+    "shares_outstanding": 911400000.0,
+    "revenue": 5740600000.0,
+    "net_income": 1208400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 910900000.0,
+    "revenue": 5499400000.0,
+    "net_income": 1412000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-01",
+    "shares_outstanding": 911700000.0,
+    "revenue": 5859800000.0,
+    "net_income": 1456500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2019",
+    "filing_date": "2020-02-19",
+    "shares_outstanding": 935684000.0,
+    "revenue": 22319500000.0,
+    "net_income": 8318400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-25",
+    "shares_outstanding": 918500000.0,
+    "revenue": 5476600000.0,
+    "net_income": 1253900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-02",
+    "shares_outstanding": 924600000.0,
+    "revenue": 5636700000.0,
+    "net_income": 1327200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-02",
+    "shares_outstanding": 984000000.0,
+    "revenue": 5092200000.0,
+    "net_income": 4241600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2018",
+    "filing_date": "2019-02-19",
+    "shares_outstanding": 1033667000.0,
+    "revenue": 24555700000.0,
+    "net_income": 3232000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 1026300000.0,
+    "revenue": 6061900000.0,
+    "net_income": 1149500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-25",
+    "shares_outstanding": 1030200000.0,
+    "revenue": 6355200000.0,
+    "net_income": -259900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2018",
+    "filing_date": "2018-04-27",
+    "shares_outstanding": 1049800000.0,
+    "revenue": 5700000000.0,
+    "net_income": 1217400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2017",
+    "filing_date": "2018-02-20",
+    "shares_outstanding": 1052023000.0,
+    "revenue": 22871300000.0,
+    "net_income": -204100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-27",
+    "shares_outstanding": 1056000000.0,
+    "revenue": 5658000000.0,
+    "net_income": 555600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-28",
+    "shares_outstanding": 1057100000.0,
+    "revenue": 5824300000.0,
+    "net_income": 1008000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-01",
+    "shares_outstanding": 1056300000.0,
+    "revenue": 5228300000.0,
+    "net_income": -110800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 1061825000.0,
+    "revenue": 21222100000.0,
+    "net_income": 2737600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 1060800000.0,
+    "revenue": 5191700000.0,
+    "net_income": 778000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 1060100000.0,
+    "revenue": 5404800000.0,
+    "net_income": 747700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 1063100000.0,
+    "revenue": 4865100000.0,
+    "net_income": 440100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2015",
+    "filing_date": "2016-02-19",
+    "shares_outstanding": 1065720000.0,
+    "revenue": 19958700000.0,
+    "net_income": 2408400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 1065200000.0,
+    "revenue": 4959700000.0,
+    "net_income": 799700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 1065600000.0,
+    "revenue": 4978700000.0,
+    "net_income": 600800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 1067000000.0,
+    "revenue": 4644700000.0,
+    "net_income": 529500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2014",
+    "filing_date": "2015-02-19",
+    "shares_outstanding": 1074286000.0,
+    "revenue": 19615600000.0,
+    "net_income": 2390500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-29",
+    "shares_outstanding": 1074400000.0,
+    "revenue": 4875600000.0,
+    "net_income": 500600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-28",
+    "shares_outstanding": 1076400000.0,
+    "revenue": 4935600000.0,
+    "net_income": 733500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-28",
+    "shares_outstanding": 1075800000.0,
+    "revenue": 4683100000.0,
+    "net_income": 727900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2013",
+    "filing_date": "2014-02-19",
+    "shares_outstanding": 1084766000.0,
+    "revenue": 23113100000.0,
+    "net_income": 4684800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 16896100000.0,
+    "revenue": 5772600000.0,
+    "net_income": 1203100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2013",
+    "filing_date": "2013-07-26",
+    "shares_outstanding": 15236400000.0,
+    "revenue": 5929700000.0,
+    "net_income": 1206200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-26",
+    "shares_outstanding": 14955600000.0,
+    "revenue": 5602000000.0,
+    "net_income": 1548000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2012",
+    "filing_date": "2013-02-21",
+    "shares_outstanding": 1113178000.0,
+    "revenue": 22603400000.0,
+    "net_income": 4088600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-26",
+    "shares_outstanding": 16056900000.0,
+    "revenue": 5443300000.0,
+    "net_income": 1326600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-27",
+    "shares_outstanding": 14307900000.0,
+    "revenue": 5600700000.0,
+    "net_income": 923600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-30",
+    "shares_outstanding": 14822600000.0,
+    "revenue": 5602000000.0,
+    "net_income": 1011100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 1113967000.0,
+    "revenue": 24286500000.0,
+    "net_income": 4347700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-28",
+    "shares_outstanding": 15057900000.0,
+    "revenue": 6147900000.0,
+    "net_income": 1236300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2011",
+    "filing_date": "2011-07-29",
+    "shares_outstanding": 14277000000.0,
+    "revenue": 6252800000.0,
+    "net_income": 1197300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q1 2011",
+    "filing_date": "2011-04-29",
+    "shares_outstanding": 13934200000.0,
+    "revenue": 5839200000.0,
+    "net_income": 1055900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "LLY",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-31",
+    "shares_outstanding": 8560000000.0,
+    "revenue": 5292800000.0,
+    "net_income": 1158500000.0,
+    "market_cap": null
+  }
+]

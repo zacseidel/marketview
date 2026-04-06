@@ -1,0 +1,560 @@
+[
+  {
+    "ticker": "SBAC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 107533000.0,
+    "revenue": 2815139000.0,
+    "net_income": 1054456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 107533000.0,
+    "revenue": 2815139000.0,
+    "net_income": 1054456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-06",
+    "shares_outstanding": 107559000.0,
+    "revenue": 732327000.0,
+    "net_income": 240431000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-07",
+    "shares_outstanding": 107797000.0,
+    "revenue": 698981000.0,
+    "net_income": 225694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 108140000.0,
+    "revenue": 664248000.0,
+    "net_income": 217906000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 108080000.0,
+    "revenue": 2679634000.0,
+    "net_income": 748677000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 107679000.0,
+    "revenue": 660477000.0,
+    "net_income": 159452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-06",
+    "shares_outstanding": 108616000.0,
+    "revenue": 657862000.0,
+    "net_income": 154543000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 108907000.0,
+    "revenue": 2711584000.0,
+    "net_income": 497415000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 108891000.0,
+    "revenue": 682544000.0,
+    "net_income": 85362000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 108884000.0,
+    "revenue": 678500000.0,
+    "net_income": 201970000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 109271000.0,
+    "revenue": 675516000.0,
+    "net_income": 100554000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 109386000.0,
+    "revenue": 2633454000.0,
+    "net_income": 459799000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 109358000.0,
+    "revenue": 675584000.0,
+    "net_income": 99762000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 109347000.0,
+    "revenue": 652006000.0,
+    "net_income": 69151000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-29",
+    "shares_outstanding": 109544000.0,
+    "revenue": 619770000.0,
+    "net_income": 188306000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 111177000.0,
+    "revenue": 2308834000.0,
+    "net_income": 237624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 111565000.0,
+    "revenue": 589305000.0,
+    "net_income": 47798000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 111301000.0,
+    "revenue": 575528000.0,
+    "net_income": 152669000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 109469000.0,
+    "revenue": 548739000.0,
+    "net_income": -11745000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 113465000.0,
+    "revenue": 2083138000.0,
+    "net_income": 24047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-05",
+    "shares_outstanding": 113703000.0,
+    "revenue": 522940000.0,
+    "net_income": 22676000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 113634000.0,
+    "revenue": 507226000.0,
+    "net_income": 23118000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 111908000.0,
+    "revenue": 517067000.0,
+    "net_income": -127933000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 114693000.0,
+    "revenue": 2014645000.0,
+    "net_income": 147284000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 115184000.0,
+    "revenue": 507547000.0,
+    "net_income": 21766000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 114940000.0,
+    "revenue": 500147000.0,
+    "net_income": 31973000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 114344000.0,
+    "revenue": 493292000.0,
+    "net_income": 25989000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 116515000.0,
+    "revenue": 1865695000.0,
+    "net_income": 47451000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 116114000.0,
+    "revenue": 467221000.0,
+    "net_income": 16144000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-06",
+    "shares_outstanding": 115064000.0,
+    "revenue": 456322000.0,
+    "net_income": -57392000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-07",
+    "shares_outstanding": 118293000.0,
+    "revenue": 458303000.0,
+    "net_income": 31547000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 121022000.0,
+    "revenue": 1727674000.0,
+    "net_income": 103654000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 121026000.0,
+    "revenue": 433945000.0,
+    "net_income": 49161000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 122437000.0,
+    "revenue": 427294000.0,
+    "net_income": 9233000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 121734000.0,
+    "revenue": 423362000.0,
+    "net_income": 37600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 125144000.0,
+    "revenue": 1633125000.0,
+    "net_income": 76238000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 124604000.0,
+    "revenue": 411319000.0,
+    "net_income": -15370000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 125783000.0,
+    "revenue": 405532000.0,
+    "net_income": 32711000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-10",
+    "shares_outstanding": 126124000.0,
+    "revenue": 399769000.0,
+    "net_income": 53641000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": -1706144000.0,
+    "revenue": 1638474000.0,
+    "net_income": -175656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-09",
+    "shares_outstanding": -1697656000.0,
+    "revenue": 410735000.0,
+    "net_income": -155946000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-06",
+    "shares_outstanding": 129948000.0,
+    "revenue": 410704000.0,
+    "net_income": 28305000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 129235000.0,
+    "revenue": 410094000.0,
+    "net_income": -79034000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": -660800000.0,
+    "revenue": 1526996000.0,
+    "net_income": -24295000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 129046000.0,
+    "revenue": 393293000.0,
+    "net_income": -16624000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 159288000.0,
+    "revenue": 383420000.0,
+    "net_income": -9467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-09",
+    "shares_outstanding": 138356000.0,
+    "revenue": 345549000.0,
+    "net_income": 1408000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 356966000.0,
+    "revenue": 1304866000.0,
+    "net_income": -55909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 136912000.0,
+    "revenue": 332094000.0,
+    "net_income": 21531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-06",
+    "shares_outstanding": 435737000.0,
+    "revenue": 324305000.0,
+    "net_income": -35899000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 696645000.0,
+    "revenue": 313071000.0,
+    "net_income": -22376000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 652991000.0,
+    "revenue": 954084000.0,
+    "net_income": -181390000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 440534000.0,
+    "revenue": 238606000.0,
+    "net_income": -52699000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-07",
+    "shares_outstanding": 480195000.0,
+    "revenue": 229147000.0,
+    "net_income": -53454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-07",
+    "shares_outstanding": 259572000.0,
+    "revenue": 192490000.0,
+    "net_income": -22651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": -11313000.0,
+    "revenue": 698170000.0,
+    "net_income": -126892000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 6299000.0,
+    "revenue": 175549000.0,
+    "net_income": -33437000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 112921000.0,
+    "revenue": 171053000.0,
+    "net_income": -29910000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 213078000.0,
+    "revenue": 167749000.0,
+    "net_income": -34376000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-04",
+    "shares_outstanding": 371927000.0,
+    "revenue": 158642000.0,
+    "net_income": -34575000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "SBAC",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-04",
+    "shares_outstanding": 397824000.0,
+    "revenue": 154515000.0,
+    "net_income": -83854000.0,
+    "market_cap": null
+  }
+]

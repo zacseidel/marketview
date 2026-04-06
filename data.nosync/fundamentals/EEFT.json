@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "EEFT",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 45782801.0,
+    "revenue": 4244200000.0,
+    "net_income": 313000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2025",
+    "filing_date": "2026-02-26",
+    "shares_outstanding": 45782801.0,
+    "revenue": 4244200000.0,
+    "net_income": 313000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 44809457.0,
+    "revenue": 1145700000.0,
+    "net_income": 125100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 42954631.0,
+    "revenue": 1074300000.0,
+    "net_income": 97700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 46239523.0,
+    "revenue": 915500000.0,
+    "net_income": 38400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 48082766.0,
+    "revenue": 3989800000.0,
+    "net_income": 306300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-04",
+    "shares_outstanding": 47554606.0,
+    "revenue": 1099300000.0,
+    "net_income": 151600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 48700270.0,
+    "revenue": 986200000.0,
+    "net_income": 83200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-06",
+    "shares_outstanding": 48962583.0,
+    "revenue": 857000000.0,
+    "net_income": 26200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 51599633.0,
+    "revenue": 3688000000.0,
+    "net_income": 279500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 51470603.0,
+    "revenue": 1004000000.0,
+    "net_income": 104200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 52871415.0,
+    "revenue": 939100000.0,
+    "net_income": 86000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 52974800.0,
+    "revenue": 787200000.0,
+    "net_income": 19800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 53463308.0,
+    "revenue": 3358741000.0,
+    "net_income": 230742000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 52751304.0,
+    "revenue": 931266000.0,
+    "net_income": 97552000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 53766914.0,
+    "revenue": 843309000.0,
+    "net_income": 57034000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 51716045.0,
+    "revenue": 718467000.0,
+    "net_income": 8290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 53529576.0,
+    "revenue": 2995443000.0,
+    "net_income": 70587000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 53853675.0,
+    "revenue": 816560000.0,
+    "net_income": 73714000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 54008839.0,
+    "revenue": 714686000.0,
+    "net_income": 8632000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 52762845.0,
+    "revenue": 652670000.0,
+    "net_income": -8621000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2020",
+    "filing_date": "2021-02-22",
+    "shares_outstanding": 52659551.0,
+    "revenue": 2482700000.0,
+    "net_income": -3304000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 53201971.0,
+    "revenue": 664351000.0,
+    "net_income": 40315000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 52234465.0,
+    "revenue": 527803000.0,
+    "net_income": -115733000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-07",
+    "shares_outstanding": 54779321.0,
+    "revenue": 583907000.0,
+    "net_income": 1720000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 54913887.0,
+    "revenue": 2750109000.0,
+    "net_income": 346695000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 55972061.0,
+    "revenue": 786986000.0,
+    "net_income": 137541000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 54702459.0,
+    "revenue": 691867000.0,
+    "net_income": 68005000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 55576867.0,
+    "revenue": 577509000.0,
+    "net_income": 34579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 54627747.0,
+    "revenue": 2536629000.0,
+    "net_income": 232131000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 54263892.0,
+    "revenue": 714505000.0,
+    "net_income": 102257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 53492835.0,
+    "revenue": 622224000.0,
+    "net_income": 43636000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 53953246.0,
+    "revenue": 550515000.0,
+    "net_income": 26344000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 55116327.0,
+    "revenue": 2252422000.0,
+    "net_income": 156940000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-27",
+    "shares_outstanding": 55784485.0,
+    "revenue": 637834000.0,
+    "net_income": 100353000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-31",
+    "shares_outstanding": 55210993.0,
+    "revenue": 536563000.0,
+    "net_income": 51347000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 54921779.0,
+    "revenue": 473380000.0,
+    "net_income": 28069000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 54001079.0,
+    "revenue": 1958615000.0,
+    "net_income": 174098000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2016",
+    "filing_date": "2016-10-28",
+    "shares_outstanding": 54523211.0,
+    "revenue": 524025000.0,
+    "net_income": 60782000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-01",
+    "shares_outstanding": 53781606.0,
+    "revenue": 476867000.0,
+    "net_income": 55577000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-29",
+    "shares_outstanding": 54529588.0,
+    "revenue": 437894000.0,
+    "net_income": 29084000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 54076676.0,
+    "revenue": 1772262000.0,
+    "net_income": 98492000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-02",
+    "shares_outstanding": 54544763.0,
+    "revenue": 481373000.0,
+    "net_income": 31324000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 53658504.0,
+    "revenue": 425148000.0,
+    "net_income": 26521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 53625641.0,
+    "revenue": 395162000.0,
+    "net_income": 7125000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 53901040.0,
+    "revenue": 1664150000.0,
+    "net_income": 101488000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-28",
+    "shares_outstanding": 54619793.0,
+    "revenue": 453422000.0,
+    "net_income": 34909000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-06",
+    "shares_outstanding": 53773759.0,
+    "revenue": 395462000.0,
+    "net_income": 20488000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 52763650.0,
+    "revenue": 353315000.0,
+    "net_income": 15933000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2013",
+    "filing_date": "2014-02-27",
+    "shares_outstanding": 51982620.0,
+    "revenue": 1413169000.0,
+    "net_income": 87353000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-31",
+    "shares_outstanding": 52200472.0,
+    "revenue": 360580000.0,
+    "net_income": 47974000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 51517640.0,
+    "revenue": 341543000.0,
+    "net_income": 18165000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 50620437.0,
+    "revenue": 335644000.0,
+    "net_income": 12060000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2012",
+    "filing_date": "2013-02-27",
+    "shares_outstanding": 51412510.0,
+    "revenue": 1267601000.0,
+    "net_income": 20397000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2012",
+    "filing_date": "2012-10-31",
+    "shares_outstanding": 51597319.0,
+    "revenue": 316356000.0,
+    "net_income": 14341000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 51671501.0,
+    "revenue": 302377000.0,
+    "net_income": 5726000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 51357390.0,
+    "revenue": 297622000.0,
+    "net_income": 13098000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 51729513.0,
+    "revenue": 1161304000.0,
+    "net_income": 38088000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 51116512.0,
+    "revenue": 299507000.0,
+    "net_income": -2925000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 51957942.0,
+    "revenue": 279802000.0,
+    "net_income": 12294000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 51947914.0,
+    "revenue": 262593000.0,
+    "net_income": 17631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "FY 2010",
+    "filing_date": "2011-02-25",
+    "shares_outstanding": 50857182.0,
+    "revenue": 1038269000.0,
+    "net_income": -37917000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-04",
+    "shares_outstanding": 51539150.0,
+    "revenue": 260223000.0,
+    "net_income": 21065000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EEFT",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-06",
+    "shares_outstanding": 50914453.0,
+    "revenue": 244228000.0,
+    "net_income": -1155000.0,
+    "market_cap": null
+  }
+]

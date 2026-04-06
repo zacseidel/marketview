@@ -1,0 +1,227 @@
+[
+  {
+    "ticker": "OVV",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 259700000.0,
+    "revenue": 8908000000.0,
+    "net_income": 1242000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "FY 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 259700000.0,
+    "revenue": 8908000000.0,
+    "net_income": 1242000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 258100000.0,
+    "revenue": 2066000000.0,
+    "net_income": 148000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 260100000.0,
+    "revenue": 2318000000.0,
+    "net_income": 307000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 260400000.0,
+    "revenue": 2377000000.0,
+    "net_income": -159000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 267400000.0,
+    "revenue": 9152000000.0,
+    "net_income": 1125000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-07",
+    "shares_outstanding": 264000000.0,
+    "revenue": 2324000000.0,
+    "net_income": 507000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 268100000.0,
+    "revenue": 2288000000.0,
+    "net_income": 340000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 272300000.0,
+    "revenue": 2352000000.0,
+    "net_income": 338000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 263900000.0,
+    "revenue": 10883000000.0,
+    "net_income": 2085000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 276300000.0,
+    "revenue": 2649000000.0,
+    "net_income": 406000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 250800000.0,
+    "revenue": 2517000000.0,
+    "net_income": 336000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 247700000.0,
+    "revenue": 2551000000.0,
+    "net_income": 487000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 258400000.0,
+    "revenue": 12464000000.0,
+    "net_income": 3637000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 256200000.0,
+    "revenue": 3549000000.0,
+    "net_income": 1186000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 260600000.0,
+    "revenue": 3736000000.0,
+    "net_income": 1357000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 257400000.0,
+    "revenue": 1967000000.0,
+    "net_income": -241000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "FY 2021",
+    "filing_date": "2022-02-25",
+    "shares_outstanding": 266400000.0,
+    "revenue": 8658000000.0,
+    "net_income": 1416000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 261100000.0,
+    "revenue": 1789000000.0,
+    "net_income": -72000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 261100000.0,
+    "revenue": 1692000000.0,
+    "net_income": -205000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 266000000.0,
+    "revenue": 1838000000.0,
+    "net_income": 309000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "FY 2020",
+    "filing_date": "2021-02-18",
+    "shares_outstanding": 259800000.0,
+    "revenue": 6087000000.0,
+    "net_income": -6097000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-30",
+    "shares_outstanding": 259800000.0,
+    "revenue": 1190000000.0,
+    "net_income": -1521000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-31",
+    "shares_outstanding": 259800000.0,
+    "revenue": 726000000.0,
+    "net_income": -4383000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OVV",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 259.8,
+    "revenue": 2643000000.0,
+    "net_income": 421000000.0,
+    "market_cap": null
+  }
+]

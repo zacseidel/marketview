@@ -1,0 +1,533 @@
+[
+  {
+    "ticker": "NJR",
+    "period": "Q1 2026",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 101229000.0,
+    "revenue": 440899000.0,
+    "net_income": 122490000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2025",
+    "filing_date": "2025-11-20",
+    "shares_outstanding": 100788000.0,
+    "revenue": 1351305000.0,
+    "net_income": 335627000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 100373000.0,
+    "revenue": 234836000.0,
+    "net_income": -15051000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 100933000.0,
+    "revenue": 569199000.0,
+    "net_income": 204287000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2024",
+    "filing_date": "2024-11-26",
+    "shares_outstanding": 99289000.0,
+    "revenue": 1229949000.0,
+    "net_income": 289775000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 98983000.0,
+    "revenue": 209892000.0,
+    "net_income": -11574000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 99102000.0,
+    "revenue": 433172000.0,
+    "net_income": 120812000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2024",
+    "filing_date": "2024-02-06",
+    "shares_outstanding": 98563000.0,
+    "revenue": 321191000.0,
+    "net_income": 89411000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2023",
+    "filing_date": "2023-11-21",
+    "shares_outstanding": 97627000.0,
+    "revenue": 1111520000.0,
+    "net_income": 264724000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 97886000.0,
+    "revenue": 199315000.0,
+    "net_income": 1532000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 97556000.0,
+    "revenue": 384433000.0,
+    "net_income": 110247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2023",
+    "filing_date": "2023-02-02",
+    "shares_outstanding": 97083000.0,
+    "revenue": 364551000.0,
+    "net_income": 115921000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2022",
+    "filing_date": "2022-11-17",
+    "shares_outstanding": 96488000.0,
+    "revenue": 1198985000.0,
+    "net_income": 274922000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 96620000.0,
+    "revenue": 243639000.0,
+    "net_income": 13053000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 96516000.0,
+    "revenue": 432643000.0,
+    "net_income": 96035000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2022",
+    "filing_date": "2022-02-03",
+    "shares_outstanding": 96356000.0,
+    "revenue": 284090000.0,
+    "net_income": 111312000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2021",
+    "filing_date": "2021-11-18",
+    "shares_outstanding": 96560000.0,
+    "revenue": 852105000.0,
+    "net_income": 117890000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2021",
+    "filing_date": "2021-08-05",
+    "shares_outstanding": 96348000.0,
+    "revenue": 155392000.0,
+    "net_income": -111831000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2021",
+    "filing_date": "2021-05-06",
+    "shares_outstanding": 96618000.0,
+    "revenue": 339376000.0,
+    "net_income": 149809000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2021",
+    "filing_date": "2021-02-04",
+    "shares_outstanding": 96415000.0,
+    "revenue": 225727000.0,
+    "net_income": 81045000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2020",
+    "filing_date": "2020-11-30",
+    "shares_outstanding": 95107000.0,
+    "revenue": 833677000.0,
+    "net_income": 193919000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2020",
+    "filing_date": "2020-08-07",
+    "shares_outstanding": 95764000.0,
+    "revenue": 298974000.0,
+    "net_income": -27219000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 95890000.0,
+    "revenue": 639614000.0,
+    "net_income": 88505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2020",
+    "filing_date": "2020-02-06",
+    "shares_outstanding": 92320000.0,
+    "revenue": 615036000.0,
+    "net_income": 89361000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2019",
+    "filing_date": "2019-11-22",
+    "shares_outstanding": 89616000.0,
+    "revenue": 782331000.0,
+    "net_income": 169505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 89600000.0,
+    "revenue": 434942000.0,
+    "net_income": -8402000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2019",
+    "filing_date": "2019-05-03",
+    "shares_outstanding": 89228000.0,
+    "revenue": 866255000.0,
+    "net_income": 73573000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2019",
+    "filing_date": "2019-02-06",
+    "shares_outstanding": 88946000.0,
+    "revenue": 811767000.0,
+    "net_income": 86248000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2018",
+    "filing_date": "2018-11-20",
+    "shares_outstanding": 88315000.0,
+    "revenue": 2915109000.0,
+    "net_income": 233436000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2018",
+    "filing_date": "2018-08-07",
+    "shares_outstanding": 87888000.0,
+    "revenue": 543435000.0,
+    "net_income": -14274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 87989000.0,
+    "revenue": 1019043000.0,
+    "net_income": 140266000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2018",
+    "filing_date": "2018-02-08",
+    "shares_outstanding": 87347000.0,
+    "revenue": 705305000.0,
+    "net_income": 123699000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2017",
+    "filing_date": "2017-11-21",
+    "shares_outstanding": 87144000.0,
+    "revenue": 2268617000.0,
+    "net_income": 132065000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 87267000.0,
+    "revenue": 457523000.0,
+    "net_income": 18957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2017",
+    "filing_date": "2017-05-05",
+    "shares_outstanding": 87101000.0,
+    "revenue": 733546000.0,
+    "net_income": 114702000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2017",
+    "filing_date": "2017-02-08",
+    "shares_outstanding": 86855000.0,
+    "revenue": 541028000.0,
+    "net_income": 34929000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2016",
+    "filing_date": "2016-11-22",
+    "shares_outstanding": 86731000.0,
+    "revenue": 1880905000.0,
+    "net_income": 131672000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 85960000.0,
+    "revenue": 393213000.0,
+    "net_income": -17363000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 86858000.0,
+    "revenue": 574193000.0,
+    "net_income": 73354000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2016",
+    "filing_date": "2016-02-03",
+    "shares_outstanding": 86676000.0,
+    "revenue": 444258000.0,
+    "net_income": 50281000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2015",
+    "filing_date": "2015-11-24",
+    "shares_outstanding": 86265000.0,
+    "revenue": 2733987000.0,
+    "net_income": 180960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2015",
+    "filing_date": "2015-08-03",
+    "shares_outstanding": 85449000.0,
+    "revenue": 458467000.0,
+    "net_income": -7460000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2015",
+    "filing_date": "2015-05-07",
+    "shares_outstanding": 86370000.0,
+    "revenue": 1013090000.0,
+    "net_income": 60903000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2015",
+    "filing_date": "2015-02-04",
+    "shares_outstanding": 42787000.0,
+    "revenue": 824124000.0,
+    "net_income": 123320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2014",
+    "filing_date": "2014-11-25",
+    "shares_outstanding": 42461000.0,
+    "revenue": 3738145000.0,
+    "net_income": 141970000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2014",
+    "filing_date": "2014-08-04",
+    "shares_outstanding": 42117000.0,
+    "revenue": 688257000.0,
+    "net_income": -14274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 42457000.0,
+    "revenue": 1579569000.0,
+    "net_income": 172971000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2014",
+    "filing_date": "2014-02-06",
+    "shares_outstanding": 42239000.0,
+    "revenue": 878405000.0,
+    "net_income": 7693000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2013",
+    "filing_date": "2013-11-26",
+    "shares_outstanding": 41814000.0,
+    "revenue": 3198068000.0,
+    "net_income": 114809000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2013",
+    "filing_date": "2013-08-07",
+    "shares_outstanding": 41732000.0,
+    "revenue": 767469000.0,
+    "net_income": 29155000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 41972000.0,
+    "revenue": 960885000.0,
+    "net_income": 45469000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2013",
+    "filing_date": "2013-02-07",
+    "shares_outstanding": 41758000.0,
+    "revenue": 736019000.0,
+    "net_income": 60206000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2012",
+    "filing_date": "2012-11-29",
+    "shares_outstanding": 41632000.0,
+    "revenue": 2248923000.0,
+    "net_income": 92879000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 41560000.0,
+    "revenue": 425121000.0,
+    "net_income": -10320000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 41711000.0,
+    "revenue": 612921000.0,
+    "net_income": 54535000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q1 2012",
+    "filing_date": "2012-02-08",
+    "shares_outstanding": 41651000.0,
+    "revenue": 642411000.0,
+    "net_income": 57357000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "FY 2011",
+    "filing_date": "2011-11-23",
+    "shares_outstanding": 41568000.0,
+    "revenue": 3009209000.0,
+    "net_income": 101299000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q3 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 41597000.0,
+    "revenue": 648169000.0,
+    "net_income": 20374000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "NJR",
+    "period": "Q2 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 41553000.0,
+    "revenue": 976987000.0,
+    "net_income": 63927000.0,
+    "market_cap": null
+  }
+]

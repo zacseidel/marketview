@@ -1,0 +1,443 @@
+[
+  {
+    "ticker": "OGS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 60513000.0,
+    "revenue": 1428515000.0,
+    "net_income": 264224000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 60513000.0,
+    "revenue": 1428515000.0,
+    "net_income": 264224000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 60554000.0,
+    "revenue": 302511000.0,
+    "net_income": 26466000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 60455000.0,
+    "revenue": 305799000.0,
+    "net_income": 32033000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 60266000.0,
+    "revenue": 422728000.0,
+    "net_income": 119419000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 57033000.0,
+    "revenue": 1305225000.0,
+    "net_income": 222850000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 57093000.0,
+    "revenue": 280766000.0,
+    "net_income": 19268000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 56827000.0,
+    "revenue": 282179000.0,
+    "net_income": 27243000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 56800000.0,
+    "revenue": 375317000.0,
+    "net_income": 99317000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 55860000.0,
+    "revenue": 1237480000.0,
+    "net_income": 231232000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 55975000.0,
+    "revenue": 264906000.0,
+    "net_income": 25189000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 55914000.0,
+    "revenue": 267873000.0,
+    "net_income": 32689000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 55800000.0,
+    "revenue": 366344000.0,
+    "net_income": 102621000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 54338000.0,
+    "revenue": 2578005000.0,
+    "net_income": 221742000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 54482000.0,
+    "revenue": 233166000.0,
+    "net_income": 23701000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 54335000.0,
+    "revenue": 240724000.0,
+    "net_income": 32075000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 54030000.0,
+    "revenue": 331513000.0,
+    "net_income": 98934000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 53674000.0,
+    "revenue": 1808597000.0,
+    "net_income": 206434000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 53793000.0,
+    "revenue": 214524000.0,
+    "net_income": 20253000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 53548000.0,
+    "revenue": 221945000.0,
+    "net_income": 30093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 53515000.0,
+    "revenue": 311224000.0,
+    "net_income": 95575000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 53370000.0,
+    "revenue": 1530268000.0,
+    "net_income": 196412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 53408000.0,
+    "revenue": 204155000.0,
+    "net_income": 21079000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-28",
+    "shares_outstanding": 53264000.0,
+    "revenue": 210777000.0,
+    "net_income": 25325000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-28",
+    "shares_outstanding": 53268000.0,
+    "revenue": 302029000.0,
+    "net_income": 91677000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 53240000.0,
+    "revenue": 1652730000.0,
+    "net_income": 186749000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-29",
+    "shares_outstanding": 53267000.0,
+    "revenue": 198956000.0,
+    "net_income": 17457000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 53215000.0,
+    "revenue": 207972000.0,
+    "net_income": 24470000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 53206000.0,
+    "revenue": 295924000.0,
+    "net_income": 93660000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2018",
+    "filing_date": "2019-02-20",
+    "shares_outstanding": 53029000.0,
+    "revenue": 1633731000.0,
+    "net_income": 172234000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 53112000.0,
+    "revenue": 187024000.0,
+    "net_income": 16276000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-01",
+    "shares_outstanding": 52899000.0,
+    "revenue": 198362000.0,
+    "net_income": 20419000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-01",
+    "shares_outstanding": 52897000.0,
+    "revenue": 288045000.0,
+    "net_income": 90835000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 52979000.0,
+    "revenue": 925132000.0,
+    "net_income": 162995000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 52926000.0,
+    "revenue": 188373000.0,
+    "net_income": 18797000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 52969000.0,
+    "revenue": 197117000.0,
+    "net_income": 20623000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 53056000.0,
+    "revenue": 287254000.0,
+    "net_income": 76456000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 52963000.0,
+    "revenue": 885435000.0,
+    "net_income": 140095000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 52942000.0,
+    "revenue": 179938000.0,
+    "net_income": 12737000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-02",
+    "shares_outstanding": 52836000.0,
+    "revenue": 189466000.0,
+    "net_income": 20300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-03",
+    "shares_outstanding": 53107000.0,
+    "revenue": 272635000.0,
+    "net_income": 64743000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2015",
+    "filing_date": "2016-02-18",
+    "shares_outstanding": 53254000.0,
+    "revenue": 841733000.0,
+    "net_income": 119030000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-29",
+    "shares_outstanding": 53072000.0,
+    "revenue": 170502000.0,
+    "net_income": 7371000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 53438000.0,
+    "revenue": 176837000.0,
+    "net_income": 12076000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-30",
+    "shares_outstanding": 53446000.0,
+    "revenue": 262978000.0,
+    "net_income": 60381000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "FY 2014",
+    "filing_date": "2015-02-19",
+    "shares_outstanding": 52946000.0,
+    "revenue": 826957000.0,
+    "net_income": 109790000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 53014000.0,
+    "revenue": 166452000.0,
+    "net_income": 4653000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 52446000.0,
+    "revenue": 176493000.0,
+    "net_income": 9454000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OGS",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-06",
+    "shares_outstanding": 52512000.0,
+    "revenue": 259836000.0,
+    "net_income": 59076000.0,
+    "market_cap": null
+  }
+]

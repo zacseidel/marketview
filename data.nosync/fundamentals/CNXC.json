@@ -1,0 +1,263 @@
+[
+  {
+    "ticker": "CNXC",
+    "period": "TTM 2025",
+    "filing_date": "2026-01-28",
+    "shares_outstanding": 63012000.0,
+    "revenue": 9825771000.0,
+    "net_income": -1278924000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "FY 2025",
+    "filing_date": "2026-01-28",
+    "shares_outstanding": 63012000.0,
+    "revenue": 9825771000.0,
+    "net_income": -1278924000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-03",
+    "shares_outstanding": 62702000.0,
+    "revenue": 2483253000.0,
+    "net_income": 88110000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-03",
+    "shares_outstanding": 63406000.0,
+    "revenue": 2417371000.0,
+    "net_income": 42093000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-04",
+    "shares_outstanding": 64065000.0,
+    "revenue": 2372222000.0,
+    "net_income": 70257000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-04",
+    "shares_outstanding": 64749000.0,
+    "revenue": 2387412000.0,
+    "net_income": 16631000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-05",
+    "shares_outstanding": 65332000.0,
+    "revenue": 2380716000.0,
+    "net_income": 66834000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-05",
+    "shares_outstanding": 65790000.0,
+    "revenue": 2402748000.0,
+    "net_income": 52102000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "FY 2023",
+    "filing_date": "2024-01-29",
+    "shares_outstanding": 54010000.0,
+    "revenue": 7114706000.0,
+    "net_income": 313842000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-06",
+    "shares_outstanding": 51209000.0,
+    "revenue": 1632834000.0,
+    "net_income": 77635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-07",
+    "shares_outstanding": 51392000.0,
+    "revenue": 1614706000.0,
+    "net_income": 78850000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-07",
+    "shares_outstanding": 51476000.0,
+    "revenue": 1636404000.0,
+    "net_income": 87870000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "FY 2022",
+    "filing_date": "2023-01-27",
+    "shares_outstanding": 51740000.0,
+    "revenue": 6324473000.0,
+    "net_income": 435640000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-07",
+    "shares_outstanding": 51549000.0,
+    "revenue": 1579602000.0,
+    "net_income": 107124000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-08",
+    "shares_outstanding": 51990000.0,
+    "revenue": 1568101000.0,
+    "net_income": 113033000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-08",
+    "shares_outstanding": 52046000.0,
+    "revenue": 1536052000.0,
+    "net_income": 110539000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "FY 2021",
+    "filing_date": "2022-01-28",
+    "shares_outstanding": 51914000.0,
+    "revenue": 5587015000.0,
+    "net_income": 405577000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-08",
+    "shares_outstanding": 52061000.0,
+    "revenue": 1397251000.0,
+    "net_income": 109754000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-09",
+    "shares_outstanding": 52005000.0,
+    "revenue": 1369878000.0,
+    "net_income": 82904000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-09",
+    "shares_outstanding": 51805000.0,
+    "revenue": 1353278000.0,
+    "net_income": 88811000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 216238000.0,
+    "revenue": 78264000.0,
+    "net_income": 3614000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 224831000.0,
+    "revenue": 82472000.0,
+    "net_income": 11474000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 226606000.0,
+    "revenue": 83280000.0,
+    "net_income": 14066000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "FY 2016",
+    "filing_date": "2017-02-08",
+    "shares_outstanding": 226570000.0,
+    "revenue": 281117000.0,
+    "net_income": 25851000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 225822000.0,
+    "revenue": 69814000.0,
+    "net_income": 6401000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 163766000.0,
+    "revenue": 67217000.0,
+    "net_income": 3907000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 173013000.0,
+    "revenue": 59799000.0,
+    "net_income": 3816000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "FY 2015",
+    "filing_date": "2016-02-05",
+    "shares_outstanding": 182370000.0,
+    "revenue": 261609000.0,
+    "net_income": 50663000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNXC",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 185097000.0,
+    "revenue": 65152000.0,
+    "net_income": 14665000.0,
+    "market_cap": null
+  }
+]

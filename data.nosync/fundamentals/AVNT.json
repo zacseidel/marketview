@@ -1,0 +1,209 @@
+[
+  {
+    "ticker": "AVNT",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 91800000.0,
+    "revenue": 3260200000.0,
+    "net_income": 83600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "FY 2025",
+    "filing_date": "2026-02-17",
+    "shares_outstanding": 91800000.0,
+    "revenue": 3260200000.0,
+    "net_income": 83600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-05",
+    "shares_outstanding": 91800000.0,
+    "revenue": 806500000.0,
+    "net_income": 32800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 91800000.0,
+    "revenue": 866500000.0,
+    "net_income": 53500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 91500000.0,
+    "revenue": 826600000.0,
+    "net_income": -19900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "FY 2024",
+    "filing_date": "2025-02-18",
+    "shares_outstanding": 92000000.0,
+    "revenue": 3240400000.0,
+    "net_income": 170700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 92300000.0,
+    "revenue": 815200000.0,
+    "net_income": 38700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 92200000.0,
+    "revenue": 849700000.0,
+    "net_income": 33800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 92000000.0,
+    "revenue": 829000000.0,
+    "net_income": 49700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "FY 2023",
+    "filing_date": "2024-02-20",
+    "shares_outstanding": 91800000.0,
+    "revenue": 3142800000.0,
+    "net_income": 76200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 91900000.0,
+    "revenue": 753700000.0,
+    "net_income": 5100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 91900000.0,
+    "revenue": 824400000.0,
+    "net_income": 22300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 91800000.0,
+    "revenue": 845700000.0,
+    "net_income": 20400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 92200000.0,
+    "revenue": 3396900000.0,
+    "net_income": 703400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 90900000.0,
+    "revenue": 823300000.0,
+    "net_income": -10700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-26",
+    "shares_outstanding": 92100000.0,
+    "revenue": 1302400000.0,
+    "net_income": 84700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 92300000.0,
+    "revenue": 1293800000.0,
+    "net_income": 84500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 92100000.0,
+    "revenue": 4818800000.0,
+    "net_income": 230600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 92200000.0,
+    "revenue": 1219800000.0,
+    "net_income": 52600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-30",
+    "shares_outstanding": 92400000.0,
+    "revenue": 1235200000.0,
+    "net_income": 69400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-30",
+    "shares_outstanding": 92200000.0,
+    "revenue": 1162300000.0,
+    "net_income": 79700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 90600000.0,
+    "revenue": 3242100000.0,
+    "net_income": 133400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "AVNT",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 91900000.0,
+    "revenue": 924500000.0,
+    "net_income": 2600000.0,
+    "market_cap": null
+  }
+]

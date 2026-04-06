@@ -1,0 +1,191 @@
+[
+  {
+    "ticker": "HIMS",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 258230547.0,
+    "revenue": 2347637000.0,
+    "net_income": 128365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "FY 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 258230547.0,
+    "revenue": 2347637000.0,
+    "net_income": 128365000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-03",
+    "shares_outstanding": 248675710.0,
+    "revenue": 598976000.0,
+    "net_income": 15774000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-04",
+    "shares_outstanding": 256779292.0,
+    "revenue": 544833000.0,
+    "net_income": 42505000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-05",
+    "shares_outstanding": 246610232.0,
+    "revenue": 586010000.0,
+    "net_income": 49485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "FY 2024",
+    "filing_date": "2025-02-24",
+    "shares_outstanding": 236808876.0,
+    "revenue": 1476514000.0,
+    "net_income": 126038000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-04",
+    "shares_outstanding": 235069539.0,
+    "revenue": 401556000.0,
+    "net_income": 75588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-05",
+    "shares_outstanding": 234791985.0,
+    "revenue": 315648000.0,
+    "net_income": 13297000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-06",
+    "shares_outstanding": 229364585.0,
+    "revenue": 278171000.0,
+    "net_income": 11128000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "FY 2023",
+    "filing_date": "2024-02-26",
+    "shares_outstanding": 209344712.0,
+    "revenue": 872000000.0,
+    "net_income": -23546000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-06",
+    "shares_outstanding": 210134681.0,
+    "revenue": 226699000.0,
+    "net_income": -7567000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-07",
+    "shares_outstanding": 208422825.0,
+    "revenue": 207912000.0,
+    "net_income": -7157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-08",
+    "shares_outstanding": 207140298.0,
+    "revenue": 190770000.0,
+    "net_income": -10067000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 204516120.0,
+    "revenue": 526916000.0,
+    "net_income": -65678000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-07",
+    "shares_outstanding": 205232967.0,
+    "revenue": 144836000.0,
+    "net_income": -18840000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-08",
+    "shares_outstanding": 203949535.0,
+    "revenue": 113563000.0,
+    "net_income": -19679000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-09",
+    "shares_outstanding": 202695970.0,
+    "revenue": 101314000.0,
+    "net_income": -16252000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 186781537.0,
+    "revenue": 271878000.0,
+    "net_income": -107659000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-10",
+    "shares_outstanding": 200038761.0,
+    "revenue": 74173000.0,
+    "net_income": -15941000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-11",
+    "shares_outstanding": 191922517.0,
+    "revenue": 60692000.0,
+    "net_income": -9153000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "HIMS",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-17",
+    "shares_outstanding": 153080538.0,
+    "revenue": 52314000.0,
+    "net_income": -51404000.0,
+    "market_cap": null
+  }
+]

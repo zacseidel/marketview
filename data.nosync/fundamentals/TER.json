@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "TER",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 159719000.0,
+    "revenue": 3190024000.0,
+    "net_income": 554047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2025",
+    "filing_date": "2026-02-19",
+    "shares_outstanding": 159719000.0,
+    "revenue": 3190024000.0,
+    "net_income": 554047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 159097000.0,
+    "revenue": 769210000.0,
+    "net_income": 119558000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-01",
+    "shares_outstanding": 160135000.0,
+    "revenue": 651797000.0,
+    "net_income": 78372000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-02",
+    "shares_outstanding": 161996000.0,
+    "revenue": 685680000.0,
+    "net_income": 98896000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 163314000.0,
+    "revenue": 2819880000.0,
+    "net_income": 542372000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 164253000.0,
+    "revenue": 737298000.0,
+    "net_income": 145649000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-02",
+    "shares_outstanding": 163470000.0,
+    "revenue": 729879000.0,
+    "net_income": 186273000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-03",
+    "shares_outstanding": 162348000.0,
+    "revenue": 599819000.0,
+    "net_income": 64197000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 164304000.0,
+    "revenue": 2676298000.0,
+    "net_income": 448752000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-03",
+    "shares_outstanding": 164050.0,
+    "revenue": 703732000.0,
+    "net_income": 128116000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-04",
+    "shares_outstanding": 164751000.0,
+    "revenue": 684437000.0,
+    "net_income": 120050000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-05",
+    "shares_outstanding": 166308000.0,
+    "revenue": 617529000.0,
+    "net_income": 83531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2022",
+    "filing_date": "2023-02-22",
+    "shares_outstanding": 169734000.0,
+    "revenue": 3155045000.0,
+    "net_income": 715501000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-04",
+    "shares_outstanding": 166733000.0,
+    "revenue": 827073000.0,
+    "net_income": 183485000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-05",
+    "shares_outstanding": 171159000.0,
+    "revenue": 840766000.0,
+    "net_income": 197787000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-06",
+    "shares_outstanding": 175575000.0,
+    "revenue": 755370000.0,
+    "net_income": 161928000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 183625000.0,
+    "revenue": 3702881000.0,
+    "net_income": 1014589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-05",
+    "shares_outstanding": 181987000.0,
+    "revenue": 950501000.0,
+    "net_income": 256718000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 186750000.0,
+    "revenue": 1085728000.0,
+    "net_income": 328319000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-07",
+    "shares_outstanding": 2324553000.0,
+    "revenue": null,
+    "net_income": null,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2020",
+    "filing_date": "2021-02-22",
+    "shares_outstanding": 183042000.0,
+    "revenue": 3121469000.0,
+    "net_income": 784147000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 184338000.0,
+    "revenue": 819484000.0,
+    "net_income": 222718000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-03",
+    "shares_outstanding": 180257000.0,
+    "revenue": 838661000.0,
+    "net_income": 188908000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-04",
+    "shares_outstanding": 180736000.0,
+    "revenue": 704355000.0,
+    "net_income": 176191000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 179459000.0,
+    "revenue": 2294965000.0,
+    "net_income": 467468000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 180494000.0,
+    "revenue": 582038000.0,
+    "net_income": 135860000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-09",
+    "shares_outstanding": 178590000.0,
+    "revenue": 564178000.0,
+    "net_income": 97397000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-10",
+    "shares_outstanding": 176972000.0,
+    "revenue": 494099000.0,
+    "net_income": 109138000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2018",
+    "filing_date": "2019-03-01",
+    "shares_outstanding": 192605000.0,
+    "revenue": 2100802000.0,
+    "net_income": 451779000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-09",
+    "shares_outstanding": 190505000.0,
+    "revenue": 566848000.0,
+    "net_income": 119978000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-10",
+    "shares_outstanding": 194909000.0,
+    "revenue": 526929000.0,
+    "net_income": 101037000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-11",
+    "shares_outstanding": 203484000.0,
+    "revenue": 487467000.0,
+    "net_income": 86974000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 201641000.0,
+    "revenue": 2136606000.0,
+    "net_income": 257692000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 200775000.0,
+    "revenue": 503378000.0,
+    "net_income": 103420000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-11",
+    "shares_outstanding": 201529000.0,
+    "revenue": 696901000.0,
+    "net_income": 174976000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-12",
+    "shares_outstanding": 201936000.0,
+    "revenue": 456913000.0,
+    "net_income": 85221000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 202578000.0,
+    "revenue": 1753250000.0,
+    "net_income": -43421000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-10",
+    "shares_outstanding": 203929000.0,
+    "revenue": 410475000.0,
+    "net_income": 63794000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-12",
+    "shares_outstanding": 203018000.0,
+    "revenue": 531792000.0,
+    "net_income": -223546000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-13",
+    "shares_outstanding": 205732000.0,
+    "revenue": 430994000.0,
+    "net_income": 49986000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 213321000.0,
+    "revenue": 1639578000.0,
+    "net_income": 206477000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-13",
+    "shares_outstanding": 211736000.0,
+    "revenue": 465994000.0,
+    "net_income": 71453000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-14",
+    "shares_outstanding": 215496000.0,
+    "revenue": 512739000.0,
+    "net_income": 102879000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 218812000.0,
+    "revenue": 342401000.0,
+    "net_income": 32787000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2014",
+    "filing_date": "2015-02-27",
+    "shares_outstanding": 222550000.0,
+    "revenue": 1647824000.0,
+    "net_income": 81272000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 218333000.0,
+    "revenue": 478010000.0,
+    "net_income": 82949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-08",
+    "shares_outstanding": 216568000.0,
+    "revenue": 525567000.0,
+    "net_income": 101205000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-07",
+    "shares_outstanding": 236484000.0,
+    "revenue": 321010000.0,
+    "net_income": 929000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 235599000.0,
+    "revenue": 1427933000.0,
+    "net_income": 164947000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 235828000.0,
+    "revenue": 433376000.0,
+    "net_income": 69459000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-09",
+    "shares_outstanding": 234909000.0,
+    "revenue": 428889000.0,
+    "net_income": 66556000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 234757000.0,
+    "revenue": 280367000.0,
+    "net_income": 6589000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2012",
+    "filing_date": "2013-03-01",
+    "shares_outstanding": 230246000.0,
+    "revenue": 1656750000.0,
+    "net_income": 217049000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-09",
+    "shares_outstanding": 229210000.0,
+    "revenue": 463394000.0,
+    "net_income": 88641000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-10",
+    "shares_outstanding": 229646000.0,
+    "revenue": 548284000.0,
+    "net_income": 111387000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-11",
+    "shares_outstanding": 231153000.0,
+    "revenue": 396668000.0,
+    "net_income": 33564000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 226820000.0,
+    "revenue": 1429061000.0,
+    "net_income": 373809000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-14",
+    "shares_outstanding": 221892000.0,
+    "revenue": 344389000.0,
+    "net_income": 54745000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-12",
+    "shares_outstanding": 230452000.0,
+    "revenue": 410519000.0,
+    "net_income": 89058000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-13",
+    "shares_outstanding": 232080000.0,
+    "revenue": 377161000.0,
+    "net_income": 69669000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-10",
+    "shares_outstanding": 229389000.0,
+    "revenue": 502086000.0,
+    "net_income": 147340000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TER",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-12",
+    "shares_outstanding": 231541000.0,
+    "revenue": 454776000.0,
+    "net_income": 122149000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "ticker": "EIX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 386000000.0,
+    "revenue": 19317000000.0,
+    "net_income": 4701000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 386000000.0,
+    "revenue": 19317000000.0,
+    "net_income": 4701000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-28",
+    "shares_outstanding": 386000000.0,
+    "revenue": 5750000000.0,
+    "net_income": 888000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 386000000.0,
+    "revenue": 4543000000.0,
+    "net_income": 398000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-29",
+    "shares_outstanding": 386000000.0,
+    "revenue": 3811000000.0,
+    "net_income": 1492000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-27",
+    "shares_outstanding": 388000000.0,
+    "revenue": 17599000000.0,
+    "net_income": 1546000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 390000000.0,
+    "revenue": 5201000000.0,
+    "net_income": 577000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 388000000.0,
+    "revenue": 4336000000.0,
+    "net_income": 509000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 385000000.0,
+    "revenue": 4078000000.0,
+    "net_income": 52000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-22",
+    "shares_outstanding": 385000000.0,
+    "revenue": 16338000000.0,
+    "net_income": 1407000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 385000000.0,
+    "revenue": 4702000000.0,
+    "net_income": 212000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 385000000.0,
+    "revenue": 3964000000.0,
+    "net_income": 409000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 384000000.0,
+    "revenue": 3966000000.0,
+    "net_income": 365000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-23",
+    "shares_outstanding": 383000000.0,
+    "revenue": 17220000000.0,
+    "net_income": 824000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 383000000.0,
+    "revenue": 5228000000.0,
+    "net_income": -74000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 383000000.0,
+    "revenue": 4008000000.0,
+    "net_income": 292000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 382000000.0,
+    "revenue": 3968000000.0,
+    "net_income": 136000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 380000000.0,
+    "revenue": 14905000000.0,
+    "net_income": 925000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 380000000.0,
+    "revenue": 5299000000.0,
+    "net_income": -297000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 380000000.0,
+    "revenue": 3315000000.0,
+    "net_income": 361000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-27",
+    "shares_outstanding": 380000000.0,
+    "revenue": 2960000000.0,
+    "net_income": 290000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-25",
+    "shares_outstanding": 374000000.0,
+    "revenue": 13578000000.0,
+    "net_income": 871000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-27",
+    "shares_outstanding": 378000000.0,
+    "revenue": 4644000000.0,
+    "net_income": -242000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-28",
+    "shares_outstanding": 376000000.0,
+    "revenue": 2987000000.0,
+    "net_income": 348000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-30",
+    "shares_outstanding": 364000000.0,
+    "revenue": 2790000000.0,
+    "net_income": 213000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-27",
+    "shares_outstanding": 341000000.0,
+    "revenue": 12347000000.0,
+    "net_income": 1405000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-29",
+    "shares_outstanding": 349000000.0,
+    "revenue": 3741000000.0,
+    "net_income": 502000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-25",
+    "shares_outstanding": 327000000.0,
+    "revenue": 2812000000.0,
+    "net_income": 422000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 327000000.0,
+    "revenue": 2824000000.0,
+    "net_income": 308000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-28",
+    "shares_outstanding": 326000000.0,
+    "revenue": 12657000000.0,
+    "net_income": -316000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 327000000.0,
+    "revenue": 4269000000.0,
+    "net_income": 544000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2018",
+    "filing_date": "2018-07-26",
+    "shares_outstanding": 327000000.0,
+    "revenue": 2815000000.0,
+    "net_income": 298000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-01",
+    "shares_outstanding": 327000000.0,
+    "revenue": 2564000000.0,
+    "net_income": 242000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 328000000.0,
+    "revenue": 12320000000.0,
+    "net_income": 668000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-30",
+    "shares_outstanding": 328000000.0,
+    "revenue": 3672000000.0,
+    "net_income": 501000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2017",
+    "filing_date": "2017-07-27",
+    "shares_outstanding": 329000000.0,
+    "revenue": 2965000000.0,
+    "net_income": 309000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-01",
+    "shares_outstanding": 329000000.0,
+    "revenue": 2463000000.0,
+    "net_income": 392000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-21",
+    "shares_outstanding": 330000000.0,
+    "revenue": 11869000000.0,
+    "net_income": 1425000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 329000000.0,
+    "revenue": 3767000000.0,
+    "net_income": 449000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-28",
+    "shares_outstanding": 329000000.0,
+    "revenue": 2777000000.0,
+    "net_income": 304000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-02",
+    "shares_outstanding": 328000000.0,
+    "revenue": 2440000000.0,
+    "net_income": 296000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-23",
+    "shares_outstanding": 329000000.0,
+    "revenue": 11524000000.0,
+    "net_income": 1117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-27",
+    "shares_outstanding": 328000000.0,
+    "revenue": 3763000000.0,
+    "net_income": 448000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-30",
+    "shares_outstanding": 328000000.0,
+    "revenue": 2908000000.0,
+    "net_income": 406000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2015",
+    "filing_date": "2015-04-28",
+    "shares_outstanding": 329000000.0,
+    "revenue": 2512000000.0,
+    "net_income": 318000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 329000000.0,
+    "revenue": 13413000000.0,
+    "net_income": 1721000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-28",
+    "shares_outstanding": 329000000.0,
+    "revenue": 4356000000.0,
+    "net_income": 508000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 329000000.0,
+    "revenue": 3016000000.0,
+    "net_income": 566000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2014",
+    "filing_date": "2014-04-29",
+    "shares_outstanding": 329000000.0,
+    "revenue": 2926000000.0,
+    "net_income": 202000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-25",
+    "shares_outstanding": 329000000.0,
+    "revenue": 12581000000.0,
+    "net_income": 1015000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-29",
+    "shares_outstanding": 328000000.0,
+    "revenue": 3960000000.0,
+    "net_income": 463000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-01",
+    "shares_outstanding": 326000000.0,
+    "revenue": 3046000000.0,
+    "net_income": -70000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2013",
+    "filing_date": "2013-04-30",
+    "shares_outstanding": 329000000.0,
+    "revenue": 2632000000.0,
+    "net_income": 298000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 330000000.0,
+    "revenue": 11862000000.0,
+    "net_income": -92000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 329000000.0,
+    "revenue": 4070000000.0,
+    "net_income": 220000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2012",
+    "filing_date": "2012-07-31",
+    "shares_outstanding": 334000000.0,
+    "revenue": 3057000000.0,
+    "net_income": 103000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-02",
+    "shares_outstanding": 329000000.0,
+    "revenue": 2856000000.0,
+    "net_income": 114000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 326000000.0,
+    "revenue": 12760000000.0,
+    "net_income": 21000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-02",
+    "shares_outstanding": 329000000.0,
+    "revenue": 3981000000.0,
+    "net_income": 441000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 329000000.0,
+    "revenue": 2983000000.0,
+    "net_income": 191000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-02",
+    "shares_outstanding": 328000000.0,
+    "revenue": 2782000000.0,
+    "net_income": 214000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2010",
+    "filing_date": "2010-10-29",
+    "shares_outstanding": 328000000.0,
+    "revenue": 3788000000.0,
+    "net_income": 523000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-06",
+    "shares_outstanding": 329000000.0,
+    "revenue": 3664000000.0,
+    "net_income": 443000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "EIX",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-07",
+    "shares_outstanding": 327000000.0,
+    "revenue": 2834000000.0,
+    "net_income": 7000000.0,
+    "market_cap": null
+  }
+]

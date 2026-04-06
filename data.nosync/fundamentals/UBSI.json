@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "UBSI",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 141827360.0,
+    "revenue": 1685853000.0,
+    "net_income": 464603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2025",
+    "filing_date": "2026-02-27",
+    "shares_outstanding": 141827360.0,
+    "revenue": 1685853000.0,
+    "net_income": 464603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 141961000.0,
+    "revenue": 430957000.0,
+    "net_income": 130748000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 142444000.0,
+    "revenue": 421196000.0,
+    "net_income": 120721000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-09",
+    "shares_outstanding": 142698000.0,
+    "revenue": 403647000.0,
+    "net_income": 84306000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2024",
+    "filing_date": "2025-02-28",
+    "shares_outstanding": 135225417.0,
+    "revenue": 1502121000.0,
+    "net_income": 372996000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-08",
+    "shares_outstanding": 135505000.0,
+    "revenue": 382723000.0,
+    "net_income": 95267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-09",
+    "shares_outstanding": 135315000.0,
+    "revenue": 374184000.0,
+    "net_income": 96507000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-10",
+    "shares_outstanding": 135121000.0,
+    "revenue": 369180000.0,
+    "net_income": 86814000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 134753820.0,
+    "revenue": 1401320000.0,
+    "net_income": 366313000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-09",
+    "shares_outstanding": 134888000.0,
+    "revenue": 356910000.0,
+    "net_income": 96157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-09",
+    "shares_outstanding": 134850000.0,
+    "revenue": 345932000.0,
+    "net_income": 92459000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-10",
+    "shares_outstanding": 134840000.0,
+    "revenue": 329303000.0,
+    "net_income": 98307000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 135117512.0,
+    "revenue": 311957000.0,
+    "net_income": 379627000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 134554000.0,
+    "revenue": 263683000.0,
+    "net_income": 102585000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 134864000.0,
+    "revenue": 227771000.0,
+    "net_income": 95613000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 136435000.0,
+    "revenue": 202795000.0,
+    "net_income": 81664000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 129512853.0,
+    "revenue": 330958000.0,
+    "net_income": 367738000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-09",
+    "shares_outstanding": 128960000.0,
+    "revenue": 194080000.0,
+    "net_income": 92152000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-09",
+    "shares_outstanding": 129034000.0,
+    "revenue": 200186000.0,
+    "net_income": 94836000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-10",
+    "shares_outstanding": 128891000.0,
+    "revenue": 205657000.0,
+    "net_income": 106898000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2020",
+    "filing_date": "2021-03-01",
+    "shares_outstanding": 120090232.0,
+    "revenue": 263249000.0,
+    "net_income": 289023000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-09",
+    "shares_outstanding": 129455000.0,
+    "revenue": 210269000.0,
+    "net_income": 103784000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-10",
+    "shares_outstanding": 119888000.0,
+    "revenue": 198717000.0,
+    "net_income": 52686000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-11",
+    "shares_outstanding": 101399000.0,
+    "revenue": 180482000.0,
+    "net_income": 40183000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2019",
+    "filing_date": "2020-03-02",
+    "shares_outstanding": 101852577.0,
+    "revenue": 762562000.0,
+    "net_income": 260099000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-08",
+    "shares_outstanding": 101712000.0,
+    "revenue": 190351000.0,
+    "net_income": 65965000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-09",
+    "shares_outstanding": 102048000.0,
+    "revenue": 199245000.0,
+    "net_income": 67207000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 102163000.0,
+    "revenue": 189097000.0,
+    "net_income": 63642000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2018",
+    "filing_date": "2019-03-01",
+    "shares_outstanding": 104298825.0,
+    "revenue": 717715000.0,
+    "net_income": 256342000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 103934000.0,
+    "revenue": 185030000.0,
+    "net_income": 64412000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 104953000.0,
+    "revenue": 178000000.0,
+    "net_income": 66274000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-09",
+    "shares_outstanding": 105163000.0,
+    "revenue": 167185000.0,
+    "net_income": 61706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 97890078.0,
+    "revenue": 623806000.0,
+    "net_income": 150581000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-09",
+    "shares_outstanding": 105068000.0,
+    "revenue": 171583000.0,
+    "net_income": 56738000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 99620000.0,
+    "revenue": 154947000.0,
+    "net_income": 37059000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 81307000.0,
+    "revenue": 120758000.0,
+    "net_income": 38809000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 73893127.0,
+    "revenue": 470341000.0,
+    "net_income": 147083000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 76648000.0,
+    "revenue": 123137000.0,
+    "net_income": 41479000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-09",
+    "shares_outstanding": 71809000.0,
+    "revenue": 113087000.0,
+    "net_income": 31792000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 69714000.0,
+    "revenue": 108496000.0,
+    "net_income": 34706000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2015",
+    "filing_date": "2016-02-29",
+    "shares_outstanding": 69625531.0,
+    "revenue": 423630000.0,
+    "net_income": 137959000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 69690000.0,
+    "revenue": 106309000.0,
+    "net_income": 35047000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-05",
+    "shares_outstanding": 69587000.0,
+    "revenue": 105532000.0,
+    "net_income": 34809000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 69477000.0,
+    "revenue": 104549000.0,
+    "net_income": 34627000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 67648673.0,
+    "revenue": 418542000.0,
+    "net_income": 129888000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-10",
+    "shares_outstanding": 69269000.0,
+    "revenue": 106857000.0,
+    "net_income": 33260000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-11",
+    "shares_outstanding": 69154000.0,
+    "revenue": 104799000.0,
+    "net_income": 33247000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-12",
+    "shares_outstanding": 62707000.0,
+    "revenue": 95164000.0,
+    "net_income": 30124000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 50426078.0,
+    "revenue": 306154000.0,
+    "net_income": 85628000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 50473000.0,
+    "revenue": 76705000.0,
+    "net_income": 22170000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-09",
+    "shares_outstanding": 50402000.0,
+    "revenue": 75485000.0,
+    "net_income": 22219000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-09",
+    "shares_outstanding": 50332000.0,
+    "revenue": 76325000.0,
+    "net_income": 21579000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 50298019.0,
+    "revenue": 323897000.0,
+    "net_income": 82607000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-08",
+    "shares_outstanding": 50295000.0,
+    "revenue": 81336000.0,
+    "net_income": 19334000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-08",
+    "shares_outstanding": 50308000.0,
+    "revenue": 81105000.0,
+    "net_income": 21049000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 50301000.0,
+    "revenue": 81788000.0,
+    "net_income": 21010000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "FY 2011",
+    "filing_date": "2012-02-29",
+    "shares_outstanding": 46837363.0,
+    "revenue": 316522000.0,
+    "net_income": 75610000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-07",
+    "shares_outstanding": 49636000.0,
+    "revenue": 84701000.0,
+    "net_income": 20016000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-02",
+    "shares_outstanding": 43676000.0,
+    "revenue": 72435000.0,
+    "net_income": 17452000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-06",
+    "shares_outstanding": 43700000.0,
+    "revenue": 73857000.0,
+    "net_income": 17885000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-05",
+    "shares_outstanding": 43645653.0,
+    "revenue": 79889000.0,
+    "net_income": 17316000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "UBSI",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 43640805.0,
+    "revenue": 82189000.0,
+    "net_income": 17919000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "ticker": "KR",
+    "period": "Q3 2026",
+    "filing_date": "2025-12-12",
+    "shares_outstanding": 655000000.0,
+    "revenue": 33859000000.0,
+    "net_income": -1315000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2026",
+    "filing_date": "2025-09-19",
+    "shares_outstanding": 665000000.0,
+    "revenue": 33940000000.0,
+    "net_income": 610000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2026",
+    "filing_date": "2025-06-27",
+    "shares_outstanding": 664000000.0,
+    "revenue": 45118000000.0,
+    "net_income": 868000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2025",
+    "filing_date": "2025-04-01",
+    "shares_outstanding": 720000000.0,
+    "revenue": 147123000000.0,
+    "net_income": 2672000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2025",
+    "filing_date": "2024-12-13",
+    "shares_outstanding": 728000000.0,
+    "revenue": 33634000000.0,
+    "net_income": 617000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2025",
+    "filing_date": "2024-09-20",
+    "shares_outstanding": 727000000.0,
+    "revenue": 33912000000.0,
+    "net_income": 465000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2025",
+    "filing_date": "2024-06-28",
+    "shares_outstanding": 727000000.0,
+    "revenue": 45269000000.0,
+    "net_income": 956000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2024",
+    "filing_date": "2024-04-02",
+    "shares_outstanding": 725000000.0,
+    "revenue": 150039000000.0,
+    "net_income": 2169000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2024",
+    "filing_date": "2023-12-08",
+    "shares_outstanding": 725000000.0,
+    "revenue": 33957000000.0,
+    "net_income": 647000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2024",
+    "filing_date": "2023-09-15",
+    "shares_outstanding": 719000000.0,
+    "revenue": 33853000000.0,
+    "net_income": -179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2024",
+    "filing_date": "2023-06-23",
+    "shares_outstanding": 724000000.0,
+    "revenue": 45165000000.0,
+    "net_income": 962000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2023",
+    "filing_date": "2023-03-28",
+    "shares_outstanding": 727000000.0,
+    "revenue": 148258000000.0,
+    "net_income": 2249000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2023",
+    "filing_date": "2022-12-09",
+    "shares_outstanding": 724000000.0,
+    "revenue": 34198000000.0,
+    "net_income": 400000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2023",
+    "filing_date": "2022-09-16",
+    "shares_outstanding": 725000000.0,
+    "revenue": 34638000000.0,
+    "net_income": 732000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2023",
+    "filing_date": "2022-06-24",
+    "shares_outstanding": 733000000.0,
+    "revenue": 44600000000.0,
+    "net_income": 666000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2022",
+    "filing_date": "2022-03-29",
+    "shares_outstanding": 754000000.0,
+    "revenue": 137888000000.0,
+    "net_income": 1666000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2022",
+    "filing_date": "2021-12-10",
+    "shares_outstanding": 752000000.0,
+    "revenue": 31860000000.0,
+    "net_income": 485000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2022",
+    "filing_date": "2021-09-17",
+    "shares_outstanding": 755000000.0,
+    "revenue": 31682000000.0,
+    "net_income": 469000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2022",
+    "filing_date": "2021-06-25",
+    "shares_outstanding": 760000000.0,
+    "revenue": 41298000000.0,
+    "net_income": 143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2021",
+    "filing_date": "2021-03-30",
+    "shares_outstanding": 781000000.0,
+    "revenue": 132498000000.0,
+    "net_income": 2588000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2021",
+    "filing_date": "2020-12-15",
+    "shares_outstanding": 780000000.0,
+    "revenue": 29723000000.0,
+    "net_income": 632000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2021",
+    "filing_date": "2020-09-22",
+    "shares_outstanding": 786000000.0,
+    "revenue": 30489000000.0,
+    "net_income": 820000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2021",
+    "filing_date": "2020-06-26",
+    "shares_outstanding": 788000000.0,
+    "revenue": 41549000000.0,
+    "net_income": 1212000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2020",
+    "filing_date": "2020-04-01",
+    "shares_outstanding": 805000000.0,
+    "revenue": 122286000000.0,
+    "net_income": 1512000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2020",
+    "filing_date": "2019-12-17",
+    "shares_outstanding": 807000000.0,
+    "revenue": 27974000000.0,
+    "net_income": 143000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2020",
+    "filing_date": "2019-09-24",
+    "shares_outstanding": 805000000.0,
+    "revenue": 28168000000.0,
+    "net_income": 287000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2020",
+    "filing_date": "2019-06-28",
+    "shares_outstanding": 805000000.0,
+    "revenue": 37251000000.0,
+    "net_income": 763000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2019",
+    "filing_date": "2019-04-02",
+    "shares_outstanding": 818000000.0,
+    "revenue": 121162000000.0,
+    "net_income": 3078000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2019",
+    "filing_date": "2018-12-18",
+    "shares_outstanding": 807000000.0,
+    "revenue": 27672000000.0,
+    "net_income": 308000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2019",
+    "filing_date": "2018-09-25",
+    "shares_outstanding": 805000000.0,
+    "revenue": 27869000000.0,
+    "net_income": 501000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2019",
+    "filing_date": "2018-06-29",
+    "shares_outstanding": 846000000.0,
+    "revenue": 37530000000.0,
+    "net_income": 2018000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2018",
+    "filing_date": "2018-04-03",
+    "shares_outstanding": 904000000.0,
+    "revenue": 122662000000.0,
+    "net_income": 1889000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2018",
+    "filing_date": "2017-12-08",
+    "shares_outstanding": 893000000.0,
+    "revenue": 27749000000.0,
+    "net_income": 389000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2018",
+    "filing_date": "2017-09-15",
+    "shares_outstanding": 905000000.0,
+    "revenue": 27597000000.0,
+    "net_income": 351000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2018",
+    "filing_date": "2017-06-27",
+    "shares_outstanding": 925000000.0,
+    "revenue": 36285000000.0,
+    "net_income": 297000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2017",
+    "filing_date": "2017-03-28",
+    "shares_outstanding": 958000000.0,
+    "revenue": 115337000000.0,
+    "net_income": 1957000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2017",
+    "filing_date": "2016-12-13",
+    "shares_outstanding": 953000000.0,
+    "revenue": 26557000000.0,
+    "net_income": 383000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2017",
+    "filing_date": "2016-09-20",
+    "shares_outstanding": 959000000.0,
+    "revenue": 26565000000.0,
+    "net_income": 378000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2017",
+    "filing_date": "2016-06-28",
+    "shares_outstanding": 966000000.0,
+    "revenue": 34604000000.0,
+    "net_income": 695000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2016",
+    "filing_date": "2016-03-29",
+    "shares_outstanding": 980000000.0,
+    "revenue": 109830000000.0,
+    "net_income": 2049000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2016",
+    "filing_date": "2015-12-17",
+    "shares_outstanding": 979000000.0,
+    "revenue": 25075000000.0,
+    "net_income": 427000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2016",
+    "filing_date": "2015-09-22",
+    "shares_outstanding": 977000000.0,
+    "revenue": 25539000000.0,
+    "net_income": 433000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2016",
+    "filing_date": "2015-06-30",
+    "shares_outstanding": 983000000.0,
+    "revenue": 33051000000.0,
+    "net_income": 624000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2015",
+    "filing_date": "2015-03-31",
+    "shares_outstanding": 497000000.0,
+    "revenue": 108465000000.0,
+    "net_income": 1747000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2015",
+    "filing_date": "2014-12-16",
+    "shares_outstanding": 492000000.0,
+    "revenue": 24987000000.0,
+    "net_income": 365000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2015",
+    "filing_date": "2014-09-23",
+    "shares_outstanding": 491000000.0,
+    "revenue": 25310000000.0,
+    "net_income": 350000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2015",
+    "filing_date": "2014-07-01",
+    "shares_outstanding": 507000000.0,
+    "revenue": 32961000000.0,
+    "net_income": 509000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2014",
+    "filing_date": "2014-04-01",
+    "shares_outstanding": 520000000.0,
+    "revenue": 98375000000.0,
+    "net_income": 1531000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2014",
+    "filing_date": "2013-12-13",
+    "shares_outstanding": 521000000.0,
+    "revenue": 22470000000.0,
+    "net_income": 301000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2014",
+    "filing_date": "2013-09-24",
+    "shares_outstanding": 521000000.0,
+    "revenue": 22686000000.0,
+    "net_income": 320000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2014",
+    "filing_date": "2013-06-28",
+    "shares_outstanding": 520000000.0,
+    "revenue": 29997000000.0,
+    "net_income": 484000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2013",
+    "filing_date": "2013-04-02",
+    "shares_outstanding": 537000000.0,
+    "revenue": 96751000000.0,
+    "net_income": 1508000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2013",
+    "filing_date": "2012-12-11",
+    "shares_outstanding": 522000000.0,
+    "revenue": 21807000000.0,
+    "net_income": 318000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2013",
+    "filing_date": "2012-09-18",
+    "shares_outstanding": 541000000.0,
+    "revenue": 21726000000.0,
+    "net_income": 281000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2013",
+    "filing_date": "2012-06-26",
+    "shares_outstanding": 559000000.0,
+    "revenue": 29065000000.0,
+    "net_income": 441000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2012",
+    "filing_date": "2012-03-27",
+    "shares_outstanding": 593000000.0,
+    "revenue": 90374000000.0,
+    "net_income": 596000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2012",
+    "filing_date": "2011-12-15",
+    "shares_outstanding": 586000000.0,
+    "revenue": 20594000000.0,
+    "net_income": 198000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2012",
+    "filing_date": "2011-09-16",
+    "shares_outstanding": 600000000.0,
+    "revenue": 20913000000.0,
+    "net_income": 283000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2012",
+    "filing_date": "2011-06-23",
+    "shares_outstanding": 612000000.0,
+    "revenue": 27461000000.0,
+    "net_income": 421000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "FY 2011",
+    "filing_date": "2011-03-29",
+    "shares_outstanding": 638000000.0,
+    "revenue": 82189000000.0,
+    "net_income": 1133000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q1 2011",
+    "filing_date": "2010-06-28",
+    "shares_outstanding": 645000000.0,
+    "revenue": 24779000000.0,
+    "net_income": 375000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q3 2010",
+    "filing_date": "2009-12-17",
+    "shares_outstanding": 646000000.0,
+    "revenue": 17669000000.0,
+    "net_income": -876000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "KR",
+    "period": "Q2 2010",
+    "filing_date": "2009-09-23",
+    "shares_outstanding": 651000000.0,
+    "revenue": 17735000000.0,
+    "net_income": 251000000.0,
+    "market_cap": null
+  }
+]

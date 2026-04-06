@@ -1,0 +1,389 @@
+[
+  {
+    "ticker": "DELL",
+    "period": "TTM 2026",
+    "filing_date": "2026-03-16",
+    "shares_outstanding": 684000000.0,
+    "revenue": 113538000000.0,
+    "net_income": 5936000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2026",
+    "filing_date": "2026-03-16",
+    "shares_outstanding": 684000000.0,
+    "revenue": 113538000000.0,
+    "net_income": 5936000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q2 2026",
+    "filing_date": "2025-09-08",
+    "shares_outstanding": 686000000.0,
+    "revenue": 29776000000.0,
+    "net_income": 1164000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2026",
+    "filing_date": "2025-06-10",
+    "shares_outstanding": 702000000.0,
+    "revenue": 23378000000.0,
+    "net_income": 965000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2025",
+    "filing_date": "2025-03-25",
+    "shares_outstanding": 720000000.0,
+    "revenue": 95567000000.0,
+    "net_income": 4576000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q2 2025",
+    "filing_date": "2024-09-10",
+    "shares_outstanding": 724000000.0,
+    "revenue": 25026000000.0,
+    "net_income": 882000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2025",
+    "filing_date": "2024-06-11",
+    "shares_outstanding": 727000000.0,
+    "revenue": 22244000000.0,
+    "net_income": 992000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2024",
+    "filing_date": "2024-03-25",
+    "shares_outstanding": 736000000.0,
+    "revenue": 88425000000.0,
+    "net_income": 3195000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q3 2024",
+    "filing_date": "2023-12-08",
+    "shares_outstanding": 740000000.0,
+    "revenue": 22251000000.0,
+    "net_income": 1004000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q2 2024",
+    "filing_date": "2023-09-12",
+    "shares_outstanding": 738000000.0,
+    "revenue": 22934000000.0,
+    "net_income": 455000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2024",
+    "filing_date": "2023-06-12",
+    "shares_outstanding": 737000000.0,
+    "revenue": 20922000000.0,
+    "net_income": 578000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2023",
+    "filing_date": "2023-03-30",
+    "shares_outstanding": 753000000.0,
+    "revenue": 102301000000.0,
+    "net_income": 2422000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q3 2023",
+    "filing_date": "2022-12-05",
+    "shares_outstanding": 743000000.0,
+    "revenue": 24721000000.0,
+    "net_income": 241000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q2 2023",
+    "filing_date": "2022-09-01",
+    "shares_outstanding": 755000000.0,
+    "revenue": 26425000000.0,
+    "net_income": 506000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2023",
+    "filing_date": "2022-06-06",
+    "shares_outstanding": 780000000.0,
+    "revenue": 26116000000.0,
+    "net_income": 1069000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2022",
+    "filing_date": "2022-03-24",
+    "shares_outstanding": 791000000.0,
+    "revenue": 101197000000.0,
+    "net_income": 5707000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q3 2022",
+    "filing_date": "2021-12-03",
+    "shares_outstanding": 788000000.0,
+    "revenue": 26424000000.0,
+    "net_income": 3888000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q2 2022",
+    "filing_date": "2021-09-03",
+    "shares_outstanding": 786000000.0,
+    "revenue": 24191000000.0,
+    "net_income": 880000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2022",
+    "filing_date": "2021-06-07",
+    "shares_outstanding": 782000000.0,
+    "revenue": 22590000000.0,
+    "net_income": 938000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2021",
+    "filing_date": "2021-03-26",
+    "shares_outstanding": 7553000000.0,
+    "revenue": 94224000000.0,
+    "net_income": 3505000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q3 2021",
+    "filing_date": "2020-12-07",
+    "shares_outstanding": 771000000.0,
+    "revenue": 23482000000.0,
+    "net_income": 881000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q2 2021",
+    "filing_date": "2020-09-04",
+    "shares_outstanding": 761000000.0,
+    "revenue": 22733000000.0,
+    "net_income": 1099000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2021",
+    "filing_date": "2020-06-08",
+    "shares_outstanding": 755000000.0,
+    "revenue": 21897000000.0,
+    "net_income": 182000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2020",
+    "filing_date": "2020-03-27",
+    "shares_outstanding": 3155000000.0,
+    "revenue": 92154000000.0,
+    "net_income": 5529000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q3 2020",
+    "filing_date": "2019-12-09",
+    "shares_outstanding": 750000000.0,
+    "revenue": 22844000000.0,
+    "net_income": 552000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q2 2020",
+    "filing_date": "2019-09-10",
+    "shares_outstanding": 751000000.0,
+    "revenue": 23370000000.0,
+    "net_income": 4232000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2020",
+    "filing_date": "2019-06-10",
+    "shares_outstanding": 751000000.0,
+    "revenue": 21908000000.0,
+    "net_income": 329000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2019",
+    "filing_date": "2019-03-29",
+    "shares_outstanding": -942000000.0,
+    "revenue": 90621000000.0,
+    "net_income": -2181000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q2 2014",
+    "filing_date": "2013-08-28",
+    "shares_outstanding": 1764000000.0,
+    "revenue": 14514000000.0,
+    "net_income": 204000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2014",
+    "filing_date": "2013-06-12",
+    "shares_outstanding": 1761000000.0,
+    "revenue": 14074000000.0,
+    "net_income": 130000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2013",
+    "filing_date": "2013-03-12",
+    "shares_outstanding": 1755000000.0,
+    "revenue": 56940000000.0,
+    "net_income": 2372000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q3 2013",
+    "filing_date": "2012-12-03",
+    "shares_outstanding": 1742000000.0,
+    "revenue": 13721000000.0,
+    "net_income": 475000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q2 2013",
+    "filing_date": "2012-08-29",
+    "shares_outstanding": 1753000000.0,
+    "revenue": 14483000000.0,
+    "net_income": 732000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2013",
+    "filing_date": "2012-05-31",
+    "shares_outstanding": 1774000000.0,
+    "revenue": 14422000000.0,
+    "net_income": 635000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2012",
+    "filing_date": "2012-03-13",
+    "shares_outstanding": 1853000000.0,
+    "revenue": 62071000000.0,
+    "net_income": 3492000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q3 2012",
+    "filing_date": "2011-11-23",
+    "shares_outstanding": 1828000000.0,
+    "revenue": 15365000000.0,
+    "net_income": 893000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q2 2012",
+    "filing_date": "2011-08-25",
+    "shares_outstanding": 1871000000.0,
+    "revenue": 15658000000.0,
+    "net_income": 890000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2012",
+    "filing_date": "2011-05-26",
+    "shares_outstanding": 1923000000.0,
+    "revenue": 15017000000.0,
+    "net_income": 945000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2011",
+    "filing_date": "2011-03-15",
+    "shares_outstanding": 1955000000.0,
+    "revenue": 61494000000.0,
+    "net_income": 2635000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q3 2011",
+    "filing_date": "2010-12-02",
+    "shares_outstanding": 1949000000.0,
+    "revenue": 15394000000.0,
+    "net_income": 822000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q1 2011",
+    "filing_date": "2010-06-10",
+    "shares_outstanding": 1973000000.0,
+    "revenue": 14874000000.0,
+    "net_income": 341000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "FY 2010",
+    "filing_date": "2010-03-18",
+    "shares_outstanding": 1962000000.0,
+    "revenue": 52902000000.0,
+    "net_income": 1433000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DELL",
+    "period": "Q3 2010",
+    "filing_date": "2009-12-03",
+    "shares_outstanding": 1966000000.0,
+    "revenue": 12896000000.0,
+    "net_income": 337000000.0,
+    "market_cap": null
+  }
+]

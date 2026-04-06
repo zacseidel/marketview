@@ -1,0 +1,461 @@
+[
+  {
+    "ticker": "CDW",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 132100000.0,
+    "revenue": 22424100000.0,
+    "net_income": 1066600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2025",
+    "filing_date": "2026-02-20",
+    "shares_outstanding": 132100000.0,
+    "revenue": 22424100000.0,
+    "net_income": 1066600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 131800000.0,
+    "revenue": 5737400000.0,
+    "net_income": 291000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 132400000.0,
+    "revenue": 5976600000.0,
+    "net_income": 271200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 133500000.0,
+    "revenue": 5199100000.0,
+    "net_income": 224900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-30",
+    "shares_outstanding": 134900000.0,
+    "revenue": 5516600000.0,
+    "net_income": 316400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-31",
+    "shares_outstanding": 135600000.0,
+    "revenue": 5423400000.0,
+    "net_income": 281100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-01",
+    "shares_outstanding": 136000000.0,
+    "revenue": 4872700000.0,
+    "net_income": 216100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2023",
+    "filing_date": "2024-02-26",
+    "shares_outstanding": 136300000.0,
+    "revenue": 21376000000.0,
+    "net_income": 1104300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-01",
+    "shares_outstanding": 135900000.0,
+    "revenue": 5628300000.0,
+    "net_income": 315500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 136100000.0,
+    "revenue": 5626100000.0,
+    "net_income": 262600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-03",
+    "shares_outstanding": 137300000.0,
+    "revenue": 5103100000.0,
+    "net_income": 230100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2022",
+    "filing_date": "2023-02-24",
+    "shares_outstanding": 137000000.0,
+    "revenue": 23748700000.0,
+    "net_income": 1114500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-02",
+    "shares_outstanding": 137100000.0,
+    "revenue": 6215500000.0,
+    "net_income": 297800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 136800000.0,
+    "revenue": 6145800000.0,
+    "net_income": 279300000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 136700000.0,
+    "revenue": 5949100000.0,
+    "net_income": 250200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2021",
+    "filing_date": "2022-02-28",
+    "shares_outstanding": 140500000.0,
+    "revenue": 20820800000.0,
+    "net_income": 988600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 139400000.0,
+    "revenue": 5300000000.0,
+    "net_income": 266600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 141700000.0,
+    "revenue": 5146400000.0,
+    "net_income": 274100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 143100000.0,
+    "revenue": 4837500000.0,
+    "net_income": 232600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 144800000.0,
+    "revenue": 18467500000.0,
+    "net_income": 788500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 144800000.0,
+    "revenue": 4756400000.0,
+    "net_income": 193200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-05",
+    "shares_outstanding": 144300000.0,
+    "revenue": 4365700000.0,
+    "net_income": 189100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 144900000.0,
+    "revenue": 4389200000.0,
+    "net_income": 167900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 147800000.0,
+    "revenue": 18032400000.0,
+    "net_income": 736800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 147200000.0,
+    "revenue": 4907700000.0,
+    "net_income": 201700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 148300000.0,
+    "revenue": 4629900000.0,
+    "net_income": 196600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-01",
+    "shares_outstanding": 149200000.0,
+    "revenue": 3957900000.0,
+    "net_income": 152900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 153600000.0,
+    "revenue": 16240500000.0,
+    "net_income": 643000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-31",
+    "shares_outstanding": 153700000.0,
+    "revenue": 4373200000.0,
+    "net_income": 183700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-03",
+    "shares_outstanding": 153900000.0,
+    "revenue": 4186100000.0,
+    "net_income": 173000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 154800000.0,
+    "revenue": 3606400000.0,
+    "net_income": 127000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2017",
+    "filing_date": "2018-03-01",
+    "shares_outstanding": 158200000.0,
+    "revenue": 15191500000.0,
+    "net_income": 523000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 156200000.0,
+    "revenue": 4033900000.0,
+    "net_income": 129200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-04",
+    "shares_outstanding": 159000000.0,
+    "revenue": 3994400000.0,
+    "net_income": 141000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 162800000.0,
+    "revenue": 3324700000.0,
+    "net_income": 57600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2016",
+    "filing_date": "2017-03-01",
+    "shares_outstanding": 166000000.0,
+    "revenue": 13981900000.0,
+    "net_income": 424400000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 164900000.0,
+    "revenue": 3708200000.0,
+    "net_income": 125900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 166700000.0,
+    "revenue": 3664600000.0,
+    "net_income": 117500000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 168900000.0,
+    "revenue": 3116700000.0,
+    "net_income": 77800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2015",
+    "filing_date": "2016-02-25",
+    "shares_outstanding": 171800000.0,
+    "revenue": 12988700000.0,
+    "net_income": 403100000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-06",
+    "shares_outstanding": 171000000.0,
+    "revenue": 3501100000.0,
+    "net_income": 150900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-07",
+    "shares_outstanding": 172500000.0,
+    "revenue": 3314000000.0,
+    "net_income": 108200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-08",
+    "shares_outstanding": 173500000.0,
+    "revenue": 2755200000.0,
+    "net_income": 54700000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2014",
+    "filing_date": "2015-02-26",
+    "shares_outstanding": 172800000.0,
+    "revenue": 12074500000.0,
+    "net_income": 244900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-12",
+    "shares_outstanding": 173000000.0,
+    "revenue": 3266100000.0,
+    "net_income": 55600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-13",
+    "shares_outstanding": 172700000.0,
+    "revenue": 3106000000.0,
+    "net_income": 86600000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-12",
+    "shares_outstanding": 172300000.0,
+    "revenue": 2652300000.0,
+    "net_income": 50900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "FY 2013",
+    "filing_date": "2014-03-05",
+    "shares_outstanding": 158700000.0,
+    "revenue": 10768600000.0,
+    "net_income": 132800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-07",
+    "shares_outstanding": 166800000.0,
+    "revenue": 2864300000.0,
+    "net_income": -2200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CDW",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-12",
+    "shares_outstanding": 146700000.0,
+    "revenue": 2779300000.0,
+    "net_income": 46700000.0,
+    "market_cap": null
+  }
+]

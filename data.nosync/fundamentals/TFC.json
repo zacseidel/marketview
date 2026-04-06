@@ -1,0 +1,236 @@
+[
+  {
+    "ticker": "TFC",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 1302700000.0,
+    "revenue": 24542000000.0,
+    "net_income": 5307000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY 2025",
+    "filing_date": "2026-02-24",
+    "shares_outstanding": 1302700000.0,
+    "revenue": 24542000000.0,
+    "net_income": 5307000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 1296666000.0,
+    "revenue": 6286000000.0,
+    "net_income": 1452000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 1305005000.0,
+    "revenue": 6154000000.0,
+    "net_income": 1240000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-30",
+    "shares_outstanding": 1324339000.0,
+    "revenue": 5988000000.0,
+    "net_income": 1261000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY 2024",
+    "filing_date": "2025-02-25",
+    "shares_outstanding": 1331087000.0,
+    "revenue": 25066000000.0,
+    "net_income": 4840000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-01",
+    "shares_outstanding": 1349129000.0,
+    "revenue": 6352000000.0,
+    "net_income": 1442000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-08",
+    "shares_outstanding": 1338149000.0,
+    "revenue": 6351000000.0,
+    "net_income": 922000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-09",
+    "shares_outstanding": 1346904000.0,
+    "revenue": 6184000000.0,
+    "net_income": 1200000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY 2023",
+    "filing_date": "2024-02-27",
+    "shares_outstanding": 1331963000.0,
+    "revenue": 24456000000.0,
+    "net_income": -1047000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 1340574000.0,
+    "revenue": 6229000000.0,
+    "net_income": 1183000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-31",
+    "shares_outstanding": 1337307000.0,
+    "revenue": 6176000000.0,
+    "net_income": 1345000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-01",
+    "shares_outstanding": 1339480000.0,
+    "revenue": 5785000000.0,
+    "net_income": 1515000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY 2022",
+    "filing_date": "2023-02-28",
+    "shares_outstanding": 1338462000.0,
+    "revenue": 16637000000.0,
+    "net_income": 6267000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-31",
+    "shares_outstanding": 1336659000.0,
+    "revenue": 4369000000.0,
+    "net_income": 1637000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-01",
+    "shares_outstanding": 1338864000.0,
+    "revenue": 3673000000.0,
+    "net_income": 1532000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 1341563000.0,
+    "revenue": 3357000000.0,
+    "net_income": 1416000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY 2021",
+    "filing_date": "2022-02-23",
+    "shares_outstanding": 1349378000.0,
+    "revenue": 13774000000.0,
+    "net_income": 6437000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 1346854000.0,
+    "revenue": 3426000000.0,
+    "net_income": 1704000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-06",
+    "shares_outstanding": 1349492000.0,
+    "revenue": 3443000000.0,
+    "net_income": 1658000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-03",
+    "shares_outstanding": 1358932000.0,
+    "revenue": 3494000000.0,
+    "net_income": 1473000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY 2020",
+    "filing_date": "2021-02-24",
+    "shares_outstanding": 1358289000.0,
+    "revenue": 15548000000.0,
+    "net_income": 4492000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-02",
+    "shares_outstanding": 1358122000.0,
+    "revenue": 3623000000.0,
+    "net_income": 1141000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 1355834000.0,
+    "revenue": 3888000000.0,
+    "net_income": 958000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-08",
+    "shares_outstanding": 1357545000.0,
+    "revenue": 4426000000.0,
+    "net_income": 1063000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TFC",
+    "period": "FY 2019",
+    "filing_date": "2020-03-03",
+    "shares_outstanding": 815204000.0,
+    "revenue": 9409000000.0,
+    "net_income": 3237000000.0,
+    "market_cap": null
+  }
+]

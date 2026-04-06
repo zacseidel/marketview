@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "TXN",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 913000000.0,
+    "revenue": 17682000000.0,
+    "net_income": 5001000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2025",
+    "filing_date": "2026-02-06",
+    "shares_outstanding": 913000000.0,
+    "revenue": 17682000000.0,
+    "net_income": 5001000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-29",
+    "shares_outstanding": 912000000.0,
+    "revenue": 4448000000.0,
+    "net_income": 1295000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 916000000.0,
+    "revenue": 4069000000.0,
+    "net_income": 1179000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-23",
+    "shares_outstanding": 920000000.0,
+    "revenue": 4151000000.0,
+    "net_income": 1362000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-24",
+    "shares_outstanding": 919000000.0,
+    "revenue": 3822000000.0,
+    "net_income": 1127000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-24",
+    "shares_outstanding": 917000000.0,
+    "revenue": 3661000000.0,
+    "net_income": 1105000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2023",
+    "filing_date": "2024-02-02",
+    "shares_outstanding": 916000000.0,
+    "revenue": 17519000000.0,
+    "net_income": 6510000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 916000000.0,
+    "revenue": 4532000000.0,
+    "net_income": 1709000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-26",
+    "shares_outstanding": 916000000.0,
+    "revenue": 4531000000.0,
+    "net_income": 1722000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-26",
+    "shares_outstanding": 916000000.0,
+    "revenue": 4379000000.0,
+    "net_income": 1708000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2022",
+    "filing_date": "2023-02-03",
+    "shares_outstanding": 926000000.0,
+    "revenue": 20028000000.0,
+    "net_income": 8749000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-26",
+    "shares_outstanding": 923000000.0,
+    "revenue": 5241000000.0,
+    "net_income": 2295000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-27",
+    "shares_outstanding": 930000000.0,
+    "revenue": 5212000000.0,
+    "net_income": 2291000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-27",
+    "shares_outstanding": 934000000.0,
+    "revenue": 4905000000.0,
+    "net_income": 2201000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2021",
+    "filing_date": "2022-02-04",
+    "shares_outstanding": 936000000.0,
+    "revenue": 18344000000.0,
+    "net_income": 7769000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-27",
+    "shares_outstanding": 936000000.0,
+    "revenue": 4643000000.0,
+    "net_income": 1947000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-22",
+    "shares_outstanding": 937000000.0,
+    "revenue": 4580000000.0,
+    "net_income": 1931000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-28",
+    "shares_outstanding": 935000000.0,
+    "revenue": 4289000000.0,
+    "net_income": 1753000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2020",
+    "filing_date": "2021-02-05",
+    "shares_outstanding": 933000000.0,
+    "revenue": 14461000000.0,
+    "net_income": 5595000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-21",
+    "shares_outstanding": 929000000.0,
+    "revenue": 3817000000.0,
+    "net_income": 1353000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2020",
+    "filing_date": "2020-07-22",
+    "shares_outstanding": 927000000.0,
+    "revenue": 3239000000.0,
+    "net_income": 1380000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-22",
+    "shares_outstanding": 943000000.0,
+    "revenue": 3329000000.0,
+    "net_income": 1174000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2019",
+    "filing_date": "2020-02-20",
+    "shares_outstanding": 952000000.0,
+    "revenue": 14383000000.0,
+    "net_income": 5017000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-31",
+    "shares_outstanding": 950000000.0,
+    "revenue": 3771000000.0,
+    "net_income": 1425000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 953000000.0,
+    "revenue": 3668000000.0,
+    "net_income": 1305000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 956000000.0,
+    "revenue": 3594000000.0,
+    "net_income": 1217000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2018",
+    "filing_date": "2019-02-22",
+    "shares_outstanding": 990000000.0,
+    "revenue": 15784000000.0,
+    "net_income": 5580000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-02",
+    "shares_outstanding": 989000000.0,
+    "revenue": 4261000000.0,
+    "net_income": 1570000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 997000000.0,
+    "revenue": 4017000000.0,
+    "net_income": 1405000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 1005000000.0,
+    "revenue": 3789000000.0,
+    "net_income": 1366000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2017",
+    "filing_date": "2018-02-22",
+    "shares_outstanding": 1012000000.0,
+    "revenue": 14961000000.0,
+    "net_income": 3682000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-02",
+    "shares_outstanding": 1008000000.0,
+    "revenue": 4116000000.0,
+    "net_income": 1285000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-03",
+    "shares_outstanding": 1015000000.0,
+    "revenue": 3693000000.0,
+    "net_income": 1056000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-03",
+    "shares_outstanding": 1019000000.0,
+    "revenue": 3402000000.0,
+    "net_income": 997000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 1021000000.0,
+    "revenue": 13370000000.0,
+    "net_income": 3595000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-03",
+    "shares_outstanding": 1017000000.0,
+    "revenue": 3675000000.0,
+    "net_income": 1018000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-04",
+    "shares_outstanding": 1016000000.0,
+    "revenue": 3273000000.0,
+    "net_income": 819000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-04",
+    "shares_outstanding": 1018000000.0,
+    "revenue": 3008000000.0,
+    "net_income": 711000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2015",
+    "filing_date": "2016-02-24",
+    "shares_outstanding": 1043000000.0,
+    "revenue": 13000000000.0,
+    "net_income": 2986000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-05",
+    "shares_outstanding": 1035000000.0,
+    "revenue": 3429000000.0,
+    "net_income": 798000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 1051000000.0,
+    "revenue": 3232000000.0,
+    "net_income": 696000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 1061000000.0,
+    "revenue": 3150000000.0,
+    "net_income": 656000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2014",
+    "filing_date": "2015-02-24",
+    "shares_outstanding": 1080000000.0,
+    "revenue": 13045000000.0,
+    "net_income": 2821000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 1074000000.0,
+    "revenue": 3501000000.0,
+    "net_income": 826000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2014",
+    "filing_date": "2014-07-31",
+    "shares_outstanding": 1086000000.0,
+    "revenue": 3292000000.0,
+    "net_income": 683000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-02",
+    "shares_outstanding": 1096000000.0,
+    "revenue": 2983000000.0,
+    "net_income": 487000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2013",
+    "filing_date": "2014-02-24",
+    "shares_outstanding": 1113000000.0,
+    "revenue": 12205000000.0,
+    "net_income": 2162000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 1111000000.0,
+    "revenue": 3244000000.0,
+    "net_income": 629000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-02",
+    "shares_outstanding": 1117000000.0,
+    "revenue": 3047000000.0,
+    "net_income": 660000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 1123000000.0,
+    "revenue": 2885000000.0,
+    "net_income": 362000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2012",
+    "filing_date": "2013-02-22",
+    "shares_outstanding": 1146000000.0,
+    "revenue": 12825000000.0,
+    "net_income": 1759000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 1141000000.0,
+    "revenue": 3390000000.0,
+    "net_income": 784000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 1154000000.0,
+    "revenue": 3335000000.0,
+    "net_income": 446000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-04",
+    "shares_outstanding": 1165000000.0,
+    "revenue": 3121000000.0,
+    "net_income": 265000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "FY 2011",
+    "filing_date": "2012-02-24",
+    "shares_outstanding": 1171000000.0,
+    "revenue": 13735000000.0,
+    "net_income": 2236000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-04",
+    "shares_outstanding": 1157000000.0,
+    "revenue": 3466000000.0,
+    "net_income": 601000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-05",
+    "shares_outstanding": 1180000000.0,
+    "revenue": 3458000000.0,
+    "net_income": 672000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 1194.0,
+    "revenue": 3392000000.0,
+    "net_income": 666000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "TXN",
+    "period": "Q2 2009",
+    "filing_date": "2009-07-29",
+    "shares_outstanding": 1272000000.0,
+    "revenue": 2457000000.0,
+    "net_income": 260000000.0,
+    "market_cap": null
+  }
+]

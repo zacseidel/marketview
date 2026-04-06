@@ -1,0 +1,317 @@
+[
+  {
+    "ticker": "CELH",
+    "period": "TTM 2025",
+    "filing_date": "2026-03-02",
+    "shares_outstanding": 254911000.0,
+    "revenue": 2515269000.0,
+    "net_income": 107999000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "FY 2025",
+    "filing_date": "2026-03-02",
+    "shares_outstanding": 254911000.0,
+    "revenue": 2515269000.0,
+    "net_income": 107999000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-07",
+    "shares_outstanding": 257778000.0,
+    "revenue": 725106000.0,
+    "net_income": -61014000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-08",
+    "shares_outstanding": 260211000.0,
+    "revenue": 739259000.0,
+    "net_income": 99855000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 237172000.0,
+    "revenue": 329276000.0,
+    "net_income": 44419000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-06",
+    "shares_outstanding": 233696000.0,
+    "revenue": 265748000.0,
+    "net_income": 6356000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-06",
+    "shares_outstanding": 237595000.0,
+    "revenue": 401977000.0,
+    "net_income": 79783000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 237523000.0,
+    "revenue": 355708000.0,
+    "net_income": 77811000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "FY 2023",
+    "filing_date": "2024-02-29",
+    "shares_outstanding": 236964000.0,
+    "revenue": 1318014000.0,
+    "net_income": 226801000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 79091000.0,
+    "revenue": 384757000.0,
+    "net_income": 83949000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-08",
+    "shares_outstanding": 78944000.0,
+    "revenue": 325883000.0,
+    "net_income": 51509000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 78759000.0,
+    "revenue": 259939000.0,
+    "net_income": 41227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 75649000.0,
+    "revenue": 653604000.0,
+    "net_income": -187282000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-09",
+    "shares_outstanding": 75796000.0,
+    "revenue": 188233000.0,
+    "net_income": -181896000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-09",
+    "shares_outstanding": 78372000.0,
+    "revenue": 154020000.0,
+    "net_income": 9158000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 78289000.0,
+    "revenue": 133388000.0,
+    "net_income": 6679000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "FY 2021",
+    "filing_date": "2022-03-16",
+    "shares_outstanding": 77688501.0,
+    "revenue": 314271559.0,
+    "net_income": 3937273.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-12",
+    "shares_outstanding": 78473866.0,
+    "revenue": 94909100.0,
+    "net_income": 2745791.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-12",
+    "shares_outstanding": 77238389.0,
+    "revenue": 65073323.0,
+    "net_income": 3960344.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-13",
+    "shares_outstanding": 76925484.0,
+    "revenue": 50034879.0,
+    "net_income": 585424.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "FY 2020",
+    "filing_date": "2021-03-11",
+    "shares_outstanding": 74443601.0,
+    "revenue": 130725777.0,
+    "net_income": 9048234.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-12",
+    "shares_outstanding": 74848239.0,
+    "revenue": 36839149.0,
+    "net_income": 4753603.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-06",
+    "shares_outstanding": 71473065.0,
+    "revenue": 30037227.0,
+    "net_income": 1558334.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-12",
+    "shares_outstanding": 70339416.0,
+    "revenue": 28184889.0,
+    "net_income": 546051.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "FY 2019",
+    "filing_date": "2020-03-12",
+    "shares_outstanding": 64183399.0,
+    "revenue": 75146546.0,
+    "net_income": 9971260.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-07",
+    "shares_outstanding": 62532510.0,
+    "revenue": 20423847.0,
+    "net_income": 961042.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-08",
+    "shares_outstanding": 57336117.0,
+    "revenue": 16121929.0,
+    "net_income": -1473295.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-09",
+    "shares_outstanding": 61687409.0,
+    "revenue": 14485650.0,
+    "net_income": 11656594.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "FY 2018",
+    "filing_date": "2019-03-14",
+    "shares_outstanding": 11802982.0,
+    "revenue": 52603986.0,
+    "net_income": -11206648.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-08",
+    "shares_outstanding": 51098575.0,
+    "revenue": 16565316.0,
+    "net_income": -4131714.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 51003803.0,
+    "revenue": 9298327.0,
+    "net_income": -3348658.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-10",
+    "shares_outstanding": 47449553.0,
+    "revenue": 12059976.0,
+    "net_income": -2876504.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "FY 2017",
+    "filing_date": "2018-03-08",
+    "shares_outstanding": 17147245.0,
+    "revenue": 36164064.0,
+    "net_income": -8240583.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-08",
+    "shares_outstanding": 45487908.0,
+    "revenue": 10785796.0,
+    "net_income": -1622244.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CELH",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-09",
+    "shares_outstanding": 56877616.0,
+    "revenue": 10236898.0,
+    "net_income": 470773.0,
+    "market_cap": null
+  }
+]

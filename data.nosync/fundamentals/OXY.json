@@ -1,0 +1,587 @@
+[
+  {
+    "ticker": "OXY",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 1000100000.0,
+    "revenue": 21593000000.0,
+    "net_income": 2369000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2025",
+    "filing_date": "2026-02-18",
+    "shares_outstanding": 1000100000.0,
+    "revenue": 21593000000.0,
+    "net_income": 2369000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-10",
+    "shares_outstanding": 1003100000.0,
+    "revenue": 6624000000.0,
+    "net_income": 842000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-06",
+    "shares_outstanding": 1010400000.0,
+    "revenue": 6414000000.0,
+    "net_income": 468000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-07",
+    "shares_outstanding": 982900000.0,
+    "revenue": 6803000000.0,
+    "net_income": 945000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2024",
+    "filing_date": "2025-02-18",
+    "shares_outstanding": 967100000.0,
+    "revenue": 26725000000.0,
+    "net_income": 3078000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2024",
+    "filing_date": "2024-11-12",
+    "shares_outstanding": 975700000.0,
+    "revenue": 7173000000.0,
+    "net_income": 1140000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-07",
+    "shares_outstanding": 958900000.0,
+    "revenue": 6817000000.0,
+    "net_income": 1170000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 948600000.0,
+    "revenue": 5975000000.0,
+    "net_income": 888000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2023",
+    "filing_date": "2024-02-14",
+    "shares_outstanding": 960900000.0,
+    "revenue": 28257000000.0,
+    "net_income": 4696000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 958200000.0,
+    "revenue": 7158000000.0,
+    "net_income": 1375000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-02",
+    "shares_outstanding": 958800000.0,
+    "revenue": 6702000000.0,
+    "net_income": 860000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 975300000.0,
+    "revenue": 7225000000.0,
+    "net_income": 1263000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 1002000000.0,
+    "revenue": 36634000000.0,
+    "net_income": 13304000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 1002500000.0,
+    "revenue": 9390000000.0,
+    "net_income": 2746000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-02",
+    "shares_outstanding": 1018300000.0,
+    "revenue": 10676000000.0,
+    "net_income": 3755000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-10",
+    "shares_outstanding": 997700000.0,
+    "revenue": 8349000000.0,
+    "net_income": 4876000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2021",
+    "filing_date": "2022-02-24",
+    "shares_outstanding": 958800000.0,
+    "revenue": 25956000000.0,
+    "net_income": 2322000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-04",
+    "shares_outstanding": 957700000.0,
+    "revenue": 6792000000.0,
+    "net_income": 828000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-03",
+    "shares_outstanding": 934200000.0,
+    "revenue": 5958000000.0,
+    "net_income": 103000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-10",
+    "shares_outstanding": 947900000.0,
+    "revenue": 5293000000.0,
+    "net_income": -146000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2020",
+    "filing_date": "2021-02-26",
+    "shares_outstanding": 918700000.0,
+    "revenue": 17809000000.0,
+    "net_income": -14831000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-09",
+    "shares_outstanding": 929300000.0,
+    "revenue": 4108000000.0,
+    "net_income": -3575000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-10",
+    "shares_outstanding": 915500000.0,
+    "revenue": 2928000000.0,
+    "net_income": -8131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-06",
+    "shares_outstanding": 896700000.0,
+    "revenue": 6410000000.0,
+    "net_income": -2013000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2019",
+    "filing_date": "2020-02-28",
+    "shares_outstanding": 809500000.0,
+    "revenue": 20393000000.0,
+    "net_income": -522000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-04",
+    "shares_outstanding": 845700000.0,
+    "revenue": 5231000000.0,
+    "net_income": -752000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-31",
+    "shares_outstanding": 749500000.0,
+    "revenue": 4420000000.0,
+    "net_income": 635000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-06",
+    "shares_outstanding": 750500000.0,
+    "revenue": 3435000000.0,
+    "net_income": 631000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2018",
+    "filing_date": "2019-02-21",
+    "shares_outstanding": 763300000.0,
+    "revenue": 15560000000.0,
+    "net_income": 4131000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 763300000.0,
+    "revenue": 5216000000.0,
+    "net_income": 1869000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-08",
+    "shares_outstanding": 767400000.0,
+    "revenue": 4083000000.0,
+    "net_income": 848000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 767000000.0,
+    "revenue": 3763000000.0,
+    "net_income": 708000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2017",
+    "filing_date": "2018-02-23",
+    "shares_outstanding": 765900000.0,
+    "revenue": 12508000000.0,
+    "net_income": 1311000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-01",
+    "shares_outstanding": 766400000.0,
+    "revenue": 2999000000.0,
+    "net_income": 190000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-02",
+    "shares_outstanding": 765900000.0,
+    "revenue": 3060000000.0,
+    "net_income": 507000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-04",
+    "shares_outstanding": 765200000.0,
+    "revenue": 2957000000.0,
+    "net_income": 117000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2016",
+    "filing_date": "2017-02-23",
+    "shares_outstanding": 763800000.0,
+    "revenue": 10090000000.0,
+    "net_income": -574000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 764000000.0,
+    "revenue": 2733000000.0,
+    "net_income": -241000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-03",
+    "shares_outstanding": 763600000.0,
+    "revenue": 2558000000.0,
+    "net_income": -139000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-05",
+    "shares_outstanding": 763400000.0,
+    "revenue": 2281000000.0,
+    "net_income": 78000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 765600000.0,
+    "revenue": 12480000000.0,
+    "net_income": -7829000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2015",
+    "filing_date": "2015-10-30",
+    "shares_outstanding": 763300000.0,
+    "revenue": 3246000000.0,
+    "net_income": -2609000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-04",
+    "shares_outstanding": 766600000.0,
+    "revenue": 3469000000.0,
+    "net_income": 176000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 769600000.0,
+    "revenue": 3089000000.0,
+    "net_income": -218000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2014",
+    "filing_date": "2015-02-23",
+    "shares_outstanding": 781100000.0,
+    "revenue": 19312000000.0,
+    "net_income": 630000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2014",
+    "filing_date": "2014-10-31",
+    "shares_outstanding": 777700000.0,
+    "revenue": 5996000000.0,
+    "net_income": 1211000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 782900000.0,
+    "revenue": 6275000000.0,
+    "net_income": 1434000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-05",
+    "shares_outstanding": 791700000.0,
+    "revenue": 6088000000.0,
+    "net_income": 1392000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2013",
+    "filing_date": "2014-03-03",
+    "shares_outstanding": 804600000.0,
+    "revenue": 24455000000.0,
+    "net_income": 5903000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2013",
+    "filing_date": "2013-10-30",
+    "shares_outstanding": 805700000.0,
+    "revenue": 6449000000.0,
+    "net_income": 1583000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-05",
+    "shares_outstanding": 805400000.0,
+    "revenue": 5962000000.0,
+    "net_income": 1322000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-01",
+    "shares_outstanding": 805200000.0,
+    "revenue": 5872000000.0,
+    "net_income": 1355000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2012",
+    "filing_date": "2013-02-26",
+    "shares_outstanding": 810000000.0,
+    "revenue": 24172000000.0,
+    "net_income": 4598000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-02",
+    "shares_outstanding": 810400000.0,
+    "revenue": 5965000000.0,
+    "net_income": 1375000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-06",
+    "shares_outstanding": 811000000.0,
+    "revenue": 5768000000.0,
+    "net_income": 1328000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-03",
+    "shares_outstanding": 811300000.0,
+    "revenue": 6268000000.0,
+    "net_income": 1559000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "FY 2011",
+    "filing_date": "2012-02-23",
+    "shares_outstanding": 812900000.0,
+    "revenue": 23939000000.0,
+    "net_income": 6771000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-03",
+    "shares_outstanding": 813200000.0,
+    "revenue": 6006000000.0,
+    "net_income": 1771000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 813300000.0,
+    "revenue": 6173000000.0,
+    "net_income": 1817000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-05",
+    "shares_outstanding": 813400000.0,
+    "revenue": 5726000000.0,
+    "net_income": 1549000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-05",
+    "shares_outstanding": 813800000.0,
+    "revenue": 4761000000.0,
+    "net_income": 1075000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-06",
+    "shares_outstanding": -100000.0,
+    "revenue": 4771000000.0,
+    "net_income": 1088000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q3 2009",
+    "filing_date": "2009-11-02",
+    "shares_outstanding": 28520000000.0,
+    "revenue": 4104000000.0,
+    "net_income": 941000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "OXY",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-06",
+    "shares_outstanding": 27887000000.0,
+    "revenue": 3687000000.0,
+    "net_income": 694000000.0,
+    "market_cap": null
+  }
+]

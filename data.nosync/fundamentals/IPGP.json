@@ -1,0 +1,542 @@
+[
+  {
+    "ticker": "IPGP",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 42650000.0,
+    "revenue": 1003777000.0,
+    "net_income": 31096000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2025",
+    "filing_date": "2026-02-23",
+    "shares_outstanding": 42650000.0,
+    "revenue": 1003777000.0,
+    "net_income": 31096000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2025",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 42556000.0,
+    "revenue": 250792000.0,
+    "net_income": 7463000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2025",
+    "filing_date": "2025-08-05",
+    "shares_outstanding": 42577000.0,
+    "revenue": 250721000.0,
+    "net_income": 6605000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 42832000.0,
+    "revenue": 227793000.0,
+    "net_income": 3758000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2024",
+    "filing_date": "2025-02-20",
+    "shares_outstanding": 44336000.0,
+    "revenue": 977134000.0,
+    "net_income": -181526000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-29",
+    "shares_outstanding": 43837000.0,
+    "revenue": 233143000.0,
+    "net_income": -233594000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-30",
+    "shares_outstanding": 45012000.0,
+    "revenue": 257645000.0,
+    "net_income": 20154000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-30",
+    "shares_outstanding": 46175000.0,
+    "revenue": 252009000.0,
+    "net_income": 24099000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2023",
+    "filing_date": "2024-02-21",
+    "shares_outstanding": 47320000.0,
+    "revenue": 1287439000.0,
+    "net_income": 218878000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-31",
+    "shares_outstanding": 47388000.0,
+    "revenue": 301401000.0,
+    "net_income": 54994000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-01",
+    "shares_outstanding": 47453000.0,
+    "revenue": 339971000.0,
+    "net_income": 62321000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-02",
+    "shares_outstanding": 47776000.0,
+    "revenue": 347174000.0,
+    "net_income": 60135000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2022",
+    "filing_date": "2023-02-27",
+    "shares_outstanding": 50925000.0,
+    "revenue": 1429547000.0,
+    "net_income": 110762000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-01",
+    "shares_outstanding": 51737000.0,
+    "revenue": 349006000.0,
+    "net_income": 76698000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-03",
+    "shares_outstanding": 51795000.0,
+    "revenue": 377023000.0,
+    "net_income": 57331000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-05",
+    "shares_outstanding": 53100000.0,
+    "revenue": 369979000.0,
+    "net_income": 69628000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2021",
+    "filing_date": "2022-02-22",
+    "shares_outstanding": 53930000.0,
+    "revenue": 1460860000.0,
+    "net_income": 277866000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-03",
+    "shares_outstanding": 53834000.0,
+    "revenue": 379150000.0,
+    "net_income": 74699000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-04",
+    "shares_outstanding": 53999000.0,
+    "revenue": 371658000.0,
+    "net_income": 69677000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-05",
+    "shares_outstanding": 54201000.0,
+    "revenue": 345585000.0,
+    "net_income": 68222000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2020",
+    "filing_date": "2021-02-22",
+    "shares_outstanding": 53785000.0,
+    "revenue": 1200724000.0,
+    "net_income": 160338000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 53664000.0,
+    "revenue": 318441000.0,
+    "net_income": 35530000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-04",
+    "shares_outstanding": 53530000.0,
+    "revenue": 296411000.0,
+    "net_income": 38366000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 53676000.0,
+    "revenue": 249242000.0,
+    "net_income": 36766000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2019",
+    "filing_date": "2020-02-24",
+    "shares_outstanding": 53839000.0,
+    "revenue": 1314581000.0,
+    "net_income": 180261000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2019",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 53622000.0,
+    "revenue": 329138000.0,
+    "net_income": 57127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2019",
+    "filing_date": "2019-08-06",
+    "shares_outstanding": 53848000.0,
+    "revenue": 363769000.0,
+    "net_income": 72521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2019",
+    "filing_date": "2019-05-08",
+    "shares_outstanding": 53874000.0,
+    "revenue": 315047000.0,
+    "net_income": 54916000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2018",
+    "filing_date": "2019-02-27",
+    "shares_outstanding": 54726000.0,
+    "revenue": 1459874000.0,
+    "net_income": 404169000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2018",
+    "filing_date": "2018-11-05",
+    "shares_outstanding": 54696000.0,
+    "revenue": 356346000.0,
+    "net_income": 100752000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-09",
+    "shares_outstanding": 54992000.0,
+    "revenue": 413613000.0,
+    "net_income": 121617000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-04",
+    "shares_outstanding": 55182000.0,
+    "revenue": 359864000.0,
+    "net_income": 106334000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2017",
+    "filing_date": "2018-02-28",
+    "shares_outstanding": 54699000.0,
+    "revenue": 1408889000.0,
+    "net_income": 347588000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 54698000.0,
+    "revenue": 392615000.0,
+    "net_income": 115597000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-08",
+    "shares_outstanding": 54471000.0,
+    "revenue": 369373000.0,
+    "net_income": 104103000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-08",
+    "shares_outstanding": 54370000.0,
+    "revenue": 285846000.0,
+    "net_income": 74932000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2016",
+    "filing_date": "2017-02-27",
+    "shares_outstanding": 53797000.0,
+    "revenue": 1006173000.0,
+    "net_income": 260716000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-02",
+    "shares_outstanding": 53761000.0,
+    "revenue": 266017000.0,
+    "net_income": 69227000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2016",
+    "filing_date": "2016-08-08",
+    "shares_outstanding": 53788000.0,
+    "revenue": 252787000.0,
+    "net_income": 67031000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2016",
+    "filing_date": "2016-05-09",
+    "shares_outstanding": 53621000.0,
+    "revenue": 207248000.0,
+    "net_income": 49328000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2015",
+    "filing_date": "2016-02-26",
+    "shares_outstanding": 53427000.0,
+    "revenue": 901265000.0,
+    "net_income": 242027000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 53392000.0,
+    "revenue": 243541000.0,
+    "net_income": 62757000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2015",
+    "filing_date": "2015-08-03",
+    "shares_outstanding": 53442000.0,
+    "revenue": 235138000.0,
+    "net_income": 61244000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-06",
+    "shares_outstanding": 53267000.0,
+    "revenue": 198960000.0,
+    "net_income": 57346000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2014",
+    "filing_date": "2015-03-02",
+    "shares_outstanding": 52824000.0,
+    "revenue": 769832000.0,
+    "net_income": 200445000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-07",
+    "shares_outstanding": 52792000.0,
+    "revenue": 199651000.0,
+    "net_income": 55200000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-05",
+    "shares_outstanding": 52769000.0,
+    "revenue": 192204000.0,
+    "net_income": 48283000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-06",
+    "shares_outstanding": 52724000.0,
+    "revenue": 170575000.0,
+    "net_income": 40531000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2013",
+    "filing_date": "2014-02-28",
+    "shares_outstanding": 52375000.0,
+    "revenue": 648034000.0,
+    "net_income": 155780000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-08",
+    "shares_outstanding": 52367000.0,
+    "revenue": 172152000.0,
+    "net_income": 42338000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-08",
+    "shares_outstanding": 52385000.0,
+    "revenue": 168171000.0,
+    "net_income": 41720000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-10",
+    "shares_outstanding": 52350000.0,
+    "revenue": 141852000.0,
+    "net_income": 35127000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2012",
+    "filing_date": "2013-02-28",
+    "shares_outstanding": 51536370.0,
+    "revenue": 562528000.0,
+    "net_income": 147744000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 52102000.0,
+    "revenue": 156379000.0,
+    "net_income": 42435000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-03",
+    "shares_outstanding": 52071000.0,
+    "revenue": 137927000.0,
+    "net_income": 39849000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q1 2012",
+    "filing_date": "2012-05-08",
+    "shares_outstanding": 49582000.0,
+    "revenue": 123192000.0,
+    "net_income": 30548000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "FY 2011",
+    "filing_date": "2012-02-27",
+    "shares_outstanding": 48684711.0,
+    "revenue": 474482000.0,
+    "net_income": 121009000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q3 2011",
+    "filing_date": "2011-11-08",
+    "shares_outstanding": 48747000.0,
+    "revenue": 129064000.0,
+    "net_income": 34269000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "IPGP",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-08",
+    "shares_outstanding": 48610000.0,
+    "revenue": 121936000.0,
+    "net_income": 31507000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "ticker": "CNX",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-10",
+    "shares_outstanding": 160352521.0,
+    "revenue": 2239134000.0,
+    "net_income": 633162000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2025",
+    "filing_date": "2026-02-10",
+    "shares_outstanding": 160352521.0,
+    "revenue": 2239134000.0,
+    "net_income": 633162000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 167585198.0,
+    "revenue": 583840000.0,
+    "net_income": 202103000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-24",
+    "shares_outstanding": 171746596.0,
+    "revenue": 962422000.0,
+    "net_income": 432521000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2025",
+    "filing_date": "2025-04-24",
+    "shares_outstanding": 147778141.0,
+    "revenue": 82388000.0,
+    "net_income": -197715000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2024",
+    "filing_date": "2025-02-11",
+    "shares_outstanding": 151306438.0,
+    "revenue": 1266786000.0,
+    "net_income": -90494000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-24",
+    "shares_outstanding": 179113461.0,
+    "revenue": 424213000.0,
+    "net_income": 65540000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2024",
+    "filing_date": "2024-07-25",
+    "shares_outstanding": 152608500.0,
+    "revenue": 321443000.0,
+    "net_income": -18261000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2024",
+    "filing_date": "2024-04-25",
+    "shares_outstanding": 156151721.0,
+    "revenue": 384553000.0,
+    "net_income": 6851000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2023",
+    "filing_date": "2024-02-08",
+    "shares_outstanding": 192013989.0,
+    "revenue": 3434948000.0,
+    "net_income": 1720716000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2023",
+    "filing_date": "2023-10-25",
+    "shares_outstanding": 190674498.0,
+    "revenue": 350506000.0,
+    "net_income": 21381000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2023",
+    "filing_date": "2023-07-27",
+    "shares_outstanding": 192991586.0,
+    "revenue": 839700000.0,
+    "net_income": 474955000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2023",
+    "filing_date": "2023-04-27",
+    "shares_outstanding": 197144874.0,
+    "revenue": 1275977000.0,
+    "net_income": 710395000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2022",
+    "filing_date": "2023-02-09",
+    "shares_outstanding": 189507682.0,
+    "revenue": 1261211000.0,
+    "net_income": -142077000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2022",
+    "filing_date": "2022-10-27",
+    "shares_outstanding": 187511940.0,
+    "revenue": 117061000.0,
+    "net_income": -427072000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2022",
+    "filing_date": "2022-07-28",
+    "shares_outstanding": 224408694.0,
+    "revenue": 420418000.0,
+    "net_income": 33357000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2022",
+    "filing_date": "2022-04-28",
+    "shares_outstanding": 199854257.0,
+    "revenue": -913098000.0,
+    "net_income": -922941000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2021",
+    "filing_date": "2022-02-10",
+    "shares_outstanding": 215971381.0,
+    "revenue": 756792000.0,
+    "net_income": -498643000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2021",
+    "filing_date": "2021-10-28",
+    "shares_outstanding": 215738737.0,
+    "revenue": -880261000.0,
+    "net_income": -872921000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2021",
+    "filing_date": "2021-07-29",
+    "shares_outstanding": 219897242.0,
+    "revenue": -127210000.0,
+    "net_income": -354059000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2021",
+    "filing_date": "2021-04-29",
+    "shares_outstanding": 228670448.0,
+    "revenue": 473073000.0,
+    "net_income": 98025000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2020",
+    "filing_date": "2021-02-09",
+    "shares_outstanding": 199225441.0,
+    "revenue": 1257978000.0,
+    "net_income": -428744000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2020",
+    "filing_date": "2020-10-29",
+    "shares_outstanding": 198727472.0,
+    "revenue": 66075000.0,
+    "net_income": -188793000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-03",
+    "shares_outstanding": 187316463.0,
+    "revenue": 148841000.0,
+    "net_income": -130487000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2020",
+    "filing_date": "2020-04-27",
+    "shares_outstanding": 186918361.0,
+    "revenue": 416359000.0,
+    "net_income": -305222000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2019",
+    "filing_date": "2020-02-10",
+    "shares_outstanding": 190727122.0,
+    "revenue": 1922449000.0,
+    "net_income": 31948000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2019",
+    "filing_date": "2019-10-29",
+    "shares_outstanding": 188430959.0,
+    "revenue": 526681000.0,
+    "net_income": 143960000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2019",
+    "filing_date": "2019-07-30",
+    "shares_outstanding": 192780732.0,
+    "revenue": 602109000.0,
+    "net_income": 192694000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2019",
+    "filing_date": "2019-04-30",
+    "shares_outstanding": 197475702.0,
+    "revenue": 275234000.0,
+    "net_income": -64651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2018",
+    "filing_date": "2019-02-07",
+    "shares_outstanding": 214628965.0,
+    "revenue": 1730434000.0,
+    "net_income": 883111000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2018",
+    "filing_date": "2018-10-30",
+    "shares_outstanding": 212708082.0,
+    "revenue": 393223000.0,
+    "net_income": 125029000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2018",
+    "filing_date": "2018-08-02",
+    "shares_outstanding": 218929960.0,
+    "revenue": 393590000.0,
+    "net_income": 42014000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2018",
+    "filing_date": "2018-05-03",
+    "shares_outstanding": 224182536.0,
+    "revenue": 485019000.0,
+    "net_income": 527563000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2017",
+    "filing_date": "2018-02-07",
+    "shares_outstanding": 230951812.0,
+    "revenue": 1455131000.0,
+    "net_income": 380747000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2017",
+    "filing_date": "2017-10-31",
+    "shares_outstanding": 230080797.0,
+    "revenue": 267009000.0,
+    "net_income": -25651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2017",
+    "filing_date": "2017-08-01",
+    "shares_outstanding": 232198396.0,
+    "revenue": 865952000.0,
+    "net_income": 173823000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2017",
+    "filing_date": "2017-05-02",
+    "shares_outstanding": 229817169000.0,
+    "revenue": 698709000.0,
+    "net_income": -33502000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2016",
+    "filing_date": "2017-02-08",
+    "shares_outstanding": 229387403.0,
+    "revenue": 2026375000.0,
+    "net_income": -839148000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2016",
+    "filing_date": "2016-11-01",
+    "shares_outstanding": 231518585000.0,
+    "revenue": 688590000.0,
+    "net_income": 27593000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2016",
+    "filing_date": "2016-07-29",
+    "shares_outstanding": 229409325000.0,
+    "revenue": 285800000.0,
+    "net_income": -468649000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2016",
+    "filing_date": "2016-04-28",
+    "shares_outstanding": 229259228000.0,
+    "revenue": 558514000.0,
+    "net_income": -96458000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2015",
+    "filing_date": "2016-02-05",
+    "shares_outstanding": 229186125.0,
+    "revenue": 3114401000.0,
+    "net_income": -364475000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2015",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 229352127000.0,
+    "revenue": 723955000.0,
+    "net_income": 125470000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2015",
+    "filing_date": "2015-07-31",
+    "shares_outstanding": 228928803.0,
+    "revenue": 648939000.0,
+    "net_income": -603301000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 230446699.0,
+    "revenue": 889592000.0,
+    "net_income": 79030000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2014",
+    "filing_date": "2015-02-06",
+    "shares_outstanding": 231580278.0,
+    "revenue": 3726804000.0,
+    "net_income": 163090000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2014",
+    "filing_date": "2014-11-04",
+    "shares_outstanding": 230174256.0,
+    "revenue": 833806000.0,
+    "net_income": -1645000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2014",
+    "filing_date": "2014-08-01",
+    "shares_outstanding": 230061395.0,
+    "revenue": 937370000.0,
+    "net_income": -24935000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2014",
+    "filing_date": "2014-05-06",
+    "shares_outstanding": 230867526.0,
+    "revenue": 969153000.0,
+    "net_income": 116003000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2013",
+    "filing_date": "2014-02-07",
+    "shares_outstanding": 230077942.0,
+    "revenue": 3299685000.0,
+    "net_income": 659056000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2013",
+    "filing_date": "2013-11-01",
+    "shares_outstanding": 228876336.0,
+    "revenue": 753080000.0,
+    "net_income": -63651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2013",
+    "filing_date": "2013-08-05",
+    "shares_outstanding": 228721980.0,
+    "revenue": 1216680000.0,
+    "net_income": -12526000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2013",
+    "filing_date": "2013-05-07",
+    "shares_outstanding": 228318123.0,
+    "revenue": 1289640000.0,
+    "net_income": -1821000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2012",
+    "filing_date": "2013-02-07",
+    "shares_outstanding": 229141767.0,
+    "revenue": 5430307000.0,
+    "net_income": 388073000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2012",
+    "filing_date": "2012-11-01",
+    "shares_outstanding": 227654395.0,
+    "revenue": 1097962000.0,
+    "net_income": -11473000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2012",
+    "filing_date": "2012-08-01",
+    "shares_outstanding": 229252185.0,
+    "revenue": 1199477000.0,
+    "net_income": 152710000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2012",
+    "filing_date": "2012-04-30",
+    "shares_outstanding": 230124011.0,
+    "revenue": 1324516000.0,
+    "net_income": 97196000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2011",
+    "filing_date": "2012-02-10",
+    "shares_outstanding": 229003599.0,
+    "revenue": 6117242000.0,
+    "net_income": 632497000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2011",
+    "filing_date": "2011-10-31",
+    "shares_outstanding": 229163537.0,
+    "revenue": 1439930000.0,
+    "net_income": 167329000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2011",
+    "filing_date": "2011-08-04",
+    "shares_outstanding": 229138024.0,
+    "revenue": 1503435000.0,
+    "net_income": 77384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2011",
+    "filing_date": "2011-05-03",
+    "shares_outstanding": 228814838.0,
+    "revenue": 1405293000.0,
+    "net_income": 192149000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2010",
+    "filing_date": "2010-11-01",
+    "shares_outstanding": 228092299.0,
+    "revenue": 1349293000.0,
+    "net_income": 75383000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2010",
+    "filing_date": "2010-08-02",
+    "shares_outstanding": 228081103.0,
+    "revenue": 1289347000.0,
+    "net_income": 70900000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q1 2010",
+    "filing_date": "2010-05-04",
+    "shares_outstanding": 184348982.0,
+    "revenue": 1240060000.0,
+    "net_income": 107882000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "FY 2009",
+    "filing_date": "2010-02-09",
+    "shares_outstanding": 182821136.0,
+    "revenue": 4621875000.0,
+    "net_income": 567142000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q3 2009",
+    "filing_date": "2009-10-28",
+    "shares_outstanding": 183191667.0,
+    "revenue": 1094517000.0,
+    "net_income": 93286000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "CNX",
+    "period": "Q2 2009",
+    "filing_date": "2009-08-03",
+    "shares_outstanding": 183073413.0,
+    "revenue": 1070565000.0,
+    "net_income": 113339000.0,
+    "market_cap": null
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "ticker": "FN",
+    "period": "Q2 2026",
+    "filing_date": "2026-02-03",
+    "shares_outstanding": 36253000.0,
+    "revenue": 1132888000.0,
+    "net_income": 112628000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2026",
+    "filing_date": "2025-11-04",
+    "shares_outstanding": 36097000.0,
+    "revenue": 978128000.0,
+    "net_income": 95926000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2025",
+    "filing_date": "2025-08-19",
+    "shares_outstanding": 36267000.0,
+    "revenue": 3419327000.0,
+    "net_income": 332527000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2025",
+    "filing_date": "2025-05-06",
+    "shares_outstanding": 36172000.0,
+    "revenue": 871799000.0,
+    "net_income": 81290000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2025",
+    "filing_date": "2025-02-04",
+    "shares_outstanding": 36402000.0,
+    "revenue": 833608000.0,
+    "net_income": 86636000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2025",
+    "filing_date": "2024-11-05",
+    "shares_outstanding": 36408000.0,
+    "revenue": 804228000.0,
+    "net_income": 77394000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2024",
+    "filing_date": "2024-08-20",
+    "shares_outstanding": 36564000.0,
+    "revenue": 2882967000.0,
+    "net_income": 296181000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2024",
+    "filing_date": "2024-05-07",
+    "shares_outstanding": 36603000.0,
+    "revenue": 731535000.0,
+    "net_income": 80916000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2024",
+    "filing_date": "2024-02-06",
+    "shares_outstanding": 36639000.0,
+    "revenue": 712694000.0,
+    "net_income": 69110000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2024",
+    "filing_date": "2023-11-07",
+    "shares_outstanding": 36481000.0,
+    "revenue": 685477000.0,
+    "net_income": 65089000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2023",
+    "filing_date": "2023-08-22",
+    "shares_outstanding": 36855000.0,
+    "revenue": 2645237000.0,
+    "net_income": 247913000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2023",
+    "filing_date": "2023-05-09",
+    "shares_outstanding": 36989000.0,
+    "revenue": 665281000.0,
+    "net_income": 59355000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2023",
+    "filing_date": "2023-02-07",
+    "shares_outstanding": 36939000.0,
+    "revenue": 668656000.0,
+    "net_income": 63157000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2023",
+    "filing_date": "2022-11-08",
+    "shares_outstanding": 36758000.0,
+    "revenue": 655429000.0,
+    "net_income": 64615000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2022",
+    "filing_date": "2022-08-16",
+    "shares_outstanding": 37394000.0,
+    "revenue": 2262224000.0,
+    "net_income": 200380000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2022",
+    "filing_date": "2022-05-03",
+    "shares_outstanding": 37473000.0,
+    "revenue": 564395000.0,
+    "net_income": 50661000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2022",
+    "filing_date": "2022-02-01",
+    "shares_outstanding": 37552000.0,
+    "revenue": 566633000.0,
+    "net_income": 48879000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2022",
+    "filing_date": "2021-11-02",
+    "shares_outstanding": 37328000.0,
+    "revenue": 543322000.0,
+    "net_income": 44651000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2021",
+    "filing_date": "2021-08-17",
+    "shares_outstanding": 37555000.0,
+    "revenue": 1879350000.0,
+    "net_income": 148341000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2021",
+    "filing_date": "2021-05-04",
+    "shares_outstanding": 37609000.0,
+    "revenue": 479317000.0,
+    "net_income": 37493000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2021",
+    "filing_date": "2021-02-02",
+    "shares_outstanding": 37551000.0,
+    "revenue": 453827000.0,
+    "net_income": 35384000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2021",
+    "filing_date": "2020-11-03",
+    "shares_outstanding": 37383000.0,
+    "revenue": 436639000.0,
+    "net_income": 33051000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2020",
+    "filing_date": "2020-08-18",
+    "shares_outstanding": 37665000.0,
+    "revenue": 1641836000.0,
+    "net_income": 113479000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2020",
+    "filing_date": "2020-05-05",
+    "shares_outstanding": 37797000.0,
+    "revenue": 411210000.0,
+    "net_income": 28267000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2020",
+    "filing_date": "2020-02-04",
+    "shares_outstanding": 37763000.0,
+    "revenue": 426217000.0,
+    "net_income": 31231000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2020",
+    "filing_date": "2019-11-05",
+    "shares_outstanding": 37529000.0,
+    "revenue": 399296000.0,
+    "net_income": 25957000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2019",
+    "filing_date": "2019-08-20",
+    "shares_outstanding": 37415000.0,
+    "revenue": 1584335000.0,
+    "net_income": 120955000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2019",
+    "filing_date": "2019-05-07",
+    "shares_outstanding": 37539000.0,
+    "revenue": 398951000.0,
+    "net_income": 28635000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2019",
+    "filing_date": "2019-02-05",
+    "shares_outstanding": 37471000.0,
+    "revenue": 403080000.0,
+    "net_income": 31513000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2019",
+    "filing_date": "2018-11-06",
+    "shares_outstanding": 37140000.0,
+    "revenue": 377177000.0,
+    "net_income": 27850000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2018",
+    "filing_date": "2018-08-22",
+    "shares_outstanding": 38035000.0,
+    "revenue": 1371925000.0,
+    "net_income": 84167000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2018",
+    "filing_date": "2018-05-08",
+    "shares_outstanding": 38055000.0,
+    "revenue": 332313000.0,
+    "net_income": 21053000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2018",
+    "filing_date": "2018-02-07",
+    "shares_outstanding": 38156000.0,
+    "revenue": 337072000.0,
+    "net_income": 19313000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q4 2017",
+    "filing_date": "2017-11-07",
+    "shares_outstanding": 38163000.0,
+    "revenue": 357313000.0,
+    "net_income": 21033000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2017",
+    "filing_date": "2017-08-23",
+    "shares_outstanding": 37852000.0,
+    "revenue": 1420490000.0,
+    "net_income": 97115000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2017",
+    "filing_date": "2017-05-09",
+    "shares_outstanding": 37872000.0,
+    "revenue": 366837000.0,
+    "net_income": 21656000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2017",
+    "filing_date": "2017-02-07",
+    "shares_outstanding": 37805000.0,
+    "revenue": 351156000.0,
+    "net_income": 25292000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2017",
+    "filing_date": "2016-11-09",
+    "shares_outstanding": 37330000.0,
+    "revenue": 332043000.0,
+    "net_income": 22766000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2016",
+    "filing_date": "2016-08-17",
+    "shares_outstanding": 36872000.0,
+    "revenue": 976747000.0,
+    "net_income": 61897000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2016",
+    "filing_date": "2016-05-03",
+    "shares_outstanding": 37089000.0,
+    "revenue": 250888000.0,
+    "net_income": 20822000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2016",
+    "filing_date": "2016-02-02",
+    "shares_outstanding": 36826000.0,
+    "revenue": 233038000.0,
+    "net_income": 19803000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2016",
+    "filing_date": "2015-11-03",
+    "shares_outstanding": 36315000.0,
+    "revenue": 216433000.0,
+    "net_income": 1603000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2015",
+    "filing_date": "2015-08-19",
+    "shares_outstanding": 35984000.0,
+    "revenue": 773587000.0,
+    "net_income": 43642000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2015",
+    "filing_date": "2015-05-05",
+    "shares_outstanding": 36110000.0,
+    "revenue": 189453000.0,
+    "net_income": 10845000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2015",
+    "filing_date": "2015-02-03",
+    "shares_outstanding": 35917000.0,
+    "revenue": 188353000.0,
+    "net_income": 8726000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2015",
+    "filing_date": "2014-11-05",
+    "shares_outstanding": 35587000.0,
+    "revenue": 189325000.0,
+    "net_income": 11036000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2014",
+    "filing_date": "2014-10-16",
+    "shares_outstanding": 35589000.0,
+    "revenue": 677854000.0,
+    "net_income": 91731000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2014",
+    "filing_date": "2014-05-06",
+    "shares_outstanding": 35790000.0,
+    "revenue": 167657000.0,
+    "net_income": 47662000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2014",
+    "filing_date": "2014-02-04",
+    "shares_outstanding": 35583000.0,
+    "revenue": 178562000.0,
+    "net_income": 14539000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2014",
+    "filing_date": "2013-11-05",
+    "shares_outstanding": 35138000.0,
+    "revenue": 171551000.0,
+    "net_income": 19197000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2013",
+    "filing_date": "2013-08-16",
+    "shares_outstanding": 34846000.0,
+    "revenue": 641542000.0,
+    "net_income": 68969000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2013",
+    "filing_date": "2013-05-03",
+    "shares_outstanding": 34909000.0,
+    "revenue": 155557000.0,
+    "net_income": 21126000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2013",
+    "filing_date": "2013-02-05",
+    "shares_outstanding": 34804000.0,
+    "revenue": 167426000.0,
+    "net_income": 16682000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2013",
+    "filing_date": "2012-11-06",
+    "shares_outstanding": 34670000.0,
+    "revenue": 158625000.0,
+    "net_income": 16019000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "FY 2012",
+    "filing_date": "2012-08-28",
+    "shares_outstanding": 34382000.0,
+    "revenue": 564732000.0,
+    "net_income": -56467000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q3 2012",
+    "filing_date": "2012-05-09",
+    "shares_outstanding": 34440000.0,
+    "revenue": 139019000.0,
+    "net_income": -46325000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q2 2012",
+    "filing_date": "2012-02-08",
+    "shares_outstanding": 34544000.0,
+    "revenue": 96609000.0,
+    "net_income": -33254000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "FN",
+    "period": "Q1 2012",
+    "filing_date": "2011-11-09",
+    "shares_outstanding": 34502000.0,
+    "revenue": 186347000.0,
+    "net_income": 15655000.0,
+    "market_cap": null
+  }
+]

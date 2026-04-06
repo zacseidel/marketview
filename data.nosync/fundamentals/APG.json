@@ -1,0 +1,218 @@
+[
+  {
+    "ticker": "APG",
+    "period": "TTM 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 416000000.0,
+    "revenue": 7911000000.0,
+    "net_income": 302000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "FY 2025",
+    "filing_date": "2026-02-25",
+    "shares_outstanding": 416000000.0,
+    "revenue": 7911000000.0,
+    "net_income": 302000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q3 2025",
+    "filing_date": "2025-10-30",
+    "shares_outstanding": 429000000.0,
+    "revenue": 2085000000.0,
+    "net_income": 93000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q2 2025",
+    "filing_date": "2025-07-31",
+    "shares_outstanding": 428000000.0,
+    "revenue": 1990000000.0,
+    "net_income": 77000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q1 2025",
+    "filing_date": "2025-05-01",
+    "shares_outstanding": 278000000.0,
+    "revenue": 1719000000.0,
+    "net_income": 35000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "FY 2024",
+    "filing_date": "2025-02-26",
+    "shares_outstanding": 268000000.0,
+    "revenue": 7018000000.0,
+    "net_income": 250000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q3 2024",
+    "filing_date": "2024-10-31",
+    "shares_outstanding": 276000000.0,
+    "revenue": 1826000000.0,
+    "net_income": 69000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q2 2024",
+    "filing_date": "2024-08-01",
+    "shares_outstanding": 276000000.0,
+    "revenue": 1730000000.0,
+    "net_income": 69000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q1 2024",
+    "filing_date": "2024-05-02",
+    "shares_outstanding": 250000000.0,
+    "revenue": 1601000000.0,
+    "net_income": 45000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "FY 2023",
+    "filing_date": "2024-02-28",
+    "shares_outstanding": 235000000.0,
+    "revenue": 6928000000.0,
+    "net_income": 153000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q3 2023",
+    "filing_date": "2023-11-02",
+    "shares_outstanding": 270000000.0,
+    "revenue": 1784000000.0,
+    "net_income": 54000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q2 2023",
+    "filing_date": "2023-08-03",
+    "shares_outstanding": 270000000.0,
+    "revenue": 1771000000.0,
+    "net_income": 48000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q1 2023",
+    "filing_date": "2023-05-04",
+    "shares_outstanding": 267000000.0,
+    "revenue": 1614000000.0,
+    "net_income": 26000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "FY 2022",
+    "filing_date": "2023-03-01",
+    "shares_outstanding": 266000000.0,
+    "revenue": 6558000000.0,
+    "net_income": 73000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q3 2022",
+    "filing_date": "2022-11-03",
+    "shares_outstanding": 266000000.0,
+    "revenue": 1735000000.0,
+    "net_income": 28000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q2 2022",
+    "filing_date": "2022-08-04",
+    "shares_outstanding": 266000000.0,
+    "revenue": 1649000000.0,
+    "net_income": 30000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q1 2022",
+    "filing_date": "2022-05-04",
+    "shares_outstanding": 232000000.0,
+    "revenue": 1471000000.0,
+    "net_income": -7000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "FY 2021",
+    "filing_date": "2022-03-01",
+    "shares_outstanding": 206000000.0,
+    "revenue": 3940000000.0,
+    "net_income": 47000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q3 2021",
+    "filing_date": "2021-11-10",
+    "shares_outstanding": 209000000.0,
+    "revenue": 1047000000.0,
+    "net_income": 19000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q2 2021",
+    "filing_date": "2021-08-11",
+    "shares_outstanding": 206000000.0,
+    "revenue": 978000000.0,
+    "net_income": 21000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q1 2021",
+    "filing_date": "2021-05-12",
+    "shares_outstanding": 192000000.0,
+    "revenue": 803000000.0,
+    "net_income": -8000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "FY 2020",
+    "filing_date": "2021-03-24",
+    "shares_outstanding": 169000000.0,
+    "revenue": 3587000000.0,
+    "net_income": -153000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q3 2020",
+    "filing_date": "2020-11-12",
+    "shares_outstanding": 182033170.0,
+    "revenue": 958000000.0,
+    "net_income": 27000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "APG",
+    "period": "Q2 2020",
+    "filing_date": "2020-08-12",
+    "shares_outstanding": 176259228.0,
+    "revenue": 889000000.0,
+    "net_income": 36000000.0,
+    "market_cap": null
+  }
+]
