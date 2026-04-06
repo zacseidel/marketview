@@ -4,7 +4,7 @@ src/quant_research/train_v3.py
 Trains GBM v3: 28 numeric features + sector categorical, predicting 20-day forward
 log return. Direct comparison to v1 (same horizon, same rebalance cadence).
 
-Saves artifacts to data/quant/artifacts/gbm_v3/.
+Saves artifacts to data.nosync/quant/artifacts/gbm_v3/.
 
 Usage:
     python -m src.quant_research.train_v3
@@ -27,8 +27,8 @@ from src.quant_research.train_v2 import _fit_scaler_nan_safe, encode_sector
 
 log = structlog.get_logger()
 
-_FEATURES_FILE = Path("data/quant/features_v3.parquet")
-_ARTIFACTS_DIR = Path("data/quant/artifacts/gbm_v3")
+_FEATURES_FILE = Path("data.nosync/quant/features_v3.parquet")
+_ARTIFACTS_DIR = Path("data.nosync/quant/artifacts/gbm_v3")
 
 # Same params as v1 — full 10yr training set is large enough for deeper trees
 _GBM_V3_PARAMS = {

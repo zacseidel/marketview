@@ -2,8 +2,8 @@
 src/quant_research/features.py
 
 Builds the feature matrix from raw price data.
-Input:  data/quant/raw_prices.parquet
-Output: data/quant/features.parquet
+Input:  data.nosync/quant/raw_prices.parquet
+Output: data.nosync/quant/features.parquet
 
 Each row is one (ticker, date) observation with:
   - 15 features: log_price (absolute, intentional exception) + 14 percentage/log-return features
@@ -28,8 +28,8 @@ import structlog
 
 log = structlog.get_logger()
 
-_INPUT_FILE = Path("data/quant/raw_prices.parquet")
-_OUTPUT_FILE = Path("data/quant/features.parquet")
+_INPUT_FILE = Path("data.nosync/quant/raw_prices.parquet")
+_OUTPUT_FILE = Path("data.nosync/quant/features.parquet")
 
 FEATURE_COLS = [
     # Price (absolute — intentional exception; log-scaled to compress range)

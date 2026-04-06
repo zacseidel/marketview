@@ -23,6 +23,7 @@ import numpy as np
 import pandas as pd
 import structlog
 
+from src.collection.earnings import load_next_dates
 from src.selection.base import DataAccessLayer, HoldingRecord, SelectionModel
 from src.selection.quant import _load_recent_prices, _write_history_gaps
 from src.quant_research.features_v3 import FEATURE_COLS_V3, _build_v3_base_features
@@ -31,10 +32,10 @@ from src.quant_research.train_v2 import encode_sector
 
 log = structlog.get_logger()
 
-_ARTIFACTS_DIR = Path("data/quant/artifacts/gbm_v3")
-_FUNDAMENTALS_DIR = Path("data/fundamentals")
-_EARNINGS_DIR = Path("data/earnings")
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
+_ARTIFACTS_DIR = Path("data.nosync/quant/artifacts/gbm_v3")
+_FUNDAMENTALS_DIR = Path("data.nosync/fundamentals")
+_EARNINGS_DIR = Path("data.nosync/earnings")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
 
 _MAX_HOLDINGS = 20
 _DAYS_TO_EARNINGS_CAP = 180
@@ -102,12 +103,25 @@ def _compute_buyback_features(ticker: str, fundamentals_cache: dict[str, list]) 
     return {"buyback_pct_12m": buyback_pct_12m, "buyback_pct_1q": buyback_pct_1q}
 
 
-def _compute_earnings_features(ticker: str, as_of: _date, earnings_cache: dict[str, list]) -> dict[str, float | None]:
+def _compute_earnings_features(
+    ticker: str,
+    as_of: _date,
+    earnings_cache: dict[str, list],
+    next_dates: dict[str, str],
+) -> dict[str, float | None]:
     records = earnings_cache.get(ticker)
+    base: dict[str, float | None] = {
+        "eps_surprise_pct": None, "earn_ret_5d": None,
+        "ni_yoy_growth": None, "rev_yoy_growth": None,
+        "days_to_next_earnings": None,
+    }
     if not records:
-        return {"eps_surprise_pct": None, "earn_ret_5d": None,
-                "ni_yoy_growth": None, "rev_yoy_growth": None,
-                "days_to_next_earnings": None}
+        # Still populate days_to_next_earnings from calendar if available
+        if ticker in next_dates:
+            scheduled = _date.fromisoformat(next_dates[ticker])
+            raw_days = min(max((scheduled - as_of).days, 0), _DAYS_TO_EARNINGS_CAP)
+            base["days_to_next_earnings"] = float(raw_days / _DAYS_TO_EARNINGS_CAP * 100)
+        return base
 
     def _pct(v: object) -> float | None:
         return float(v) * 100 if v is not None else None
@@ -117,27 +131,31 @@ def _compute_earnings_features(ticker: str, as_of: _date, earnings_cache: dict[s
                             key=lambda r: r["event_date"])
 
     past = [r for r in records_sorted if r["event_date"] <= as_of_str]
-    earn_features: dict[str, float | None] = {
-        "eps_surprise_pct": None, "earn_ret_5d": None,
-        "ni_yoy_growth": None, "rev_yoy_growth": None,
-    }
     if past:
         latest = past[-1]
-        earn_features["eps_surprise_pct"] = _pct(latest.get("eps_surprise_pct"))
-        earn_features["earn_ret_5d"] = latest.get("earn_ret_5d")
-        earn_features["ni_yoy_growth"] = _pct(latest.get("ni_yoy_growth"))
-        earn_features["rev_yoy_growth"] = _pct(latest.get("rev_yoy_growth"))
+        base["eps_surprise_pct"] = _pct(latest.get("eps_surprise_pct"))
+        base["earn_ret_5d"] = latest.get("earn_ret_5d")
+        base["ni_yoy_growth"] = _pct(latest.get("ni_yoy_growth"))
+        base["rev_yoy_growth"] = _pct(latest.get("rev_yoy_growth"))
 
+    # days_to_next_earnings: prefer calendar, then future event records, then heuristic
     future = [r for r in records_sorted if r["event_date"] > as_of_str]
-    if future:
+    if ticker in next_dates:
+        scheduled = _date.fromisoformat(next_dates[ticker])
+        raw_days = min(max((scheduled - as_of).days, 0), _DAYS_TO_EARNINGS_CAP)
+    elif future:
         raw_days = min(max((pd.Timestamp(future[0]["event_date"]).date() - as_of).days, 0), _DAYS_TO_EARNINGS_CAP)
     elif past:
-        raw_days = min(max((pd.Timestamp(past[-1]["event_date"]).date() + timedelta(days=91) - as_of).days, 0), _DAYS_TO_EARNINGS_CAP)
+        # Last resort: cadence estimate — logged so we know when it fires
+        estimated = pd.Timestamp(past[-1]["event_date"]).date() + timedelta(days=91)
+        raw_days = min(max((estimated - as_of).days, 0), _DAYS_TO_EARNINGS_CAP)
+        log.debug("quant_v3.earnings_heuristic", ticker=ticker,
+                  last_event=past[-1]["event_date"], estimated_next=estimated.isoformat())
     else:
         raw_days = None
 
-    earn_features["days_to_next_earnings"] = float(raw_days / _DAYS_TO_EARNINGS_CAP * 100) if raw_days is not None else None
-    return earn_features
+    base["days_to_next_earnings"] = float(raw_days / _DAYS_TO_EARNINGS_CAP * 100) if raw_days is not None else None
+    return base
 
 
 def _compute_current_features_v3(prices: pd.DataFrame) -> pd.DataFrame:
@@ -145,8 +163,10 @@ def _compute_current_features_v3(prices: pd.DataFrame) -> pd.DataFrame:
     spy_features = _compute_spy_features(prices)
     fundamentals_cache = _load_all_fundamentals()
     earnings_cache = _load_all_earnings()
+    next_dates = load_next_dates()
     log.debug("quant_v3.caches_loaded",
-              fundamentals=len(fundamentals_cache), earnings=len(earnings_cache))
+              fundamentals=len(fundamentals_cache), earnings=len(earnings_cache),
+              next_dates=len(next_dates))
 
     rows: list[dict] = []
     for ticker, tdf in prices.groupby("ticker"):
@@ -162,7 +182,7 @@ def _compute_current_features_v3(prices: pd.DataFrame) -> pd.DataFrame:
         row: dict = {"ticker": ticker}
         row.update({col: last[col] for col in technical_cols})
         row.update(_compute_buyback_features(str(ticker), fundamentals_cache))
-        row.update(_compute_earnings_features(str(ticker), as_of, earnings_cache))
+        row.update(_compute_earnings_features(str(ticker), as_of, earnings_cache, next_dates))
         row.update(spy_features)
         rows.append(row)
 

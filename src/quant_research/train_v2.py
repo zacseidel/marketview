@@ -4,7 +4,7 @@ src/quant_research/train_v2.py
 Trains GBM v2: 28 numeric features + sector categorical, predicting 10-day forward
 log return. Trained on the most recent 2-year observation window.
 
-Saves artifacts to data/quant/artifacts/gbm_v2/:
+Saves artifacts to data.nosync/quant/artifacts/gbm_v2/:
   scaler.pkl           — StandardScaler fitted on numeric features
   model.pkl            — LightGBM regressor
   sector_mapping.json  — {sector_string: int} encoding
@@ -29,8 +29,8 @@ from src.quant_research.train import _save_artifact
 
 log = structlog.get_logger()
 
-_FEATURES_FILE = Path("data/quant/features_v2.parquet")
-_ARTIFACTS_DIR = Path("data/quant/artifacts/gbm_v2")
+_FEATURES_FILE = Path("data.nosync/quant/features_v2.parquet")
+_ARTIFACTS_DIR = Path("data.nosync/quant/artifacts/gbm_v2")
 
 _GBM_V2_PARAMS = {
     "n_estimators": 300,

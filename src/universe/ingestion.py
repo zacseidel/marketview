@@ -11,6 +11,7 @@ from dataclasses import dataclass
 from datetime import date, timedelta
 from pathlib import Path
 
+import pandas as pd
 import structlog
 
 from src.collection.polygon_client import PolygonClient
@@ -18,8 +19,9 @@ from src.collection.queue import WorkQueue
 
 log = structlog.get_logger()
 
-_PRICES_DIR = Path("data/prices")
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
+_PRICES_DIR = Path("data.nosync/prices")
+_PRICES_PARQUET = Path("data.nosync/prices/prices.parquet")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
 _SPLIT_THRESHOLD = 0.40  # ±40% single-day move flags a potential split
 _BENCHMARK_TICKERS = {"SPY", "QQQ"}  # always stored alongside universe tickers
 
@@ -38,6 +40,24 @@ def _prev_trading_day(d: date) -> date:
     while d.weekday() >= 5:  # Saturday=5, Sunday=6
         d -= timedelta(days=1)
     return d
+
+
+def _append_to_parquet(records: list[dict]) -> None:
+    """Append today's price records to the consolidated Parquet store."""
+    new_df = pd.DataFrame(records)
+    new_df["date"] = pd.to_datetime(new_df["date"])
+
+    if _PRICES_PARQUET.exists():
+        existing = pd.read_parquet(_PRICES_PARQUET)
+        existing["date"] = pd.to_datetime(existing["date"])
+        combined = pd.concat([existing, new_df], ignore_index=True)
+        combined = combined.drop_duplicates(subset=["date", "ticker"], keep="last")
+    else:
+        combined = new_df
+
+    combined = combined.sort_values(["ticker", "date"]).reset_index(drop=True)
+    combined.to_parquet(_PRICES_PARQUET, index=False)
+    log.info("ingestion.parquet_updated", rows=len(new_df), total=len(combined))
 
 
 def _load_universe() -> dict:
@@ -159,6 +179,9 @@ def ingest_daily(target_date: str | None = None, client: PolygonClient | None = 
     # Write output
     with open(out_file, "w") as f:
         json.dump(records, f, indent=2)
+
+    if records:
+        _append_to_parquet(records)
 
     log.info(
         "ingestion.complete",

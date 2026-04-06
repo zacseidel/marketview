@@ -6,8 +6,8 @@ Quantitative factor model v2 — live inference shim.
 Uses GBM v2 artifacts (28 technical + buyback + earnings + market state + sector
 features) to generate HoldingRecord signals predicting 10-day forward log return.
 
-Shares the price cache from quant.py. Reads fundamentals from data/fundamentals/
-and earnings from data/earnings/ for point-in-time feature computation.
+Shares the price cache from quant.py. Reads fundamentals from data.nosync/fundamentals/
+and earnings from data.nosync/earnings/ for point-in-time feature computation.
 
 Usage:
     python -m src.selection.quant_v2
@@ -36,10 +36,10 @@ from src.quant_research.train_v2 import encode_sector
 
 log = structlog.get_logger()
 
-_ARTIFACTS_DIR = Path("data/quant/artifacts/gbm_v2")
-_FUNDAMENTALS_DIR = Path("data/fundamentals")
-_EARNINGS_DIR = Path("data/earnings")
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
+_ARTIFACTS_DIR = Path("data.nosync/quant/artifacts/gbm_v2")
+_FUNDAMENTALS_DIR = Path("data.nosync/fundamentals")
+_EARNINGS_DIR = Path("data.nosync/earnings")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
 
 _MAX_HOLDINGS = 20
 _DAYS_TO_EARNINGS_CAP = 180
@@ -79,7 +79,7 @@ def _compute_spy_features(prices: pd.DataFrame) -> dict[str, float | None]:
 
 def _compute_buyback_features(ticker: str) -> dict[str, float | None]:
     """
-    Read data/fundamentals/{ticker}.json and compute buyback_pct_12m, buyback_pct_1q.
+    Read data.nosync/fundamentals/{ticker}.json and compute buyback_pct_12m, buyback_pct_1q.
     Records are stored most-recent-first; index 0 = latest, index 4 = ~12m ago.
     """
     fpath = _FUNDAMENTALS_DIR / f"{ticker}.json"
@@ -113,7 +113,7 @@ def _compute_buyback_features(ticker: str) -> dict[str, float | None]:
 
 def _compute_earnings_features(ticker: str, as_of: _date) -> dict[str, float | None]:
     """
-    Read data/earnings/{ticker}.json and compute point-in-time earnings features.
+    Read data.nosync/earnings/{ticker}.json and compute point-in-time earnings features.
     Uses event_date as the availability cutoff (earnings are public on announcement day).
     """
     fpath = _EARNINGS_DIR / f"{ticker}.json"

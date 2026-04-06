@@ -60,7 +60,7 @@ def _load_all_model_outputs(eval_date: str) -> dict[str, list[dict]]:
     models = _load_enabled_models()
     result: dict[str, list[dict]] = {}
     for model in models:
-        path = Path("data/models") / eval_date / f"{model}.json"
+        path = Path("data.nosync/models") / eval_date / f"{model}.json"
         if path.exists():
             with open(path) as f:
                 result[model] = json.load(f)

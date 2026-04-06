@@ -7,7 +7,7 @@ Two responsibilities:
   1. Check all open positions for expired options legs; queue chain fetches
      for any strategies that need new legs opened (covered_call roll, CSP roll, etc.)
   2. Aggregate log returns across all closed strategy observations and save
-     a summary to data/strategy_observations/returns.json.
+     a summary to data.nosync/strategy_observations/returns.json.
 
 Usage:
     python -m src.strategy.runner
@@ -28,8 +28,8 @@ from src.strategy.returns import (
 
 log = structlog.get_logger()
 
-_PRICES_DIR = Path("data/prices")
-_POSITIONS_FILE = Path("data/positions/positions.json")
+_PRICES_DIR = Path("data.nosync/prices")
+_POSITIONS_FILE = Path("data.nosync/positions/positions.json")
 
 
 def _load_latest_prices() -> dict[str, float]:

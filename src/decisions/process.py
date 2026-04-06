@@ -19,8 +19,8 @@ from src.collection.queue import WorkQueue
 
 log = structlog.get_logger()
 
-_DECISIONS_DATA_DIR = Path("data/decisions")
-_PROCESSED_DIR = Path("data/decisions/processed")
+_DECISIONS_DATA_DIR = Path("data.nosync/decisions")
+_PROCESSED_DIR = Path("data.nosync/decisions/processed")
 
 
 @dataclass

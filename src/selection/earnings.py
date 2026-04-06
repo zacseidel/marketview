@@ -3,7 +3,7 @@ src/selection/earnings.py
 
 Earnings momentum stock selection model.
 
-Signals used (derived from quarterly fundamentals stored in data/fundamentals/):
+Signals used (derived from quarterly fundamentals stored in data.nosync/fundamentals/):
   - Net income growth: consecutive quarters of YoY net income improvement
   - Revenue growth: positive revenue trend over recent quarters
   - Acceleration: whether the most recent quarter's growth rate exceeds the prior quarter's

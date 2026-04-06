@@ -36,8 +36,8 @@ from src.quant_research.features_v2 import (
 
 log = structlog.get_logger()
 
-_INPUT_FILE = Path("data/quant/raw_prices.parquet")
-_OUTPUT_FILE = Path("data/quant/features_v3.parquet")
+_INPUT_FILE = Path("data.nosync/quant/raw_prices.parquet")
+_OUTPUT_FILE = Path("data.nosync/quant/features_v3.parquet")
 
 FEATURE_COLS_V3 = [
     # Technical (15 — includes log_ret_756d, requires ~800-day price cache)

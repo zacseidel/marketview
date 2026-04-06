@@ -2,7 +2,7 @@
 src/quant_research/download.py
 
 One-time download of 12 years of daily OHLC data for all SP500/SP400 tickers
-using yfinance. Output: data/quant/raw_prices.parquet
+using yfinance. Output: data.nosync/quant/raw_prices.parquet
 
 Resume-safe: if the parquet already exists, skips tickers already present.
 
@@ -22,8 +22,8 @@ import structlog
 
 log = structlog.get_logger()
 
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
-_OUTPUT_FILE = Path("data/quant/raw_prices.parquet")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
+_OUTPUT_FILE = Path("data.nosync/quant/raw_prices.parquet")
 _YEARS = 12
 
 

@@ -3,12 +3,12 @@ src/selection/quant.py
 
 Quantitative factor model — pipeline integration shim.
 
-Loads trained artifacts from data/quant/artifacts/ and applies them to
+Loads trained artifacts from data.nosync/quant/artifacts/ and applies them to
 current market data to generate HoldingRecord signals.
 
 Uses yfinance for recent price data (needs 756+ days of history, beyond
-the 2-year window available in data/prices/). Maintains its own price
-cache at data/quant/recent_prices.parquet, refreshed on each run.
+the 2-year window available in data.nosync/prices/). Maintains its own price
+cache at data.nosync/quant/recent_prices.parquet, refreshed on each run.
 
 Enabled in config/models.yaml after training and validation are complete.
 Set `model` param to "knn", "gbm", "cluster", or "ensemble" (averages all three).
@@ -34,11 +34,11 @@ from src.quant_research.train import CLUSTER_SCORE_THRESHOLD  # top-3-cluster th
 
 log = structlog.get_logger()
 
-_ARTIFACTS_DIR = Path("data/quant/artifacts")
-_RECENT_PRICES_FILE = Path("data/quant/recent_prices.parquet")
-_HISTORY_GAPS_FILE = Path("data/quant/history_gaps.json")
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
-_PRICES_DIR = Path("data/prices")
+_ARTIFACTS_DIR = Path("data.nosync/quant/artifacts")
+_RECENT_PRICES_FILE = Path("data.nosync/quant/recent_prices.parquet")
+_HISTORY_GAPS_FILE = Path("data.nosync/quant/history_gaps.json")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
+_PRICES_DIR = Path("data.nosync/prices")
 
 _LOOKBACK_DAYS = 800   # need 756 + buffer for feature computation
 _MIN_HISTORY_DAYS = 756
@@ -108,7 +108,7 @@ def _backfill_via_yfinance(tickers: list[str]) -> pd.DataFrame:
 # ---------------------------------------------------------------------------
 
 def _append_local_prices(df: pd.DataFrame) -> pd.DataFrame:
-    """Append any local data/prices/ files newer than the cached parquet."""
+    """Append any local data.nosync/prices/ files newer than the cached parquet."""
     import json as _json
 
     latest_cached = df["date"].max() if not df.empty else pd.Timestamp("2000-01-01")

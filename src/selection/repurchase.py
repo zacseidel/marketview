@@ -15,6 +15,7 @@ Sell signals are issued when a holding either:
 from __future__ import annotations
 
 import math
+import time
 from datetime import datetime, timedelta
 
 import structlog
@@ -85,22 +86,50 @@ def _trailing_buyback_pct(quarters: list[dict], cutoff_date: str) -> tuple[float
 
 class RepurchaseModel(SelectionModel):
     def run(self, config: dict, dal: DataAccessLayer) -> list[HoldingRecord]:
+        t_start = time.perf_counter()
         eval_date = config.get("eval_date", "")
         max_holdings = config.get("max_holdings", _DEFAULT_MAX_HOLDINGS)
         cutoff_date = eval_date or datetime.today().strftime("%Y-%m-%d")
 
-        tickers = dal.get_all_tickers()  # uses whatever tickers have fundamentals data
-        log.info("repurchase.running", universe=len(tickers))
+        t1 = time.perf_counter()
+        tickers = dal.get_all_tickers()
+        log.info("repurchase.running", universe=len(tickers), get_tickers_ms=round((time.perf_counter() - t1) * 1000))
+
+        # Pre-warm fundamentals cache (logs dal.fundamentals_loaded if not already loaded)
+        t2 = time.perf_counter()
+        dal.get_fundamentals("__warmup__")  # triggers _ensure_fundamentals()
+        log.debug("repurchase.fundamentals_ready", elapsed_ms=round((time.perf_counter() - t2) * 1000))
 
         candidates: list[tuple[str, float, float, dict]] = []  # (ticker, buyback_pct, ema, meta)
+        t_loop = time.perf_counter()
 
-        for ticker in tickers:
+        for i, ticker in enumerate(tickers):
+            if i > 0 and i % 100 == 0:
+                elapsed = time.perf_counter() - t_loop
+                log.info(
+                    "repurchase.progress",
+                    processed=i,
+                    total=len(tickers),
+                    candidates=len(candidates),
+                    elapsed_s=round(elapsed, 1),
+                    rate=round(i / elapsed, 1),
+                )
+
+            t_fund = time.perf_counter()
             quarters = dal.get_fundamentals(ticker)
+            fund_ms = round((time.perf_counter() - t_fund) * 1000)
+            if fund_ms > 50:
+                log.warning("repurchase.slow_fundamentals", ticker=ticker, elapsed_ms=fund_ms)
+
             if not quarters:
                 continue
 
             try:
+                t_bb = time.perf_counter()
                 buyback_pct, valid = _trailing_buyback_pct(quarters, cutoff_date)
+                bb_ms = round((time.perf_counter() - t_bb) * 1000)
+                if bb_ms > 50:
+                    log.warning("repurchase.slow_buyback_calc", ticker=ticker, elapsed_ms=bb_ms)
             except Exception as exc:
                 log.debug("repurchase.buyback_error", ticker=ticker, error=str(exc))
                 continue
@@ -109,7 +138,12 @@ class RepurchaseModel(SelectionModel):
                 continue  # no buyback or shares increased
 
             # Check 21-day EMA gate
+            t_price = time.perf_counter()
             prices = dal.get_prices(ticker, lookback_days=63)  # ~3 months for stable EMA
+            price_ms = round((time.perf_counter() - t_price) * 1000)
+            if price_ms > 50:
+                log.warning("repurchase.slow_price_lookup", ticker=ticker, elapsed_ms=price_ms)
+
             if prices.empty or "close" not in prices.columns:
                 continue
 
@@ -134,6 +168,8 @@ class RepurchaseModel(SelectionModel):
                 "pct_above_ema21": round((current_price / ema21 - 1) * 100, 2),
             }
             candidates.append((ticker, buyback_pct, ema21, meta))
+
+        log.info("repurchase.loop_done", tickers=len(tickers), candidates=len(candidates), elapsed_s=round(time.perf_counter() - t_loop, 2))
 
         # Rank by buyback percentage descending, take top N
         candidates.sort(key=lambda x: x[1], reverse=True)
@@ -163,5 +199,5 @@ class RepurchaseModel(SelectionModel):
                 metadata=meta,
             ))
 
-        log.info("repurchase.complete", candidates=len(candidates), selected=len(holdings))
+        log.info("repurchase.complete", candidates=len(candidates), selected=len(holdings), total_elapsed_s=round(time.perf_counter() - t_start, 2))
         return holdings

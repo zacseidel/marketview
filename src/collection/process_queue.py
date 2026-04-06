@@ -37,7 +37,7 @@ def process_split_corrections(queue: WorkQueue, client: PolygonClient) -> int:
         log.info("process_queue.split_correction", ticker=task.ticker, date=task.requested_date)
         try:
             confirm_and_correct_split(task.ticker, task.requested_date, client=client)
-            queue.mark_complete(task.task_id, data_path=f"data/splits/{task.ticker}_{task.requested_date}.json")
+            queue.mark_complete(task.task_id, data_path=f"data.nosync/splits/{task.ticker}_{task.requested_date}.json")
         except Exception as exc:
             log.warning("process_queue.split_error", ticker=task.ticker, error=str(exc))
             queue.mark_failed(task.task_id, str(exc))
@@ -57,7 +57,7 @@ def process_ticker_details(queue: WorkQueue, client: PolygonClient) -> int:
     try:
         fetch_and_admit_new_tickers(tickers, client=client)
         for task in tasks[:len(tickers)]:
-            queue.mark_complete(task.task_id, data_path="data/universe/constituents.json")
+            queue.mark_complete(task.task_id, data_path="data.nosync/universe/constituents.json")
     except Exception as exc:
         log.warning("process_queue.ticker_details_error", error=str(exc))
         for task in tasks[:len(tickers)]:
@@ -73,7 +73,7 @@ def process_price_backfills(queue: WorkQueue, client: PolygonClient) -> int:
 
     tasks = queue.get_pending(task_type="price_backfill")
     processed = 0
-    prices_dir = Path("data/prices")
+    prices_dir = Path("data.nosync/prices")
 
     for task in tasks:
         if processed >= _MAX_TASKS_PER_RUN:
@@ -115,7 +115,13 @@ def process_price_backfills(queue: WorkQueue, client: PolygonClient) -> int:
                         json.dump(records, f, indent=2)
                     updated += 1
 
-            queue.mark_complete(task.task_id, data_path=f"data/prices/ ({updated} files)")
+            # Rebuild consolidated Parquet so the DAL doesn't serve stale backfill prices
+            if updated > 0:
+                from src.collection.convert_prices_to_parquet import convert as rebuild_parquet
+                rebuild_parquet()
+                log.info("process_queue.parquet_rebuilt", ticker=ticker)
+
+            queue.mark_complete(task.task_id, data_path=f"data.nosync/prices/ ({updated} files)")
             log.info("process_queue.backfill_done", ticker=ticker, bars=len(bars), files_updated=updated)
         except Exception as exc:
             log.warning("process_queue.backfill_error", ticker=ticker, error=str(exc))
@@ -144,7 +150,7 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
         log.info("process_queue.options_chain", ticker=ticker, date=task.requested_date)
 
         # Load stock price first — needed to target strikes in EOD chain fetch
-        price_file = Path("data/prices") / f"{task.requested_date}.json"
+        price_file = Path("data.nosync/prices") / f"{task.requested_date}.json"
         stock_price = None
         if price_file.exists():
             with open(price_file) as f:
@@ -175,7 +181,7 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
             continue
 
         # Save chain snapshot
-        chain_dir = Path("data/options")
+        chain_dir = Path("data.nosync/options")
         chain_dir.mkdir(parents=True, exist_ok=True)
         chain_path = chain_dir / f"{ticker}_{task.requested_date}.json"
         with open(chain_path, "w") as f:
@@ -194,7 +200,7 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
         # otherwise look up from the open position record.
         stock_entry_date = task.metadata.get("stock_entry_date", task.requested_date)
         if stock_entry_date == task.requested_date:
-            positions_file = Path("data/positions/positions.json")
+            positions_file = Path("data.nosync/positions/positions.json")
             if positions_file.exists():
                 with open(positions_file) as f:
                     positions = json.load(f)
@@ -266,7 +272,7 @@ def process_options_chains(queue: WorkQueue, client: PolygonClient) -> int:
             # strategy_entry: create initial observations if none exist yet
             obs = load_observations(ticker, stock_entry_date)
             if not obs:
-                positions_file = Path("data/positions/positions.json")
+                positions_file = Path("data.nosync/positions/positions.json")
                 models = task.metadata.get("originating_models", [])
                 if not models and positions_file.exists():
                     with open(positions_file) as f:

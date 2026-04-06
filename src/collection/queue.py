@@ -2,7 +2,7 @@
 src/collection/queue.py
 
 Work queue for deferred data collection tasks.
-State persisted in data/queue/pending.json and data/queue/completed.json.
+State persisted in data.nosync/queue/pending.json and data.nosync/queue/completed.json.
 """
 
 from __future__ import annotations
@@ -52,7 +52,7 @@ def _dedup_key(item: QueueItem) -> tuple:
 
 
 class WorkQueue:
-    def __init__(self, queue_dir: str | Path = "data/queue"):
+    def __init__(self, queue_dir: str | Path = "data.nosync/queue"):
         self._dir = Path(queue_dir)
         self._dir.mkdir(parents=True, exist_ok=True)
         self._pending_path = self._dir / "pending.json"

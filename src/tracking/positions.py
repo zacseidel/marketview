@@ -3,7 +3,7 @@ src/tracking/positions.py
 
 Position lifecycle management for the paper trading portfolio.
 
-Stores all positions in data/positions/positions.json.
+Stores all positions in data.nosync/positions/positions.json.
 position_id: {ticker}_{strategy}_{entry_date}
 originating_models: tracks which selection models recommended the stock.
 
@@ -24,7 +24,7 @@ import structlog
 
 log = structlog.get_logger()
 
-_POSITIONS_FILE = Path("data/positions/positions.json")
+_POSITIONS_FILE = Path("data.nosync/positions/positions.json")
 
 
 @dataclass

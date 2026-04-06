@@ -4,8 +4,8 @@ src/collection/fundamentals.py
 Fetches and stores quarterly financial data from Polygon's Stock Financials endpoint.
 Used by the buyback model (shares_outstanding) and future quant models.
 
-Stores per-ticker in data/fundamentals/{ticker}.json as a list of quarterly records,
-most recent first. Resumable via data/fundamentals/.init_state.json.
+Stores per-ticker in data.nosync/fundamentals/{ticker}.json as a list of quarterly records,
+most recent first. Resumable via data.nosync/fundamentals/.init_state.json.
 
 Usage:
     python -m src.collection.fundamentals            # bulk init / refresh
@@ -24,8 +24,8 @@ from src.collection.polygon_client import PolygonAPIError, PolygonClient
 
 log = structlog.get_logger()
 
-_FUNDAMENTALS_DIR = Path("data/fundamentals")
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
+_FUNDAMENTALS_DIR = Path("data.nosync/fundamentals")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
 _INIT_STATE_FILE = _FUNDAMENTALS_DIR / ".init_state.json"
 
 
@@ -136,7 +136,7 @@ def fetch_and_save(ticker: str, client: PolygonClient) -> int:
 def bulk_fetch(tickers: list[str], client: PolygonClient | None = None, cap: int | None = None) -> None:
     """
     Resumable bulk fetch for a list of tickers.
-    Progress saved every 25 tickers in data/fundamentals/.init_state.json.
+    Progress saved every 25 tickers in data.nosync/fundamentals/.init_state.json.
     """
     if client is None:
         client = PolygonClient()

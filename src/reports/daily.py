@@ -21,16 +21,16 @@ import structlog
 log = structlog.get_logger()
 
 _DOCS_DIR = Path("docs")
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
-_PRICES_DIR = Path("data/prices")
-_RECENT_PRICES_FILE = Path("data/quant/recent_prices.parquet")
-_MODELS_DIR = Path("data/models")
-_DECISIONS_DIR = Path("data/decisions")
-_POSITIONS_FILE = Path("data/positions/positions.json")
-_QUEUE_FILE = Path("data/queue/pending.json")
-_RETURNS_FILE = Path("data/strategy_observations/returns.json")
-_HISTORY_GAPS_FILE = Path("data/quant/history_gaps.json")
-_VAL_METRICS_FILE = Path("data/quant/val_metrics.json")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
+_PRICES_DIR = Path("data.nosync/prices")
+_RECENT_PRICES_FILE = Path("data.nosync/quant/recent_prices.parquet")
+_MODELS_DIR = Path("data.nosync/models")
+_DECISIONS_DIR = Path("data.nosync/decisions")
+_POSITIONS_FILE = Path("data.nosync/positions/positions.json")
+_QUEUE_FILE = Path("data.nosync/queue/pending.json")
+_RETURNS_FILE = Path("data.nosync/strategy_observations/returns.json")
+_HISTORY_GAPS_FILE = Path("data.nosync/quant/history_gaps.json")
+_VAL_METRICS_FILE = Path("data.nosync/quant/val_metrics.json")
 
 
 # ---------------------------------------------------------------------------

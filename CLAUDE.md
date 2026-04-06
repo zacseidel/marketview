@@ -18,22 +18,22 @@ Developer reference for Claude Code. Covers conventions, data paths, how to run 
 ## Key Data Paths
 
 ```
-data/universe/constituents.json       # ~901 active tickers: {ticker: {status, tier, name, ...}}
-data/prices/{YYYY-MM-DD}.json         # Daily OHLCV for all universe tickers (501 files, 2024-03-19 → 2026-03-18)
-data/fundamentals/{ticker}.json       # Quarterly: {filing_date, shares_outstanding, revenue, net_income, market_cap}
-data/models/{YYYY-MM-DD}/{model}.json # Model holdings outputs per eval date
-data/models/scorecards/{model}.json   # Model theoretical performance scorecards
-data/decisions/{YYYY-MM-DD}.json      # Processed decision records (buy/sell/hold with user_approved)
-data/positions/positions.json         # All positions: open + closed, with P&L fields
-data/positions/portfolio_history.json # Daily portfolio snapshots
-data/positions/filtering_analysis.json# Per-model filtering alpha vs. user positions
-data/queue/pending.json               # Work queue tasks
-data/splits/                          # Split detection results per ticker/date
-data/strategy_observations/           # Strategy snapshot lifecycle + returns.json
-data/quant/raw_prices.parquet         # 12yr yfinance price history for quant research (gitignored)
-data/quant/features.parquet           # Feature matrix: ~1.6M rows (gitignored)
-data/quant/artifacts/{gbm,knn}/       # Trained model artifacts — committed to repo
-data/quant/recent_prices.parquet      # Live price cache for quant inference (gitignored)
+data.nosync/universe/constituents.json       # ~901 active tickers: {ticker: {status, tier, name, ...}}
+data.nosync/prices/{YYYY-MM-DD}.json         # Daily OHLCV for all universe tickers (501 files, 2024-03-19 → 2026-03-18)
+data.nosync/fundamentals/{ticker}.json       # Quarterly: {filing_date, shares_outstanding, revenue, net_income, market_cap}
+data.nosync/models/{YYYY-MM-DD}/{model}.json # Model holdings outputs per eval date
+data.nosync/models/scorecards/{model}.json   # Model theoretical performance scorecards
+data.nosync/decisions/{YYYY-MM-DD}.json      # Processed decision records (buy/sell/hold with user_approved)
+data.nosync/positions/positions.json         # All positions: open + closed, with P&L fields
+data.nosync/positions/portfolio_history.json # Daily portfolio snapshots
+data.nosync/positions/filtering_analysis.json# Per-model filtering alpha vs. user positions
+data.nosync/queue/pending.json               # Work queue tasks
+data.nosync/splits/                          # Split detection results per ticker/date
+data.nosync/strategy_observations/           # Strategy snapshot lifecycle + returns.json
+data.nosync/quant/raw_prices.parquet         # 12yr yfinance price history for quant research (gitignored)
+data.nosync/quant/features.parquet           # Feature matrix: ~1.6M rows (gitignored)
+data.nosync/quant/artifacts/{gbm,knn}/       # Trained model artifacts — committed to repo
+data.nosync/quant/recent_prices.parquet      # Live price cache for quant inference (gitignored)
 config/models.yaml                    # Model registry: enabled flag, module, class, params
 config/watchlist.yaml                 # User-curated tickers with conviction and notes
 decisions/pending/{YYYY-MM-DD}.md     # Markdown decision files for user review via GitHub mobile
@@ -66,14 +66,14 @@ notebooks/gbm_walkthrough.ipynb       # Interactive GBM model walkthrough
 All models implement `SelectionModel.run(config, dal) -> list[HoldingRecord]`.
 
 - `base.py` — `HoldingRecord`, `DataAccessLayer`, `SelectionModel` ABC
-- `momentum.py` — `MomentumModel`: top 10 S&P 500 by trailing 252-day log return; rank-stability filter (rank must not drop week-over-week). Saves full ranking sidecar to `data/models/{date}/momentum_ranks.json`.
+- `momentum.py` — `MomentumModel`: top 10 S&P 500 by trailing 252-day log return; rank-stability filter (rank must not drop week-over-week). Saves full ranking sidecar to `data.nosync/models/{date}/momentum_ranks.json`.
 - `munger.py` — `MungerModel`: top 100 S&P 500 by market cap; buy if price touched ≤ SMA200 in last 21 days AND currently above EMA15; sell if drops below EMA15.
 - `repurchase.py` — `RepurchaseModel`: top 5 by trailing-12-month share buyback % (shares repurchased / shares outstanding); must be above 21-day EMA; sell if drops out of top 5 or below EMA.
 - `buyback.py` — `BuybackModel`: 2+ consecutive quarters of declining share count ≥1%/quarter
 - `watchlist.py` — `WatchlistModel`: reads `config/watchlist.yaml`
 - `composite.py` — `CompositeModel`: flags tickers where 2+ enabled models agree
 - `earnings.py` — `EarningsModel`: YoY/QoQ net income growth, revenue growth, acceleration (removed — earnings signals subsumed by `quant_gbm_v3`)
-- `quant.py` — `QuantModel`: loads trained artifacts from `data/quant/artifacts/`, downloads recent prices via yfinance, returns top-N picks with predicted 20d log return. Supports `model: gbm`. Wired in as `quant_gbm`.
+- `quant.py` — `QuantModel`: loads trained artifacts from `data.nosync/quant/artifacts/`, downloads recent prices via yfinance, returns top-N picks with predicted 20d log return. Supports `model: gbm`. Wired in as `quant_gbm`.
 - `thirteen_f.py` — stub (enabled: false)
 - `runner.py` — Loads enabled models from `config/models.yaml`, runs them, assigns new_buy/hold/sell statuses, calls `generate_decision_file`. `_prev_holdings_tickers` excludes sell-status records to prevent duplicate sell signals.
 
@@ -89,13 +89,13 @@ Standalone research pipeline — runs locally, not wired into GitHub Actions.
 
 ### `src/decisions/`
 - `generate.py` — Generates `decisions/pending/{date}.md` with checkboxes. New buys unchecked (opt-in), holds/sells pre-checked.
-- `process.py` — Parses the markdown, writes `data/decisions/{date}.json`, queues execution-day price fetches
+- `process.py` — Parses the markdown, writes `data.nosync/decisions/{date}.json`, queues execution-day price fetches
 - `execute.py` — Records fills (OHLC avg) for approved decisions; opens/closes positions
 
 ### `src/strategy/`
 - `templates.py` — Strategy evaluation templates
 - `snapshot.py` — Strategy observation lifecycle: open → closed; `check_expirations`, `reopen_expired_strategies`
-- `returns.py` — Aggregates log returns across closed observations → `data/strategy_observations/returns.json`
+- `returns.py` — Aggregates log returns across closed observations → `data.nosync/strategy_observations/returns.json`
 - `runner.py` — Evaluates all strategies for a position
 - `stock.py`, `covered_call.py`, `leap.py`, `diagonal.py`, `csp.py` — Per-strategy evaluation logic
 - `options_math.py` — Shared Black-Scholes utilities
@@ -104,7 +104,7 @@ Standalone research pipeline — runs locally, not wired into GitHub Actions.
 - `pnl.py` — Mark-to-market open positions using latest close prices; updates `unrealized_pnl`, `current_value` in positions.json
 - `positions.py` — `open_position()`, `close_position()`, `get_open_positions()`, `get_closed_positions()`; position_id = `{ticker}_{strategy}_{entry_date}`
 - `portfolio.py` — `compute_portfolio_performance()`: aggregates positions, appends to `portfolio_history.json`
-- `model_scorecard.py` — Replays eval dirs to compute each model's theoretical return series (log returns); stores to `data/models/scorecards/{model}.json`
+- `model_scorecard.py` — Replays eval dirs to compute each model's theoretical return series (log returns); stores to `data.nosync/models/scorecards/{model}.json`
 - `filtering.py` — Per-model filtering alpha = user avg log return − model avg log return
 
 ### `src/reports/`
@@ -202,7 +202,7 @@ python -m src.reports.daily
 
 ## Quant Research Pipeline
 
-One-time research pipeline — trains GBM and KNN on 12 years of price history, validates on the most recent 2 years. Must be run locally. Output lands in `data/quant/` (gitignored except `artifacts/`).
+One-time research pipeline — trains GBM and KNN on 12 years of price history, validates on the most recent 2 years. Must be run locally. Output lands in `data.nosync/quant/` (gitignored except `artifacts/`).
 
 ### First-time setup
 
@@ -214,7 +214,7 @@ pip install yfinance scikit-learn lightgbm pyarrow
 
 ```bash
 python -m src.quant_research.download
-# Output: data/quant/raw_prices.parquet
+# Output: data.nosync/quant/raw_prices.parquet
 # Resume-safe: re-running skips already-downloaded tickers
 ```
 
@@ -222,7 +222,7 @@ python -m src.quant_research.download
 
 ```bash
 python -m src.quant_research.features
-# Output: data/quant/features.parquet
+# Output: data.nosync/quant/features.parquet
 # ~1.6M rows: (ticker, date, 15 features, fwd_log_ret_20d, split)
 # split=train: first 10 years; split=val: last 2 years
 ```
@@ -232,7 +232,7 @@ python -m src.quant_research.features
 ```bash
 python -m src.quant_research.train --model gbm      # recommended primary model
 python -m src.quant_research.train --model knn      # secondary model
-# Artifacts saved to data/quant/artifacts/{gbm,knn}/
+# Artifacts saved to data.nosync/quant/artifacts/{gbm,knn}/
 ```
 
 ### Validation results (last run: 2026-03-21)

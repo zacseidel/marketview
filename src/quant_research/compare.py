@@ -71,9 +71,9 @@ def _train_v1_10d(train: pd.DataFrame) -> tuple[StandardScaler, object]:
 
 def main() -> None:
     # Load feature matrices
-    df1 = pd.read_parquet("data/quant/features.parquet")
-    df3 = pd.read_parquet("data/quant/features_v3.parquet")
-    df2 = pd.read_parquet("data/quant/features_v2.parquet")
+    df1 = pd.read_parquet("data.nosync/quant/features.parquet")
+    df3 = pd.read_parquet("data.nosync/quant/features_v3.parquet")
+    df2 = pd.read_parquet("data.nosync/quant/features_v2.parquet")
 
     val1 = df1[df1["split"] == "val"].copy()
     val2 = df2[df2["split"] == "val"].copy()

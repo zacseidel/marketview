@@ -16,7 +16,7 @@ Computes per-model metrics:
   - total_return: sum of log returns (= log of cumulative return)
   - returns: list of individual simple returns
 
-Scorecards stored in data/models/scorecards/{model}.json.
+Scorecards stored in data.nosync/models/scorecards/{model}.json.
 Updated by weekly-digest.yml.
 
 Entry points:
@@ -36,9 +36,9 @@ import structlog
 
 log = structlog.get_logger()
 
-_MODELS_DIR = Path("data/models")
-_PRICES_DIR = Path("data/prices")
-_SCORECARDS_DIR = Path("data/models/scorecards")
+_MODELS_DIR = Path("data.nosync/models")
+_PRICES_DIR = Path("data.nosync/prices")
+_SCORECARDS_DIR = Path("data.nosync/models/scorecards")
 
 
 @dataclass

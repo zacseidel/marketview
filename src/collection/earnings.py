@@ -1,7 +1,7 @@
 """
 src/collection/earnings.py
 
-Builds and maintains per-ticker earnings event files at data/earnings/{ticker}.json.
+Builds and maintains per-ticker earnings event files at data.nosync/earnings/{ticker}.json.
 
 Each event record combines:
   - Actual announcement date + EPS estimate/actual/surprise from yfinance (one-time backfill)
@@ -47,11 +47,12 @@ def _clean_float(v) -> float | None:
     return float(v)
 
 
-_EARNINGS_DIR     = Path("data/earnings")
-_FUNDAMENTALS_DIR = Path("data/fundamentals")
-_UNIVERSE_FILE    = Path("data/universe/constituents.json")
-_RAW_PRICES_FILE  = Path("data/quant/raw_prices.parquet")
+_EARNINGS_DIR     = Path("data.nosync/earnings")
+_FUNDAMENTALS_DIR = Path("data.nosync/fundamentals")
+_UNIVERSE_FILE    = Path("data.nosync/universe/constituents.json")
+_RAW_PRICES_FILE  = Path("data.nosync/quant/raw_prices.parquet")
 _STATE_FILE       = _EARNINGS_DIR / ".backfill_state.json"
+_NEXT_DATES_FILE  = _EARNINGS_DIR / "next_dates.json"
 
 
 # ---------------------------------------------------------------------------
@@ -375,6 +376,96 @@ def _load_stored_yf_events(ticker: str) -> list[dict]:
 # Public API
 # ---------------------------------------------------------------------------
 
+def get_next_earnings_date(ticker: str) -> str | None:
+    """
+    Fetch the next scheduled earnings date for a ticker from yfinance.
+    Returns YYYY-MM-DD string or None if unavailable.
+    Logs a warning on unexpected errors so issues surface in CI logs.
+    """
+    try:
+        import yfinance as yf
+        cal = yf.Ticker(ticker).calendar
+        if cal is None:
+            log.debug("earnings.next_date_no_calendar", ticker=ticker)
+            return None
+
+        # yfinance returns a dict in recent versions; older versions returned a DataFrame
+        if isinstance(cal, dict):
+            dates = cal.get("Earnings Date") or cal.get("earningsDate") or []
+        elif hasattr(cal, "loc"):
+            # DataFrame: index contains field names
+            try:
+                dates = cal.loc["Earnings Date"].tolist()
+            except KeyError:
+                dates = []
+        else:
+            log.warning("earnings.next_date_unexpected_type", ticker=ticker, type=type(cal).__name__)
+            return None
+
+        if not dates:
+            log.debug("earnings.next_date_empty", ticker=ticker)
+            return None
+
+        today = date.today()
+        future: list[date] = []
+        for d in dates:
+            try:
+                d_date = d.date() if hasattr(d, "date") else date.fromisoformat(str(d)[:10])
+                if d_date >= today:
+                    future.append(d_date)
+            except Exception as exc:
+                log.debug("earnings.next_date_parse_error", ticker=ticker, value=str(d), error=str(exc))
+
+        if not future:
+            log.debug("earnings.next_date_no_future", ticker=ticker)
+            return None
+
+        result = min(future).isoformat()
+        log.debug("earnings.next_date_found", ticker=ticker, date=result)
+        return result
+
+    except Exception as exc:
+        log.warning("earnings.next_date_error", ticker=ticker, error=str(exc))
+        return None
+
+
+def load_next_dates() -> dict[str, str]:
+    """Load next_dates.json. Returns {} if file doesn't exist yet."""
+    if not _NEXT_DATES_FILE.exists():
+        return {}
+    with open(_NEXT_DATES_FILE) as f:
+        return json.load(f)
+
+
+def update_next_dates(tickers: list[str]) -> dict[str, str]:
+    """
+    Fetch and persist next earnings dates for the given tickers via yfinance.
+    Existing entries are preserved for tickers where yfinance returns nothing.
+    Returns the full updated {ticker: date_str} mapping.
+    """
+    existing = load_next_dates()
+    fetched, failed, unchanged = 0, 0, 0
+
+    for ticker in tickers:
+        next_date = get_next_earnings_date(ticker)
+        if next_date:
+            if existing.get(ticker) != next_date:
+                existing[ticker] = next_date
+                fetched += 1
+            else:
+                unchanged += 1
+        else:
+            failed += 1
+
+    _EARNINGS_DIR.mkdir(parents=True, exist_ok=True)
+    with open(_NEXT_DATES_FILE, "w") as f:
+        json.dump(existing, f, indent=2, sort_keys=True)
+
+    log.info("earnings.next_dates_updated",
+             fetched=fetched, unchanged=unchanged, failed=failed, total=len(existing))
+    return existing
+
+
 def refresh(tickers: list[str]) -> None:
     """
     Re-derive earnings events for specified tickers from stored yfinance data +
@@ -395,8 +486,8 @@ def refresh(tickers: list[str]) -> None:
 def backfill_all(tickers: list[str] | None = None) -> None:
     """
     One-time backfill: fetch yfinance earnings history for all tickers, merge with
-    fundamentals and price history, write data/earnings/{ticker}.json.
-    Resume-safe via data/earnings/.backfill_state.json.
+    fundamentals and price history, write data.nosync/earnings/{ticker}.json.
+    Resume-safe via data.nosync/earnings/.backfill_state.json.
     """
     if tickers is None:
         if not _UNIVERSE_FILE.exists():

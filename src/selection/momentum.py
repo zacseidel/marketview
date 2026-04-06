@@ -11,24 +11,24 @@ Strategy:
   - Select top 5 from the passing set
 
 Persistence:
-  - Standard HoldingRecord output → data/models/{eval_date}/momentum.json
-  - Full ranking sidecar → data/models/{eval_date}/momentum_ranks.json
+  - Standard HoldingRecord output → data.nosync/models/{eval_date}/momentum.json
+  - Full ranking sidecar → data.nosync/models/{eval_date}/momentum_ranks.json
     (used by the next run's stability check)
 """
 
 from __future__ import annotations
 
 import json
-import math
 from pathlib import Path
 
+import numpy as np
 import structlog
 
 from src.selection.base import DataAccessLayer, HoldingRecord, SelectionModel
 
 log = structlog.get_logger()
 
-_MODELS_DIR = Path("data/models")
+_MODELS_DIR = Path("data.nosync/models")
 _LOOKBACK = 252  # trading days ≈ 12 months
 
 _DEFAULT_CONFIG = {
@@ -41,34 +41,41 @@ def _compute_ranks(dal: DataAccessLayer) -> list[dict]:
     Returns a list of dicts sorted by rank (best first):
         [{"ticker": ..., "rank": 1, "return_12m": 0.42, "total": 500}, ...]
 
-    Tickers with fewer than _LOOKBACK price records are excluded.
+    Tickers missing either the most-recent or the _LOOKBACK-th-from-last close are excluded.
     """
-    tickers = dal.get_all_tickers(tier="sp500")
-    log.info("momentum.universe", count=len(tickers))
+    tickers_sp500 = set(dal.get_all_tickers(tier="sp500"))
 
-    returns: list[tuple[str, float]] = []
-    for ticker in tickers:
-        try:
-            prices = dal.get_prices(ticker, lookback_days=_LOOKBACK + 5)
-            close = prices["close"]
-            if len(close) < _LOOKBACK + 1:
-                continue
-            ret = math.log(float(close.iloc[-1] / close.iloc[-(1 + _LOOKBACK)]))
-            returns.append((ticker, ret))
-        except Exception as exc:
-            log.debug("momentum.return_error", ticker=ticker, error=str(exc))
+    # Wide-format: dates as index, tickers as columns
+    close_wide = dal.get_bulk_close_prices()
 
-    returns.sort(key=lambda x: x[1], reverse=True)
-    total = len(returns)
+    # Filter columns to S&P 500 universe
+    sp500_cols = [c for c in close_wide.columns if c in tickers_sp500]
+    close_wide = close_wide[sp500_cols]
+
+    if len(close_wide) < _LOOKBACK + 1:
+        log.warning("momentum.insufficient_history", rows=len(close_wide), required=_LOOKBACK + 1)
+        return []
+
+    # Keep only tickers where both the last and the _LOOKBACK-th-from-last rows are non-null
+    last_row = close_wide.iloc[-1]
+    prior_row = close_wide.iloc[-(1 + _LOOKBACK)]
+    valid_mask = last_row.notna() & prior_row.notna()
+    close_valid = close_wide.loc[:, valid_mask]
+
+    log_returns = np.log(close_valid.iloc[-1] / close_valid.iloc[-(1 + _LOOKBACK)])
+    log_returns = log_returns.dropna().sort_values(ascending=False)
+    total = len(log_returns)
+
+    log.info("momentum.universe", sp500=len(tickers_sp500), valid=total)
 
     return [
         {
-            "ticker": ticker,
+            "ticker": str(ticker),
             "rank": i + 1,
-            "return_12m": round(ret, 6),
+            "return_12m": round(float(ret), 6),
             "total": total,
         }
-        for i, (ticker, ret) in enumerate(returns)
+        for i, (ticker, ret) in enumerate(log_returns.items())
     ]
 
 

@@ -2,7 +2,7 @@
 src/quant_research/train.py
 
 Trains three models on the training split and evaluates each on the validation split.
-Saves serialized artifacts to data/quant/artifacts/{knn,gbm,cluster}/.
+Saves serialized artifacts to data.nosync/quant/artifacts/{knn,gbm,cluster}/.
 
 Models:
   1. KNN analog matching (sklearn BallTree, K=50, distance-weighted)
@@ -30,8 +30,8 @@ from src.quant_research.features import FEATURE_COLS
 
 log = structlog.get_logger()
 
-_FEATURES_FILE = Path("data/quant/features.parquet")
-_ARTIFACTS_DIR = Path("data/quant/artifacts")
+_FEATURES_FILE = Path("data.nosync/quant/features.parquet")
+_ARTIFACTS_DIR = Path("data.nosync/quant/artifacts")
 
 _KNN_K = 50
 _KNN_TRAIN_SUBSAMPLE = 300_000   # subsample training rows for BallTree — 300K is representative and much faster

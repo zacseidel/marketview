@@ -25,14 +25,15 @@ from pathlib import Path
 import structlog
 import yaml
 
+from src.collection.earnings import load_next_dates, update_next_dates
 from src.collection.fundamentals import fetch_and_save
 from src.collection.polygon_client import PolygonClient
 
 log = structlog.get_logger()
 
-_FUNDAMENTALS_DIR = Path("data/fundamentals")
-_MODELS_DIR       = Path("data/models")
-_POSITIONS_FILE   = Path("data/positions/positions.json")
+_FUNDAMENTALS_DIR = Path("data.nosync/fundamentals")
+_MODELS_DIR       = Path("data.nosync/models")
+_POSITIONS_FILE   = Path("data.nosync/positions/positions.json")
 _WATCHLIST_FILE   = Path("config/watchlist.yaml")
 
 _EARNINGS_CADENCE_DAYS = 91   # ~13 weeks between quarterly reports
@@ -40,7 +41,7 @@ _BUFFER_DAYS           = 7    # start checking a week before estimate
 
 
 def _latest_quarterly_filing(ticker: str) -> date | None:
-    """Most recent quarterly filing date from data/fundamentals/{ticker}.json."""
+    """Most recent quarterly filing date from data.nosync/fundamentals/{ticker}.json."""
     path = _FUNDAMENTALS_DIR / f"{ticker}.json"
     if not path.exists():
         return None
@@ -97,25 +98,47 @@ def _get_tracked_tickers() -> set[str]:
 
 def find_overdue(tickers: set[str], buffer_days: int = _BUFFER_DAYS) -> list[tuple[str, date, int]]:
     """
-    Return (ticker, last_filing, days_since) for tickers whose estimated
-    next earnings window has passed.
+    Return (ticker, last_filing, days_since) for tickers due for a fundamentals refresh.
+
+    Uses next_dates.json (populated from yfinance calendar) when available.
+    Falls back to the 91-day cadence heuristic for any ticker not in the calendar.
     """
     today = date.today()
     threshold = _EARNINGS_CADENCE_DAYS - buffer_days
+    next_dates = load_next_dates()
     overdue = []
+
     for ticker in sorted(tickers):
         last_filing = _latest_quarterly_filing(ticker)
         if last_filing is None:
             continue
         days_since = (today - last_filing).days
-        if days_since >= threshold:
+
+        if ticker in next_dates:
+            scheduled = date.fromisoformat(next_dates[ticker])
+            is_overdue = today >= scheduled
+            log.debug("earnings_refresh.calendar_check",
+                      ticker=ticker, scheduled=next_dates[ticker], overdue=is_overdue)
+        else:
+            # No calendar entry — fall back to cadence heuristic
+            is_overdue = days_since >= threshold
+            log.debug("earnings_refresh.heuristic_check",
+                      ticker=ticker, days_since=days_since, threshold=threshold, overdue=is_overdue)
+
+        if is_overdue:
             overdue.append((ticker, last_filing, days_since))
+
     return overdue
 
 
 def run(buffer_days: int = _BUFFER_DAYS) -> None:
     tracked = _get_tracked_tickers()
     log.info("earnings_refresh.tracked", count=len(tracked))
+
+    # Refresh calendar dates for all tracked tickers (cheap yfinance calls).
+    # This runs every time so next_dates.json stays current.
+    print(f"  Refreshing earnings calendar for {len(tracked)} tracked ticker(s)...")
+    update_next_dates(sorted(tracked))
 
     overdue = find_overdue(tracked, buffer_days=buffer_days)
     if not overdue:
@@ -137,6 +160,13 @@ def run(buffer_days: int = _BUFFER_DAYS) -> None:
         else:
             unchanged += 1
             log.debug("earnings_refresh.no_new_data", ticker=ticker)
+
+    # After fetching new fundamentals, the old scheduled dates have passed.
+    # Re-fetch calendar so next_dates.json has the *new* upcoming dates.
+    if updated:
+        refreshed_tickers = [t for t, _, _ in overdue]
+        log.info("earnings_refresh.recalibrating_calendar", tickers=refreshed_tickers)
+        update_next_dates(refreshed_tickers)
 
     print(f"  Updated {updated} ticker(s), {unchanged} unchanged.")
 

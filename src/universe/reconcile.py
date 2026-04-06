@@ -26,8 +26,8 @@ from src.collection.queue import WorkQueue
 
 log = structlog.get_logger()
 
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
-_UNIVERSE_DIR = Path("data/universe")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
+_UNIVERSE_DIR = Path("data.nosync/universe")
 
 
 def _load_constituents() -> dict[str, dict]:

@@ -4,7 +4,7 @@ name: Quarterly Fundamentals Refresh
 # Run locally every few weeks (caps at 100 tickers per run to stay within rate limits):
 #
 #   python -m src.collection.fundamentals
-#   git add data/fundamentals/
+#   git add data.nosync/fundamentals/
 #   git commit -m "chore: fundamentals refresh YYYY-MM-DD"
 #   git push
 #

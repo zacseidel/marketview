@@ -4,7 +4,7 @@ src/strategy/returns.py
 Aggregates log returns across all strategy observations, grouped by
 originating model and strategy type.
 
-Output: data/strategy_observations/returns.json
+Output: data.nosync/strategy_observations/returns.json
     {
         "model_name": {
             "strategy_name": {
@@ -30,8 +30,8 @@ from src.strategy.snapshot import load_all_observations, load_all_theoretical_ob
 
 log = structlog.get_logger()
 
-_RETURNS_FILE = Path("data/strategy_observations/returns.json")
-_THEORETICAL_RETURNS_FILE = Path("data/strategy_observations/theoretical/returns.json")
+_RETURNS_FILE = Path("data.nosync/strategy_observations/returns.json")
+_THEORETICAL_RETURNS_FILE = Path("data.nosync/strategy_observations/theoretical/returns.json")
 
 
 def aggregate_returns() -> dict:

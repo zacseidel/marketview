@@ -28,11 +28,11 @@ import structlog
 
 log = structlog.get_logger()
 
-_INPUT_FILE = Path("data/quant/raw_prices.parquet")
-_OUTPUT_FILE = Path("data/quant/features_v2.parquet")
-_FUNDAMENTALS_DIR = Path("data/fundamentals")
-_EARNINGS_DIR = Path("data/earnings")
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
+_INPUT_FILE = Path("data.nosync/quant/raw_prices.parquet")
+_OUTPUT_FILE = Path("data.nosync/quant/features_v2.parquet")
+_FUNDAMENTALS_DIR = Path("data.nosync/fundamentals")
+_EARNINGS_DIR = Path("data.nosync/earnings")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
 
 _DAYS_TO_EARNINGS_CAP = 180   # cap days_to_next_earnings
 _ATH_CAP = 1260               # cap days_since_ath at 5 years (same as v1)

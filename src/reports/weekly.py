@@ -28,11 +28,11 @@ import structlog
 log = structlog.get_logger()
 
 _DOCS_DIR = Path("docs")
-_MODELS_DIR = Path("data/models")
-_DECISIONS_DIR = Path("data/decisions")
-_POSITIONS_FILE = Path("data/positions/positions.json")
-_SCORECARDS_DIR = Path("data/models/scorecards")
-_RETURNS_FILE = Path("data/strategy_observations/returns.json")
+_MODELS_DIR = Path("data.nosync/models")
+_DECISIONS_DIR = Path("data.nosync/decisions")
+_POSITIONS_FILE = Path("data.nosync/positions/positions.json")
+_SCORECARDS_DIR = Path("data.nosync/models/scorecards")
+_RETURNS_FILE = Path("data.nosync/strategy_observations/returns.json")
 
 
 def _week_range(week_ending: str) -> tuple[str, str]:

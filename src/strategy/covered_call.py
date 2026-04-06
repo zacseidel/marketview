@@ -11,7 +11,7 @@ Phase 3 implementation will:
 - Compute: premium collected, max profit (premium + upside to strike), breakeven,
     annualized yield, downside protection provided by premium
 - Return a StrategyRecord with full strategy_params and evaluation metrics
-- Requires options chain data in data/options/{ticker}/
+- Requires options chain data in data.nosync/options/{ticker}/
 
 Uses: src/strategy/options_math.py
 """

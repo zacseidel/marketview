@@ -4,7 +4,7 @@ src/tracking/portfolio.py
 Tracks the user's actual curated portfolio performance.
 
 Computes portfolio-level P&L from positions.json and appends a daily
-snapshot to data/positions/portfolio_history.json.
+snapshot to data.nosync/positions/portfolio_history.json.
 
 Entry point:
     compute_portfolio_performance(as_of_date: str | None = None) -> PortfolioPerformance
@@ -23,7 +23,7 @@ from src.tracking.positions import get_closed_positions, get_open_positions
 
 log = structlog.get_logger()
 
-_PORTFOLIO_HISTORY_FILE = Path("data/positions/portfolio_history.json")
+_PORTFOLIO_HISTORY_FILE = Path("data.nosync/positions/portfolio_history.json")
 
 
 @dataclass

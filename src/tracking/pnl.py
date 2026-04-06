@@ -19,8 +19,8 @@ import structlog
 
 log = structlog.get_logger()
 
-_POSITIONS_FILE = Path("data/positions/positions.json")
-_PRICES_DIR = Path("data/prices")
+_POSITIONS_FILE = Path("data.nosync/positions/positions.json")
+_PRICES_DIR = Path("data.nosync/prices")
 
 
 @dataclass

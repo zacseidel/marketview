@@ -28,7 +28,7 @@ from src.selection.base import DataAccessLayer, HoldingRecord, SelectionModel
 
 log = structlog.get_logger()
 
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
 
 _DEFAULT_CONFIG = {
     "universe_size": 100,       # top N S&P 500 tickers by market cap

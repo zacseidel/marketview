@@ -18,9 +18,9 @@ from src.collection.polygon_client import PolygonClient
 
 log = structlog.get_logger()
 
-_PRICES_DIR = Path("data/prices")
-_SPLITS_DIR = Path("data/splits")
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
+_PRICES_DIR = Path("data.nosync/prices")
+_SPLITS_DIR = Path("data.nosync/splits")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
 
 # A confirmed split must have occurred within this many days of the flagged date
 _SPLIT_WINDOW_DAYS = 5
@@ -100,7 +100,7 @@ def _backfill_adjusted_prices(
 
 def _update_price_files(ticker: str, adjusted_bars: dict[str, dict]) -> int:
     """
-    Overwrite the ticker's records in all matching data/prices/{date}.json files.
+    Overwrite the ticker's records in all matching data.nosync/prices/{date}.json files.
     Returns the number of daily files updated.
     """
     updated = 0
@@ -188,6 +188,12 @@ def confirm_and_correct_split(
 
     records_corrected = _update_price_files(ticker, adjusted_bars)
     log.info("splits.corrected", ticker=ticker, files_updated=records_corrected)
+
+    # Rebuild consolidated Parquet so the DAL doesn't serve stale pre-split prices
+    if records_corrected > 0:
+        from src.collection.convert_prices_to_parquet import convert as rebuild_parquet
+        rebuild_parquet()
+        log.info("splits.parquet_rebuilt", ticker=ticker)
 
     result = SplitResult(
         ticker=ticker,

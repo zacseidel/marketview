@@ -33,7 +33,7 @@ def _load_model_class(module_path: str, class_name: str) -> type:
 
 def _prev_holdings_tickers(model: str, eval_date: str, dal: DataAccessLayer) -> set[str]:
     """Find the most recent prior eval's holdings for a model."""
-    models_dir = Path("data/models")
+    models_dir = Path("data.nosync/models")
     if not models_dir.exists():
         return set()
 
@@ -89,7 +89,7 @@ def _queue_momentum_theoretical_chains(eval_date: str) -> None:
     """
     from src.collection.queue import WorkQueue
 
-    momentum_file = Path("data/models") / eval_date / "momentum.json"
+    momentum_file = Path("data.nosync/models") / eval_date / "momentum.json"
     if not momentum_file.exists():
         return
 
@@ -123,7 +123,7 @@ def _close_momentum_theoretical_sells(eval_date: str) -> None:
     from src.collection.queue import WorkQueue
     from src.strategy.snapshot import close_theoretical_for_ticker
 
-    momentum_file = Path("data/models") / eval_date / "momentum.json"
+    momentum_file = Path("data.nosync/models") / eval_date / "momentum.json"
     if not momentum_file.exists():
         return
 
@@ -134,7 +134,7 @@ def _close_momentum_theoretical_sells(eval_date: str) -> None:
     if not sell_tickers:
         return
 
-    price_file = Path("data/prices") / f"{eval_date}.json"
+    price_file = Path("data.nosync/prices") / f"{eval_date}.json"
     prices: dict[str, float] = {}
     if price_file.exists():
         with open(price_file) as f:
@@ -177,7 +177,7 @@ def _check_strategy_expirations(eval_date: str, dal: DataAccessLayer) -> None:
     from src.strategy.snapshot import check_expirations, reopen_expired_strategies
     from src.collection.queue import WorkQueue
 
-    positions_file = Path("data/positions/positions.json")
+    positions_file = Path("data.nosync/positions/positions.json")
     if not positions_file.exists():
         return
 
@@ -189,7 +189,7 @@ def _check_strategy_expirations(eval_date: str, dal: DataAccessLayer) -> None:
         return
 
     # Get current stock prices
-    price_file = Path("data/prices") / f"{eval_date}.json"
+    price_file = Path("data.nosync/prices") / f"{eval_date}.json"
     prices: dict[str, float] = {}
     if price_file.exists():
         with open(price_file) as f:

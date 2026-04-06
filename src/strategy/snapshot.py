@@ -10,7 +10,7 @@ Lifecycle:
   3. Model sell → close_all_for_model_sell() → closes stock leg immediately,
      marks options legs "awaiting_chain"; queue handler closes them when chain arrives
 
-Storage: data/strategy_observations/{ticker}_{entry_date}.json
+Storage: data.nosync/strategy_observations/{ticker}_{entry_date}.json
 """
 
 from __future__ import annotations
@@ -34,8 +34,8 @@ from src.strategy.templates import (
 
 log = structlog.get_logger()
 
-_OBS_DIR = Path("data/strategy_observations")
-_THEORETICAL_OBS_DIR = Path("data/strategy_observations/theoretical")
+_OBS_DIR = Path("data.nosync/strategy_observations")
+_THEORETICAL_OBS_DIR = Path("data.nosync/strategy_observations/theoretical")
 
 
 # ---------------------------------------------------------------------------

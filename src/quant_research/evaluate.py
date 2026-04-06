@@ -144,11 +144,11 @@ def evaluate_model(
     return metrics
 
 
-_VAL_METRICS_FILE = Path("data/quant/val_metrics.json")
+_VAL_METRICS_FILE = Path("data.nosync/quant/val_metrics.json")
 
 
 def save_val_metrics(result: dict) -> None:
-    """Upsert one model's val metrics into data/quant/val_metrics.json."""
+    """Upsert one model's val metrics into data.nosync/quant/val_metrics.json."""
     existing: dict = {}
     if _VAL_METRICS_FILE.exists():
         with open(_VAL_METRICS_FILE) as f:

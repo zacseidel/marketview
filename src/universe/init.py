@@ -24,9 +24,9 @@ import structlog
 
 log = structlog.get_logger()
 
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
-_PRICES_DIR = Path("data/prices")
-_BACKFILL_STATE_FILE = Path("data/prices/.backfill_state.json")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
+_PRICES_DIR = Path("data.nosync/prices")
+_BACKFILL_STATE_FILE = Path("data.nosync/prices/.backfill_state.json")
 
 
 def step_wikipedia(client=None, tier_map: dict | None = None) -> dict[str, str]:
@@ -48,7 +48,7 @@ def step_ticker_details(tier_map: dict[str, str], client=None) -> None:
 def step_price_backfill(client=None, years: int = 2) -> None:
     """
     Step 3: Backfill 2 years of grouped daily prices.
-    Resumable via data/prices/.backfill_state.json.
+    Resumable via data.nosync/prices/.backfill_state.json.
     """
     from src.collection.polygon_client import PolygonClient
     from src.universe.ingestion import ingest_daily

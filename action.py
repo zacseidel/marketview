@@ -43,7 +43,7 @@ def _prev_trading_day() -> str:
 
 def _queue_preflight() -> None:
     """Print pending task counts by type before running the queue processor."""
-    queue_file = _ROOT / "data/queue/pending.json"
+    queue_file = _ROOT / "data.nosync/queue/pending.json"
     if not queue_file.exists():
         print("  Queue: empty")
         return
@@ -76,7 +76,7 @@ def _models_preflight() -> None:
 def _prices_preflight() -> None:
     """Print the target date and whether it will be a fresh fetch or skip."""
     target = _prev_trading_day()
-    out = _ROOT / "data/prices" / f"{target}.json"
+    out = _ROOT / "data.nosync/prices" / f"{target}.json"
     if out.exists():
         print(f"  Target date: {target}  (already exists — will skip)")
     else:
@@ -91,7 +91,7 @@ def _check_fundamentals() -> None:
     Warn if a significant number of tickers haven't had fundamentals fetched
     in over 90 days. Offer to kick off a capped background batch run.
     """
-    universe_file = _ROOT / "data/universe/constituents.json"
+    universe_file = _ROOT / "data.nosync/universe/constituents.json"
     if not universe_file.exists():
         return
 

@@ -11,7 +11,7 @@ Filtering alpha = user_avg_return - model_avg_return
   - positive: user's picks outperformed the model's full list
   - negative: user filtering hurt returns
 
-Output stored in data/positions/filtering_analysis.json.
+Output stored in data.nosync/positions/filtering_analysis.json.
 
 Entry points:
     compute_filtering_value_add(model_name: str, as_of_date: str | None) -> FilteringAnalysis
@@ -32,8 +32,8 @@ from src.tracking.model_scorecard import get_all_scorecards
 
 log = structlog.get_logger()
 
-_POSITIONS_FILE = Path("data/positions/positions.json")
-_FILTERING_FILE = Path("data/positions/filtering_analysis.json")
+_POSITIONS_FILE = Path("data.nosync/positions/positions.json")
+_FILTERING_FILE = Path("data.nosync/positions/filtering_analysis.json")
 
 
 @dataclass

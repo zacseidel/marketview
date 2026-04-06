@@ -20,9 +20,9 @@ from src.collection.queue import WorkQueue
 
 log = structlog.get_logger()
 
-_UNIVERSE_FILE = Path("data/universe/constituents.json")
-_UNIVERSE_DIR = Path("data/universe")
-_INIT_STATE_FILE = Path("data/universe/.init_state.json")
+_UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
+_UNIVERSE_DIR = Path("data.nosync/universe")
+_INIT_STATE_FILE = Path("data.nosync/universe/.init_state.json")
 
 
 @dataclass
@@ -131,7 +131,7 @@ def fetch_and_admit_new_tickers(
 ) -> list[str]:
     """
     Fetch details for candidate tickers and admit those with valid company info.
-    Upserts results into data/universe/constituents.json.
+    Upserts results into data.nosync/universe/constituents.json.
     Returns list of admitted ticker symbols.
     """
     if client is None:
@@ -211,7 +211,7 @@ def bulk_init(
 ) -> None:
     """
     Resumable bulk initialization for ~3,000 tickers.
-    State is saved in data/universe/.init_state.json so the run can be interrupted and resumed.
+    State is saved in data.nosync/universe/.init_state.json so the run can be interrupted and resumed.
     """
     if client is None:
         client = PolygonClient()
