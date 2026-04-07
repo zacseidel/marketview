@@ -36,5 +36,5 @@ jobs:
           git add data.nosync/quant/recent_prices.parquet data.nosync/quant/history_gaps.json || true
           git add -f data.nosync/prices/prices.parquet || true
           git diff --staged --quiet || git commit -m "chore: daily prices $(date -u +%Y-%m-%d) [skip ci]"
-          git pull --rebase origin main
+          git checkout -- . && git pull --rebase origin main
           git push

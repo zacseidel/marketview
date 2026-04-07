@@ -1,0 +1,12 @@
+[
+  {
+    "id": "zac_fidelity",
+    "name": "Zac Fidelity",
+    "type": "taxable"
+  },
+  {
+    "id": "joint_fidelity",
+    "name": "Joint Fidelity",
+    "type": "taxable"
+  }
+]

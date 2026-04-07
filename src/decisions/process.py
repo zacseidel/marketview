@@ -153,8 +153,9 @@ def process_decision_file(file_path: str | Path) -> ProcessResult:
 
     out_path = _DECISIONS_DATA_DIR / f"{eval_date}.json"
 
-    # Idempotency check
-    if out_path.exists():
+    # Skip re-processing only for historical decisions (execution already happened).
+    # Current/upcoming decisions are always re-processed so user vetoes take effect.
+    if out_path.exists() and execution_date < date.today().isoformat():
         log.info("process.already_done", eval_date=eval_date)
         with open(out_path) as f:
             existing = json.load(f)
@@ -168,6 +169,8 @@ def process_decision_file(file_path: str | Path) -> ProcessResult:
             holds_confirmed=holds,
             total_decisions=len(existing),
         )
+    if out_path.exists():
+        log.info("process.reprocessing", eval_date=eval_date, execution_date=execution_date)
 
     queue = WorkQueue()
     records: list[DecisionRecord] = []
