@@ -3,6 +3,7 @@ name: Process Queue
 on:
   schedule:
     - cron: "30 17 * * 1-5"  # Weekdays 11:30 AM MT (UTC-6)
+    - cron: "0 22 * * 2,5"   # Tue/Fri 4:00 PM MT (UTC-6) — fetch execution-day prices after market close
   workflow_dispatch:
 
 permissions:

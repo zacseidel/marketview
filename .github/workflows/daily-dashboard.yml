@@ -3,6 +3,7 @@ name: Daily Dashboard
 on:
   schedule:
     - cron: "15 19 * * 1-5"  # Weekdays 1:15 PM MT (UTC-6)
+    - cron: "0 0 * * 3,6"    # Tue/Fri 6:00 PM MT (UTC-6, midnight UTC Wed/Sat) — post-fills update
   workflow_dispatch:
 
 permissions:
@@ -21,6 +22,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Update model scorecards
+        run: python -m src.tracking.model_scorecard
+
+      - name: Score pending overrides
+        run: python -m src.tracking.overrides
+
       - name: Generate daily dashboard
         run: python -m src.reports.daily
 
@@ -28,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/
+          git add docs/ data.nosync/models/scorecards/ data.nosync/overrides/
           git diff --staged --quiet || git commit -m "chore: daily dashboard $(date -u +%Y-%m-%d) [skip ci]"
           git pull --rebase origin main
           git push

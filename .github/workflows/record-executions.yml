@@ -2,7 +2,7 @@ name: Record Executions
 
 on:
   schedule:
-    - cron: "30 18 * * 2,5"  # Tue/Fri 12:30 PM MT (UTC-6)
+    - cron: "0 23 * * 2,5"   # Tue/Fri 5:00 PM MT (UTC-6)
   workflow_dispatch:
 
 permissions:

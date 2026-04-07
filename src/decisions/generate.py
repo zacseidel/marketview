@@ -23,7 +23,7 @@ _TEMPLATE = """\
 # Evaluation: {eval_date} ({weekday})
 Execute: {exec_day} {exec_date}
 
-## New Buy Recommendations
+## New Buy Recommendations (uncheck to veto)
 {new_buys}
 
 ## Current Holdings — Confirm Continue
@@ -134,7 +134,7 @@ def generate_decision_file(eval_date: str) -> str:
         models = entry["models"]
 
         if status == "new_buy":
-            new_buy_lines.append(_format_ticker_line(ticker, models, checked=False))
+            new_buy_lines.append(_format_ticker_line(ticker, models, checked=True))
         elif status == "hold":
             hold_lines.append(_format_ticker_line(ticker, models, checked=True))
         elif status == "sell":

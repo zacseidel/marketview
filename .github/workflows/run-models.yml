@@ -2,7 +2,7 @@ name: Run Models
 
 on:
   schedule:
-    - cron: "30 18 * * 1,4"  # Mon/Thu 12:30 PM MT (UTC-6)
+    - cron: "0 18 * * 2,5"   # Tue/Fri 12:00 PM MT (UTC-6)
   workflow_dispatch:
 
 permissions:
@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.nosync/models/ decisions/pending/ data.nosync/strategy_observations/theoretical/
+          git add data.nosync/models/ data.nosync/strategy_observations/theoretical/
           git diff --staged --quiet || git commit -m "chore: model run $(date -u +%Y-%m-%d) [skip ci]"
           git pull --rebase origin main
           git push

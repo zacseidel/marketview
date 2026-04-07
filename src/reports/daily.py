@@ -25,6 +25,7 @@ _UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
 _PRICES_DIR = Path("data.nosync/prices")
 _RECENT_PRICES_FILE = Path("data.nosync/quant/recent_prices.parquet")
 _MODELS_DIR = Path("data.nosync/models")
+_SCORECARDS_DIR = Path("data.nosync/models/scorecards")
 _DECISIONS_DIR = Path("data.nosync/decisions")
 _POSITIONS_FILE = Path("data.nosync/positions/positions.json")
 _QUEUE_FILE = Path("data.nosync/queue/pending.json")
@@ -223,6 +224,40 @@ def _load_quant_val_metrics() -> dict:
         return {}
     with open(_VAL_METRICS_FILE) as f:
         return json.load(f)
+
+
+def _load_live_scorecards() -> list[dict]:
+    """
+    Load all scorecard files. Returns list sorted by avg_return descending.
+    Only includes models with at least one signal.
+    """
+    if not _SCORECARDS_DIR.exists():
+        return []
+    result = []
+    for f in _SCORECARDS_DIR.glob("*.json"):
+        try:
+            with open(f) as fp:
+                data = json.load(fp)
+        except Exception:
+            continue
+        if data.get("signal_count", 0) == 0:
+            continue
+        data.setdefault("history", [])
+        data.setdefault("positions", [])
+        result.append(data)
+    result.sort(key=lambda d: d.get("avg_excess_return") or d.get("avg_return") or -999, reverse=True)
+    return result
+
+
+def _load_overrides() -> list[dict]:
+    path = Path("data.nosync/overrides/log.json")
+    if not path.exists():
+        return []
+    try:
+        with open(path) as f:
+            return json.load(f)
+    except Exception:
+        return []
 
 
 def _load_queue_stats() -> dict:
@@ -502,6 +537,322 @@ def _render_queue_rows(by_type: dict) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Live scorecard rendering
+# ---------------------------------------------------------------------------
+
+def _sparkline(values: list[float], width: int = 80, height: int = 22) -> str:
+    """Inline SVG sparkline of avg_return over time. Zero baseline shown."""
+    clean = [v for v in values if v is not None]
+    if len(clean) < 2:
+        # Single point — just draw a dot
+        if len(clean) == 1:
+            color = "#3fb950" if clean[0] >= 0 else "#f85149"
+            cx, cy = width // 2, height // 2
+            return (
+                f'<svg width="{width}" height="{height}" style="vertical-align:middle">'
+                f'<circle cx="{cx}" cy="{cy}" r="2.5" fill="{color}"/>'
+                f'</svg>'
+            )
+        return f'<svg width="{width}" height="{height}"></svg>'
+
+    pad = 3
+    w = width - pad * 2
+    h = height - pad * 2
+    mn, mx = min(clean), max(clean)
+    span = mx - mn if mx != mn else 0.001
+
+    def _y(v: float) -> float:
+        return pad + (1 - (v - mn) / span) * h
+
+    def _x(i: int) -> float:
+        return pad + (i / (len(clean) - 1)) * w
+
+    points = " ".join(f"{_x(i):.1f},{_y(v):.1f}" for i, v in enumerate(clean))
+    color = "#3fb950" if clean[-1] >= 0 else "#f85149"
+
+    # Zero baseline (only if range crosses zero)
+    baseline = ""
+    if mn < 0 < mx:
+        y0 = _y(0)
+        baseline = (
+            f'<line x1="{pad}" y1="{y0:.1f}" x2="{width - pad}" y2="{y0:.1f}"'
+            f' stroke="#30363d" stroke-width="0.8" stroke-dasharray="2,2"/>'
+        )
+
+    return (
+        f'<svg width="{width}" height="{height}" style="vertical-align:middle">'
+        f'{baseline}'
+        f'<polyline points="{points}" fill="none" stroke="{color}"'
+        f' stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>'
+        f'</svg>'
+    )
+
+
+def _render_live_performance_card(scorecards: list[dict]) -> str:
+    if not scorecards:
+        return ""
+
+    # Sort by avg_excess_return if available, otherwise avg_return
+    scorecards = sorted(
+        scorecards,
+        key=lambda d: d.get("avg_excess_return") or d.get("avg_return") or -999,
+        reverse=True,
+    )
+
+    rows = ""
+    for sc in scorecards:
+        model   = sc.get("model", "?")
+        signals = sc.get("signal_count", 0)
+        closed  = sc.get("closed_count", 0)
+        avg_ret = sc.get("avg_return")
+        avg_spy = sc.get("avg_spy_return")
+        alpha   = sc.get("avg_excess_return")
+        as_of   = sc.get("as_of_date", "")
+        history = sc.get("history", [])
+
+        # Sparkline tracks alpha over time
+        spark_values = [e.get("avg_excess_return") for e in history]
+        spark_svg = _sparkline(spark_values)
+
+        def _ret(v: float | None, bold: bool = False) -> str:
+            if v is None:
+                return '<span class="muted">—</span>'
+            color  = _pct_color(v)
+            weight = "font-weight:600;" if bold else ""
+            return f'<span style="color:{color};font-family:monospace;{weight}">{v:+.2%}</span>'
+
+        thin = ""
+        if closed < 5:
+            thin = ' <span class="muted" style="font-size:0.7rem" title="Fewer than 5 closed positions — interpret with caution">*</span>'
+
+        model_link = f'<a href="#model-{model}" style="color:#58a6ff;text-decoration:none">{model}</a>'
+        rows += (
+            f'<tr>'
+            f'<td class="ticker">{model_link}</td>'
+            f'<td class="muted">{signals}</td>'
+            f'<td class="muted">{closed}{thin}</td>'
+            f'<td>{_ret(avg_ret)}</td>'
+            f'<td>{_ret(avg_spy)}</td>'
+            f'<td>{_ret(alpha, bold=True)}</td>'
+            f'<td style="white-space:nowrap">{spark_svg}</td>'
+            f'<td class="muted small">{as_of}</td>'
+            f'</tr>'
+        )
+
+    max_history = max((len(sc.get("history", [])) for sc in scorecards), default=0)
+    note = (
+        f'<p class="muted small" style="margin-top:0.5rem">'
+        f'All returns are log returns. Open positions marked to latest available price. '
+        f'SPY Log Ret = average SPY log return over the identical holding window for each signal. '
+        f'Alpha = Avg Log Ret − SPY Log Ret. '
+        f'Sparkline tracks alpha over time ({max_history} daily snapshot{"s" if max_history != 1 else ""} accumulated).'
+        f'</p>'
+    )
+
+    return f"""
+    <div class="card wide">
+      <h2>Live Model Performance — Signal Returns Since Launch</h2>
+      <table>
+        <thead><tr>
+          <td class="muted small">Model</td>
+          <td class="muted small">Signals</td>
+          <td class="muted small">Closed</td>
+          <td class="muted small">Avg Log Ret</td>
+          <td class="muted small">SPY Log Ret</td>
+          <td class="muted small">Alpha vs. SPY</td>
+          <td class="muted small">Alpha Trend</td>
+          <td class="muted small">As Of</td>
+        </tr></thead>
+        <tbody>{rows}</tbody>
+      </table>
+      {note}
+    </div>"""
+
+
+def _render_model_detail_sections(scorecards: list[dict]) -> str:
+    """
+    Render one collapsible <details> section per model, showing every position
+    that contributed to performance. Intended to appear below the main table.
+    """
+    if not scorecards:
+        return ""
+
+    def _ret_cell(v: float | None) -> str:
+        if v is None:
+            return '<span class="muted">—</span>'
+        color = "#3fb950" if v > 0 else ("#f85149" if v < 0 else "#8b949e")
+        return f'<span style="color:{color};font-family:monospace">{v:+.2%}</span>'
+
+    sections = ""
+    for sc in scorecards:
+        model     = sc.get("model", "?")
+        positions = sc.get("positions", [])
+
+        if not positions:
+            sections += f"""
+    <div class="card wide" id="model-{model}" style="margin-top:0.5rem">
+      <details>
+        <summary style="cursor:pointer;font-size:0.7rem;font-weight:600;color:#8b949e;text-transform:uppercase;letter-spacing:0.08em">{model} — no position detail available</summary>
+      </details>
+    </div>"""
+            continue
+
+        pos_rows = ""
+        for p in positions:
+            ticker     = p.get("ticker", "?")
+            status     = p.get("status", "?")
+            entry_date = p.get("entry_date") or "—"
+            exit_date  = p.get("exit_date")  or "—"
+            days       = p.get("days")
+            log_ret    = p.get("log_ret")
+            spy_ret    = p.get("spy_log_ret")
+            alpha      = p.get("alpha")
+
+            days_str = str(days) if days is not None else "—"
+            status_color = "#3fb950" if status == "open" else "#8b949e"
+            status_badge = f'<span style="color:{status_color};font-size:0.75rem;font-weight:600">{status.upper()}</span>'
+
+            pos_rows += (
+                f'<tr>'
+                f'<td class="ticker">{ticker}</td>'
+                f'<td>{status_badge}</td>'
+                f'<td class="muted small">{entry_date}</td>'
+                f'<td class="muted small">{exit_date}</td>'
+                f'<td class="muted">{days_str}</td>'
+                f'<td>{_ret_cell(log_ret)}</td>'
+                f'<td>{_ret_cell(spy_ret)}</td>'
+                f'<td>{_ret_cell(alpha)}</td>'
+                f'</tr>'
+            )
+
+        n_pos = len(positions)
+        n_closed = sum(1 for p in positions if p.get("status") == "closed")
+        sections += f"""
+    <div class="card wide" id="model-{model}" style="margin-top:0.5rem">
+      <details>
+        <summary style="cursor:pointer;font-size:0.7rem;font-weight:600;color:#8b949e;text-transform:uppercase;letter-spacing:0.08em">{model} — {n_pos} positions ({n_closed} closed)</summary>
+        <table style="margin-top:0.75rem">
+          <thead><tr>
+            <td class="muted small">Ticker</td>
+            <td class="muted small">Status</td>
+            <td class="muted small">Entry</td>
+            <td class="muted small">Exit</td>
+            <td class="muted small">Days</td>
+            <td class="muted small">Log Ret</td>
+            <td class="muted small">SPY</td>
+            <td class="muted small">Alpha</td>
+          </tr></thead>
+          <tbody>{pos_rows}</tbody>
+        </table>
+      </details>
+    </div>"""
+
+    return f"""
+    <div class="section-header">Model Position Detail</div>
+    {sections}"""
+
+
+def _render_overrides_card(overrides: list[dict]) -> str:
+    if not overrides:
+        return ""
+
+    scored   = [o for o in overrides if o.get("scored")]
+    pending  = [o for o in overrides if not o.get("scored")]
+
+    def _ret_cell(v: float | None) -> str:
+        if v is None:
+            return '<span class="muted">—</span>'
+        color = "#3fb950" if v > 0 else ("#f85149" if v < 0 else "#8b949e")
+        return f'<span style="color:{color};font-family:monospace">{v:+.2%}</span>'
+
+    # Summary stats
+    values = [o["override_value"] for o in scored if o.get("override_value") is not None]
+    if values:
+        avg_val = sum(values) / len(values)
+        good    = sum(1 for v in values if v > 0)
+        avg_color = "#3fb950" if avg_val > 0 else "#f85149"
+        summary = (
+            f'<div style="margin-bottom:0.75rem;font-size:0.875rem">'
+            f'<span style="color:#8b949e">Scored overrides: </span>'
+            f'<strong>{len(scored)}</strong>'
+            f'<span class="muted"> &nbsp;|&nbsp; </span>'
+            f'<span style="color:#8b949e">Good calls: </span>'
+            f'<strong>{good}/{len(values)}</strong>'
+            f'<span class="muted"> &nbsp;|&nbsp; </span>'
+            f'<span style="color:#8b949e">Avg override value: </span>'
+            f'<strong style="color:{avg_color}">{avg_val:+.2%}</strong>'
+            f'<span class="muted small"> (log return; positive = override added value)</span>'
+            f'</div>'
+        )
+    else:
+        summary = '<p class="muted">No scored overrides yet — overrides are scored after 20 trading days.</p>'
+
+    # Scored rows
+    rows = ""
+    for o in sorted(scored, key=lambda x: x["eval_date"], reverse=True):
+        otype    = o["override_type"]
+        label    = "veto buy" if otype == "veto_buy" else "keep sell"
+        label_color = "#f85149" if otype == "veto_buy" else "#3fb950"
+        models   = ", ".join(o.get("models", [])) or "—"
+        rows += (
+            f'<tr>'
+            f'<td class="muted small">{o["eval_date"]}</td>'
+            f'<td class="ticker">{o["ticker"]}</td>'
+            f'<td><span style="color:{label_color};font-size:0.78rem">{label}</span></td>'
+            f'<td class="muted small">{models}</td>'
+            f'<td>{_ret_cell(o.get("ticker_log_ret"))}</td>'
+            f'<td>{_ret_cell(o.get("spy_log_ret"))}</td>'
+            f'<td>{_ret_cell(o.get("override_value"))}</td>'
+            f'<td class="muted small">{o.get("score_date","")}</td>'
+            f'</tr>'
+        )
+
+    # Pending rows
+    for o in sorted(pending, key=lambda x: x["eval_date"], reverse=True):
+        otype  = o["override_type"]
+        label  = "veto buy" if otype == "veto_buy" else "keep sell"
+        label_color = "#f85149" if otype == "veto_buy" else "#3fb950"
+        models = ", ".join(o.get("models", [])) or "—"
+        rows += (
+            f'<tr>'
+            f'<td class="muted small">{o["eval_date"]}</td>'
+            f'<td class="ticker">{o["ticker"]}</td>'
+            f'<td><span style="color:{label_color};font-size:0.78rem">{label}</span></td>'
+            f'<td class="muted small">{models}</td>'
+            f'<td colspan="3" class="muted small" style="font-style:italic">pending (scores after 20 trading days)</td>'
+            f'<td class="muted small">—</td>'
+            f'</tr>'
+        )
+
+    if not rows:
+        return ""
+
+    return f"""
+    <div class="card wide">
+      <h2>Your Override Record</h2>
+      {summary}
+      <table>
+        <thead><tr>
+          <td class="muted small">Date</td>
+          <td class="muted small">Ticker</td>
+          <td class="muted small">Override</td>
+          <td class="muted small">Model(s)</td>
+          <td class="muted small">Stock Return</td>
+          <td class="muted small">SPY Return</td>
+          <td class="muted small">Override Value</td>
+          <td class="muted small">Scored On</td>
+        </tr></thead>
+        <tbody>{rows}</tbody>
+      </table>
+      <p class="muted small" style="margin-top:0.5rem">
+        veto buy: good if stock fell (you avoided a loss).
+        keep sell: good if stock rose (you were right to hold).
+        Override Value = log return (veto buy: negated stock ret; keep sell: stock ret).
+      </p>
+    </div>"""
+
+
+# ---------------------------------------------------------------------------
 # HTML assembly
 # ---------------------------------------------------------------------------
 
@@ -517,6 +868,8 @@ def _build_html(
     history_gaps: dict,
     quant_metrics: dict,
     price_changes: dict[str, float],
+    live_scorecards: list[dict],
+    overrides: list[dict],
 ) -> str:
 
     market_rows = (
@@ -546,6 +899,9 @@ def _build_html(
     confluence_card = _render_confluence(all_holdings)
     history_gaps_card = _render_history_gaps_card(history_gaps)
     quant_scorecard = _render_quant_scorecard(quant_metrics)
+    live_performance_card = _render_live_performance_card(live_scorecards)
+    model_detail_sections = _render_model_detail_sections(live_scorecards)
+    overrides_card        = _render_overrides_card(overrides)
 
     decision_rows = ""
     if decisions:
@@ -679,6 +1035,15 @@ def _build_html(
     <!-- Quant Model Val Scorecard -->
     {quant_scorecard}
 
+    <!-- Live Signal Performance (all models, accumulates over time) -->
+    {live_performance_card}
+
+    <!-- Per-Model Position Drill-Down -->
+    {model_detail_sections}
+
+    <!-- Override Record -->
+    {overrides_card}
+
     <!-- Per-Model Holdings (one card per model) -->
     <div class="section-header">Positions by Model</div>
     {holdings_cards}
@@ -737,11 +1102,13 @@ def generate_daily_dashboard(as_of_date: str | None = None) -> None:
     queue = _load_queue_stats()
     history_gaps = _load_history_gaps()
     quant_metrics = _load_quant_val_metrics()
+    live_scorecards = _load_live_scorecards()
+    overrides = _load_overrides()
 
     html = _build_html(
         generated_at, universe, market, model_eval,
         all_holdings, decisions, positions, queue, history_gaps,
-        quant_metrics, price_changes,
+        quant_metrics, price_changes, live_scorecards, overrides,
     )
 
     out = _DOCS_DIR / "index.html"
