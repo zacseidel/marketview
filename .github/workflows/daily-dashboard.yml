@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/ data.nosync/models/scorecards/ data.nosync/overrides/
+          git add docs/ data.nosync/models/scorecards/ && git add --ignore-unmatch data.nosync/overrides/
           git diff --staged --quiet || git commit -m "chore: daily dashboard $(date -u +%Y-%m-%d) [skip ci]"
           git checkout -- . && git pull --rebase origin main
           git push
