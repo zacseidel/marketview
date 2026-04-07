@@ -8,5 +8,20 @@
     "id": "joint_fidelity",
     "name": "Joint Fidelity",
     "type": "taxable"
+  },
+  {
+    "id": "notional_-_gbmv3",
+    "name": "Notional - GBMv3",
+    "type": "taxable"
+  },
+  {
+    "id": "notional_-_repurchase",
+    "name": "Notional - Repurchase",
+    "type": "taxable"
+  },
+  {
+    "id": "notional_-_momentum",
+    "name": "Notional - Momentum",
+    "type": "taxable"
   }
 ]
