@@ -1,0 +1,15 @@
+[
+  {
+    "id": "IPGP_notional_-_gbmv3_2026-04-07",
+    "account_id": "notional_-_gbmv3",
+    "account_name": "Notional - GBMv3",
+    "ticker": "IPGP",
+    "entry_date": "2026-04-07",
+    "entry_price": 113.0,
+    "shares": 10,
+    "status": "open",
+    "exit_date": null,
+    "exit_price": null,
+    "legs": []
+  }
+]

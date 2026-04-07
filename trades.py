@@ -544,7 +544,12 @@ def flow_close_position(positions: list[dict], filter_account_id: str | None = N
 
     print()
     pos["exit_date"]  = prompt_date("Exit date", TODAY)
-    exit_price        = prompt_float("Exit price")
+    
+    # Fetch the historical price based on the ticker and exit date
+    proposed_exit_price = get_price(pos["ticker"], pos["exit_date"])
+    
+    exit_price = prompt_float("Exit price", proposed_exit_price)
+
     if exit_price is None:
         return
     pos["exit_price"] = exit_price
@@ -664,7 +669,14 @@ def _add_new_position(ticker: str, session: Session,
     account = session.account
     print()
     entry_date  = prompt_date("Entry date", session.trade_date)
-    entry_price = prompt_float("Entry price")
+    
+    # Fetch the historical price based on the ticker and entry date
+    proposed_price = get_price(ticker, entry_date)
+    
+    # Pass the proposed price as the default value
+    entry_price = prompt_float("Entry price", proposed_price)
+
+
     if entry_price is None:
         print("  Cancelled.")
         return
