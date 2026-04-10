@@ -11,7 +11,7 @@ Developer reference for Claude Code. Covers conventions, data paths, how to run 
 - Use `dataclasses` for structured data; `asdict()` for JSON serialization.
 - Entry points use `if __name__ == "__main__"` with `from dotenv import load_dotenv; load_dotenv()`.
 - All file I/O uses `pathlib.Path`, never string concatenation.
-- Use **log returns** (`math.log(exit/entry)`) as the standard metric everywhere — model scorecards, filtering analysis, quant features, and evaluation all use log returns.
+- Use **log returns** (`math.log(exit/entry)`) as the standard metric everywhere — model scorecards, quant features, and strategy evaluation all use log returns.
 
 ---
 
@@ -19,20 +19,19 @@ Developer reference for Claude Code. Covers conventions, data paths, how to run 
 
 ```
 data.nosync/universe/constituents.json       # ~901 active tickers: {ticker: {status, tier, name, ...}}
-data.nosync/prices/{YYYY-MM-DD}.json         # Daily OHLCV for all universe tickers (501 files, 2024-03-19 → 2026-03-18)
+data.nosync/prices/{YYYY-MM-DD}.json         # Daily OHLCV for all universe tickers (515 files, 2024-03-19 → present)
 data.nosync/fundamentals/{ticker}.json       # Quarterly: {filing_date, shares_outstanding, revenue, net_income, market_cap}
 data.nosync/models/{YYYY-MM-DD}/{model}.json # Model holdings outputs per eval date
 data.nosync/models/scorecards/{model}.json   # Model theoretical performance scorecards
 data.nosync/decisions/{YYYY-MM-DD}.json      # Processed decision records (buy/sell/hold with user_approved)
 data.nosync/positions/positions.json         # All positions: open + closed, with P&L fields
 data.nosync/positions/portfolio_history.json # Daily portfolio snapshots
-data.nosync/positions/filtering_analysis.json# Per-model filtering alpha vs. user positions
 data.nosync/queue/pending.json               # Work queue tasks
 data.nosync/splits/                          # Split detection results per ticker/date
 data.nosync/strategy_observations/           # Strategy snapshot lifecycle + returns.json
 data.nosync/quant/raw_prices.parquet         # 12yr yfinance price history for quant research (gitignored)
 data.nosync/quant/features.parquet           # Feature matrix: ~1.6M rows (gitignored)
-data.nosync/quant/artifacts/{gbm,knn}/       # Trained model artifacts — committed to repo
+data.nosync/quant/artifacts/{gbm,gbm_v3}/    # Trained model artifacts — committed to repo
 data.nosync/quant/recent_prices.parquet      # Live price cache for quant inference (gitignored)
 config/models.yaml                    # Model registry: enabled flag, module, class, params
 config/watchlist.yaml                 # User-curated tickers with conviction and notes
@@ -40,6 +39,7 @@ decisions/pending/{YYYY-MM-DD}.md     # Markdown decision files for user review 
 docs/index.html                       # Daily dashboard (GitHub Pages)
 docs/weekly.md                        # Weekly digest markdown
 notebooks/gbm_walkthrough.ipynb       # Interactive GBM model walkthrough
+trades/                               # trades.py local data: accounts.json, positions.json, strategy_evals.json
 ```
 
 ---
@@ -52,6 +52,8 @@ notebooks/gbm_walkthrough.ipynb       # Interactive GBM model walkthrough
 - `queue.py` — WorkQueue with JSON persistence, dedup, lifecycle (pending → completed/failed)
 - `process_queue.py` — Queue processor entry point; handles split_correction, price_fetch, options_chain tasks
 - `fundamentals.py` — Fetch + store quarterly financials; `bulk_fetch()` is resumable via `.init_state.json`. Writes `constituents.json` atomically via `.tmp` + `.replace()`.
+- `earnings.py` — Per-ticker earnings records (EPS surprise, NI growth, revenue growth, days to next earnings)
+- `earnings_refresh.py` — Bulk refresh of earnings data for the universe
 - `options.py` — Options chain fetch + storage
 
 ### `src/universe/`
@@ -65,36 +67,42 @@ notebooks/gbm_walkthrough.ipynb       # Interactive GBM model walkthrough
 ### `src/selection/`
 All models implement `SelectionModel.run(config, dal) -> list[HoldingRecord]`.
 
-- `base.py` — `HoldingRecord`, `DataAccessLayer`, `SelectionModel` ABC
-- `momentum.py` — `MomentumModel`: top 10 S&P 500 by trailing 252-day log return; rank-stability filter (rank must not drop week-over-week). Saves full ranking sidecar to `data.nosync/models/{date}/momentum_ranks.json`.
-- `munger.py` — `MungerModel`: top 100 S&P 500 by market cap; buy if price touched ≤ SMA200 in last 21 days AND currently above EMA15; sell if drops below EMA15.
-- `repurchase.py` — `RepurchaseModel`: top 5 by trailing-12-month share buyback % (shares repurchased / shares outstanding); must be above 21-day EMA; sell if drops out of top 5 or below EMA.
-- `buyback.py` — `BuybackModel`: 2+ consecutive quarters of declining share count ≥1%/quarter
+- `base.py` — `HoldingRecord`, `DataAccessLayer`, `SelectionModel` ABC. `HoldingRecord` fields include `entry_eval_date` (last date the model recommended this ticker — used as the time-based exit clock start).
+- `momentum.py` — `MomentumModel`: top 5 S&P 500 by trailing 252-day log return; rank-stability filter (rank must not drop week-over-week). Saves full ranking sidecar to `data.nosync/models/{date}/momentum_ranks.json`.
+- `munger.py` — `MungerModel`: top 100 S&P 500 by market cap; buy if price touched ≤ SMA200 in last 21 days AND currently above EMA15.
+- `repurchase.py` — `RepurchaseModel`: top 5 by trailing-12-month share buyback % (shares repurchased / shares outstanding); must be above 21-day EMA.
+- `buyback.py` — `BuybackModel`: 2+ consecutive quarters of declining share count ≥1%/quarter (disabled)
 - `watchlist.py` — `WatchlistModel`: reads `config/watchlist.yaml`
-- `composite.py` — `CompositeModel`: flags tickers where 2+ enabled models agree
-- `earnings.py` — `EarningsModel`: YoY/QoQ net income growth, revenue growth, acceleration (removed — earnings signals subsumed by `quant_gbm_v3`)
-- `quant.py` — `QuantModel`: loads trained artifacts from `data.nosync/quant/artifacts/`, downloads recent prices via yfinance, returns top-N picks with predicted 20d log return. Supports `model: gbm`. Wired in as `quant_gbm`.
+- `quant.py` — `QuantModel`: LightGBM on 15 technical factors; predicts 20d forward log return. Wired in as `quant_gbm`.
+- `quant_v3.py` — `QuantModelV3`: LightGBM v3 with 28 features (technical + buyback + earnings + SPY state + sector); predicts 10d forward log return. Wired in as `quant_gbm_v3`.
 - `thirteen_f.py` — stub (enabled: false)
-- `runner.py` — Loads enabled models from `config/models.yaml`, runs them, assigns new_buy/hold/sell statuses, calls `generate_decision_file`. `_prev_holdings_tickers` excludes sell-status records to prevent duplicate sell signals.
+- `runner.py` — Loads enabled models from `config/models.yaml`, runs them, assigns statuses, saves outputs, calls `generate_decision_file`. All models use **time-based exits**: a ticker is held until 10 trading days after the last run that recommended it. Key functions: `_prev_holdings_with_entry` (finds each ticker's last recommendation date by replaying model history), `_assign_statuses_time_based` (resets the clock when model re-picks; generates sell when 10 days elapsed since last rec).
 
 `DataAccessLayer` methods: `get_prices(ticker, lookback_days)`, `get_spy_prices()`, `get_fundamentals(ticker)`, `get_universe(tier)`, `get_all_tickers(tier)`, `load_model_output(model, eval_date)`, `save_model_output(holdings, eval_date, model)`
 
 ### `src/quant_research/`
 Standalone research pipeline — runs locally, not wired into GitHub Actions.
 
-- `download.py` — Downloads 12yr daily OHLCV via yfinance for all SP500/SP400 tickers + SPY. Resume-safe. Uses `group_by="ticker"` for yfinance MultiIndex compatibility.
-- `features.py` — Builds 15-feature matrix from raw prices. Drops outliers (e.g. `log_ret_5d > 1.0`). Train/val split: last 2 years = val.
-- `train.py` — Trains GBM and KNN models; evaluates each on val set; prints comparison table. `CLUSTER_SCORE_THRESHOLD` constant used by both training eval and live inference.
-- `evaluate.py` — Shared evaluation: simulates top-N equal-weight portfolio every 20 days; computes hit rate, avg log return, excess vs SPY, annualized Sharpe. Supports `min_score_threshold` for filter-style models.
+- `download.py` — Downloads 12yr daily OHLCV via yfinance for all SP500/SP400 tickers + SPY. Resume-safe.
+- `features.py` — Builds 15-feature matrix from raw prices. Train/val split: last 2 years = val.
+- `features_v2.py` — V2 feature set with sector encoding.
+- `features_v3.py` — V3 feature set (28 features: v2 + `log_ret_756d`).
+- `train.py` — Trains GBM and KNN models on 15-feature set.
+- `train_v2.py` — Trains GBM v2 with sector features.
+- `train_v3.py` — Trains GBM v3 (28 features, 10d target).
+- `evaluate.py` — Shared evaluation: simulates top-N equal-weight portfolio; computes hit rate, avg log return, excess vs SPY, annualized Sharpe.
+- `compare.py` — Side-by-side comparison of model versions.
 
 ### `src/decisions/`
-- `generate.py` — Generates `decisions/pending/{date}.md` with checkboxes. New buys unchecked (opt-in), holds/sells pre-checked.
+- `generate.py` — Generates `decisions/pending/{date}.md` with checkboxes. All items (new buys, holds, sells) are pre-checked — uncheck to veto a buy or override a sell.
 - `process.py` — Parses the markdown, writes `data.nosync/decisions/{date}.json`, queues execution-day price fetches
-- `execute.py` — Records fills (OHLC avg) for approved decisions; opens/closes positions
+- `execute.py` — Records fills (OHLC avg) for approved decisions; opens/closes positions. Auto-fetches execution-day prices from Polygon if not cached locally.
 
 ### `src/strategy/`
+Options strategy evaluation — used by `trades.py` (local CLI), not automated.
+
 - `templates.py` — Strategy evaluation templates
-- `snapshot.py` — Strategy observation lifecycle: open → closed; `check_expirations`, `reopen_expired_strategies`
+- `snapshot.py` — Strategy observation lifecycle: open → closed
 - `returns.py` — Aggregates log returns across closed observations → `data.nosync/strategy_observations/returns.json`
 - `runner.py` — Evaluates all strategies for a position
 - `stock.py`, `covered_call.py`, `leap.py`, `diagonal.py`, `csp.py` — Per-strategy evaluation logic
@@ -104,29 +112,34 @@ Standalone research pipeline — runs locally, not wired into GitHub Actions.
 - `pnl.py` — Mark-to-market open positions using latest close prices; updates `unrealized_pnl`, `current_value` in positions.json
 - `positions.py` — `open_position()`, `close_position()`, `get_open_positions()`, `get_closed_positions()`; position_id = `{ticker}_{strategy}_{entry_date}`
 - `portfolio.py` — `compute_portfolio_performance()`: aggregates positions, appends to `portfolio_history.json`
-- `model_scorecard.py` — Replays eval dirs to compute each model's theoretical return series (log returns); stores to `data.nosync/models/scorecards/{model}.json`
-- `filtering.py` — Per-model filtering alpha = user avg log return − model avg log return
+- `model_scorecard.py` — Replays all eval dirs to compute each model's theoretical return series. Opens positions on `new_buy`, closes on `sell`. Stores per-model metrics (hit rate, avg return, SPY alpha, beat-SPY rate) and per-position detail to `data.nosync/models/scorecards/{model}.json`.
 
 ### `src/reports/`
 - `daily.py` — `generate_daily_dashboard()` → `docs/index.html` (dark-mode HTML, no JS dependencies)
 - `weekly.py` — `generate_weekly_digest()` → `docs/weekly.md` (markdown, trailing 7 days)
 
+### Root scripts
+- `action.py` — Pre-decision pipeline: prices → queue → earnings → models → scorecards → dashboard. Run Tue/Fri before reviewing decisions, or manually when running the cycle locally.
+- `review.py` — Interactive model review: walks through each model's picks, lets you type `?TICKER` for detail, press Enter to accept all or `y` to add exceptions (veto buys / keep sells). Rewrites decision file checkboxes on exit.
+- `finish.py` — Post-execution pipeline: process decisions → record fills → update P&L → portfolio history → dashboard. Run after trades execute (Monday/Wednesday), or Tuesday/Friday locally after GitHub Actions fill recording.
+- `trades.py` — Standalone options/stock trade tracker CLI. Manages accounts, positions, and options strategy evaluations (covered call, LEAP, CSP, diagonal) with live Polygon pricing. Data stored in `trades/`.
+
 ---
 
-## Enabled Models (as of 2026-03-21)
+## Enabled Models (as of 2026-04-10)
 
-| Model key | Class | Strategy | Val Sharpe |
-|---|---|---|---|
-| `momentum` | `MomentumModel` | Top 10 S&P 500 by 252d log return, rank-stable | — |
-| `munger` | `MungerModel` | Top 100 by mkt cap; touched SMA200, above EMA15 | — |
-| `repurchase` | `RepurchaseModel` | Top 5 by 12mo buyback %; above 21d EMA | — |
-| `buyback` | `BuybackModel` | 2+ consecutive quarters of share count decline | — |
-| `watchlist` | `WatchlistModel` | User-curated tickers | — |
-| `composite` | `CompositeModel` | 2+ models agree | — |
-| `quant_gbm` | `QuantModel` | LightGBM on 15 technical factors | 0.794 |
-| `quant_gbm_v3` | `QuantModelV3` | LightGBM v3: 28 features incl. earnings + sector | 1.125 |
+| Model key | Class | Strategy | Val Sharpe | Exit rule |
+|---|---|---|---|---|
+| `momentum` | `MomentumModel` | Top 5 S&P 500 by 252d log return, rank-stable | — | 10d from last rec |
+| `munger` | `MungerModel` | Top 100 by mkt cap; touched SMA200, above EMA15 | — | 10d from last rec |
+| `repurchase` | `RepurchaseModel` | Top 5 by 12mo buyback %; above 21d EMA | — | 10d from last rec |
+| `watchlist` | `WatchlistModel` | User-curated tickers | — | 10d from last rec |
+| `quant_gbm` | `QuantModel` | LightGBM on 15 technical factors; 20d target | 0.794 | 10d from last rec |
+| `quant_gbm_v3` | `QuantModelV3` | LightGBM v3: 28 features incl. earnings + sector; 10d target | 1.125 | 10d from last rec |
 
 Disabled: `thirteen_f` (stub), `buyback` (disabled).
+
+**Time-based exit rule (all models):** A ticker stays in the portfolio as long as the model keeps recommending it. Each time it's recommended, `entry_eval_date` is reset to the current eval date. Once the model stops recommending it, it sells 10 trading days after the last recommendation.
 
 ---
 
@@ -134,14 +147,13 @@ Disabled: `thirteen_f` (stub), `buyback` (disabled).
 
 | Workflow | Schedule | Entry Point |
 |---|---|---|
-| `run-models.yml` | Tue/Fri 11:00 AM MT | prices → queue → models → scorecards → dashboard |
+| `run-models.yml` | Tue/Fri 11:00 AM MT | prices → queue → earnings → models → scorecards → dashboard |
 | `process-decisions.yml` | On push to `decisions/pending/` | `src/decisions/process.py` |
-| `record-executions.yml` | Tue/Fri 7:00 PM ET | `src/decisions/execute.py` |
-| `daily-prices.yml` | Weekdays 6:30 PM ET | `src/universe/ingestion.py` (evening catchup) |
-| `process-queue.yml` | Weekdays 7:00 PM ET | `src/collection/process_queue.py` |
-| `evaluate-strategies.yml` | Weekdays 8:00 PM ET | `src/strategy/runner.py` |
-| `update-positions.yml` | Weekdays 8:30 PM ET | `src/tracking/pnl.py` |
-| `daily-dashboard.yml` | Weekdays 9:00 PM ET | `src/reports/daily.py` |
+| `record-executions.yml` | Tue/Fri 5:00 PM MT | `src/decisions/execute.py` |
+| `daily-prices.yml` | Weekdays 11:00 AM MT | `src/universe/ingestion.py` |
+| `process-queue.yml` | Weekdays 11:30 AM MT + Tue/Fri 4:00 PM MT | `src/collection/process_queue.py` |
+| `update-positions.yml` | Weekdays 1:00 PM MT | `src/tracking/pnl.py` |
+| `daily-dashboard.yml` | Weekdays 1:15 PM MT + Tue/Fri 6:00 PM MT | `src/reports/daily.py` |
 | `weekly-digest.yml` | Saturday 10:00 AM ET | `src/tracking/model_scorecard.py` → `src/reports/weekly.py` |
 | `universe-refresh.yml` | Sunday 12:00 PM ET | `src/universe/reconcile.py` |
 | `quarterly-fundamentals.yml` | Quarterly | `src/collection/fundamentals.py` |
@@ -160,17 +172,18 @@ The **11:00 AM MT mid-day run** (`run-models.yml`) is the core twice-weekly pipe
    - Runs all models → creates `decisions/pending/YYYY-MM-DD.md`
    - Updates model scorecards
    - Regenerates `docs/index.html` dashboard
-2. **Run `python review.py`** — review each model's theoretical portfolio, veto any buys or keep any sells
+2. **Run `python review.py`** — walk through each model, press Enter to accept or `y` to veto specific picks
 3. **Push decision file** — triggers `process-decisions.yml`
-4. **Tue/Fri 7:00 PM ET** — fills recorded from that day's OHLC prices
+4. **Next trading day** — place trades at brokerage
+5. **Tue/Fri 4:00 PM MT** — process-queue fetches execution-day prices from Polygon
+6. **Tue/Fri 5:00 PM MT** — fills recorded from execution-day OHLC prices
 
-To run the cycle manually before the 11am trigger:
+Or run the full cycle locally:
 ```bash
-python -m src.universe.ingestion          # fetch Mon/Thu EOD prices
-python -m src.collection.process_queue   # process queue
-python -m src.selection.runner           # run models
-python -m src.tracking.model_scorecard   # update scorecards
-python -m src.reports.daily              # regenerate dashboard
+python action.py    # prices + queue + earnings + models + scorecards + dashboard
+python review.py    # interactive review → rewrites decision file checkboxes
+# commit and push decisions/pending/YYYY-MM-DD.md
+python finish.py    # (Monday/Wednesday) fills + P&L + portfolio history + dashboard
 ```
 
 ### Running Things Locally
@@ -203,21 +216,22 @@ python -m src.reports.daily
 
 ---
 
-## Data Status (as of 2026-03-21)
+## Data Status (as of 2026-04-10)
 
 | Layer | Status |
 |---|---|
 | Universe | 901 active tickers (S&P 500 + 400) |
-| Prices | 501 daily files, 2024-03-19 → 2026-03-18, ~901 tickers/day |
+| Prices | 515 daily files, 2024-03-19 → 2026-04-09, ~901 tickers/day |
 | Fundamentals | Bulk fetch run for S&P 400 only (~360 files). S&P 500 not yet fetched. |
-| Quant artifacts | GBM and KNN trained and deployed; cluster dropped (no val-set edge) |
-| Scorecards | Populated for enabled models |
+| Quant artifacts | GBM (quant_gbm) and GBM v3 (quant_gbm_v3) trained and deployed |
+| Scorecards | Fresh start 2026-04-10 — accumulating from first live run |
+| Positions | Fresh start 2026-04-10 |
 
 ---
 
 ## Quant Research Pipeline
 
-One-time research pipeline — trains GBM and KNN on 12 years of price history, validates on the most recent 2 years. Must be run locally. Output lands in `data.nosync/quant/` (gitignored except `artifacts/`).
+One-time research pipeline — trains GBM models on 12 years of price history, validates on the most recent 2 years. Must be run locally. Output lands in `data.nosync/quant/` (gitignored except `artifacts/`).
 
 ### First-time setup
 
@@ -236,56 +250,37 @@ python -m src.quant_research.download
 ### Step 2 — Build feature matrix (~5 min)
 
 ```bash
-python -m src.quant_research.features
-# Output: data.nosync/quant/features.parquet
-# ~1.6M rows: (ticker, date, 15 features, fwd_log_ret_20d, split)
-# split=train: first 10 years; split=val: last 2 years
+python -m src.quant_research.features    # 15-feature set (quant_gbm)
+python -m src.quant_research.features_v3 # 28-feature set (quant_gbm_v3)
 ```
 
-### Step 3 — Train and evaluate (~20–60 min depending on hardware)
+### Step 3 — Train and evaluate
 
 ```bash
-python -m src.quant_research.train --model gbm      # recommended primary model
-python -m src.quant_research.train --model knn      # secondary model
-# Artifacts saved to data.nosync/quant/artifacts/{gbm,knn}/
+python -m src.quant_research.train --model gbm   # quant_gbm artifacts
+python -m src.quant_research.train_v3            # quant_gbm_v3 artifacts
 ```
 
 ### Validation results (last run: 2026-03-21)
 
 | Model | Periods | AvgRet | Excess vs SPY | HitRate | Sharpe |
 |---|---|---|---|---|---|
-| GBM | 26 | +2.50% | +1.46% | 57.1% | **0.794** |
-| KNN | 26 | +1.69% | +0.64% | 56.7% | 0.373 |
+| GBM (quant_gbm) | 26 | +2.50% | +1.46% | 57.1% | **0.794** |
+| GBM v3 (quant_gbm_v3) | — | — | +0.84%/period | — | **1.125** |
 
-Cluster model was evaluated and dropped — no edge in the 2024–2026 validation period despite strong training stats. The top clusters (23, 12, 13) captured high-vol crash/recovery stocks; pattern did not generalize.
+### Feature vector — quant_gbm (15 features)
 
-### Retraining
+| Feature | Formula |
+|---|---|
+| `log_price` | `log(close)` |
+| `pct_sma10/50/200` | `(price/SMAn - 1) × 100` |
+| `pct_ath` | `(price/ATH - 1) × 100` |
+| `pct_time_since_ath` | `(days_since_ath / 1260) × 100` |
+| `pct_52w_low` | `(price/52w-low - 1) × 100` |
+| `log_ret_5/20/60/126/252/756d` | `log(price / price_Nd_ago)` |
+| `vol_20d / vol_60d` | `std(daily log returns) × √252` |
 
-Re-run Steps 1–3 as more data accumulates. Step 1 is resume-safe. Steps 2–3 rebuild from scratch.
-
-### Feature vector (15 features)
-
-| Feature | Formula | Form |
-|---|---|---|
-| `log_price` | `log(close)` | absolute (intentional exception — size/growth proxy) |
-| `pct_sma10/50/200` | `(price/SMAn - 1) × 100` | % |
-| `pct_ath` | `(price/ATH - 1) × 100` | % (negative = below ATH) |
-| `pct_time_since_ath` | `(days_since_ath / 1260) × 100` | % of 5yr window elapsed |
-| `pct_52w_low` | `(price/52w-low - 1) × 100` | % |
-| `log_ret_5/20/60/126/252/756d` | `log(price / price_Nd_ago)` | log return |
-| `vol_20d / vol_60d` | `std(daily log returns) × √252` | annualized vol |
-
-Target: `fwd_log_ret_20d` — 20-day forward log return.
-
-GBM top features by importance: `pct_time_since_ath`, `log_price`, `vol_60d`, `log_ret_756d`, `log_ret_252d`.
-
-### Exploration
-
-```bash
-jupyter notebook notebooks/gbm_walkthrough.ipynb
-```
-
-Walks through raw data → features → model → evaluation → live picks with inline charts and explanations at each step.
+quant_gbm_v3 adds: `log_ret_756d`, buyback %, earnings signals (EPS surprise, NI/rev growth, days to next earnings), SPY market state (20d ret, vol, pct above SMA200), sector encoding.
 
 ---
 
@@ -293,7 +288,8 @@ Walks through raw data → features → model → evaluation → live picks with
 
 1. Create `src/selection/{name}.py` implementing `SelectionModel`
 2. Add an entry to `config/models.yaml` with `enabled: true/false`, `module`, `class`, `params`
-3. That's it — `runner.py` picks it up automatically
+3. Add `time_based_exit_days: 10` to params (or another window if appropriate)
+4. That's it — `runner.py` picks it up automatically
 
 ## Adding a New Workflow Step
 

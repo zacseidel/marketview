@@ -29,6 +29,7 @@ STEPS = [
     ("Process work queue",      ["python", "-m", "src.collection.process_queue"]),
     ("Refresh earnings data",   ["python", "-m", "src.collection.earnings_refresh"]),
     ("Run selection models",    ["python", "-m", "src.selection.runner"]),
+    ("Update model scorecards", ["python", "-m", "src.tracking.model_scorecard"]),
     ("Regenerate dashboard",    ["python", "-m", "src.reports.daily"]),
 ]
 
