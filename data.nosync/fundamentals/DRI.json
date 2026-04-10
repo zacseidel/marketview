@@ -1,6 +1,15 @@
 [
   {
     "ticker": "DRI",
+    "period": "Q3 2026",
+    "filing_date": "2026-03-27",
+    "shares_outstanding": 115800000.0,
+    "revenue": 3345300000.0,
+    "net_income": 306800000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "DRI",
     "period": "Q2 2026",
     "filing_date": "2025-12-30",
     "shares_outstanding": 116700000.0,

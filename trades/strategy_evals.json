@@ -1,0 +1,819 @@
+[
+  {
+    "position_id": "IPGP_notional_-_gbmv3_2026-04-07",
+    "ticker": "IPGP",
+    "eval_date": "2026-04-09",
+    "underlying_price": 113.11,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 190.0,
+        "expiry": "2026-04-17",
+        "occ_ticker": "O:IPGP260417C00190000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "atm_leap": {
+        "strike": 125.0,
+        "expiry": "2026-10-16",
+        "occ_ticker": "O:IPGP261016C00125000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "itm_leap": {
+        "strike": 100.0,
+        "expiry": "2026-10-16",
+        "occ_ticker": "O:IPGP261016C00100000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "short_put": {
+        "strike": 125.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:IPGP260515P00125000",
+        "option_type": "put",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": false
+      },
+      "leap_cc": {
+        "active": false
+      },
+      "diagonal": {
+        "active": false
+      },
+      "csp": {
+        "active": false
+      },
+      "naked_leap": {
+        "active": false
+      }
+    },
+    "eval_id": "IPGP_notional_-_gbmv3_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "NYT_notional_-_gbmv3_2026-04-07",
+    "ticker": "NYT",
+    "eval_date": "2026-04-09",
+    "underlying_price": 85.86,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 90.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:NYT260515C00090000",
+        "option_type": "call",
+        "entry_premium": 1.83,
+        "current_premium": 1.83,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 85.0,
+        "expiry": "2026-12-18",
+        "occ_ticker": "O:NYT261218C00085000",
+        "option_type": "call",
+        "entry_premium": 9,
+        "current_premium": 9,
+        "price_date": "2026-04-09"
+      },
+      "itm_leap": {
+        "strike": 65.0,
+        "expiry": "2026-12-18",
+        "occ_ticker": "O:NYT261218C00065000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "short_put": {
+        "strike": 80.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:NYT260515P00080000",
+        "option_type": "put",
+        "entry_premium": 1.8,
+        "current_premium": 1.8,
+        "price_date": "2026-04-09"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "option_yield": 0.0,
+        "total_return": 0.008421102396408345
+      },
+      "leap_cc": {
+        "active": true,
+        "leap_log_ret": 0.0,
+        "option_yield": 0.0,
+        "total_return": 0.0
+      },
+      "diagonal": {
+        "active": false
+      },
+      "csp": {
+        "active": true,
+        "option_yield": 0.0,
+        "total_return": 0.0
+      },
+      "naked_leap": {
+        "active": true,
+        "leap_log_ret": 0.0
+      }
+    },
+    "eval_id": "NYT_notional_-_gbmv3_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "CHWY_notional_-_gbmv3_2026-04-07",
+    "ticker": "CHWY",
+    "eval_date": "2026-04-09",
+    "underlying_price": 26.22,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 28.0,
+        "expiry": "2026-04-24",
+        "occ_ticker": "O:CHWY260424C00028000",
+        "option_type": "call",
+        "entry_premium": 0.57,
+        "current_premium": 0.57,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 26.0,
+        "expiry": "2027-01-15",
+        "occ_ticker": "O:CHWY270115C00026000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "itm_leap": {
+        "strike": 20.0,
+        "expiry": "2027-01-15",
+        "occ_ticker": "O:CHWY270115C00020000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "short_put": {
+        "strike": 23.5,
+        "expiry": "2026-04-24",
+        "occ_ticker": "O:CHWY260424P00023500",
+        "option_type": "put",
+        "entry_premium": 0.14,
+        "current_premium": 0.14,
+        "price_date": "2026-04-09"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "leap_cc": {
+        "active": false
+      },
+      "diagonal": {
+        "active": false
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "naked_leap": {
+        "active": false
+      }
+    },
+    "eval_id": "CHWY_notional_-_gbmv3_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "MUR_notional_-_gbmv3_2026-04-07",
+    "ticker": "MUR",
+    "eval_date": "2026-04-09",
+    "underlying_price": 42.74,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 40.0,
+        "expiry": "2026-04-17",
+        "occ_ticker": "O:MUR260417C00040000",
+        "option_type": "call",
+        "entry_premium": 0.88,
+        "current_premium": 0.88,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 40.0,
+        "expiry": "2027-01-15",
+        "occ_ticker": "O:MUR270115C00040000",
+        "option_type": "call",
+        "entry_premium": 7.89,
+        "current_premium": 7.89,
+        "price_date": "2026-04-09"
+      },
+      "itm_leap": {
+        "strike": 30.0,
+        "expiry": "2027-01-15",
+        "occ_ticker": "O:MUR270115C00030000",
+        "option_type": "call",
+        "entry_premium": 11,
+        "current_premium": 11,
+        "price_date": "2026-04-09"
+      },
+      "short_put": {
+        "strike": 50.0,
+        "expiry": "2026-04-17",
+        "occ_ticker": "O:MUR260417P00050000",
+        "option_type": "put",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "leap_cc": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "diagonal": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "csp": {
+        "active": false
+      },
+      "naked_leap": {
+        "active": true,
+        "log_ret": 0.0
+      }
+    },
+    "eval_id": "MUR_notional_-_gbmv3_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "KD_notional_-_gbmv3_2026-04-07",
+    "ticker": "KD",
+    "eval_date": "2026-04-09",
+    "underlying_price": 13,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 16.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:KD260515C00016000",
+        "option_type": "call",
+        "entry_premium": 0.33,
+        "current_premium": 0.33,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 13.0,
+        "expiry": "2027-01-15",
+        "occ_ticker": "O:KD270115C00013000",
+        "option_type": "call",
+        "entry_premium": 3.3,
+        "current_premium": 3.3,
+        "price_date": "2026-04-09"
+      },
+      "itm_leap": {
+        "strike": 10.0,
+        "expiry": "2027-01-15",
+        "occ_ticker": "O:KD270115C00010000",
+        "option_type": "call",
+        "entry_premium": 4.8,
+        "current_premium": 4.8,
+        "price_date": "2026-04-09"
+      },
+      "short_put": {
+        "strike": 11.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:KD260515P00011000",
+        "option_type": "put",
+        "entry_premium": 0.43,
+        "current_premium": 0.43,
+        "price_date": "2026-04-09"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "leap_cc": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "diagonal": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "naked_leap": {
+        "active": true,
+        "log_ret": 0.0
+      }
+    },
+    "eval_id": "KD_notional_-_gbmv3_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "WSO_notional_-_repurchase_2026-04-07",
+    "ticker": "WSO",
+    "eval_date": "2026-04-09",
+    "underlying_price": 381.7,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 430.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:WSO260515C00430000",
+        "option_type": "call",
+        "entry_premium": 6,
+        "current_premium": 6,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 410.0,
+        "expiry": "2026-11-20",
+        "occ_ticker": "O:WSO261120C00410000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "itm_leap": {
+        "strike": 350.0,
+        "expiry": "2026-11-20",
+        "occ_ticker": "O:WSO261120C00350000",
+        "option_type": "call",
+        "entry_premium": 74.8,
+        "current_premium": 74.8,
+        "price_date": "2026-04-09"
+      },
+      "short_put": {
+        "strike": 380.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:WSO260515P00380000",
+        "option_type": "put",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "leap_cc": {
+        "active": false
+      },
+      "diagonal": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "csp": {
+        "active": false
+      },
+      "naked_leap": {
+        "active": false
+      }
+    },
+    "eval_id": "WSO_notional_-_repurchase_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "AIG_notional_-_repurchase_2026-04-07",
+    "ticker": "AIG",
+    "eval_date": "2026-04-09",
+    "underlying_price": 76.17,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 80.0,
+        "expiry": "2026-04-24",
+        "occ_ticker": "O:AIG260424C00080000",
+        "option_type": "call",
+        "entry_premium": 0.5,
+        "current_premium": 0.5,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 77.0,
+        "expiry": "2027-03-19",
+        "occ_ticker": "O:AIG270319C00077000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "itm_leap": {
+        "strike": 70.0,
+        "expiry": "2027-03-19",
+        "occ_ticker": "O:AIG270319C00070000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "short_put": {
+        "strike": 75.0,
+        "expiry": "2026-04-24",
+        "occ_ticker": "O:AIG260424P00075000",
+        "option_type": "put",
+        "entry_premium": 1.98,
+        "current_premium": 1.98,
+        "price_date": "2026-04-09"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "leap_cc": {
+        "active": false
+      },
+      "diagonal": {
+        "active": false
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "naked_leap": {
+        "active": false
+      }
+    },
+    "eval_id": "AIG_notional_-_repurchase_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "SNDK_notional_-_repurchase_2026-04-07",
+    "ticker": "SNDK",
+    "eval_date": "2026-04-09",
+    "underlying_price": 710.8,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 1000.0,
+        "expiry": "2026-04-24",
+        "occ_ticker": "O:SNDK260424C01000000",
+        "option_type": "call",
+        "entry_premium": 7.73,
+        "current_premium": 7.73,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 850.0,
+        "expiry": "2027-06-17",
+        "occ_ticker": "O:SNDK270617C00850000",
+        "option_type": "call",
+        "entry_premium": 292.25,
+        "current_premium": 292.25,
+        "price_date": "2026-04-09"
+      },
+      "itm_leap": {
+        "strike": 800.0,
+        "expiry": "2027-06-17",
+        "occ_ticker": "O:SNDK270617C00800000",
+        "option_type": "call",
+        "entry_premium": 279,
+        "current_premium": 279,
+        "price_date": "2026-04-09"
+      },
+      "short_put": {
+        "strike": 800.0,
+        "expiry": "2026-04-24",
+        "occ_ticker": "O:SNDK260424P00800000",
+        "option_type": "put",
+        "entry_premium": 68.8,
+        "current_premium": 68.8,
+        "price_date": "2026-04-09"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "leap_cc": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "diagonal": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "naked_leap": {
+        "active": true,
+        "log_ret": 0.0
+      }
+    },
+    "eval_id": "SNDK_notional_-_repurchase_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "LYB_notional_-_repurchase_2026-04-07",
+    "ticker": "LYB",
+    "eval_date": "2026-04-09",
+    "underlying_price": 80.26,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 82.5,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:LYB260515C00082500",
+        "option_type": "call",
+        "entry_premium": 2.16,
+        "current_premium": 2.16,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 70.0,
+        "expiry": "2027-03-19",
+        "occ_ticker": "O:LYB270319C00070000",
+        "option_type": "call",
+        "entry_premium": 12.7,
+        "current_premium": 12.7,
+        "price_date": "2026-04-09"
+      },
+      "itm_leap": {
+        "strike": 65.0,
+        "expiry": "2027-12-17",
+        "occ_ticker": "O:LYB271217C00065000",
+        "option_type": "call",
+        "entry_premium": 19,
+        "current_premium": 19,
+        "price_date": "2026-04-09"
+      },
+      "short_put": {
+        "strike": 65.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:LYB260515P00065000",
+        "option_type": "put",
+        "entry_premium": 1.8,
+        "current_premium": 1.8,
+        "price_date": "2026-04-09"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "leap_cc": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "diagonal": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "naked_leap": {
+        "active": true,
+        "log_ret": 0.0
+      }
+    },
+    "eval_id": "LYB_notional_-_repurchase_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "PVH_notional_-_repurchase_2026-04-07",
+    "ticker": "PVH",
+    "eval_date": "2026-04-09",
+    "underlying_price": 82.63,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 100.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:PVH260515C00100000",
+        "option_type": "call",
+        "entry_premium": 0.53,
+        "current_premium": 0.53,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 90.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:PVH260515C00090000",
+        "option_type": "call",
+        "entry_premium": 3.69,
+        "current_premium": 3.69,
+        "price_date": "2026-04-09"
+      },
+      "itm_leap": {
+        "strike": 75.0,
+        "expiry": "2028-01-21",
+        "occ_ticker": "O:PVH280121C00075000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "short_put": {
+        "strike": 85.0,
+        "expiry": "2026-05-15",
+        "occ_ticker": "O:PVH260515P00085000",
+        "option_type": "put",
+        "entry_premium": 2.95,
+        "current_premium": 2.95,
+        "price_date": "2026-04-09"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "leap_cc": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "diagonal": {
+        "active": false
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "naked_leap": {
+        "active": true,
+        "log_ret": 0.0
+      }
+    },
+    "eval_id": "PVH_notional_-_repurchase_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "MU_notional_-_momentum_2026-04-07",
+    "ticker": "MU",
+    "eval_date": "2026-04-09",
+    "underlying_price": 377.58,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 465.0,
+        "expiry": "2026-04-24",
+        "occ_ticker": "O:MU260424C00465000",
+        "option_type": "call",
+        "entry_premium": 5.92,
+        "current_premium": 5.92,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 420.0,
+        "expiry": "2027-09-17",
+        "occ_ticker": "O:MU270917C00420000",
+        "option_type": "call",
+        "entry_premium": 132.3,
+        "current_premium": 132.3,
+        "price_date": "2026-04-09"
+      },
+      "itm_leap": {
+        "strike": 380.0,
+        "expiry": "2027-09-17",
+        "occ_ticker": "O:MU270917C00380000",
+        "option_type": "call",
+        "entry_premium": 145.11,
+        "current_premium": 145.11,
+        "price_date": "2026-04-09"
+      },
+      "short_put": {
+        "strike": 400.0,
+        "expiry": "2026-04-24",
+        "occ_ticker": "O:MU260424P00400000",
+        "option_type": "put",
+        "entry_premium": 20.05,
+        "current_premium": 20.05,
+        "price_date": "2026-04-09"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "leap_cc": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "diagonal": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0
+      },
+      "naked_leap": {
+        "active": true,
+        "log_ret": 0.0
+      }
+    },
+    "eval_id": "MU_notional_-_momentum_2026-04-07_eval_1"
+  },
+  {
+    "position_id": "SNDK_notional_-_momentum_2026-04-07",
+    "ticker": "SNDK",
+    "eval_date": "2026-04-09",
+    "underlying_price": 710.8,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 1000.0,
+        "expiry": "2026-04-24",
+        "occ_ticker": "O:SNDK260424C01000000",
+        "option_type": "call",
+        "entry_premium": 7.73,
+        "current_premium": 7.73,
+        "price_date": "2026-04-09"
+      },
+      "atm_leap": {
+        "strike": 850.0,
+        "expiry": "2027-06-17",
+        "occ_ticker": "O:SNDK270617C00850000",
+        "option_type": "call",
+        "entry_premium": 292.25,
+        "current_premium": 292.25,
+        "price_date": "2026-04-09"
+      },
+      "itm_leap": {
+        "strike": 800.0,
+        "expiry": "2027-06-17",
+        "occ_ticker": "O:SNDK270617C00800000",
+        "option_type": "call",
+        "entry_premium": 279,
+        "current_premium": 279,
+        "price_date": "2026-04-09"
+      },
+      "short_put": {
+        "strike": 800.0,
+        "expiry": "2026-04-24",
+        "occ_ticker": "O:SNDK260424P00800000",
+        "option_type": "put",
+        "entry_premium": 68.8,
+        "current_premium": 68.8,
+        "price_date": "2026-04-09"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "leap_cc": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "diagonal": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "naked_leap": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      }
+    },
+    "stock_log_ret": 0.0,
+    "stock_excess_ret": 0.0,
+    "stock_annualized_ret": 0.0,
+    "holding_days": 1,
+    "eval_id": "SNDK_notional_-_momentum_2026-04-07_eval_1"
+  }
+]
