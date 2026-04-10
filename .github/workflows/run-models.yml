@@ -1,15 +1,15 @@
-name: Run Models
+name: Trade Cycle
 
 on:
   schedule:
-    - cron: "0 18 * * 2,5"   # Tue/Fri 12:00 PM MT (UTC-6)
+    - cron: "0 17 * * 2,5"   # Tue/Fri 11:00 AM MT (UTC-6 MDT)
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  run-models:
+  trade-cycle:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,21 +21,38 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Fetch latest prices (previous trading day; skips if already present)
+        env:
+          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
+        run: python -m src.universe.ingestion
+
+      - name: Process queue (splits, options chains, pending tasks)
+        env:
+          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
+        run: python -m src.collection.process_queue
+
       - name: Run enabled selection models and generate decision markdown
         env:
           POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
         run: python -m src.selection.runner
 
-      - name: Fetch options chains for momentum picks
+      - name: Update model scorecards
         env:
           POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
-        run: python -m src.collection.process_queue
+        run: python -m src.tracking.model_scorecard
+
+      - name: Regenerate daily dashboard
+        env:
+          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
+        run: python -m src.reports.daily
 
       - name: Commit outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.nosync/models/ decisions/pending/ data.nosync/strategy_observations/theoretical/
-          git diff --staged --quiet || git commit -m "chore: model run $(date -u +%Y-%m-%d) [skip ci]"
+          git add data.nosync/models/ data.nosync/prices/ data.nosync/queue/ \
+                  data.nosync/strategy_observations/theoretical/ \
+                  decisions/pending/ docs/
+          git diff --staged --quiet || git commit -m "chore: trade cycle $(date -u +%Y-%m-%d) [skip ci]"
           git checkout -- . && git pull --rebase origin main
           git push

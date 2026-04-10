@@ -35,13 +35,15 @@ class HoldingRecord:
     conviction: float        # 0.0–1.0
     rationale: str
     metadata: dict = field(default_factory=dict)
-    status: str = "hold"     # 'hold' | 'new_buy' | 'sell'
+    status: str = "hold"          # 'hold' | 'new_buy' | 'sell'
+    entry_eval_date: str = ""     # date ticker was first added as new_buy (for time-based exits)
 
     def to_dict(self) -> dict:
         return asdict(self)
 
     @classmethod
     def from_dict(cls, d: dict) -> HoldingRecord:
+        d.setdefault("entry_eval_date", "")
         return cls(**d)
 
 

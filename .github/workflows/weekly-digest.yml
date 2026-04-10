@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Update model scorecards
+      - name: Update model scorecards (final weekly refresh)
         run: python -m src.tracking.model_scorecard
         env:
           POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}

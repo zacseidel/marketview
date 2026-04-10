@@ -453,6 +453,110 @@ def _update_markdown(
 # Main
 # ---------------------------------------------------------------------------
 
+# ---------------------------------------------------------------------------
+# Per-model review section
+# ---------------------------------------------------------------------------
+
+def _print_model_review_section(
+    model_name: str,
+    sc: dict | None,
+    holdings_today: list[dict],
+) -> None:
+    """Print the full review block for one model."""
+    desc = _MODEL_DESCRIPTIONS.get(model_name, "")
+    print(f"\n{_hr('═')}")
+    print(f"  {model_name.upper()}")
+    if desc:
+        print(f"  {desc}")
+    print(_hr("─"))
+
+    # One-line scorecard summary
+    if sc and sc.get("signal_count", 0) > 0:
+        sigs  = sc.get("signal_count", 0)
+        avg_r = sc.get("avg_return")
+        alpha = sc.get("avg_excess_return")
+        beat  = sc.get("beat_spy_rate")
+        beat_s = f"{beat:.0%}" if beat is not None else "—"
+        print(f"  {sigs} signals  |  avg return {_ret_str_log(avg_r)}  "
+              f"|  alpha {_ret_str_log(alpha)}  |  beat SPY {beat_s}")
+    else:
+        print("  No scorecard data yet.")
+    print()
+
+    new_buys_h  = [h for h in holdings_today if h.get("status") == "new_buy"]
+    sells_h     = [h for h in holdings_today if h.get("status") == "sell"]
+    sell_tickers = {h["ticker"] for h in sells_h}
+    new_tickers  = {h["ticker"] for h in new_buys_h}
+
+    # Current theoretical open positions (scorecard), excluding today's exits
+    open_pos = [p for p in (sc or {}).get("positions", [])
+                if p.get("status") == "open" and p["ticker"] not in sell_tickers]
+
+    # Holdings table: current holds + new buys (marked)
+    rows = []
+    for p in open_pos:
+        rows.append({
+            "ticker":     p["ticker"],
+            "entry_date": p.get("entry_date", "?"),
+            "days":       p.get("days", 0) or 0,
+            "log_ret":    p.get("log_ret"),
+            "alpha":      p.get("alpha"),
+            "new":        False,
+        })
+    for h in new_buys_h:
+        rows.append({
+            "ticker":     h["ticker"],
+            "entry_date": "today",
+            "days":       0,
+            "log_ret":    None,
+            "alpha":      None,
+            "new":        True,
+        })
+    # Sort: existing holds by alpha desc, new buys appended at bottom
+    rows.sort(key=lambda r: (r["new"], -(r["alpha"] or 0)))
+
+    if rows:
+        count_after = len(rows)
+        print(f"  Portfolio after this run ({count_after} positions):")
+        print(f"  {'Ticker':<8} {'Entry':>11}  {'Days':>4}  {'Return':>8}  {'vs SPY':>8}")
+        print(f"  {_hr('─', 48)}")
+        for r in rows:
+            tag = "  ← NEW" if r["new"] else ""
+            print(f"  {r['ticker']:<8} {r['entry_date']:>11}  {r['days']:>4}  "
+                  f"{_ret_str_log(r['log_ret']):>8}  {_ret_str_log(r['alpha']):>8}{tag}")
+        print()
+
+    # Exits
+    if sells_h:
+        print(f"  Exiting ({len(sells_h)}):  {', '.join(h['ticker'] for h in sells_h)}")
+        for h in sells_h:
+            if h.get("rationale"):
+                print(f"    {h['ticker']}  {h['rationale']}")
+        print()
+
+    # New buy detail (conviction + rationale + quant features)
+    if new_buys_h:
+        print(f"  New buy detail:")
+        for h in new_buys_h:
+            print(f"    {h['ticker']:<8}  conviction {h.get('conviction', 0):.2f}"
+                  f"  —  {h.get('rationale', '')}")
+            meta = h.get("metadata", {})
+            if meta.get("quant_model") in ("gbm", "knn"):
+                for feat_key, (label, fmt) in _FEATURE_LABELS.items():
+                    val = meta.get(feat_key)
+                    if val is not None:
+                        print(f"             {label:<24} {fmt(val)}")
+        print()
+
+    if not rows and not sells_h:
+        print("  No holdings and no signals this run.")
+        print()
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
 def main() -> None:
     from dotenv import load_dotenv
     load_dotenv()
@@ -468,123 +572,104 @@ def main() -> None:
         print("No model evaluations found. Run python action.py first.")
         sys.exit(1)
 
-    decision_file = _DECISIONS_DIR / f"{eval_date}.md"
-
-    universe      = _load_universe()
-    enabled       = _load_enabled_model_names()
-    all_holdings  = _load_model_holdings(eval_date, enabled_only=enabled)
-    open_positions = _load_open_positions()
-    scorecards    = _load_scorecards()
+    decision_file  = _DECISIONS_DIR / f"{eval_date}.md"
+    universe       = _load_universe()
+    enabled        = _load_enabled_model_names()
+    all_holdings   = _load_model_holdings(eval_date, enabled_only=enabled)
+    scorecards_raw = _load_scorecards()
+    sc_by_model    = {sc["model"]: sc for sc in scorecards_raw}
     decision_state = _parse_decision_file(decision_file)
 
-    # Categorise tickers from the decision file
-    new_buys:  list[str] = []  # all pre-approved new buys (checked in markdown)
-    holds:     list[str] = []
-    sells:     list[str] = []
-    buy_models:  dict[str, list[str]] = {}  # ticker -> [model names]
+    # Build model attribution maps from decision file
+    buy_models:  dict[str, list[str]] = {}
     sell_models: dict[str, list[str]] = {}
-
     for ticker, state in decision_state.items():
-        sec     = state["section"]
-        checked = state["checked"]
-        models  = state["models"]
-        if sec == "new_buy" and checked:
-            new_buys.append(ticker)
-            buy_models[ticker] = models
-        elif sec == "hold" and checked:
-            holds.append(ticker)
-        elif sec == "sell" and checked:
-            sells.append(ticker)
-            sell_models[ticker] = models
+        if state["section"] == "new_buy":
+            buy_models[ticker] = state["models"]
+        elif state["section"] == "sell":
+            sell_models[ticker] = state["models"]
 
     # ── Scorecard header ─────────────────────────────────────────────────────
-    _print_scorecard_header(scorecards)
+    _print_scorecard_header(scorecards_raw)
 
-    # ── Overview ─────────────────────────────────────────────────────────────
     print(f"\n{_hr('═')}")
-    print(f"  DECISION REVIEW — {eval_date}")
+    print(f"  MODEL REVIEW — {eval_date}")
     print(_hr("═"))
-    print(f"  Decision file: {decision_file.relative_to(_ROOT)}")
-    print()
-    print(f"  Default plan (all model recommendations accepted):")
-    print(f"    Buying  ({len(new_buys)}):  {', '.join(new_buys) or '—'}")
-    print(f"    Holding ({len(holds)}):  {', '.join(holds[:8])}" + (" ..." if len(holds) > 8 else ""))
-    print(f"    Selling ({len(sells)}):  {', '.join(sells) or '—'}")
-    print()
-    print(f"  Open positions: {len(open_positions)}")
-    print()
+    print("  Default: all model signals accepted (actual portfolio mirrors theoretical).")
+    print("  Type ?TICKER to research. Press Enter to advance. Type  y  to add exceptions.")
 
-    # Quick overview of open positions
-    if open_positions:
-        print(f"  {'Ticker':<8} {'Entry':>8} {'Now':>8} {'Return':>8}  {'5d':>6}  Models")
-        print(f"  {'─'*8} {'─'*8}  {'─'*8}  {'─'*8}  {'─'*6}  {'─'*20}")
-        for p in open_positions:
-            ticker = p["ticker"]
-            entry  = p.get("entry_price", 0)
-            pd     = _load_latest_price(ticker)
-            curr   = pd.get("close") if pd else None
-            ret    = math.log(curr / entry) if curr and entry else None
-            r5     = _recent_return(ticker, 5)
-            mods   = ", ".join(p.get("originating_models", []))
-            curr_s = f"${curr:,.2f}" if curr else "—"
-            ret_s  = _ret_str_log(ret) if ret is not None else "—"
-            print(f"  {ticker:<8} ${entry:>7,.2f}  {curr_s:>8}  {ret_s:>8}  {_ret_str(r5):>6}  {mods}")
-        print()
+    # Order models by alpha desc (best alpha first), models with no scorecard last
+    ordered_models = sorted(
+        [m for m in all_holdings if m in enabled],
+        key=lambda m: sc_by_model.get(m, {}).get("avg_excess_return") or -999,
+        reverse=True,
+    )
 
-    print("  Research any ticker — type ?TICKER before vetoing.")
-
-    # ── Veto new buys ─────────────────────────────────────────────────────────
+    # ── Per-model review loop ────────────────────────────────────────────────
     vetoed_buys: set[str] = set()
-    if new_buys:
-        vetoed_buys = _veto_prompt(
-            "NEW BUYS — veto any? (space-separated or Enter to accept all):",
-            new_buys, universe, all_holdings,
-        )
-    else:
-        print("\n  No new buy recommendations.")
+    kept_sells:  set[str] = set()
 
-    # ── Override sells ────────────────────────────────────────────────────────
-    kept_sells: set[str] = set()
-    if sells:
-        kept_sells = _veto_prompt(
-            "SELLS — keep any? (space-separated or Enter to sell all):",
-            sells, universe, all_holdings,
-        )
-    else:
-        print("\n  No sell recommendations.")
+    for model_name in ordered_models:
+        holdings_today = all_holdings.get(model_name, [])
+        sc = sc_by_model.get(model_name)
 
-    # ── Research loop ─────────────────────────────────────────────────────────
-    print(f"\n{_hr()}")
-    print("  Research anything else before confirming — ?TICKER or Enter to continue.")
-    while True:
-        raw = input("  > ").strip()
-        if not raw:
-            break
-        if raw.startswith("?"):
-            _print_stock_detail(raw[1:].upper(), universe, all_holdings)
-        else:
-            print("  (?TICKER for detail, or press Enter)")
+        _print_model_review_section(model_name, sc, holdings_today)
 
-    # ── Summary ───────────────────────────────────────────────────────────────
-    final_buys  = [t for t in new_buys if t not in vetoed_buys]
-    final_sells = [t for t in sells if t not in kept_sells]
+        new_buys_m = [h["ticker"] for h in holdings_today if h.get("status") == "new_buy"]
+        sells_m    = [h["ticker"] for h in holdings_today if h.get("status") == "sell"]
+        has_actions = bool(new_buys_m or sells_m)
+
+        hint = "  ?TICKER · y (exceptions) · Enter" if has_actions else "  ?TICKER · Enter"
+        while True:
+            raw = input(f"{hint} > ").strip()
+            if not raw:
+                break
+            if raw.startswith("?"):
+                _print_stock_detail(raw[1:].upper(), universe, all_holdings)
+            elif raw.lower() == "y" and has_actions:
+                if new_buys_m:
+                    v = _veto_prompt(
+                        "Veto any new buys? (space-separated or Enter to accept all):",
+                        new_buys_m, universe, all_holdings,
+                    )
+                    vetoed_buys |= v
+                if sells_m:
+                    k = _veto_prompt(
+                        "Keep any sells? (space-separated or Enter to sell all):",
+                        sells_m, universe, all_holdings,
+                    )
+                    kept_sells |= k
+                break
+            else:
+                print(f"  ({hint.strip()})")
+
+    # ── Final summary ─────────────────────────────────────────────────────────
+    all_new_buys = [t for t, s in decision_state.items()
+                    if s["section"] == "new_buy" and s["checked"]]
+    all_sells    = [t for t, s in decision_state.items()
+                    if s["section"] == "sell" and s["checked"]]
+    final_buys   = [t for t in all_new_buys if t not in vetoed_buys]
+    final_sells  = [t for t in all_sells    if t not in kept_sells]
 
     print(f"\n{_hr('═')}")
     print(f"  FINAL PLAN")
     print(_hr("═"))
-    print(f"  Buying  ({len(final_buys)}):  {', '.join(final_buys) or '—'}")
+    if final_buys:
+        print(f"  Buying  ({len(final_buys)}):  {', '.join(final_buys)}")
     if vetoed_buys:
         print(f"    Vetoed: {', '.join(sorted(vetoed_buys))}")
-    print(f"  Holding ({len(holds)}):  {', '.join(holds[:8])}" + (" ..." if len(holds) > 8 else ""))
-    print(f"  Selling ({len(final_sells)}):  {', '.join(final_sells) or '—'}")
+    if final_sells:
+        print(f"  Selling ({len(final_sells)}):  {', '.join(final_sells)}")
     if kept_sells:
         print(f"    Kept (override sell): {', '.join(sorted(kept_sells))}")
+    if not final_buys and not final_sells:
+        print("  No buys or sells this run.")
     print()
 
     no_changes = not vetoed_buys and not kept_sells
     if no_changes:
-        print("  No overrides — accepting all model recommendations.")
-        print("  Nothing to write. Commit decisions/pending/ and push to trigger processing.")
+        print("  No overrides — all model signals accepted.")
+        print("  Commit decisions/pending/ and push to trigger processing.")
         return
 
     if not decision_file.exists():
@@ -598,12 +683,11 @@ def main() -> None:
 
     _update_markdown(decision_file, vetoed_buys, kept_sells)
 
-    # Record overrides for future scoring
     vetoed_list = [(t, buy_models.get(t, [])) for t in vetoed_buys]
     kept_list   = [(t, sell_models.get(t, [])) for t in kept_sells]
     _record_overrides(vetoed_list, kept_list, eval_date)
 
-    print(f"  Written. Commit and push to trigger processing.")
+    print("  Written. Commit and push to trigger processing.")
     print()
 
 

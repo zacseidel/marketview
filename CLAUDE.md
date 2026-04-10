@@ -134,11 +134,11 @@ Disabled: `thirteen_f` (stub), `buyback` (disabled).
 
 | Workflow | Schedule | Entry Point |
 |---|---|---|
-| `daily-prices.yml` | Weekdays 6:30 PM ET | `src/universe/ingestion.py` |
-| `process-queue.yml` | Weekdays 7:00 PM ET | `src/collection/process_queue.py` |
-| `run-models.yml` | Mon/Thu 7:30 PM ET | `src/selection/runner.py` |
+| `run-models.yml` | Tue/Fri 11:00 AM MT | prices → queue → models → scorecards → dashboard |
 | `process-decisions.yml` | On push to `decisions/pending/` | `src/decisions/process.py` |
 | `record-executions.yml` | Tue/Fri 7:00 PM ET | `src/decisions/execute.py` |
+| `daily-prices.yml` | Weekdays 6:30 PM ET | `src/universe/ingestion.py` (evening catchup) |
+| `process-queue.yml` | Weekdays 7:00 PM ET | `src/collection/process_queue.py` |
 | `evaluate-strategies.yml` | Weekdays 8:00 PM ET | `src/strategy/runner.py` |
 | `update-positions.yml` | Weekdays 8:30 PM ET | `src/tracking/pnl.py` |
 | `daily-dashboard.yml` | Weekdays 9:00 PM ET | `src/reports/daily.py` |
@@ -150,13 +150,28 @@ Disabled: `thirteen_f` (stub), `buyback` (disabled).
 
 ## Normal Workflow
 
-### Automated (Mon/Thu cycle)
-1. **6:30 PM** — prices downloaded
-2. **7:30 PM** — all models run, `decisions/pending/YYYY-MM-DD.md` created
-3. **Review on GitHub mobile** — new buys are unchecked (opt-in); holds/sells pre-checked
-4. **Check boxes for buys you want, push** — triggers `process-decisions.yml`
-5. **Tue/Fri 7:00 PM** — fills recorded from that day's OHLC prices
-6. **9:00 PM** — dashboard updated at GitHub Pages
+### Automated (Tue/Fri trade cycle)
+
+The **11:00 AM MT mid-day run** (`run-models.yml`) is the core twice-weekly pipeline:
+
+1. **Tue/Fri 11:00 AM MT** — trade cycle fires automatically:
+   - Fetches Mon/Thu EOD prices (skips if already present — safe to pre-run manually)
+   - Processes queue (splits, options chains)
+   - Runs all models → creates `decisions/pending/YYYY-MM-DD.md`
+   - Updates model scorecards
+   - Regenerates `docs/index.html` dashboard
+2. **Run `python review.py`** — review each model's theoretical portfolio, veto any buys or keep any sells
+3. **Push decision file** — triggers `process-decisions.yml`
+4. **Tue/Fri 7:00 PM ET** — fills recorded from that day's OHLC prices
+
+To run the cycle manually before the 11am trigger:
+```bash
+python -m src.universe.ingestion          # fetch Mon/Thu EOD prices
+python -m src.collection.process_queue   # process queue
+python -m src.selection.runner           # run models
+python -m src.tracking.model_scorecard   # update scorecards
+python -m src.reports.daily              # regenerate dashboard
+```
 
 ### Running Things Locally
 
