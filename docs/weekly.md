@@ -1,5 +1,5 @@
-# Weekly Digest — Week ending 2026-03-14
-_Period: 2026-03-08 → 2026-03-14_
+# Weekly Digest — Week ending 2026-04-11
+_Period: 2026-04-05 → 2026-04-11_
 
 ## Decisions This Week
 
@@ -13,7 +13,14 @@ _No model evaluations this week._
 
 ## Model Scorecards
 
-_No scorecards yet — run `python -m src.tracking.model_scorecard`._
+| Model | Signals | Hit Rate | Avg Return |
+|---|---|---|---|
+| momentum | 0 | — | — |
+| munger | 0 | — | — |
+| quant_gbm | 0 | — | — |
+| quant_gbm_v3 | 0 | — | — |
+| repurchase | 0 | — | — |
+| watchlist | 0 | — | — |
 
 ## Portfolio
 
@@ -27,4 +34,4 @@ _No scorecards yet — run `python -m src.tracking.model_scorecard`._
 
 _No closed strategy observations yet._
 
-_Generated 2026-03-20_
+_Generated 2026-04-11_
