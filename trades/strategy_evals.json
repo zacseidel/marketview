@@ -1,1 +1,385 @@
-[]
+[
+  {
+    "position_id": "SNDK_notional_-_momentum_2026-04-10",
+    "ticker": "SNDK",
+    "eval_date": "2026-04-10",
+    "underlying_price": 851.57,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 1050.0,
+        "expiry": "2026-05-01",
+        "occ_ticker": "O:SNDK260501C01050000",
+        "option_type": "call",
+        "entry_premium": 32.5,
+        "current_premium": 32.5,
+        "price_date": "2026-04-10"
+      },
+      "atm_leap": {
+        "strike": 850.0,
+        "expiry": "2027-06-17",
+        "occ_ticker": "O:SNDK270617C00850000",
+        "option_type": "call",
+        "entry_premium": 354.39,
+        "current_premium": 354.39,
+        "price_date": "2026-04-10"
+      },
+      "itm_leap": {
+        "strike": 700.0,
+        "expiry": "2027-06-17",
+        "occ_ticker": "O:SNDK270617C00700000",
+        "option_type": "call",
+        "entry_premium": 390,
+        "current_premium": 390,
+        "price_date": "2026-04-10"
+      },
+      "short_put": {
+        "strike": 800.0,
+        "expiry": "2026-05-01",
+        "occ_ticker": "O:SNDK260501P00800000",
+        "option_type": "put",
+        "entry_premium": 67,
+        "current_premium": 67,
+        "price_date": "2026-04-10"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "leap_cc": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "diagonal": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "naked_leap": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      }
+    },
+    "stock_log_ret": 0.0,
+    "stock_excess_ret": 0.0,
+    "stock_annualized_ret": 0.0,
+    "holding_days": 1,
+    "eval_id": "SNDK_notional_-_momentum_2026-04-10_eval_1"
+  },
+  {
+    "position_id": "LITE_notional_-_momentum_2026-04-10",
+    "ticker": "LITE",
+    "eval_date": "2026-04-10",
+    "underlying_price": 894.13,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 1100.0,
+        "expiry": "2026-05-01",
+        "occ_ticker": "O:LITE260501C01100000",
+        "option_type": "call",
+        "entry_premium": 20,
+        "current_premium": 20,
+        "price_date": "2026-04-10"
+      },
+      "atm_leap": {
+        "strike": 920.0,
+        "expiry": "2027-07-16",
+        "occ_ticker": "O:LITE270716C00920000",
+        "option_type": "call",
+        "entry_premium": 373.52,
+        "current_premium": 373.52,
+        "price_date": "2026-04-10"
+      },
+      "itm_leap": {
+        "strike": 800.0,
+        "expiry": "2027-07-16",
+        "occ_ticker": "O:LITE270716C00800000",
+        "option_type": "call",
+        "entry_premium": 380.41,
+        "current_premium": 380.41,
+        "price_date": "2026-04-10"
+      },
+      "short_put": {
+        "strike": 875.0,
+        "expiry": "2026-05-01",
+        "occ_ticker": "O:LITE260501P00875000",
+        "option_type": "put",
+        "entry_premium": 76.89,
+        "current_premium": 76.89,
+        "price_date": "2026-04-10"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "leap_cc": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "diagonal": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "naked_leap": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      }
+    },
+    "stock_log_ret": 0.0,
+    "stock_excess_ret": 0.0,
+    "stock_annualized_ret": 0.0,
+    "holding_days": 1,
+    "eval_id": "LITE_notional_-_momentum_2026-04-10_eval_1"
+  },
+  {
+    "position_id": "WDC_notional_-_momentum_2026-04-10",
+    "ticker": "WDC",
+    "eval_date": "2026-04-10",
+    "underlying_price": 337.88,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 400.0,
+        "expiry": "2026-05-01",
+        "occ_ticker": "O:WDC260501C00400000",
+        "option_type": "call",
+        "entry_premium": 8.52,
+        "current_premium": 8.52,
+        "price_date": "2026-04-10"
+      },
+      "atm_leap": {
+        "strike": 350.0,
+        "expiry": "2027-12-15",
+        "occ_ticker": "O:WDC271215C00350000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "itm_leap": {
+        "strike": 280.0,
+        "expiry": "2027-12-15",
+        "occ_ticker": "O:WDC271215C00280000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "short_put": {
+        "strike": 320.0,
+        "expiry": "2026-05-01",
+        "occ_ticker": "O:WDC260501P00320000",
+        "option_type": "put",
+        "entry_premium": 20.05,
+        "current_premium": 20.05,
+        "price_date": "2026-04-10"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "leap_cc": {
+        "active": false
+      },
+      "diagonal": {
+        "active": false
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "naked_leap": {
+        "active": false
+      }
+    },
+    "stock_log_ret": 0.0,
+    "stock_excess_ret": 0.0,
+    "stock_annualized_ret": 0.0,
+    "holding_days": 1,
+    "eval_id": "WDC_notional_-_momentum_2026-04-10_eval_1"
+  },
+  {
+    "position_id": "CIEN_notional_-_momentum_2026-04-10",
+    "ticker": "CIEN",
+    "eval_date": "2026-04-10",
+    "underlying_price": 487.38,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 590.0,
+        "expiry": "2026-05-01",
+        "occ_ticker": "O:CIEN260501C00590000",
+        "option_type": "call",
+        "entry_premium": 14.15,
+        "current_premium": 14.15,
+        "price_date": "2026-04-10"
+      },
+      "atm_leap": {
+        "strike": 500.0,
+        "expiry": "2027-10-16",
+        "occ_ticker": "O:CIEN271016C00500000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "itm_leap": {
+        "strike": 400.0,
+        "expiry": "2027-10-16",
+        "occ_ticker": "O:CIEN271016C00400000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "short_put": {
+        "strike": 480.0,
+        "expiry": "2026-05-01",
+        "occ_ticker": "O:CIEN260501P00480000",
+        "option_type": "put",
+        "entry_premium": 34.75,
+        "current_premium": 34.75,
+        "price_date": "2026-04-10"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "leap_cc": {
+        "active": false
+      },
+      "diagonal": {
+        "active": false
+      },
+      "csp": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "naked_leap": {
+        "active": false
+      }
+    },
+    "stock_log_ret": 0.0,
+    "stock_excess_ret": 0.0,
+    "stock_annualized_ret": 0.0,
+    "holding_days": 1,
+    "eval_id": "CIEN_notional_-_momentum_2026-04-10_eval_1"
+  },
+  {
+    "position_id": "STX_notional_-_momentum_2026-04-10",
+    "ticker": "STX",
+    "eval_date": "2026-04-10",
+    "underlying_price": 500.77,
+    "status": "open",
+    "contracts": {
+      "short_call": {
+        "strike": 590.0,
+        "expiry": "2026-05-01",
+        "occ_ticker": "O:STX260501C00590000",
+        "option_type": "call",
+        "entry_premium": 12.4,
+        "current_premium": 12.4,
+        "price_date": "2026-04-10"
+      },
+      "atm_leap": {
+        "strike": 500.0,
+        "expiry": "2028-06-17",
+        "occ_ticker": "O:STX280617C00500000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "itm_leap": {
+        "strike": 400.0,
+        "expiry": "2028-06-17",
+        "occ_ticker": "O:STX280617C00400000",
+        "option_type": "call",
+        "entry_premium": null,
+        "current_premium": null,
+        "price_date": null
+      },
+      "short_put": {
+        "strike": 480.0,
+        "expiry": "2026-05-01",
+        "occ_ticker": "O:STX260501P00480000",
+        "option_type": "put",
+        "entry_premium": 32.42,
+        "current_premium": 32.42,
+        "price_date": "2026-04-10"
+      }
+    },
+    "strategies": {
+      "covered_call": {
+        "active": true,
+        "log_ret": 0.0,
+        "excess_ret": 0.0,
+        "annualized_ret": 0.0
+      },
+      "leap_cc": {
+        "active": false
+      },
+      "diagonal": {
+        "active": false
+      },
+      "csp": {
+        "active": true,
+        "log_ret": -1.1102230246251565e-16,
+        "excess_ret": -1.1102230246251565e-16,
+        "annualized_ret": -2.7977620220553945e-14
+      },
+      "naked_leap": {
+        "active": false
+      }
+    },
+    "stock_log_ret": 0.0,
+    "stock_excess_ret": 0.0,
+    "stock_annualized_ret": 0.0,
+    "holding_days": 1,
+    "eval_id": "STX_notional_-_momentum_2026-04-10_eval_1"
+  }
+]

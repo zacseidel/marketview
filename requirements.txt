@@ -12,4 +12,5 @@ python-dotenv
 yfinance
 scikit-learn
 lightgbm
+xgboost
 pyarrow

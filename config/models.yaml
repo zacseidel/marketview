@@ -74,6 +74,24 @@ models:
       max_holdings: 5
       time_based_exit_days: 10   # sell exactly 10 trading days after new_buy
 
+  quant_gbm_v4:
+    enabled: false
+    module: "src.selection.quant_v4"
+    class: "QuantModelV4"
+    description: "XGBoost v4: 35 features (slope/R² regressions, dollar volume, earnings timing, sector 126d, in_sp500); Thursday-weekly raw 5d return target; 5d forward window. Friday cycle only. Superseded by quant_gbm_v5."
+    params:
+      max_holdings: 5
+      time_based_exit_days: 10
+
+  quant_gbm_v5:
+    enabled: true
+    module: "src.selection.quant_v5"
+    class: "QuantModelV5"
+    description: "XGBoost v5: 45 features — full union of v3+v4b (tech + slope/R² + dollar vol + earnings fundamentals + buyback + sector 20d+126d + in_sp500); Thursday-weekly raw 5d return target. Val ICIR: 2.792, Sharpe: 4.369. Friday cycle only."
+    params:
+      max_holdings: 5
+      time_based_exit_days: 10
+
   thirteen_f:
     enabled: false
     module: "src.selection.thirteen_f"

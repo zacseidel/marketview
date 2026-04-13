@@ -31,7 +31,9 @@ data.nosync/splits/                          # Split detection results per ticke
 data.nosync/strategy_observations/           # Strategy snapshot lifecycle + returns.json
 data.nosync/quant/raw_prices.parquet         # 12yr yfinance price history for quant research (gitignored)
 data.nosync/quant/features.parquet           # Feature matrix: ~1.6M rows (gitignored)
+data.nosync/quant/features_v4.parquet        # v4 feature matrix: all daily rows, Thursday-filtered in training (gitignored)
 data.nosync/quant/artifacts/{gbm,gbm_v3}/    # Trained model artifacts — committed to repo
+data.nosync/quant/artifacts/gbm_v4/          # v4 XGBoost artifacts: model.pkl, sector_categories.json (committed)
 data.nosync/quant/recent_prices.parquet      # Live price cache for quant inference (gitignored)
 config/models.yaml                    # Model registry: enabled flag, module, class, params
 config/watchlist.yaml                 # User-curated tickers with conviction and notes
@@ -90,6 +92,8 @@ Standalone research pipeline — runs locally, not wired into GitHub Actions.
 - `train.py` — Trains GBM and KNN models on 15-feature set.
 - `train_v2.py` — Trains GBM v2 with sector features.
 - `train_v3.py` — Trains GBM v3 (28 features, 10d target).
+- `features_v4.py` — V4 feature set (35 features: slope/R² regressions, dollar volume, earnings timing, sector 126d, in_sp500). All daily rows output; Thursday filter applied in training.
+- `train_v4.py` — Trains XGBoost v4 (Thursday-only, cross-sectional rank-percentile target, 5d forward window). No StandardScaler. Saves `model.pkl` + `sector_categories.json`.
 - `evaluate.py` — Shared evaluation: simulates top-N equal-weight portfolio; computes hit rate, avg log return, excess vs SPY, annualized Sharpe.
 - `compare.py` — Side-by-side comparison of model versions.
 
@@ -136,6 +140,7 @@ Options strategy evaluation — used by `trades.py` (local CLI), not automated.
 | `watchlist` | `WatchlistModel` | User-curated tickers | — | 10d from last rec |
 | `quant_gbm` | `QuantModel` | LightGBM on 15 technical factors; 20d target | 0.794 | 10d from last rec |
 | `quant_gbm_v3` | `QuantModelV3` | LightGBM v3: 28 features incl. earnings + sector; 10d target | 1.125 | 10d from last rec |
+| `quant_gbm_v4` | `QuantModelV4` | XGBoost v4: 35 features (slope/R², dollar vol, earnings timing, sector 126d); Thursday cross-sectional rank target; 5d window; **Friday only** | — | 10d from last rec |
 
 Disabled: `thirteen_f` (stub), `buyback` (disabled).
 
@@ -259,6 +264,8 @@ python -m src.quant_research.features_v3 # 28-feature set (quant_gbm_v3)
 ```bash
 python -m src.quant_research.train --model gbm   # quant_gbm artifacts
 python -m src.quant_research.train_v3            # quant_gbm_v3 artifacts
+python -m src.quant_research.features_v4        # v4 feature matrix (~10 min)
+python -m src.quant_research.train_v4            # quant_gbm_v4 artifacts (XGBoost)
 ```
 
 ### Validation results (last run: 2026-03-21)

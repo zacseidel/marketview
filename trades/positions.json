@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "id": "SNDK_notional_-_momentum_2026-04-10",
+    "account_id": "notional_-_momentum",
+    "account_name": "Notional - Momentum",
+    "ticker": "SNDK",
+    "entry_date": "2026-04-10",
+    "entry_price": 851.57,
+    "shares": 10,
+    "status": "open",
+    "exit_date": null,
+    "exit_price": null,
+    "legs": []
+  },
+  {
+    "id": "LITE_notional_-_momentum_2026-04-10",
+    "account_id": "notional_-_momentum",
+    "account_name": "Notional - Momentum",
+    "ticker": "LITE",
+    "entry_date": "2026-04-10",
+    "entry_price": 894.13,
+    "shares": 10,
+    "status": "open",
+    "exit_date": null,
+    "exit_price": null,
+    "legs": []
+  },
+  {
+    "id": "WDC_notional_-_momentum_2026-04-10",
+    "account_id": "notional_-_momentum",
+    "account_name": "Notional - Momentum",
+    "ticker": "WDC",
+    "entry_date": "2026-04-10",
+    "entry_price": 337.88,
+    "shares": 10,
+    "status": "open",
+    "exit_date": null,
+    "exit_price": null,
+    "legs": []
+  },
+  {
+    "id": "CIEN_notional_-_momentum_2026-04-10",
+    "account_id": "notional_-_momentum",
+    "account_name": "Notional - Momentum",
+    "ticker": "CIEN",
+    "entry_date": "2026-04-10",
+    "entry_price": 487.38,
+    "shares": 10,
+    "status": "open",
+    "exit_date": null,
+    "exit_price": null,
+    "legs": []
+  },
+  {
+    "id": "STX_notional_-_momentum_2026-04-10",
+    "account_id": "notional_-_momentum",
+    "account_name": "Notional - Momentum",
+    "ticker": "STX",
+    "entry_date": "2026-04-10",
+    "entry_price": 500.77,
+    "shares": 10,
+    "status": "open",
+    "exit_date": null,
+    "exit_price": null,
+    "legs": []
+  }
+]

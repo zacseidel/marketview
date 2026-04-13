@@ -11,6 +11,10 @@ Models compared:
   gbm_v1_10d  — 15 technical features, 10d target (control: horizon change only)
   gbm_v2      — 27 technical features, 10d target (adds buyback/earnings/SPY/sector)
   gbm_v3      — 28 technical features, 10d target (v2 + log_ret_756d)
+  gbm_v4      — 35 features, XGBoost, Thursday-weekly, cross-sectional rank target, 5d
+                Note: v4 uses a different val cadence (every Thursday vs 10/20-day stride).
+                Sharpe is still annualized and comparable but evaluated ~104 times/year vs
+                ~13-26 times/year for v1-v3.
 
 Usage:
     python -m src.quant_research.compare
@@ -29,6 +33,10 @@ from src.quant_research.features import FEATURE_COLS
 from src.quant_research.train import score_gbm
 from src.quant_research.train_v2 import score_gbm_v2, _fit_scaler_nan_safe
 from src.quant_research.train_v3 import score_gbm_v3
+from src.quant_research.train_v4 import score_gbm_v4
+from pathlib import Path as _Path
+
+_V4_FEATURES_FILE = _Path("data.nosync/quant/features_v4.parquet")
 
 log = structlog.get_logger()
 
@@ -96,13 +104,34 @@ def main() -> None:
     r2 = evaluate_model(val2, score_gbm_v2,   model_name="gbm_v2",     forward_days=10, target_col="fwd_log_ret_10d")
     r3 = evaluate_model(val3, score_gbm_v3,   model_name="gbm_v3",     forward_days=10, target_col="fwd_log_ret_10d")
 
-    print_comparison([r1, r1c, r2, r3])
+    # v4: Thursday-only val, 5d target, cross-sectional rank scoring
+    results = [r1, r1c, r2, r3]
+    if _V4_FEATURES_FILE.exists():
+        df4 = pd.read_parquet(_V4_FEATURES_FILE)
+        val4 = df4[df4["split"] == "val"].copy()
+        r4 = evaluate_model(
+            val4, score_gbm_v4,
+            model_name="gbm_v4",
+            forward_days=5,
+            target_col="fwd_log_ret_5d",
+            eval_weekday=3,   # Thursdays only
+        )
+        results.append(r4)
+    else:
+        log.warning("compare.v4_features_missing",
+                    msg="Run features_v4.py + train_v4.py to include gbm_v4")
+
+    print_comparison(results)
 
     # Annotate what each model adds
     print("What each model adds over the previous:")
     print(f"  v1 → v1_10d : target horizon 20d → 10d (same 15 features)")
     print(f"  v1_10d → v2 : +buyback, +earnings, +SPY regime, +sector  (drops log_ret_756d)")
     print(f"  v2 → v3     : +log_ret_756d (3yr momentum)")
+    print(f"  v3 → v4     : XGBoost; Thursday-only training; cross-sectional rank target;")
+    print(f"                5d window; slope/R² features; dollar volume; earnings timing;")
+    print(f"                sector 126d; in_sp500; no buyback/fundamentals; no scaler")
+    print(f"  NOTE: v4 Sharpe uses 5d cadence (~104 eval periods/yr vs ~13-26 for v1-v3)")
 
 
 if __name__ == "__main__":

@@ -54,7 +54,7 @@
 <body>
   <div class="header">
     <h1>marketview</h1>
-    <span class="meta">Updated 2026-04-10 12:10 UTC</span>
+    <span class="meta">Updated 2026-04-13 10:21 UTC</span>
   </div>
 
   <div class="grid">
@@ -133,14 +133,17 @@
       <table>
         <thead><tr>
           <td class="muted small">Model</td>
-          <td class="muted small">Sharpe (ann.)</td>
+          <td class="muted small">Sharpe</td>
           <td class="muted small">Excess/Period</td>
-          <td class="muted small">Hit Rate</td>
+          <td class="muted small">ICIR</td>
+          <td class="muted small">IC</td>
+          <td class="muted small">DclHit</td>
           <td class="muted small">Val Periods</td>
           <td class="muted small">Features</td>
         </tr></thead>
-        <tbody><tr><td class="ticker">quant_gbm</td><td style="color:#f0883e;font-weight:600">0.794</td><td style="color:#3fb950">+1.46%</td><td>57.1%</td><td class="muted">26 × 10d</td><td class="muted small">15 pure technical features, 20d target</td></tr><tr><td class="ticker">quant_gbm_v3</td><td style="color:#3fb950;font-weight:600">1.125</td><td style="color:#3fb950">+0.84%</td><td>58.2%</td><td class="muted">51 × 10d</td><td class="muted small">28 features + log_ret_756d + sector/earnings, 10d target</td></tr></tbody>
+        <tbody><tr><td class="ticker">quant_gbm</td><td style="color:#f0883e;font-weight:600">0.794</td><td style="color:#3fb950">+1.46%</td><td style="color:#8b949e;font-weight:600">—</td><td>—</td><td>57.1%</td><td class="muted">26 × 15d</td><td class="muted small">15 technical, 20d target</td></tr><tr><td class="ticker">quant_gbm_v3</td><td style="color:#f0883e;font-weight:600">1.125</td><td style="color:#3fb950">+0.84%</td><td style="color:#8b949e;font-weight:600">—</td><td>—</td><td>58.2%</td><td class="muted">51 × 10d</td><td class="muted small">28 features + sector/earnings, 10d target</td></tr><tr><td class="ticker">quant_gbm_v4</td><td style="color:#f0883e;font-weight:600">1.239</td><td style="color:#3fb950">+0.48%</td><td style="color:#8b949e;font-weight:600">0.879</td><td>0.0177</td><td>23.1%</td><td class="muted">96 × 5d</td><td class="muted small">34 features: slope/R² + dollar vol + earnings timing</td></tr><tr><td class="ticker">quant_gbm_v5</td><td style="color:#3fb950;font-weight:600">3.945</td><td style="color:#3fb950">+1.88%</td><td style="color:#3fb950;font-weight:600">2.392</td><td>0.0532</td><td>31.6%</td><td class="muted">97 × 5d</td><td class="muted small">45 features: full union v3+v4b (active)</td></tr></tbody>
       </table>
+      <p class="small muted" style="margin-top:0.5rem">ICIR = IC / IC.std() × √(periods/yr) — primary cross-model comparable (scale-free, cadence-normalizing). DclHit = fraction of top-20 picks in actual top decile of returns.</p>
     </div>
 
     <!-- Live Signal Performance (all models, accumulates over time) -->

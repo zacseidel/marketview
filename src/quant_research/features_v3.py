@@ -112,6 +112,9 @@ def _build_v3_base_features(df: pd.DataFrame) -> pd.DataFrame:
     fwd10 = np.full(n, np.nan)
     fwd10[:-10] = log_close[10:] - log_close[:-10]
 
+    fwd5 = np.full(n, np.nan)
+    fwd5[:-5] = log_close[5:] - log_close[:-5]
+
     result = pd.DataFrame({
         "date": dates,
         "close": close,
@@ -131,9 +134,10 @@ def _build_v3_base_features(df: pd.DataFrame) -> pd.DataFrame:
         "vol_20d": vol20,
         "vol_60d": vol60,
         "fwd_log_ret_10d": fwd10,
+        "fwd_log_ret_5d": fwd5,
     })
 
-    feature_cols = [c for c in result.columns if c not in ("fwd_log_ret_10d", "date", "close")]
+    feature_cols = [c for c in result.columns if c not in ("fwd_log_ret_10d", "fwd_log_ret_5d", "date", "close")]
     return result.dropna(subset=feature_cols).reset_index(drop=True)
 
 

@@ -464,29 +464,42 @@ def _render_quant_scorecard(metrics: dict) -> str:
         return ""
 
     _MODEL_LABELS = {
-        "gbm":    ("quant_gbm",    "15 pure technical features, 20d target"),
-        "gbm_v3": ("quant_gbm_v3", "28 features + log_ret_756d + sector/earnings, 10d target"),
+        "gbm":    ("quant_gbm",    "15d",  "15 technical, 20d target"),
+        "gbm_v3": ("quant_gbm_v3", "10d",  "28 features + sector/earnings, 10d target"),
+        "gbm_v4": ("quant_gbm_v4", "5d",   "34 features: slope/R² + dollar vol + earnings timing"),
+        "gbm_v5": ("quant_gbm_v5", "5d",   "45 features: full union v3+v4b (active)"),
     }
 
     rows = ""
-    for key in ("gbm", "gbm_v3"):
+    for key in ("gbm", "gbm_v3", "gbm_v4", "gbm_v5"):
         m = metrics.get(key)
         if not m or "error" in m:
             continue
-        label, description = _MODEL_LABELS.get(key, (key, ""))
-        sharpe = m.get("sharpe", 0)
-        sharpe_color = "#3fb950" if sharpe >= 1.0 else "#f0883e" if sharpe >= 0.7 else "#8b949e"
+        label, cadence, description = _MODEL_LABELS.get(key, (key, "?d", ""))
+        sharpe = m.get("sharpe") or 0
+        sharpe_color = "#3fb950" if sharpe >= 1.5 else "#f0883e" if sharpe >= 0.7 else "#8b949e"
         excess = m.get("avg_excess_ret") or 0
         excess_color = _pct_color(excess)
-        hit = m.get("hit_rate", 0)
         periods = m.get("eval_periods", 0)
-        cadence = "10d"
+
+        # IC / ICIR — present in new-format entries, absent in old
+        ic = m.get("ic_mean")
+        icir = m.get("icir")
+        dcl = m.get("decile_hit_rate") or m.get("hit_rate")
+
+        ic_cell = f"{ic:.4f}" if ic is not None else "—"
+        icir_str = f"{icir:.3f}" if icir is not None else "—"
+        icir_color = "#3fb950" if (icir or 0) >= 2.0 else "#f0883e" if (icir or 0) >= 1.0 else "#8b949e"
+        dcl_cell = f"{dcl:.1%}" if dcl is not None else "—"
+
         rows += (
             f'<tr>'
             f'<td class="ticker">{label}</td>'
             f'<td style="color:{sharpe_color};font-weight:600">{sharpe:.3f}</td>'
             f'<td style="color:{excess_color}">{excess:+.2%}</td>'
-            f'<td>{hit:.1%}</td>'
+            f'<td style="color:{icir_color};font-weight:600">{icir_str}</td>'
+            f'<td>{ic_cell}</td>'
+            f'<td>{dcl_cell}</td>'
             f'<td class="muted">{periods} × {cadence}</td>'
             f'<td class="muted small">{description}</td>'
             f'</tr>'
@@ -501,14 +514,17 @@ def _render_quant_scorecard(metrics: dict) -> str:
       <table>
         <thead><tr>
           <td class="muted small">Model</td>
-          <td class="muted small">Sharpe (ann.)</td>
+          <td class="muted small">Sharpe</td>
           <td class="muted small">Excess/Period</td>
-          <td class="muted small">Hit Rate</td>
+          <td class="muted small">ICIR</td>
+          <td class="muted small">IC</td>
+          <td class="muted small">DclHit</td>
           <td class="muted small">Val Periods</td>
           <td class="muted small">Features</td>
         </tr></thead>
         <tbody>{rows}</tbody>
       </table>
+      <p class="small muted" style="margin-top:0.5rem">ICIR = IC / IC.std() × √(periods/yr) — primary cross-model comparable (scale-free, cadence-normalizing). DclHit = fraction of top-20 picks in actual top decile of returns.</p>
     </div>"""
 
 
