@@ -42,6 +42,7 @@ _MODEL_DESCRIPTIONS = {
     "repurchase":   "Top 5 by trailing 12-month share buyback %; above 21d EMA.",
     "quant_gbm":    "LightGBM v1: 15 technical features; predicts 20d forward return. Val Sharpe 0.794.",
     "quant_gbm_v3": "LightGBM v3: 28 features + sector/earnings; predicts 10d forward return. Val Sharpe 1.125.",
+    "quant_gbm_v5": "XGBoost v5: 45 features (full union — tech + slope/R² + earnings fundamentals + buyback + sector 20d+126d); 5d target. Val ICIR 2.792, Sharpe 4.369. Friday only.",
     "watchlist":    "User-curated tickers.",
 }
 
