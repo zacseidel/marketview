@@ -467,11 +467,13 @@ def _render_quant_scorecard(metrics: dict) -> str:
         "gbm":    ("quant_gbm",    "15d",  "15 technical, 20d target"),
         "gbm_v3": ("quant_gbm_v3", "10d",  "28 features + sector/earnings, 10d target"),
         "gbm_v4": ("quant_gbm_v4", "5d",   "34 features: slope/R² + dollar vol + earnings timing"),
-        "gbm_v5": ("quant_gbm_v5", "5d",   "45 features: full union v3+v4b (active)"),
+        "gbm_v5": ("quant_gbm_v5", "5d",   "45 features: full union v3+v4b"),
+        "gbm_v6": ("quant_gbm_v6", "5d",   "44 features: v5 cleaned + breadth + sector 60d"),
+        "gbm_v7": ("quant_gbm_v7", "5d",   "47 features: v6 + ni_qoq + ni_accel + earn drift"),
     }
 
     rows = ""
-    for key in ("gbm", "gbm_v3", "gbm_v4", "gbm_v5"):
+    for key in ("gbm_v7",):
         m = metrics.get(key)
         if not m or "error" in m:
             continue

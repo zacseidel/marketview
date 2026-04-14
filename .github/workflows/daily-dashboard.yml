@@ -2,7 +2,7 @@ name: Daily Dashboard
 
 on:
   schedule:
-    - cron: "15 19 * * 1-5"  # Weekdays 1:15 PM MT (UTC-6)
+    - cron: "15 19 * * 2,5"  # Tue/Fri 1:15 PM MT (UTC-6)
     - cron: "0 0 * * 3,6"    # Tue/Fri 6:00 PM MT (UTC-6, midnight UTC Wed/Sat) — post-fills update
   workflow_dispatch:
 

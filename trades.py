@@ -352,7 +352,7 @@ def fetch_option_price(occ_ticker: str, as_of_date: str) -> float | None:
     if not api_key:
         print("  [!] POLYGON_API_KEY not set — cannot fetch option prices.")
         return None
-    from_date = (datetime.strptime(as_of_date, "%Y-%m-%d") - timedelta(days=10)).strftime("%Y-%m-%d")
+    from_date = (datetime.strptime(as_of_date, "%Y-%m-%d") - timedelta(days=30)).strftime("%Y-%m-%d")
     url = f"{POLYGON_BASE_URL}/v2/aggs/ticker/{occ_ticker}/range/1/day/{from_date}/{as_of_date}"
     try:
         resp = requests.get(url, params={"apiKey": api_key, "adjusted": "true",
@@ -427,8 +427,10 @@ def compute_analytics(pos: dict) -> dict:
         out["options_pnl"] = pnl
         stock_val = entry_price * shares
         if stock_val > 0:
-            out["options_yield"]  = pnl / stock_val
-            out["total_log_ret"]  = out["stock_log_ret"] + out["options_yield"]
+            out["options_yield"] = pnl / stock_val
+            # True log return: log((ending_stock_value + options_pnl) / entry_stock_value)
+            ending_stock_val = current_price * shares
+            out["total_log_ret"] = math.log((ending_stock_val + pnl) / stock_val)
 
     return out
 
@@ -1248,6 +1250,15 @@ def menu_dashboard(session: Session) -> None:
     _eval_stale_warning(evals)
     print(f"  Open: {len(open_pos)}  |  Closed: {len(positions)-len(open_pos)}")
 
+    # Build eval index early so per-account detail can reference it inline
+    open_eval_by_pos: dict[str, dict] = {}
+    for ev in evals:
+        if ev.get("status") != "open":
+            continue
+        pid = ev.get("position_id", "")
+        if pid not in open_eval_by_pos or ev.get("eval_date", "") > open_eval_by_pos[pid].get("eval_date", ""):
+            open_eval_by_pos[pid] = ev
+
     # ── Open positions: account summary then per-account breakdown ───────────
     if open_pos:
         # Compute analytics for all open positions once
@@ -1289,6 +1300,25 @@ def menu_dashboard(session: Session) -> None:
                       f"{curr_str:>8} "
                       f"{fmt_ret(a.get('stock_log_ret')):>7} "
                       f"{fmt_ret(a.get('excess_ret')):>7} {legs:>5}")
+                ev = open_eval_by_pos.get(pos["id"])
+                if ev:
+                    strats = ev.get("strategies", {})
+                    hdays  = ev.get("holding_days", 0)
+                    price_dates = [c["price_date"] for c in ev.get("contracts", {}).values()
+                                   if c and c.get("price_date")]
+                    age_days = (date.today() - datetime.strptime(max(price_dates), "%Y-%m-%d").date()).days \
+                               if price_dates else None
+                    parts = []
+                    for skey, slabel in [("covered_call", "CC"), ("leap_cc", "L+CC"),
+                                         ("diagonal", "Diag"), ("csp", "CSP"), ("naked_leap", "LEAP")]:
+                        s = strats.get(skey, {})
+                        if s.get("active"):
+                            parts.append(f"{slabel} {fmt_ret(s.get('log_ret'))}")
+                    if parts:
+                        suffix = f"  {hdays}d held"
+                        if age_days is not None:
+                            suffix += f"  · priced {age_days}d ago"
+                        print(f"       ↳ {' | '.join(parts)}{suffix}")
 
     # ── Recently closed ──────────────────────────────────────────────────────
     if closed_pos:
@@ -1310,21 +1340,16 @@ def menu_dashboard(session: Session) -> None:
         print("\n  No trades recorded yet. Choose  1 — Enter trades  from the main menu.")
 
     # ── Strategy evaluation summary ──────────────────────────────────────────
-    open_eval_by_pos: dict[str, dict] = {}
-    for ev in evals:
-        if ev.get("status") != "open":
-            continue
-        pid = ev.get("position_id", "")
-        if pid not in open_eval_by_pos or ev.get("eval_date", "") > open_eval_by_pos[pid].get("eval_date", ""):
-            open_eval_by_pos[pid] = ev
-
     if open_eval_by_pos:
         print_section("Strategy Evaluations")
-        print(f"  {'Ticker':<6} {'CC':>7} {'LEAP+CC':>9} {'Diag':>7} {'CSP':>7} {'LEAP':>7}  {'Age':>6}")
-        print(f"  {hr('─', 57)}")
-        for pid, ev in sorted(open_eval_by_pos.items()):
+        print(f"  {'Ticker':<6} {'CC':>7} {'LEAP+CC':>9} {'Diag':>7} {'CSP':>7} {'LEAP':>7}  {'Days':>5} {'Age':>6}")
+        print(f"  {hr('─', 64)}")
+        pos_order = {pos["id"]: i for i, pos in enumerate(open_pos)}
+        for pid, ev in sorted(open_eval_by_pos.items(),
+                              key=lambda x: pos_order.get(x[0], 999)):
             ticker = ev.get("ticker", "?")
             strats = ev.get("strategies", {})
+            hdays  = ev.get("holding_days", 0)
             price_dates = [
                 c["price_date"] for c in ev.get("contracts", {}).values()
                 if c and c.get("price_date")
@@ -1345,7 +1370,7 @@ def menu_dashboard(session: Session) -> None:
                   f"{_fmt_s('leap_cc'):>9} "
                   f"{_fmt_s('diagonal'):>7} "
                   f"{_fmt_s('csp'):>7} "
-                  f"{_fmt_s('naked_leap'):>7}  {age_str:>6}")
+                  f"{_fmt_s('naked_leap'):>7}  {hdays:>5} {age_str:>6}")
 
     sep()
     prompt("Press Enter to continue")

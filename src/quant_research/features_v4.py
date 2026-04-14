@@ -206,9 +206,15 @@ def _build_v4_base_features(df: pd.DataFrame) -> pd.DataFrame:
         log_dollar_vol_20d = np.where(avg_dv_20 > 0, np.log(avg_dv_20), np.nan)
         dollar_vol_rel_20d = np.where(avg_dv_20 > 0, dollar_vol / avg_dv_20, np.nan)
 
-    # --- 5-day forward return (target) ---
+    # --- Forward return targets ---
     fwd5 = np.full(n, np.nan)
     fwd5[:-5] = log_close[5:] - log_close[:-5]
+
+    fwd10 = np.full(n, np.nan)
+    fwd10[:-10] = log_close[10:] - log_close[:-10]
+
+    fwd20 = np.full(n, np.nan)
+    fwd20[:-20] = log_close[20:] - log_close[:-20]
 
     result = pd.DataFrame({
         "date": dates,
@@ -242,12 +248,15 @@ def _build_v4_base_features(df: pd.DataFrame) -> pd.DataFrame:
         # Liquidity
         "log_dollar_vol_20d":  log_dollar_vol_20d,
         "dollar_vol_rel_20d":  dollar_vol_rel_20d,
-        # Target
-        "fwd_log_ret_5d": fwd5,
+        # Targets
+        "fwd_log_ret_5d":  fwd5,
+        "fwd_log_ret_10d": fwd10,
+        "fwd_log_ret_20d": fwd20,
     })
 
     # Drop rows where any non-target feature is NaN (first ~756 rows per ticker)
-    feature_cols = [c for c in result.columns if c not in ("fwd_log_ret_5d", "date", "close")]
+    _target_cols = {"fwd_log_ret_5d", "fwd_log_ret_10d", "fwd_log_ret_20d", "date", "close"}
+    feature_cols = [c for c in result.columns if c not in _target_cols]
     return result.dropna(subset=feature_cols).reset_index(drop=True)
 
 
@@ -414,11 +423,11 @@ def build_features_v4() -> pd.DataFrame:
     df = pd.concat(all_frames, ignore_index=True)
     log.info("features_v4.concat_done", total_rows=len(df))
 
-    # Outlier cap on target before attaching (keeps NaN rows intact)
-    target_rows = df["fwd_log_ret_5d"].notna()
-    extreme = target_rows & (df["fwd_log_ret_5d"].abs() > 0.5)
-    log.info("features_v4.outlier_cap", dropped=int(extreme.sum()))
-    df.loc[extreme, "fwd_log_ret_5d"] = np.nan
+    # Outlier cap on all target columns (keeps NaN rows intact)
+    for _target_col, _cap in [("fwd_log_ret_5d", 0.5), ("fwd_log_ret_10d", 1.0), ("fwd_log_ret_20d", 1.5)]:
+        extreme = df[_target_col].notna() & (df[_target_col].abs() > _cap)
+        df.loc[extreme, _target_col] = np.nan
+    log.info("features_v4.outlier_cap", remaining=int(df["fwd_log_ret_5d"].notna().sum()))
 
     # Attach SPY market state
     df = df.merge(spy_df, on="date", how="left")

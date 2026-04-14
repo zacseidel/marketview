@@ -117,11 +117,14 @@ def _build_ticker_features(df: pd.DataFrame) -> pd.DataFrame:
     pct_52w_low = (close / low_252 - 1) * 100
 
     # Forward return targets
-    fwd20 = np.full(n, np.nan)
-    fwd20[:-20] = log_close[20:] - log_close[:-20]
-
     fwd5 = np.full(n, np.nan)
     fwd5[:-5] = log_close[5:] - log_close[:-5]
+
+    fwd10 = np.full(n, np.nan)
+    fwd10[:-10] = log_close[10:] - log_close[:-10]
+
+    fwd20 = np.full(n, np.nan)
+    fwd20[:-20] = log_close[20:] - log_close[:-20]
 
     rows = {
         "date": dates,
@@ -141,8 +144,9 @@ def _build_ticker_features(df: pd.DataFrame) -> pd.DataFrame:
         "log_ret_756d": lr756,
         "vol_20d": vol20,
         "vol_60d": vol60,
-        "fwd_log_ret_20d": fwd20,
         "fwd_log_ret_5d": fwd5,
+        "fwd_log_ret_10d": fwd10,
+        "fwd_log_ret_20d": fwd20,
     }
 
     result = pd.DataFrame(rows)
@@ -190,6 +194,8 @@ def build_features() -> pd.DataFrame:
         "log_ret_126d": 2.0,
         "log_ret_252d": 2.3,   # >897% annually
         "log_ret_756d": 2.8,
+        "fwd_log_ret_5d":  0.5,
+        "fwd_log_ret_10d": 1.0,
         "fwd_log_ret_20d": 1.5,
     }
     before = len(df)

@@ -109,11 +109,14 @@ def _build_v3_base_features(df: pd.DataFrame) -> pd.DataFrame:
     low_252 = pd.Series(close).rolling(252).min().values
     pct_52w_low = (close / low_252 - 1) * 100
 
+    fwd5 = np.full(n, np.nan)
+    fwd5[:-5] = log_close[5:] - log_close[:-5]
+
     fwd10 = np.full(n, np.nan)
     fwd10[:-10] = log_close[10:] - log_close[:-10]
 
-    fwd5 = np.full(n, np.nan)
-    fwd5[:-5] = log_close[5:] - log_close[:-5]
+    fwd20 = np.full(n, np.nan)
+    fwd20[:-20] = log_close[20:] - log_close[:-20]
 
     result = pd.DataFrame({
         "date": dates,
@@ -133,11 +136,13 @@ def _build_v3_base_features(df: pd.DataFrame) -> pd.DataFrame:
         "log_ret_756d": lr756,
         "vol_20d": vol20,
         "vol_60d": vol60,
-        "fwd_log_ret_10d": fwd10,
         "fwd_log_ret_5d": fwd5,
+        "fwd_log_ret_10d": fwd10,
+        "fwd_log_ret_20d": fwd20,
     })
 
-    feature_cols = [c for c in result.columns if c not in ("fwd_log_ret_10d", "fwd_log_ret_5d", "date", "close")]
+    _target_cols = {"fwd_log_ret_5d", "fwd_log_ret_10d", "fwd_log_ret_20d", "date", "close"}
+    feature_cols = [c for c in result.columns if c not in _target_cols]
     return result.dropna(subset=feature_cols).reset_index(drop=True)
 
 
@@ -176,7 +181,9 @@ def build_features_v3() -> pd.DataFrame:
 
     df = df.dropna(subset=["fwd_log_ret_10d"])
     before = len(df)
-    df = df[df["fwd_log_ret_10d"].abs() <= 1.0]
+    for _target_col, _cap in [("fwd_log_ret_5d", 0.5), ("fwd_log_ret_10d", 1.0), ("fwd_log_ret_20d", 1.5)]:
+        df.loc[df[_target_col].abs() > _cap, _target_col] = np.nan
+    df = df[df["fwd_log_ret_10d"].notna()]
     log.info("features_v3.outlier_cap", dropped=before - len(df))
 
     # Attach SPY market state
@@ -211,6 +218,14 @@ def build_features_v3() -> pd.DataFrame:
             left_on="date", right_on="event_date",
             by="ticker", direction="backward",
         )
+        # Anti-leakage: earn_ret_5d = log(price[earn_date+5] / price[earn_date]).
+        # earn_date+5 is still in the future when < 5 days have elapsed → leaks.
+        days_since = (df["date"] - df["event_date"]).dt.days
+        leak_mask = days_since.notna() & (days_since < 5)
+        n_masked = int(leak_mask.sum())
+        df.loc[leak_mask, "earn_ret_5d"] = np.nan
+        log.info("features_v3.leakage_mask_earn_ret_5d",
+                 masked=n_masked, remaining=int(df["earn_ret_5d"].notna().sum()))
         df = df.drop(columns=["event_date"])
 
         next_earn = (

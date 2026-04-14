@@ -66,7 +66,14 @@ def _load_data() -> tuple[pd.DataFrame, pd.DataFrame]:
 
     train = df[(df["split"] == "train") & (df["ticker"] != "SPY")].copy()
     val = df[df["split"] == "val"].copy()
-    log.info("train_v4.data_loaded", train_rows=len(train), val_rows=len(val))
+
+    # Cross-sectional rank percentile within each Thursday's universe.
+    # Computed independently on train and val (no cross-split leakage — each date
+    # is self-contained). Range [0, 1]; 1.0 = best performer that week.
+    train["rank_target"] = train.groupby("date")["fwd_log_ret_5d"].rank(pct=True)
+
+    log.info("train_v4.data_loaded", train_rows=len(train), val_rows=len(val),
+             rank_mean=round(float(train["rank_target"].mean()), 4))
     return train, val
 
 
@@ -103,7 +110,7 @@ def train_gbm_v4(
 
     all_cols = FEATURE_COLS_V4 + CATEGORICAL_COLS_V4
     X = train.reindex(columns=all_cols)
-    y = train["fwd_log_ret_5d"].values
+    y = train["rank_target"].values  # cross-sectional rank percentile [0, 1]
 
     model = xgb.XGBRegressor(**_GBM_V4_PARAMS)
     model.fit(X, y)
@@ -163,7 +170,8 @@ def train_all_v4() -> None:
 
     print(f"\nThursday training dates: {train['date'].nunique()} unique Thursdays")
     print(f"Thursday val dates:     {val['date'].nunique()} unique Thursdays")
-    print(f"Target — mean: {train['fwd_log_ret_5d'].mean():.5f}  std: {train['fwd_log_ret_5d'].std():.5f}")
+    print(f"Rank target — mean: {train['rank_target'].mean():.4f}  "
+          f"std: {train['rank_target'].std():.4f}  (should be ~0.5 / ~0.29)")
 
 
 if __name__ == "__main__":

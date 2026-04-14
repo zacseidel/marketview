@@ -37,13 +37,11 @@ _POSITIONS_FILE   = _ROOT / "data.nosync/positions/positions.json"
 _SCORECARDS_DIR   = _ROOT / "data.nosync/models/scorecards"
 
 _MODEL_DESCRIPTIONS = {
-    "momentum":     "Top 10 S&P 500 by trailing 12-month return, rank-stable.",
-    "munger":       "Top 100 by market cap; buy when price dips to SMA200 then recovers above EMA15.",
-    "repurchase":   "Top 5 by trailing 12-month share buyback %; above 21d EMA.",
-    "quant_gbm":    "LightGBM v1: 15 technical features; predicts 20d forward return. Val Sharpe 0.794.",
-    "quant_gbm_v3": "LightGBM v3: 28 features + sector/earnings; predicts 10d forward return. Val Sharpe 1.125.",
-    "quant_gbm_v5": "XGBoost v5: 45 features (full union — tech + slope/R² + earnings fundamentals + buyback + sector 20d+126d); 5d target. Val ICIR 2.792, Sharpe 4.369. Friday only.",
-    "watchlist":    "User-curated tickers.",
+    "momentum":      "Top 5 S&P 500 by trailing 12-month return, rank-stable.",
+    "munger":        "Top 100 by market cap; buy when price dips to SMA200 then recovers above EMA15.",
+    "repurchase":    "Top 5 by trailing 12-month share buyback %; above 21d EMA.",
+    "watchlist":     "User-curated tickers.",
+    "quant_gbm_v7":  "XGBoost v7: 47 features — v6 + ni_qoq_growth + ni_acceleration + earn_ret_5d_to_20d; 5d target. Val ICIR 1.425. Tue/Fri only.",
 }
 
 _FEATURE_LABELS = {
@@ -56,6 +54,21 @@ _FEATURE_LABELS = {
     "log_ret_60d":       ("3-month return",        lambda v: f"{math.exp(v)-1:+.1%}"),
     "log_ret_20d":       ("1-month return",        lambda v: f"{math.exp(v)-1:+.1%}"),
     "vol_20d":           ("20d volatility (ann.)", lambda v: f"{v:.2f}"),
+}
+
+_FEATURE_LABELS_V7 = {
+    "predicted_score":    ("Predicted score",        lambda v: f"{v:+.4f}"),
+    "eps_surprise_pct":   ("EPS surprise",           lambda v: f"{v:+.1f}%"),
+    "earn_ret_5d":        ("Post-earn 5d return",    lambda v: f"{math.exp(v)-1:+.1%}"),
+    "earn_ret_5d_to_20d": ("Post-earn 5–20d drift",  lambda v: f"{math.exp(v)-1:+.1%}"),
+    "ni_yoy_growth":      ("NI YoY growth",          lambda v: f"{v:+.1f}%"),
+    "ni_qoq_growth":      ("NI QoQ growth",          lambda v: f"{v:+.3f}"),
+    "ni_acceleration":    ("NI accel (2nd deriv)",   lambda v: f"{v:+.3f}"),
+    "mkt_breadth_sma200": ("Mkt breadth SMA200",     lambda v: f"{v:.1%}"),
+    "sector_ret_126d":    ("Sector 126d return",     lambda v: f"{math.exp(v)-1:+.1%}"),
+    "log_ret_5d":         ("5d return",              lambda v: f"{math.exp(v)-1:+.1%}"),
+    "log_ret_60d":        ("3-month return",         lambda v: f"{math.exp(v)-1:+.1%}"),
+    "vol_20d":            ("20d volatility (ann.)",  lambda v: f"{v:.2f}"),
 }
 
 
@@ -542,11 +555,16 @@ def _print_model_review_section(
             print(f"    {h['ticker']:<8}  conviction {h.get('conviction', 0):.2f}"
                   f"  —  {h.get('rationale', '')}")
             meta = h.get("metadata", {})
-            if meta.get("quant_model") in ("gbm", "knn"):
+            if meta.get("quant_model") == "gbm_v7":
+                for feat_key, (label, fmt) in _FEATURE_LABELS_V7.items():
+                    val = meta.get(feat_key)
+                    if val is not None:
+                        print(f"             {label:<26} {fmt(val)}")
+            elif meta.get("quant_model") in ("gbm", "knn"):
                 for feat_key, (label, fmt) in _FEATURE_LABELS.items():
                     val = meta.get(feat_key)
                     if val is not None:
-                        print(f"             {label:<24} {fmt(val)}")
+                        print(f"             {label:<26} {fmt(val)}")
         print()
 
     if not rows and not sells_h:
@@ -591,7 +609,7 @@ def main() -> None:
             sell_models[ticker] = state["models"]
 
     # ── Scorecard header ─────────────────────────────────────────────────────
-    _print_scorecard_header(scorecards_raw)
+    _print_scorecard_header([sc for sc in scorecards_raw if sc.get("model") in enabled])
 
     print(f"\n{_hr('═')}")
     print(f"  MODEL REVIEW — {eval_date}")

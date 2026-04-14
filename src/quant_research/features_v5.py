@@ -10,6 +10,9 @@ v5 = v4b (v4 tech + earnings fundamentals) + v3-only additions:
 Built by inner-joining the existing v3 and v4 parquets on (ticker, date).
 No need to rerun the full price pipeline — depends on both parquets existing.
 
+All three forward targets (fwd_log_ret_5d/10d/20d) are carried through from the
+v4 parquet, enabling multi-window comparisons via train_compare_windows.py.
+
 Usage:
     python -m src.quant_research.features_v5
 """

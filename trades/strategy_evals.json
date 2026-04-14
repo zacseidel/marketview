@@ -12,8 +12,8 @@
         "occ_ticker": "O:SNDK260501C01050000",
         "option_type": "call",
         "entry_premium": 32.5,
-        "current_premium": 32.5,
-        "price_date": "2026-04-10"
+        "current_premium": 70.05,
+        "price_date": "2026-04-14"
       },
       "atm_leap": {
         "strike": 850.0,
@@ -21,8 +21,8 @@
         "occ_ticker": "O:SNDK270617C00850000",
         "option_type": "call",
         "entry_premium": 354.39,
-        "current_premium": 354.39,
-        "price_date": "2026-04-10"
+        "current_premium": 402,
+        "price_date": "2026-04-14"
       },
       "itm_leap": {
         "strike": 700.0,
@@ -30,8 +30,8 @@
         "occ_ticker": "O:SNDK270617C00700000",
         "option_type": "call",
         "entry_premium": 390,
-        "current_premium": 390,
-        "price_date": "2026-04-10"
+        "current_premium": 482.1,
+        "price_date": "2026-04-14"
       },
       "short_put": {
         "strike": 800.0,
@@ -39,46 +39,46 @@
         "occ_ticker": "O:SNDK260501P00800000",
         "option_type": "put",
         "entry_premium": 67,
-        "current_premium": 67,
-        "price_date": "2026-04-10"
+        "current_premium": 45.9,
+        "price_date": "2026-04-14"
       }
     },
     "strategies": {
       "covered_call": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": 0.07178771438136736,
+        "excess_ret": 0.06206268972916806,
+        "annualized_ret": 4.522626006026144
       },
       "leap_cc": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": 0.030774482891256984,
+        "excess_ret": 0.021049458239057683,
+        "annualized_ret": 1.93879242214919
       },
       "diagonal": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": 0.1420093390753303,
+        "excess_ret": 0.13228431442313102,
+        "annualized_ret": 8.94658836174581
       },
       "csp": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": 0.026033177046815823,
+        "excess_ret": 0.016308152394616526,
+        "annualized_ret": 1.6400901539493968
       },
       "naked_leap": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": 0.12605408699048287,
+        "excess_ret": 0.11632906233828358,
+        "annualized_ret": 7.941407480400421
       }
     },
-    "stock_log_ret": 0.0,
-    "stock_excess_ret": 0.0,
-    "stock_annualized_ret": 0.0,
-    "holding_days": 1,
+    "stock_log_ret": 0.11200840240852718,
+    "stock_excess_ret": 0.10228337775632788,
+    "stock_annualized_ret": 7.056529351737212,
+    "holding_days": 4,
     "eval_id": "SNDK_notional_-_momentum_2026-04-10_eval_1"
   },
   {
@@ -94,8 +94,8 @@
         "occ_ticker": "O:LITE260501C01100000",
         "option_type": "call",
         "entry_premium": 20,
-        "current_premium": 20,
-        "price_date": "2026-04-10"
+        "current_premium": 13.69,
+        "price_date": "2026-04-14"
       },
       "atm_leap": {
         "strike": 920.0,
@@ -104,7 +104,7 @@
         "option_type": "call",
         "entry_premium": 373.52,
         "current_premium": 373.52,
-        "price_date": "2026-04-10"
+        "price_date": "2026-04-14"
       },
       "itm_leap": {
         "strike": 800.0,
@@ -113,7 +113,7 @@
         "option_type": "call",
         "entry_premium": 380.41,
         "current_premium": 380.41,
-        "price_date": "2026-04-10"
+        "price_date": "2026-04-14"
       },
       "short_put": {
         "strike": 875.0,
@@ -121,46 +121,46 @@
         "occ_ticker": "O:LITE260501P00875000",
         "option_type": "put",
         "entry_premium": 76.89,
-        "current_premium": 76.89,
-        "price_date": "2026-04-10"
+        "current_premium": 80.7,
+        "price_date": "2026-04-14"
       }
     },
     "strategies": {
       "covered_call": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": -0.01878561920849847,
+        "excess_ret": -0.028510643860697765,
+        "annualized_ret": -1.1834940101354035
       },
       "leap_cc": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": 0.017691636873421943,
+        "excess_ret": 0.007966612221222644,
+        "annualized_ret": 1.1145731230255824
       },
       "diagonal": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": 0.01735634178924099,
+        "excess_ret": 0.007631317137041691,
+        "annualized_ret": 1.0934495327221823
       },
       "csp": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": -0.004363793225310658,
+        "excess_ret": -0.014088817877509957,
+        "annualized_ret": -0.2749189731945714
       },
       "naked_leap": {
         "active": true,
         "log_ret": 0.0,
-        "excess_ret": 0.0,
+        "excess_ret": -0.009725024652199299,
         "annualized_ret": 0.0
       }
     },
-    "stock_log_ret": 0.0,
-    "stock_excess_ret": 0.0,
-    "stock_annualized_ret": 0.0,
-    "holding_days": 1,
+    "stock_log_ret": -0.026002563958088528,
+    "stock_excess_ret": -0.035727588610287825,
+    "stock_annualized_ret": -1.6381615293595773,
+    "holding_days": 4,
     "eval_id": "LITE_notional_-_momentum_2026-04-10_eval_1"
   },
   {
@@ -176,8 +176,8 @@
         "occ_ticker": "O:WDC260501C00400000",
         "option_type": "call",
         "entry_premium": 8.52,
-        "current_premium": 8.52,
-        "price_date": "2026-04-10"
+        "current_premium": 9.6,
+        "price_date": "2026-04-14"
       },
       "atm_leap": {
         "strike": 350.0,
@@ -203,16 +203,16 @@
         "occ_ticker": "O:WDC260501P00320000",
         "option_type": "put",
         "entry_premium": 20.05,
-        "current_premium": 20.05,
-        "price_date": "2026-04-10"
+        "current_premium": 13.5,
+        "price_date": "2026-04-14"
       }
     },
     "strategies": {
       "covered_call": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": 0.032610319435814654,
+        "excess_ret": 0.022885294783615354,
+        "annualized_ret": 2.054450124456323
       },
       "leap_cc": {
         "active": false
@@ -222,18 +222,18 @@
       },
       "csp": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": 0.02026208055489394,
+        "excess_ret": 0.010537055902694643,
+        "annualized_ret": 1.2765110749583184
       },
       "naked_leap": {
         "active": false
       }
     },
-    "stock_log_ret": 0.0,
-    "stock_excess_ret": 0.0,
-    "stock_annualized_ret": 0.0,
-    "holding_days": 1,
+    "stock_log_ret": 0.035699390023344,
+    "stock_excess_ret": 0.025974365371144698,
+    "stock_annualized_ret": 2.249061571470672,
+    "holding_days": 4,
     "eval_id": "WDC_notional_-_momentum_2026-04-10_eval_1"
   },
   {
@@ -250,7 +250,7 @@
         "option_type": "call",
         "entry_premium": 14.15,
         "current_premium": 14.15,
-        "price_date": "2026-04-10"
+        "price_date": "2026-04-14"
       },
       "atm_leap": {
         "strike": 500.0,
@@ -276,16 +276,16 @@
         "occ_ticker": "O:CIEN260501P00480000",
         "option_type": "put",
         "entry_premium": 34.75,
-        "current_premium": 34.75,
-        "price_date": "2026-04-10"
+        "current_premium": 37.45,
+        "price_date": "2026-04-14"
       }
     },
     "strategies": {
       "covered_call": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": -0.015466357426717656,
+        "excess_ret": -0.025191382078916955,
+        "annualized_ret": -0.9743805178832123
       },
       "leap_cc": {
         "active": false
@@ -295,18 +295,18 @@
       },
       "csp": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": -0.005640879890085729,
+        "excess_ret": -0.015365904542285027,
+        "annualized_ret": -0.3553754330754009
       },
       "naked_leap": {
         "active": false
       }
     },
-    "stock_log_ret": 0.0,
-    "stock_excess_ret": 0.0,
-    "stock_annualized_ret": 0.0,
-    "holding_days": 1,
+    "stock_log_ret": -0.015466357426717656,
+    "stock_excess_ret": -0.025191382078916955,
+    "stock_annualized_ret": -0.9743805178832123,
+    "holding_days": 4,
     "eval_id": "CIEN_notional_-_momentum_2026-04-10_eval_1"
   },
   {
@@ -322,8 +322,8 @@
         "occ_ticker": "O:STX260501C00590000",
         "option_type": "call",
         "entry_premium": 12.4,
-        "current_premium": 12.4,
-        "price_date": "2026-04-10"
+        "current_premium": 13,
+        "price_date": "2026-04-14"
       },
       "atm_leap": {
         "strike": 500.0,
@@ -349,16 +349,16 @@
         "occ_ticker": "O:STX260501P00480000",
         "option_type": "put",
         "entry_premium": 32.42,
-        "current_premium": 32.42,
-        "price_date": "2026-04-10"
+        "current_premium": 28.04,
+        "price_date": "2026-04-14"
       }
     },
     "strategies": {
       "covered_call": {
         "active": true,
-        "log_ret": 0.0,
-        "excess_ret": 0.0,
-        "annualized_ret": 0.0
+        "log_ret": 0.023504955023414625,
+        "excess_ret": 0.013779930371215327,
+        "annualized_ret": 1.4808121664751215
       },
       "leap_cc": {
         "active": false
@@ -368,18 +368,18 @@
       },
       "csp": {
         "active": true,
-        "log_ret": -1.1102230246251565e-16,
-        "excess_ret": -1.1102230246251565e-16,
-        "annualized_ret": -2.7977620220553945e-14
+        "log_ret": 0.00908361873304235,
+        "excess_ret": -0.0006414059191569479,
+        "annualized_ret": 0.5722679801816681
       },
       "naked_leap": {
         "active": false
       }
     },
-    "stock_log_ret": 0.0,
-    "stock_excess_ret": 0.0,
-    "stock_annualized_ret": 0.0,
-    "holding_days": 1,
+    "stock_log_ret": 0.02467459139988638,
+    "stock_excess_ret": 0.014949566747687082,
+    "stock_annualized_ret": 1.5544992581928418,
+    "holding_days": 4,
     "eval_id": "STX_notional_-_momentum_2026-04-10_eval_1"
   }
 ]

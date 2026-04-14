@@ -130,19 +130,19 @@ Options strategy evaluation — used by `trades.py` (local CLI), not automated.
 
 ---
 
-## Enabled Models (as of 2026-04-10)
+## Enabled Models (as of 2026-04-14)
 
-| Model key | Class | Strategy | Val Sharpe | Exit rule |
+| Model key | Class | Strategy | Val Sharpe / ICIR | Exit rule |
 |---|---|---|---|---|
 | `momentum` | `MomentumModel` | Top 5 S&P 500 by 252d log return, rank-stable | — | 10d from last rec |
 | `munger` | `MungerModel` | Top 100 by mkt cap; touched SMA200, above EMA15 | — | 10d from last rec |
 | `repurchase` | `RepurchaseModel` | Top 5 by 12mo buyback %; above 21d EMA | — | 10d from last rec |
 | `watchlist` | `WatchlistModel` | User-curated tickers | — | 10d from last rec |
-| `quant_gbm` | `QuantModel` | LightGBM on 15 technical factors; 20d target | 0.794 | 10d from last rec |
-| `quant_gbm_v3` | `QuantModelV3` | LightGBM v3: 28 features incl. earnings + sector; 10d target | 1.125 | 10d from last rec |
-| `quant_gbm_v4` | `QuantModelV4` | XGBoost v4: 35 features (slope/R², dollar vol, earnings timing, sector 126d); Thursday cross-sectional rank target; 5d window; **Friday only** | — | 10d from last rec |
+| `quant_gbm_v3` | `QuantModelV3` | LightGBM v3: 28 features incl. earnings + sector; 10d target | Sharpe 1.125 | 10d from last rec |
+| `quant_gbm_v5` | `QuantModelV5` | XGBoost v5: 45 features — full union v3+v4; 5d raw target; **Tue/Fri** | ICIR ~2.8 | 10d from last rec |
+| `quant_gbm_v7` | `QuantModelV7` | XGBoost v7: 47 features — v6 + ni_qoq_growth + ni_acceleration (±3) + earn_ret_5d_to_20d; 5d raw target; **Tue/Fri** | ICIR 2.983 | 10d from last rec |
 
-Disabled: `thirteen_f` (stub), `buyback` (disabled).
+Disabled: `thirteen_f` (stub), `buyback`, `quant_gbm` (v1), `quant_gbm_v4`, `quant_gbm_v6` (superseded).
 
 **Time-based exit rule (all models):** A ticker stays in the portfolio as long as the model keeps recommending it. Each time it's recommended, `entry_eval_date` is reset to the current eval date. Once the model stops recommending it, it sells 10 trading days after the last recommendation.
 

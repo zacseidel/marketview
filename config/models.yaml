@@ -56,7 +56,7 @@ models:
       time_based_exit_days: 10
 
   quant_gbm:
-    enabled: true
+    enabled: false
     module: "src.selection.quant"
     class: "QuantModel"
     description: "LightGBM regression on 15 pure technical factors; trained on 10yr SP500/400 history; predicts 20d forward log return. Val Sharpe: 0.794, excess return +1.46%/period vs SPY."
@@ -66,7 +66,7 @@ models:
       time_based_exit_days: 10
 
   quant_gbm_v3:
-    enabled: true
+    enabled: false
     module: "src.selection.quant_v3"
     class: "QuantModelV3"
     description: "LightGBM v3: 28 technical (incl. log_ret_756d) + buyback + earnings + SPY market state + sector features; 10d forward log return target; trained on 10yr history. Val Sharpe: 1.125, excess return +0.84%/period vs SPY."
@@ -84,10 +84,28 @@ models:
       time_based_exit_days: 10
 
   quant_gbm_v5:
-    enabled: true
+    enabled: false
     module: "src.selection.quant_v5"
     class: "QuantModelV5"
-    description: "XGBoost v5: 45 features — full union of v3+v4b (tech + slope/R² + dollar vol + earnings fundamentals + buyback + sector 20d+126d + in_sp500); Thursday-weekly raw 5d return target. Val ICIR: 2.792, Sharpe: 4.369. Friday cycle only."
+    description: "XGBoost v5: 45 features — full union of v3+v4b (tech + slope/R² + dollar vol + earnings fundamentals + buyback + sector 20d+126d + in_sp500); Thursday-weekly raw 5d return target. Val ICIR: 2.792, Sharpe: 4.369. Friday cycle only. Superseded by v6."
+    params:
+      max_holdings: 5
+      time_based_exit_days: 10
+
+  quant_gbm_v6:
+    enabled: false
+    module: "src.selection.quant_v6"
+    class: "QuantModelV6"
+    description: "XGBoost v6: 44 features — v5 cleaned (R²/buyback/log_price dropped) + expanded market regime (SPY×5 + breadth×2) + richer sector (20d/60d/126d); Thursday-weekly raw 5d return target. Val ICIR: 2.431, Sharpe: 4.607. Friday cycle only."
+    params:
+      max_holdings: 5
+      time_based_exit_days: 10
+
+  quant_gbm_v7:
+    enabled: true
+    module: "src.selection.quant_v7"
+    class: "QuantModelV7"
+    description: "XGBoost v7: 47 features — v6 + ni_qoq_growth (clipped ±3) + ni_acceleration (clipped ±3) + earn_ret_5d_to_20d (leakage-masked); Thursday-weekly raw 5d return target. Val ICIR: 2.983, Sharpe: 4.338. Friday cycle only."
     params:
       max_holdings: 5
       time_based_exit_days: 10
