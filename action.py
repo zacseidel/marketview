@@ -1,13 +1,9 @@
 """
-action.py — Pre-decision pipeline
+action.py — Model pipeline
 
-Run this Mon/Thu evening to download prices, process the queue,
-run all selection models, and regenerate the dashboard.
-
-After this completes:
-  1. Review decisions/pending/YYYY-MM-DD.md (or run: python review.py)
-  2. Check boxes for buys you want, uncheck any sells you want to keep
-  3. Commit and push — triggers process-decisions workflow on GitHub
+Run on Tue/Fri: downloads prices, processes the queue, refreshes earnings,
+runs all selection models, and regenerates the dashboard. Prints a
+recommendations summary when the pipeline finishes.
 
 Usage:
     python action.py
@@ -25,12 +21,11 @@ from pathlib import Path
 _ROOT = Path(__file__).parent.resolve()
 
 STEPS = [
-    ("Download prices",         ["python", "-m", "src.universe.ingestion"]),
-    ("Process work queue",      ["python", "-m", "src.collection.process_queue"]),
-    ("Refresh earnings data",   ["python", "-m", "src.collection.earnings_refresh"]),
-    ("Run selection models",    ["python", "-m", "src.selection.runner"]),
-    ("Update model scorecards", ["python", "-m", "src.tracking.model_scorecard"]),
-    ("Regenerate dashboard",    ["python", "-m", "src.reports.daily"]),
+    ("Download prices",      ["python", "-m", "src.universe.ingestion"]),
+    ("Process work queue",   ["python", "-m", "src.collection.process_queue"]),
+    ("Refresh earnings data",["python", "-m", "src.collection.earnings_refresh"]),
+    ("Run selection models", ["python", "-m", "src.selection.runner"]),
+    ("Regenerate dashboard", ["python", "-m", "src.reports.daily"]),
 ]
 
 
@@ -125,10 +120,92 @@ def _check_fundamentals() -> None:
         print(f"  Skipping — run manually when convenient.\n")
 
 
+def _print_recommendations() -> None:
+    """Print a concise summary of the latest model recommendations."""
+    models_dir = _ROOT / "data.nosync/models"
+    if not models_dir.exists():
+        return
+    eval_dirs = sorted(
+        [d for d in models_dir.iterdir() if d.is_dir() and d.name[0].isdigit()],
+        reverse=True,
+    )
+    if not eval_dirs:
+        return
+    latest = eval_dirs[0]
+
+    # Load price changes for 1W return column
+    prices_dir = _ROOT / "data.nosync/prices"
+    price_files = sorted(f for f in prices_dir.glob("*.json") if f.stem[0].isdigit())
+    populated = [f for f in reversed(price_files) if f.stat().st_size > 2][:6]
+    week_rets: dict[str, float] = {}
+    if len(populated) >= 2:
+        import math
+        with open(populated[-1]) as f:
+            early = {r["ticker"]: r["close"] for r in json.load(f) if r.get("close")}
+        with open(populated[0]) as f:
+            latest_prices = {r["ticker"]: r["close"] for r in json.load(f) if r.get("close")}
+        week_rets = {
+            t: math.log(latest_prices[t] / early[t])
+            for t in latest_prices if t in early and early[t] > 0
+        }
+
+    print(f"\n{'═'*64}")
+    print(f"  RECOMMENDATIONS — {latest.name}")
+    print(f"{'═'*64}")
+
+    # Track confluence
+    ticker_models: dict[str, list[str]] = {}
+
+    for json_file in sorted(latest.glob("*.json")):
+        if json_file.stem.endswith("_ranks"):
+            continue
+        with open(json_file) as f:
+            holdings = json.load(f)
+
+        active = [h for h in holdings if h.get("status") != "sell"]
+        sells  = [h for h in holdings if h.get("status") == "sell"]
+        new_count = sum(1 for h in active if h.get("status") == "new_buy")
+
+        for h in active:
+            ticker_models.setdefault(h["ticker"], []).append(json_file.stem)
+
+        header = f"  {json_file.stem.upper()}"
+        counts = f"{len(active)} holding{'s' if len(active) != 1 else ''}"
+        if new_count:
+            counts += f"  (+{new_count} new)"
+        if not active and not sells:
+            print(f"\n{header}  — no signals")
+            continue
+        print(f"\n{header}  {counts}")
+
+        status_label = {"new_buy": "NEW ", "hold": "HOLD", "sell": "SELL"}
+        for h in sorted(active, key=lambda x: -x.get("conviction", 0)):
+            status = status_label.get(h.get("status", "hold"), "    ")
+            rat = h.get("rationale", "")[:62]
+            ret = week_rets.get(h["ticker"])
+            ret_str = f"  {ret:+.1%}" if ret is not None else ""
+            print(f"    {status}  {h['ticker']:<7}{ret_str:<9}  {rat}")
+
+        if sells:
+            sell_tickers = ", ".join(h["ticker"] for h in sells)
+            print(f"    EXIT  {sell_tickers}")
+
+    # Confluence
+    multi = {t: m for t, m in ticker_models.items() if len(m) >= 2}
+    if multi:
+        print(f"\n  Confluence:")
+        for ticker, mods in sorted(multi.items(), key=lambda x: -len(x[1])):
+            ret = week_rets.get(ticker)
+            ret_str = f" {ret:+.1%}" if ret is not None else ""
+            print(f"    {ticker}{ret_str}  —  {', '.join(sorted(mods))}")
+
+    print(f"\n{'═'*64}\n")
+
+
 _PREFLIGHTS: dict[str, object] = {
-    "Download prices":      _prices_preflight,
-    "Process work queue":   _queue_preflight,
-    "Run selection models": _models_preflight,
+    "Download prices":     _prices_preflight,
+    "Process work queue":  _queue_preflight,
+    "Run selection models":_models_preflight,
 }
 
 
@@ -159,7 +236,7 @@ def run() -> None:
         sys.exit(1)
 
     print(f"=== Done in {total:.0f}s ===")
-    print("Next: python review.py  (or review decisions/pending/ and push your approved checkboxes.)")
+    _print_recommendations()
 
 
 if __name__ == "__main__":

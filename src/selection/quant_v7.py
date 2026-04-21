@@ -77,7 +77,7 @@ def _attach_extra_earnings(
     rows = feat_df.copy()
 
     for field in _EXTRA_EARNINGS_FIELDS:
-        rows[field] = None
+        rows[field] = np.nan
 
     for idx, row in rows.iterrows():
         ticker = str(row["ticker"])
@@ -99,7 +99,7 @@ def _attach_extra_earnings(
     # NaN days_since_earnings means >20 days ago → full window elapsed → safe.
     days_since = rows.get("days_since_earnings")
     if days_since is not None and "earn_ret_5d_to_20d" in rows.columns:
-        rows.loc[rows["days_since_earnings"].notna(), "earn_ret_5d_to_20d"] = None
+        rows.loc[rows["days_since_earnings"].notna(), "earn_ret_5d_to_20d"] = np.nan
 
     # earn_ret_5d: NOT masked — behavior must be identical to v6 (unmasked).
     # Masking 0–4 day rows removes genuine PEAD signal that v6 captures.
@@ -154,11 +154,20 @@ class QuantModelV7(SelectionModel):
         feat_df = _attach_extra_earnings(feat_df, as_of, earnings_cache)
 
         # Score
+        import xgboost as xgb
         df_score = feat_df.copy()
-        cat_type = pd.CategoricalDtype(categories=sector_categories, ordered=False)
-        df_score["sector"] = df_score["sector"].astype(cat_type)
+
+        # Cast all numeric features to float64 — some (e.g. days_since_earnings)
+        # may land as object dtype when the column is all-NaN.
+        for col in FEATURE_COLS_V7:
+            df_score[col] = pd.to_numeric(df_score[col], errors="coerce").astype("float64")
+
+        # XGBoost 2.x requires pd.Categorical (not CategoricalDtype) for enable_categorical.
+        df_score["sector"] = pd.Categorical(df_score["sector"], categories=sector_categories)
+
         all_cols = FEATURE_COLS_V7 + CATEGORICAL_COLS_V7
-        predicted = model.predict(df_score.reindex(columns=all_cols))
+        dmatrix = xgb.DMatrix(df_score.reindex(columns=all_cols), enable_categorical=True)
+        predicted = model.get_booster().predict(dmatrix)
         feat_df = feat_df.copy()
         feat_df["predicted_score"] = predicted
 

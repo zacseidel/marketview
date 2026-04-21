@@ -33,15 +33,13 @@ _UNIVERSE_FILE    = _ROOT / "data.nosync/universe/constituents.json"
 _FUNDAMENTALS_DIR = _ROOT / "data.nosync/fundamentals"
 _PRICES_DIR       = _ROOT / "data.nosync/prices"
 _DECISIONS_DIR    = _ROOT / "decisions/pending"
-_POSITIONS_FILE   = _ROOT / "data.nosync/positions/positions.json"
-_SCORECARDS_DIR   = _ROOT / "data.nosync/models/scorecards"
 
 _MODEL_DESCRIPTIONS = {
     "momentum":      "Top 5 S&P 500 by trailing 12-month return, rank-stable.",
     "munger":        "Top 100 by market cap; buy when price dips to SMA200 then recovers above EMA15.",
     "repurchase":    "Top 5 by trailing 12-month share buyback %; above 21d EMA.",
     "watchlist":     "User-curated tickers.",
-    "quant_gbm_v7":  "XGBoost v7: 47 features — v6 + ni_qoq_growth + ni_acceleration + earn_ret_5d_to_20d; 5d target. Val ICIR 1.425. Tue/Fri only.",
+    "quant_gbm_v7":  "XGBoost v7: 47 features — v6 + ni_qoq_growth + ni_acceleration + earn_ret_5d_to_20d; 5d target. Val ICIR 2.983. Tue/Fri only.",
 }
 
 _FEATURE_LABELS = {
@@ -129,15 +127,15 @@ def _recent_return(ticker: str, n_days: int = 5) -> float | None:
     return prices[0] / prices[min(n_days, len(prices) - 1)] - 1
 
 
-def _load_enabled_model_names() -> set[str]:
+def _load_enabled_model_names() -> list[str]:
     if not _MODELS_CONFIG.exists():
-        return set()
+        return []
     with open(_MODELS_CONFIG) as f:
         cfg = yaml.safe_load(f)
-    return {name for name, mc in cfg.get("models", {}).items() if mc.get("enabled", False)}
+    return [name for name, mc in cfg.get("models", {}).items() if mc.get("enabled", False)]
 
 
-def _load_model_holdings(eval_date: str, enabled_only: set[str] | None = None) -> dict[str, list[dict]]:
+def _load_model_holdings(eval_date: str, enabled_only: list[str] | None = None) -> dict[str, list[dict]]:
     model_dir = _MODELS_DIR / eval_date
     if not model_dir.exists():
         return {}
@@ -157,33 +155,6 @@ def _latest_eval_date() -> str | None:
         return None
     dirs = sorted(d for d in _MODELS_DIR.iterdir() if d.is_dir() and d.name[0].isdigit())
     return dirs[-1].name if dirs else None
-
-
-def _load_open_positions() -> list[dict]:
-    if not _POSITIONS_FILE.exists():
-        return []
-    with open(_POSITIONS_FILE) as f:
-        positions = json.load(f)
-    return [p for p in positions if p.get("status") == "open"]
-
-
-def _load_scorecards() -> list[dict]:
-    if not _SCORECARDS_DIR.exists():
-        return []
-    result = []
-    for f in _SCORECARDS_DIR.glob("*.json"):
-        try:
-            with open(f) as fp:
-                data = json.load(fp)
-            if data.get("signal_count", 0) > 0:
-                result.append(data)
-        except Exception:
-            continue
-    return sorted(
-        result,
-        key=lambda d: d.get("avg_excess_return") or d.get("avg_return") or -999,
-        reverse=True,
-    )
 
 
 def _parse_decision_file(path: Path) -> dict:
@@ -212,7 +183,6 @@ def _parse_decision_file(path: Path) -> dict:
             continue
         checked = m.group(1).lower() == "x"
         ticker  = m.group(2).upper()
-        # Extract model names from the rest of the line
         rest = line[m.end():]
         model_names = re.findall(r'\b(\w+)\s+\([\d.]+\)', rest)
         result[ticker] = {"section": section, "checked": checked, "models": model_names}
@@ -244,54 +214,11 @@ def _ret_str(r: float | None, width: int = 7) -> str:
     return f"{sign}{r:.1%}".rjust(width)
 
 
-def _ret_str_log(r: float | None) -> str:
-    """Format a log return as a percentage string."""
-    if r is None:
-        return "   —  "
-    sign = "+" if r >= 0 else ""
-    return f"{sign}{r:.2%}"
-
-
-# ---------------------------------------------------------------------------
-# Model scorecard header
-# ---------------------------------------------------------------------------
-
-def _print_scorecard_header(scorecards: list[dict]) -> None:
-    print(f"\n{_hr('═')}")
-    print("  MODEL PERFORMANCE")
-    print(_hr("═"))
-    if not scorecards:
-        print("  No scorecard data yet — run: python -m src.tracking.model_scorecard")
-        return
-
-    print(f"  {'Model':<16} {'Signals':>7}  {'Closed':>6}  {'Avg Ret':>8}  {'SPY':>8}  {'Alpha':>8}  {'Beat%':>6}")
-    print(f"  {'─'*16} {'─'*7}  {'─'*6}  {'─'*8}  {'─'*8}  {'─'*8}  {'─'*6}")
-    for sc in scorecards:
-        model  = sc.get("model", "?")
-        sigs   = sc.get("signal_count", 0)
-        closed = sc.get("closed_count", 0)
-        avg_r  = sc.get("avg_return")
-        avg_s  = sc.get("avg_spy_return")
-        alpha  = sc.get("avg_excess_return")
-        beat   = sc.get("beat_spy_rate")
-        thin   = " *" if closed < 5 else "  "
-
-        avg_r_s  = _ret_str_log(avg_r)
-        avg_s_s  = _ret_str_log(avg_s)
-        alpha_s  = _ret_str_log(alpha) if alpha is not None else "   —  "
-        beat_s   = f"{beat:.0%}" if beat is not None else "  —  "
-        print(f"  {model:<16} {sigs:>7}  {closed:>4}{thin}  {avg_r_s:>8}  {avg_s_s:>8}  {alpha_s:>8}  {beat_s:>6}")
-    print(f"  {'─'*16}")
-    print("  * fewer than 5 closed positions — interpret with caution")
-    print("  Alpha = Avg Return − SPY return over same holding windows (log returns)")
-
-
 # ---------------------------------------------------------------------------
 # Overrides log
 # ---------------------------------------------------------------------------
 
 def _record_overrides(vetoed_buys: list[tuple[str, list[str]]], kept_sells: list[tuple[str, list[str]]], eval_date: str) -> None:
-    """Record overrides. Runs inside review.py to avoid circular imports."""
     try:
         from src.tracking.overrides import record_override
         for ticker, models in vetoed_buys:
@@ -365,12 +292,18 @@ def _print_stock_detail(ticker: str, universe: dict, all_holdings: dict[str, lis
             print(f"  {model_name.upper()} {status_tag}  conviction={h['conviction']:.2f}")
             print(f"    {h.get('rationale', '')}")
             meta = h.get("metadata", {})
-            if meta.get("quant_model") in ("gbm", "knn"):
+            if meta.get("quant_model") == "gbm_v7":
+                print(f"    {'─'*50}")
+                for feat_key, (label, fmt) in _FEATURE_LABELS_V7.items():
+                    val = meta.get(feat_key)
+                    if val is not None:
+                        print(f"    {label:<26} {fmt(val)}")
+            elif meta.get("quant_model") in ("gbm", "knn"):
                 print(f"    {'─'*50}")
                 for feat_key, (label, fmt) in _FEATURE_LABELS.items():
                     val = meta.get(feat_key)
                     if val is not None:
-                        print(f"    {label:<24} {fmt(val)}")
+                        print(f"    {label:<26} {fmt(val)}")
             print()
 
     print(_hr())
@@ -433,10 +366,6 @@ def _update_markdown(
     vetoed_buys: set[str],
     kept_sells: set[str],
 ) -> None:
-    """
-    Uncheck vetoed new buys and unchecked-to-keep overridden sells.
-    All other checkboxes remain unchanged.
-    """
     lines = path.read_text().splitlines()
     updated = []
     section = None
@@ -455,17 +384,13 @@ def _update_markdown(
             rest   = line[6:].strip()
             ticker = rest.split()[0]
             if section == "new_buy" and ticker in vetoed_buys:
-                line = "- [ ] " + rest   # uncheck = veto
+                line = "- [ ] " + rest
             elif section == "sell" and ticker in kept_sells:
-                line = "- [ ] " + rest   # uncheck = override sell, keep holding
+                line = "- [ ] " + rest
         updated.append(line)
 
     path.write_text("\n".join(updated) + "\n")
 
-
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
 
 # ---------------------------------------------------------------------------
 # Per-model review section
@@ -473,10 +398,8 @@ def _update_markdown(
 
 def _print_model_review_section(
     model_name: str,
-    sc: dict | None,
     holdings_today: list[dict],
 ) -> None:
-    """Print the full review block for one model."""
     desc = _MODEL_DESCRIPTIONS.get(model_name, "")
     print(f"\n{_hr('═')}")
     print(f"  {model_name.upper()}")
@@ -484,63 +407,9 @@ def _print_model_review_section(
         print(f"  {desc}")
     print(_hr("─"))
 
-    # One-line scorecard summary
-    if sc and sc.get("signal_count", 0) > 0:
-        sigs  = sc.get("signal_count", 0)
-        avg_r = sc.get("avg_return")
-        alpha = sc.get("avg_excess_return")
-        beat  = sc.get("beat_spy_rate")
-        beat_s = f"{beat:.0%}" if beat is not None else "—"
-        print(f"  {sigs} signals  |  avg return {_ret_str_log(avg_r)}  "
-              f"|  alpha {_ret_str_log(alpha)}  |  beat SPY {beat_s}")
-    else:
-        print("  No scorecard data yet.")
-    print()
-
-    new_buys_h  = [h for h in holdings_today if h.get("status") == "new_buy"]
+    new_buys_h  = sorted([h for h in holdings_today if h.get("status") == "new_buy"], key=lambda h: -h.get("conviction", 0))
     sells_h     = [h for h in holdings_today if h.get("status") == "sell"]
-    sell_tickers = {h["ticker"] for h in sells_h}
-    new_tickers  = {h["ticker"] for h in new_buys_h}
 
-    # Current theoretical open positions (scorecard), excluding today's exits
-    open_pos = [p for p in (sc or {}).get("positions", [])
-                if p.get("status") == "open" and p["ticker"] not in sell_tickers]
-
-    # Holdings table: current holds + new buys (marked)
-    rows = []
-    for p in open_pos:
-        rows.append({
-            "ticker":     p["ticker"],
-            "entry_date": p.get("entry_date", "?"),
-            "days":       p.get("days", 0) or 0,
-            "log_ret":    p.get("log_ret"),
-            "alpha":      p.get("alpha"),
-            "new":        False,
-        })
-    for h in new_buys_h:
-        rows.append({
-            "ticker":     h["ticker"],
-            "entry_date": "today",
-            "days":       0,
-            "log_ret":    None,
-            "alpha":      None,
-            "new":        True,
-        })
-    # Sort: existing holds by alpha desc, new buys appended at bottom
-    rows.sort(key=lambda r: (r["new"], -(r["alpha"] or 0)))
-
-    if rows:
-        count_after = len(rows)
-        print(f"  Portfolio after this run ({count_after} positions):")
-        print(f"  {'Ticker':<8} {'Entry':>11}  {'Days':>4}  {'Return':>8}  {'vs SPY':>8}")
-        print(f"  {_hr('─', 48)}")
-        for r in rows:
-            tag = "  ← NEW" if r["new"] else ""
-            print(f"  {r['ticker']:<8} {r['entry_date']:>11}  {r['days']:>4}  "
-                  f"{_ret_str_log(r['log_ret']):>8}  {_ret_str_log(r['alpha']):>8}{tag}")
-        print()
-
-    # Exits
     if sells_h:
         print(f"  Exiting ({len(sells_h)}):  {', '.join(h['ticker'] for h in sells_h)}")
         for h in sells_h:
@@ -548,7 +417,6 @@ def _print_model_review_section(
                 print(f"    {h['ticker']}  {h['rationale']}")
         print()
 
-    # New buy detail (conviction + rationale + quant features)
     if new_buys_h:
         print(f"  New buy detail:")
         for h in new_buys_h:
@@ -567,8 +435,8 @@ def _print_model_review_section(
                         print(f"             {label:<26} {fmt(val)}")
         print()
 
-    if not rows and not sells_h:
-        print("  No holdings and no signals this run.")
+    if not new_buys_h and not sells_h:
+        print("  No new signals this run.")
         print()
 
 
@@ -595,8 +463,6 @@ def main() -> None:
     universe       = _load_universe()
     enabled        = _load_enabled_model_names()
     all_holdings   = _load_model_holdings(eval_date, enabled_only=enabled)
-    scorecards_raw = _load_scorecards()
-    sc_by_model    = {sc["model"]: sc for sc in scorecards_raw}
     decision_state = _parse_decision_file(decision_file)
 
     # Build model attribution maps from decision file
@@ -608,21 +474,14 @@ def main() -> None:
         elif state["section"] == "sell":
             sell_models[ticker] = state["models"]
 
-    # ── Scorecard header ─────────────────────────────────────────────────────
-    _print_scorecard_header([sc for sc in scorecards_raw if sc.get("model") in enabled])
-
     print(f"\n{_hr('═')}")
     print(f"  MODEL REVIEW — {eval_date}")
     print(_hr("═"))
     print("  Default: all model signals accepted (actual portfolio mirrors theoretical).")
     print("  Type ?TICKER to research. Press Enter to advance. Type  y  to add exceptions.")
 
-    # Order models by alpha desc (best alpha first), models with no scorecard last
-    ordered_models = sorted(
-        [m for m in all_holdings if m in enabled],
-        key=lambda m: sc_by_model.get(m, {}).get("avg_excess_return") or -999,
-        reverse=True,
-    )
+    # Order models by config order (same as runner.py)
+    ordered_models = [m for m in enabled if m in all_holdings]
 
     # ── Per-model review loop ────────────────────────────────────────────────
     vetoed_buys: set[str] = set()
@@ -630,9 +489,8 @@ def main() -> None:
 
     for model_name in ordered_models:
         holdings_today = all_holdings.get(model_name, [])
-        sc = sc_by_model.get(model_name)
 
-        _print_model_review_section(model_name, sc, holdings_today)
+        _print_model_review_section(model_name, holdings_today)
 
         new_buys_m = [h["ticker"] for h in holdings_today if h.get("status") == "new_buy"]
         sells_m    = [h["ticker"] for h in holdings_today if h.get("status") == "sell"]

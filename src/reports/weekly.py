@@ -3,12 +3,9 @@ src/reports/weekly.py
 
 Generates the weekly digest as docs/weekly.md.
 
-Covers the trailing 7 days ending on week_ending (default: most recent Saturday):
-  - Decisions made (buys/sells approved)
-  - Model activity (new buys, exits, hold counts)
-  - Model scorecards (hit rate, avg return)
-  - Portfolio summary (open/closed positions, P&L)
-  - Strategy returns table (all-time)
+Covers the trailing 7 days ending on week_ending (default: most recent Saturday).
+For each model eval date in the window, shows every model's full pick list
+with 1-week price change per ticker.
 
 Called by weekly-digest.yml workflow (Saturday 10 AM ET).
 
@@ -20,6 +17,7 @@ Entry point:
 from __future__ import annotations
 
 import json
+import math
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -27,12 +25,9 @@ import structlog
 
 log = structlog.get_logger()
 
-_DOCS_DIR = Path("docs")
+_DOCS_DIR   = Path("docs")
 _MODELS_DIR = Path("data.nosync/models")
-_DECISIONS_DIR = Path("data.nosync/decisions")
-_POSITIONS_FILE = Path("data.nosync/positions/positions.json")
-_SCORECARDS_DIR = Path("data.nosync/models/scorecards")
-_RETURNS_FILE = Path("data.nosync/strategy_observations/returns.json")
+_PRICES_DIR = Path("data.nosync/prices")
 
 
 def _week_range(week_ending: str) -> tuple[str, str]:
@@ -41,58 +36,49 @@ def _week_range(week_ending: str) -> tuple[str, str]:
     return start.isoformat(), week_ending
 
 
-def _load_week_decisions(week_start: str, week_end: str) -> list[dict]:
-    if not _DECISIONS_DIR.exists():
-        return []
-    records: list[dict] = []
-    for f in sorted(_DECISIONS_DIR.glob("*.json")):
-        if week_start <= f.stem <= week_end:
-            with open(f) as fp:
-                records.extend(json.load(fp))
-    return records
-
-
-def _load_week_model_evals(week_start: str, week_end: str) -> dict[str, list[dict]]:
-    """Collect model holdings from eval dirs that fall within the week."""
+def _load_week_model_evals(week_start: str, week_end: str) -> dict[str, dict[str, list[dict]]]:
+    """
+    Returns {eval_date: {model_name: [holding, ...]}} for all eval dirs in the week.
+    """
     if not _MODELS_DIR.exists():
         return {}
-    result: dict[str, list[dict]] = {}
-    for d in _MODELS_DIR.iterdir():
-        if d.is_dir() and week_start <= d.name <= week_end:
-            for json_file in sorted(d.glob("*.json")):
-                model = json_file.stem
-                with open(json_file) as f:
-                    holdings = json.load(f)
-                result.setdefault(model, []).extend(holdings)
+    result: dict[str, dict[str, list[dict]]] = {}
+    for d in sorted(_MODELS_DIR.iterdir()):
+        if not d.is_dir() or not d.name[0].isdigit():
+            continue
+        if not (week_start <= d.name <= week_end):
+            continue
+        models: dict[str, list[dict]] = {}
+        for json_file in sorted(d.glob("*.json")):
+            if json_file.stem.endswith("_ranks"):
+                continue
+            with open(json_file) as f:
+                models[json_file.stem] = json.load(f)
+        if models:
+            result[d.name] = models
     return result
 
 
-def _load_scorecards() -> dict[str, dict]:
-    if not _SCORECARDS_DIR.exists():
+def _load_week_price_changes(week_start: str, week_end: str) -> dict[str, float]:
+    """
+    Returns {ticker: log_return} using the first and last populated price files
+    within [week_start, week_end].
+    """
+    files = sorted(
+        f for f in _PRICES_DIR.glob("*.json")
+        if f.stem[0].isdigit() and week_start <= f.stem <= week_end and f.stat().st_size > 2
+    )
+    if len(files) < 2:
         return {}
-    result: dict[str, dict] = {}
-    for f in sorted(_SCORECARDS_DIR.glob("*.json")):
-        with open(f) as fp:
-            data = json.load(fp)
-        result[data["model"]] = data
-    return result
-
-
-def _load_positions() -> tuple[list[dict], list[dict]]:
-    if not _POSITIONS_FILE.exists():
-        return [], []
-    with open(_POSITIONS_FILE) as f:
-        positions = json.load(f)
-    open_pos = [p for p in positions if p.get("status") == "open"]
-    closed_pos = [p for p in positions if p.get("status") == "closed"]
-    return open_pos, closed_pos
-
-
-def _load_strategy_returns() -> dict:
-    if not _RETURNS_FILE.exists():
-        return {}
-    with open(_RETURNS_FILE) as f:
-        return json.load(f)
+    with open(files[0]) as f:
+        early = {r["ticker"]: r["close"] for r in json.load(f) if r.get("close")}
+    with open(files[-1]) as f:
+        latest = {r["ticker"]: r["close"] for r in json.load(f) if r.get("close")}
+    return {
+        t: math.log(latest[t] / early[t])
+        for t in latest
+        if t in early and early[t] > 0
+    }
 
 
 def generate_weekly_digest(week_ending: str | None = None) -> str:
@@ -102,119 +88,75 @@ def generate_weekly_digest(week_ending: str | None = None) -> str:
     """
     if week_ending is None:
         today = date.today()
-        # Saturday = weekday 5; shift back to most recent Saturday
         days_since_saturday = (today.weekday() - 5) % 7
         week_ending = (today - timedelta(days=days_since_saturday)).isoformat()
 
     week_start, week_end = _week_range(week_ending)
 
-    decisions = _load_week_decisions(week_start, week_end)
-    model_evals = _load_week_model_evals(week_start, week_end)
-    scorecards = _load_scorecards()
-    open_pos, closed_pos = _load_positions()
-    strategy_returns = _load_strategy_returns()
-
-    buys = [d for d in decisions if d.get("action") == "buy" and d.get("user_approved")]
-    sells = [d for d in decisions if d.get("action") == "sell" and d.get("user_approved")]
+    evals        = _load_week_model_evals(week_start, week_end)
+    price_changes = _load_week_price_changes(week_start, week_end)
 
     lines: list[str] = [
-        f"# Weekly Digest — Week ending {week_end}",
+        f"# Weekly Model Report — Week ending {week_end}",
         f"_Period: {week_start} → {week_end}_",
         "",
     ]
 
-    # --- Decisions ---
-    lines += ["## Decisions This Week", ""]
-
-    if buys:
-        lines.append(f"**Buys ({len(buys)}):**")
-        for d in buys:
-            models_str = ", ".join(d.get("recommending_models", []))
-            price_str = f"${d['execution_price']:.2f}" if d.get("execution_price") else "pending"
-            lines.append(f"- {d['ticker']} — {price_str} | {models_str}")
-    else:
-        lines.append("_No buys this week._")
-    lines.append("")
-
-    if sells:
-        lines.append(f"**Sells ({len(sells)}):**")
-        for d in sells:
-            price_str = f"${d['execution_price']:.2f}" if d.get("execution_price") else "pending"
-            lines.append(f"- {d['ticker']} — {price_str}")
-    else:
-        lines.append("_No sells this week._")
-    lines.append("")
-
-    # --- Model Activity ---
-    lines += ["## Model Activity", ""]
-    if model_evals:
-        for model, holdings in sorted(model_evals.items()):
-            new_buys = [h for h in holdings if h.get("status") == "new_buy"]
-            exits = [h for h in holdings if h.get("status") == "sell"]
-            holds = [h for h in holdings if h.get("status") == "hold"]
-            lines.append(
-                f"**{model}**: {len(holds)} holds, "
-                f"+{len(new_buys)} new buys, "
-                f"-{len(exits)} exits"
-            )
-            if new_buys:
-                tickers = ", ".join(h["ticker"] for h in new_buys[:10])
-                lines.append(f"  _New: {tickers}_")
-    else:
+    if not evals:
         lines.append("_No model evaluations this week._")
-    lines.append("")
-
-    # --- Model Scorecards ---
-    lines += ["## Model Scorecards", ""]
-    if scorecards:
-        lines.append("| Model | Signals | Hit Rate | Avg Return |")
-        lines.append("|---|---|---|---|")
-        for model, sc in sorted(scorecards.items()):
-            hit_str = f"{sc['hit_rate']*100:.1f}%" if sc.get("hit_rate") is not None else "—"
-            avg_str = f"{sc['avg_return']*100:+.2f}%" if sc.get("avg_return") is not None else "—"
-            lines.append(f"| {model} | {sc.get('signal_count', 0)} | {hit_str} | {avg_str} |")
     else:
-        lines.append("_No scorecards yet — run `python -m src.tracking.model_scorecard`._")
-    lines.append("")
+        for eval_date, models in sorted(evals.items()):
+            lines += [f"## {eval_date}", ""]
 
-    # --- Portfolio Summary ---
-    total_unrealized = sum(p.get("unrealized_pnl") or 0.0 for p in open_pos)
-    total_realized = sum(p.get("realized_pnl") or 0.0 for p in closed_pos)
+            for model_name, holdings in sorted(models.items()):
+                active = [h for h in holdings if h.get("status") != "sell"]
+                exits  = [h for h in holdings if h.get("status") == "sell"]
+                new_count  = sum(1 for h in active if h.get("status") == "new_buy")
+                hold_count = sum(1 for h in active if h.get("status") == "hold")
 
-    lines += ["## Portfolio", ""]
-    lines.append(f"- Open positions: {len(open_pos)}")
-    lines.append(f"- Closed positions: {len(closed_pos)}")
-    lines.append(f"- Unrealized P&L: ${total_unrealized:+.2f}")
-    lines.append(f"- Realized P&L: ${total_realized:+.2f}")
-    lines.append(f"- Total P&L: ${total_unrealized + total_realized:+.2f}")
-    lines.append("")
+                header = f"### {model_name} — {hold_count} hold"
+                if new_count:
+                    header += f", +{new_count} new"
+                if exits:
+                    header += f", -{len(exits)} exit"
+                lines += [header, ""]
 
-    if open_pos:
-        lines.append("**Open positions:**")
-        for p in sorted(open_pos, key=lambda x: x.get("entry_date", ""), reverse=True):
-            pnl = p.get("unrealized_pnl")
-            pnl_str = f"${pnl:+.2f}" if pnl is not None else "—"
-            lines.append(
-                f"- {p['ticker']} ({p.get('strategy','stock')}) "
-                f"entered {p['entry_date']} @ ${p.get('entry_price',0):.2f} — {pnl_str}"
-            )
+                if active:
+                    lines.append("| Ticker | Status | 1W Return | Rationale |")
+                    lines.append("|---|---|---|---|")
+                    for h in sorted(active, key=lambda x: -x.get("conviction", 0)):
+                        ret = price_changes.get(h["ticker"])
+                        ret_str = f"{math.exp(ret)-1:+.1%}" if ret is not None else "—"
+                        status  = h.get("status", "hold").upper().replace("_", " ")
+                        rat     = h.get("rationale", "").replace("|", "\\|")
+                        if len(rat) > 80:
+                            rat = rat[:77] + "…"
+                        lines.append(f"| {h['ticker']} | {status} | {ret_str} | {rat} |")
+                    lines.append("")
+
+                if exits:
+                    exit_tickers = ", ".join(h["ticker"] for h in exits)
+                    lines.append(f"_Exits: {exit_tickers}_")
+                    lines.append("")
+
+        # Multi-model confluence across all eval dates in the week
+        ticker_models: dict[str, set[str]] = {}
+        for models in evals.values():
+            for model_name, holdings in models.items():
+                for h in holdings:
+                    if h.get("status") != "sell":
+                        ticker_models.setdefault(h["ticker"], set()).add(model_name)
+        multi = {t: m for t, m in ticker_models.items() if len(m) >= 2}
+
+        lines += ["## Multi-Model Confluence", ""]
+        if multi:
+            for ticker, models in sorted(multi.items(), key=lambda x: -len(x[1])):
+                ret = price_changes.get(ticker)
+                ret_str = f" ({math.exp(ret)-1:+.1%})" if ret is not None else ""
+                lines.append(f"- **{ticker}**{ret_str} — {', '.join(sorted(models))}")
+        else:
+            lines.append("_No tickers recommended by multiple models this week._")
         lines.append("")
-
-    # --- Strategy Returns ---
-    lines += ["## Strategy Returns (All Time)", ""]
-    if strategy_returns:
-        lines.append("| Model | Strategy | N | Mean Log Return | Win Rate |")
-        lines.append("|---|---|---|---|---|")
-        for model in sorted(strategy_returns):
-            for strategy, stats in sorted(strategy_returns[model].items()):
-                win_str = f"{stats['win_rate']*100:.0f}%" if stats.get("win_rate") is not None else "—"
-                lines.append(
-                    f"| {model} | {strategy} | {stats['count']} "
-                    f"| {stats['mean_log_return']:+.4f} | {win_str} |"
-                )
-    else:
-        lines.append("_No closed strategy observations yet._")
-    lines.append("")
 
     lines.append(f"_Generated {date.today().isoformat()}_")
 

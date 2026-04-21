@@ -245,10 +245,6 @@ def run_models(eval_date: str | None = None) -> None:
 
     log.info("runner.done", eval_date=eval_date)
 
-    # Generate decision markdown
-    from src.decisions.generate import generate_decision_file
-    generate_decision_file(eval_date)
-
 
 if __name__ == "__main__":
     import argparse
