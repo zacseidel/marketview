@@ -146,20 +146,29 @@ def _assign_statuses_time_based(
     exit_days: int,
 ) -> list[HoldingRecord]:
     """
-    Time-based exit strategy:
-      - Each new pick is held for exactly exit_days trading days, then sold.
-      - New top picks are added as new_buy unless already in the portfolio.
-      - Previously held tickers that haven't expired yet remain as hold
-        (whether or not the model still ranks them highly).
+    Time-based exit strategy, with support for model-declared immediate sells.
+
+    Models may return HoldingRecord(status="sell") for price-signal exits (e.g.
+    EMA violations). Those are honored immediately — no time-based countdown.
+    For any previously-held ticker the model simply didn't re-pick, the normal
+    10-day grace period applies.
     """
     result: list[HoldingRecord] = []
     handled: set[str] = set()
 
-    # Build a quick lookup for this run's model picks
-    picks_by_ticker = {h.ticker: h for h in holdings}
+    # Honor model-declared immediate sells first (EMA violations etc.)
+    for h in holdings:
+        if h.status == "sell":
+            result.append(h)
+            handled.add(h.ticker)
+
+    # Build lookup for genuine re-picks (everything that isn't an explicit sell)
+    picks_by_ticker = {h.ticker: h for h in holdings if h.status != "sell"}
 
     # Process all previously held tickers
     for ticker, last_rec_date in prev_entries.items():
+        if ticker in handled:
+            continue
         pick = picks_by_ticker.get(ticker)
         if pick:
             # Model re-picked this ticker → reset the clock to today
@@ -227,17 +236,20 @@ def run_models(eval_date: str | None = None) -> None:
             continue
 
         log.info("runner.running_model", model=model_name)
+        exit_days = int(model_cfg.get("params", {}).get("time_based_exit_days", 10))
+        prev_entries = _prev_holdings_with_entry(model_name, eval_date)
         try:
             ModelClass = _load_model_class(model_cfg["module"], model_cfg["class"])
             instance: SelectionModel = ModelClass()
-            config = {**model_cfg.get("params", {}), "eval_date": eval_date}
+            config = {
+                **model_cfg.get("params", {}),
+                "eval_date": eval_date,
+                "prev_tickers": set(prev_entries.keys()),
+            }
             holdings = instance.run(config, dal)
         except Exception as exc:
             log.error("runner.model_error", model=model_name, error=str(exc))
             continue
-
-        exit_days = int(model_cfg.get("params", {}).get("time_based_exit_days", 10))
-        prev_entries = _prev_holdings_with_entry(model_name, eval_date)
         holdings = _assign_statuses_time_based(
             holdings, prev_entries, eval_date, model_name, exit_days
         )

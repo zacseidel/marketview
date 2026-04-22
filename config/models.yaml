@@ -114,6 +114,13 @@ models:
     enabled: false
     module: "src.selection.thirteen_f"
     class: "ThirteenFModel"
-    description: "Placeholder — SEC EDGAR 13F institutional position tracking (Phase 5)"
+    description: "Placeholder — SEC EDGAR 13F institutional position tracking"
+    params: {}
+
+  insider_buys:
+    enabled: false
+    module: "src.selection.insider_buys"
+    class: "InsiderBuysModel"
+    description: "Placeholder — SEC Form 4 insider open-market purchase signals"
     params: {}
 

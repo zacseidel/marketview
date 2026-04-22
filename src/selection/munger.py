@@ -19,6 +19,7 @@ Conviction scoring (0–1):
 
 from __future__ import annotations
 
+import json
 import math
 from pathlib import Path
 
@@ -29,6 +30,7 @@ from src.selection.base import DataAccessLayer, HoldingRecord, SelectionModel
 log = structlog.get_logger()
 
 _UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
+_MODELS_DIR = Path("data.nosync/models")
 
 _DEFAULT_CONFIG = {
     "universe_size": 100,       # top N S&P 500 tickers by market cap
@@ -44,9 +46,8 @@ def _ema(close_series, span: int) -> float:
     return float(close_series.ewm(span=span, adjust=False).mean().iloc[-1])
 
 
-def _top100_sp500_tickers(universe_size: int) -> list[str]:
+def _top100_sp500_tickers(universe_size: int, eval_date: str = "") -> list[str]:
     """Return top `universe_size` S&P 500 tickers sorted by market_cap descending."""
-    import json
     with open(_UNIVERSE_FILE) as f:
         constituents = json.load(f)
 
@@ -55,7 +56,28 @@ def _top100_sp500_tickers(universe_size: int) -> list[str]:
         if v.get("status") == "active" and v.get("tier") == "sp500"
     ]
     sp500.sort(key=lambda v: v.get("market_cap") or 0.0, reverse=True)
-    return [v["ticker"] for v in sp500[:universe_size]]
+    top = sp500[:universe_size]
+
+    if eval_date:
+        _save_universe(top, eval_date)
+
+    return [v["ticker"] for v in top]
+
+
+def _save_universe(ranked: list[dict], eval_date: str) -> None:
+    """Persist the top-N market-cap ranking as a sidecar for the dashboard to diff."""
+    out_dir = _MODELS_DIR / eval_date
+    out_dir.mkdir(parents=True, exist_ok=True)
+    path = out_dir / "munger_universe.json"
+    records = [
+        {"ticker": v["ticker"], "rank": i + 1, "market_cap": v.get("market_cap") or 0.0, "name": v.get("name", "")}
+        for i, v in enumerate(ranked)
+    ]
+    tmp = path.with_suffix(".tmp")
+    with open(tmp, "w") as f:
+        json.dump(records, f, indent=2)
+    tmp.replace(path)
+    log.info("munger.universe_saved", path=str(path), count=len(records))
 
 
 def _score_ticker(ticker: str, dal: DataAccessLayer, config: dict) -> tuple[float, str, dict] | None:
@@ -112,7 +134,7 @@ class MungerModel(SelectionModel):
         cfg = {**_DEFAULT_CONFIG, **config}
         eval_date = cfg.get("eval_date", "")
 
-        tickers = _top100_sp500_tickers(cfg["universe_size"])
+        tickers = _top100_sp500_tickers(cfg["universe_size"], eval_date=eval_date)
         log.info("munger.universe", count=len(tickers))
 
         holdings: list[HoldingRecord] = []
@@ -139,6 +161,34 @@ class MungerModel(SelectionModel):
 
         holdings.sort(key=lambda h: h.conviction, reverse=True)
         result_list = holdings[:cfg["max_holdings"]]
+
+        # Check previously-held tickers that weren't re-picked for EMA15 violations.
+        # If EMA15 is broken → immediate sell. If still above EMA15 but the SMA200
+        # touch window expired → let the time-based exit handle it (no explicit sell here).
+        prev_tickers: set[str] = set(cfg.get("prev_tickers", []))
+        re_picked = {h.ticker for h in result_list}
+        top100_set = set(tickers)
+        for ticker in prev_tickers - re_picked:
+            if ticker not in top100_set:
+                continue  # fell out of top-100 universe; time-based exit applies
+            try:
+                prices = dal.get_prices(ticker, lookback_days=cfg["sma_long"] + 10)
+                close = prices["close"]
+                if len(close) < 2:
+                    continue
+                current = float(close.iloc[-1])
+                ema15 = _ema(close, cfg["ema_short"])
+                if current <= ema15:
+                    result_list.append(HoldingRecord(
+                        model="munger",
+                        eval_date=eval_date,
+                        ticker=ticker,
+                        conviction=0.0,
+                        rationale=f"EMA{cfg['ema_short']} exit: ${current:.2f} ≤ EMA ${ema15:.2f}",
+                        status="sell",
+                    ))
+            except Exception as exc:
+                log.debug("munger.ema_exit_check_error", ticker=ticker, error=str(exc))
 
         log.info("munger.complete", qualifying=len(holdings), selected=len(result_list))
         return result_list

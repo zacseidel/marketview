@@ -157,7 +157,7 @@ def _print_recommendations() -> None:
     ticker_models: dict[str, list[str]] = {}
 
     for json_file in sorted(latest.glob("*.json")):
-        if json_file.stem.endswith("_ranks"):
+        if json_file.stem.endswith("_ranks") or json_file.stem.endswith("_universe"):
             continue
         with open(json_file) as f:
             holdings = json.load(f)

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>marketview — Models</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #0d1117; color: #c9d1d9; padding: 1.5rem;
+      max-width: 900px;
+    }
+    .header {
+      display: flex; align-items: baseline; justify-content: space-between;
+      margin-bottom: 0.5rem; flex-wrap: wrap; gap: 0.5rem;
+    }
+    .header h1 { font-size: 1.5rem; font-weight: 700; color: #e6edf3; }
+    nav { font-size: 0.82rem; margin-bottom: 1.75rem; }
+    nav a { color: #58a6ff; text-decoration: none; }
+    nav span { color: #30363d; }
+
+    .toc { margin-bottom: 2rem; }
+    .toc a { color: #58a6ff; text-decoration: none; font-size: 0.875rem; display: block; padding: 0.15rem 0; }
+    .toc a:hover { text-decoration: underline; }
+
+    .section {
+      background: #161b22; border: 1px solid #30363d;
+      border-radius: 8px; padding: 1.25rem 1.4rem;
+      margin-bottom: 1.25rem;
+    }
+    .section-title {
+      font-size: 1rem; font-weight: 700; color: #e6edf3;
+      margin-bottom: 0.2rem;
+    }
+    .section-title .badge {
+      font-size: 0.65rem; font-weight: 600; padding: 0.1rem 0.45rem;
+      border-radius: 4px; vertical-align: middle; margin-left: 0.5rem;
+    }
+    .badge-live { background: #1f3a1f; color: #3fb950; }
+    .badge-stub { background: #2a2215; color: #d29922; }
+
+    .section-sub {
+      font-size: 0.75rem; font-weight: 600; color: #8b949e;
+      text-transform: uppercase; letter-spacing: 0.07em;
+      margin: 1rem 0 0.4rem;
+    }
+    .section-sub:first-of-type { margin-top: 0.75rem; }
+
+    p { font-size: 0.875rem; line-height: 1.6; color: #c9d1d9; margin-bottom: 0.4rem; }
+    code {
+      font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: 0.8rem; background: #21262d;
+      padding: 0.1rem 0.35rem; border-radius: 3px; color: #79c0ff;
+    }
+
+    /* Field definition lists */
+    dl.fields { display: grid; grid-template-columns: max-content 1fr; gap: 0.25rem 1rem; font-size: 0.85rem; }
+    dl.fields dt { color: #e6edf3; font-weight: 600; white-space: nowrap; padding-top: 0.1rem; }
+    dl.fields dd { color: #c9d1d9; }
+
+    /* Feature table */
+    table { width: 100%; border-collapse: collapse; font-size: 0.83rem; margin-top: 0.25rem; }
+    th {
+      text-align: left; font-size: 0.7rem; font-weight: 600; color: #8b949e;
+      text-transform: uppercase; letter-spacing: 0.06em;
+      padding: 0.35rem 0.6rem; border-bottom: 1px solid #30363d;
+    }
+    td { padding: 0.32rem 0.6rem; border-bottom: 1px solid #21262d; color: #c9d1d9; }
+    tr:last-child td { border-bottom: none; }
+    td:first-child { font-family: "SFMono-Regular", Consolas, monospace; font-size: 0.78rem; color: #79c0ff; white-space: nowrap; }
+    .group-header td {
+      background: #0d1117; color: #8b949e; font-size: 0.7rem;
+      font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em;
+      padding: 0.5rem 0.6rem 0.25rem;
+    }
+
+    .formula {
+      background: #21262d; border-radius: 5px;
+      padding: 0.6rem 0.9rem; font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: 0.8rem; color: #79c0ff; margin: 0.4rem 0;
+      white-space: pre-wrap;
+    }
+
+    .page-section-header {
+      font-size: 0.65rem; font-weight: 700; color: #8b949e;
+      text-transform: uppercase; letter-spacing: 0.1em;
+      margin: 2rem 0 0.75rem;
+      padding-bottom: 0.4rem; border-bottom: 1px solid #30363d;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>marketview</h1>
+  </div>
+  <nav>
+    <a href="index.html">Home</a>
+    <span> · </span>
+    <a href="models.html">Models</a>
+    <span> · </span>
+    <a href="about.html">About</a>
+  </nav>
+
+  <!-- Table of contents -->
+  <div class="toc">
+    <div style="font-size:0.7rem;font-weight:600;color:#8b949e;text-transform:uppercase;letter-spacing:0.08em;margin-bottom:0.5rem">Contents</div>
+    <a href="#common">Common Mechanics</a>
+    <a href="#momentum">Momentum</a>
+    <a href="#munger">Munger (Large-Cap Mean Reversion)</a>
+    <a href="#repurchase">Repurchase (Buyback Yield)</a>
+    <a href="#watchlist">Watchlist</a>
+    <a href="#quant-v7">Quant GBM v7</a>
+    <a href="#thirteen-f">13F Institutional Holdings (placeholder)</a>
+    <a href="#insider-buys">Insider Buys (placeholder)</a>
+  </div>
+
+  <!-- ── Common mechanics ─────────────────────────────────────────── -->
+  <div class="section" id="common">
+    <div class="section-title">Common Mechanics</div>
+
+    <div class="section-sub">Universe</div>
+    <p>All models screen against the S&amp;P 500 and/or S&amp;P 400, sourced from weekly Wikipedia scrapes (~901 active tickers total). Composition is reconciled every Sunday; additions and removals update the universe file within 24 hours.</p>
+
+    <div class="section-sub">Evaluation cycle</div>
+    <p>The pipeline runs on <strong style="color:#e6edf3">Tuesday and Friday at 11:00 AM MT</strong> via GitHub Actions. Each run re-scores every eligible ticker and produces a new set of holdings.</p>
+
+    <div class="section-sub">Exit rules</div>
+    <p>Two exit mechanisms are in use across models:</p>
+    <dl class="fields">
+      <dt>Time-based (default)</dt><dd>A ticker is held for up to <strong style="color:#e6edf3">10 trading days</strong> after the most recent run that recommended it. If re-picked, the clock resets. Once 10 days elapse without a re-pick, the position is marked <code>sell</code>.</dd>
+      <dt>Immediate price exit</dt><dd>Models that have a hard price condition (e.g. EMA violation) emit an explicit <code>sell</code> on the same run the condition is breached — no countdown. Currently used by Munger (EMA 15) and Repurchase (EMA 21).</dd>
+    </dl>
+
+    <div class="section-sub">Conviction score</div>
+    <p>Each model assigns a <code>conviction</code> between 0.0 and 1.0 using its own scheme (documented per model below). Conviction is used for display ranking only — it does not affect position sizing.</p>
+
+    <div class="section-sub">Return metric</div>
+    <p>All return calculations use <strong style="color:#e6edf3">log returns</strong>: <code>log(price_t / price_t0)</code>. Log returns are additive over time and symmetric around zero, making them more suitable for model training and comparison than percentage returns.</p>
+  </div>
+
+  <!-- ── Momentum ──────────────────────────────────────────────────── -->
+  <div class="section" id="momentum">
+    <div class="section-title">Momentum <span class="badge badge-live">Live</span></div>
+
+    <div class="section-sub">Strategy</div>
+    <p>Buys the top 5 S&amp;P 500 stocks by trailing 12-month log return, with a rank-stability filter to avoid whipsawing in and out of high-volatility names.</p>
+
+    <div class="section-sub">Universe</div>
+    <p>S&amp;P 500 only. Tickers missing a full 252-day price history are excluded.</p>
+
+    <div class="section-sub">Signal</div>
+    <dl class="fields">
+      <dt>Return window</dt><dd>252 trading days (≈ 12 months)</dd>
+      <dt>Metric</dt><dd><code>log(close_today / close_252d_ago)</code></dd>
+      <dt>Ranking</dt><dd>All valid S&amp;P 500 tickers ranked descending by 12-month log return</dd>
+    </dl>
+
+    <div class="section-sub">Rank-stability filter</div>
+    <p>A ticker only qualifies if its current rank is <em>equal to or better than</em> its rank from the previous run. This removes names that are momentum leaders but losing ground — the first sign of a trend reversal. Tickers with no prior rank (first run, or newly added) pass automatically.</p>
+
+    <div class="section-sub">Selection</div>
+    <p>Top 5 tickers from the rank-stable set.</p>
+
+    <div class="section-sub">Conviction formula</div>
+    <div class="formula">conviction = 1 − (rank − 1) / (total_ranked − 1)</div>
+    <p>Rank 1 scores 1.0; the last-ranked ticker scores 0.0. Only top-5 tickers are held, so minimum conviction in the portfolio is approximately 0.99 (rank 5 of ~480 valid tickers).</p>
+  </div>
+
+  <!-- ── Munger ────────────────────────────────────────────────────── -->
+  <div class="section" id="munger">
+    <div class="section-title">Munger — Large-Cap Mean Reversion <span class="badge badge-live">Live</span></div>
+
+    <div class="section-sub">Strategy</div>
+    <p>Inspired by Charlie Munger's principle of buying quality businesses at fair prices. Screens the 100 largest S&amp;P 500 companies for recent dips to or below their 200-day SMA, then buys only if the price has recovered back above the 15-day EMA — confirming the dip was bought, not the start of a downtrend.</p>
+
+    <div class="section-sub">Universe</div>
+    <p>Top 100 S&amp;P 500 tickers by market cap (from most recent constituent data). The full ranked list is saved each run as <code>munger_universe.json</code>; the Universe Changes tile on each report shows week-over-week entry/exit from this set.</p>
+
+    <div class="section-sub">Buy / hold signal</div>
+    <p>Both conditions must be true simultaneously:</p>
+    <dl class="fields">
+      <dt>SMA(200) dip</dt><dd>Price touched at or below its 200-day simple moving average at least once in the last 21 trading days</dd>
+      <dt>EMA(15) recovery</dt><dd>Current close is strictly above the 15-day exponential moving average</dd>
+    </dl>
+
+    <div class="section-sub">Exit logic</div>
+    <p>Two distinct exit paths, depending on <em>why</em> the model stops re-picking a holding:</p>
+    <dl class="fields">
+      <dt>EMA(15) broken</dt><dd><strong style="color:#f85149">Immediate sell</strong> — emitted on the same run the violation is detected. Does not wait for the time-based countdown.</dd>
+      <dt>SMA(200) touch expired</dt><dd><strong style="color:#d29922">Time-based exit</strong> — the dip opportunity has passed but price is still healthy. Held for up to 10 more trading days without a re-pick, then sold.</dd>
+    </dl>
+
+    <div class="section-sub">Conviction formula</div>
+    <div class="formula">pct_above_ema15 = (close − EMA15) / EMA15
+conviction = min(pct_above_ema15 / 0.05, 1.0)</div>
+    <p>A stock 5% or more above its EMA(15) scores 1.0. The cap reflects that larger gaps often indicate overbought conditions rather than higher quality.</p>
+  </div>
+
+  <!-- ── Repurchase ────────────────────────────────────────────────── -->
+  <div class="section" id="repurchase">
+    <div class="section-title">Repurchase — Buyback Yield <span class="badge badge-live">Live</span></div>
+
+    <div class="section-sub">Strategy</div>
+    <p>Identifies companies aggressively buying back their own stock. Heavy, consistent buybacks signal management confidence in intrinsic value and reduce share count, mechanically increasing per-share earnings.</p>
+
+    <div class="section-sub">Universe</div>
+    <p>S&amp;P 400 (S&amp;P 500 expansion pending fundamentals backfill). Requires at least 4 quarters of shares-outstanding data.</p>
+
+    <div class="section-sub">Signal</div>
+    <dl class="fields">
+      <dt>Buyback rate</dt><dd><code>(shares_4q_ago − shares_now) / shares_4q_ago</code> — trailing 12-month net reduction in share count</dd>
+      <dt>EMA filter</dt><dd>Current close must be above the 21-day EMA (avoid catching falling knives)</dd>
+      <dt>Selection</dt><dd>Top 5 tickers by buyback rate, EMA filter applied first</dd>
+    </dl>
+
+    <div class="section-sub">Exit logic</div>
+    <p>Two distinct exit paths, depending on <em>why</em> the model stops re-picking a holding:</p>
+    <dl class="fields">
+      <dt>EMA(21) broken</dt><dd><strong style="color:#f85149">Immediate sell</strong> — emitted on the same run the violation is detected. Does not wait for the time-based countdown.</dd>
+      <dt>Dropped from top-5 ranking</dt><dd><strong style="color:#d29922">Time-based exit</strong> — buyback yield is no longer top-ranked but price is still above EMA. Held for up to 10 more trading days without a re-pick, then sold.</dd>
+    </dl>
+
+    <div class="section-sub">Conviction formula</div>
+    <p>Normalized rank within the qualifying set: rank 1 scores 1.0, rank 5 scores approximately 0.0.</p>
+  </div>
+
+  <!-- ── Watchlist ─────────────────────────────────────────────────── -->
+  <div class="section" id="watchlist">
+    <div class="section-title">Watchlist <span class="badge badge-live">Live</span></div>
+
+    <div class="section-sub">Strategy</div>
+    <p>A manually curated list of tickers with user-assigned conviction scores and notes. Useful for tracking thesis-driven positions that don't fit a purely quantitative screen.</p>
+
+    <div class="section-sub">Source</div>
+    <p>Reads from <code>config/watchlist.yaml</code>. Each entry specifies a ticker, conviction (0–1), and optional rationale notes. The model produces a holding record for each active ticker in the file.</p>
+  </div>
+
+  <!-- ── Quant GBM v7 ──────────────────────────────────────────────── -->
+  <div class="section" id="quant-v7">
+    <div class="section-title">Quant GBM v7 — XGBoost Factor Model <span class="badge badge-live">Live</span></div>
+
+    <div class="section-sub">Strategy</div>
+    <p>A gradient-boosted tree model trained to predict 5-day forward raw returns. Scores all S&amp;P 500 + S&amp;P 400 tickers on Friday and picks the top 5 by predicted score.</p>
+
+    <div class="section-sub">Model details</div>
+    <dl class="fields">
+      <dt>Algorithm</dt><dd>XGBoost with <code>enable_categorical=True</code></dd>
+      <dt>Target</dt><dd>5-day forward raw log return</dd>
+      <dt>Training universe</dt><dd>S&amp;P 500 + S&amp;P 400, 10 years of daily price history</dd>
+      <dt>Training filter</dt><dd>Thursdays only — aligns features with the Friday evaluation cycle</dd>
+      <dt>Train / val split</dt><dd>Walk-forward: most recent 2 years = validation, rest = training</dd>
+      <dt>Validation ICIR</dt><dd><strong style="color:#3fb950">2.983</strong> (Information Coefficient × √252 / IC std dev)</dd>
+      <dt>Run cycle</dt><dd>Friday only — returns no picks on Tuesday runs</dd>
+      <dt>Feature count</dt><dd>46 numeric + 1 categorical (sector) = <strong style="color:#e6edf3">47 total</strong></dd>
+    </dl>
+
+    <div class="section-sub">Conviction formula</div>
+    <div class="formula">conviction = (score − min_score) / (max_score − min_score)</div>
+    <p>Scores are normalized within the top-5 selection. Rank 1 scores 1.0; rank 5 scores 0.0.</p>
+
+    <div class="section-sub">Anti-leakage rules</div>
+    <dl class="fields">
+      <dt>earn_ret_5d_to_20d</dt><dd>Masked to NaN within 20 trading days of the earnings event (the day-20 price is still in the future)</dd>
+      <dt>ni_qoq_growth</dt><dd>Clipped to ±3 to prevent extreme one-off quarters from dominating splits</dd>
+      <dt>ni_acceleration</dt><dd>Clipped to ±3 for the same reason</dd>
+    </dl>
+
+    <div class="section-sub">Feature reference (47 total)</div>
+    <table>
+      <thead><tr><th>Feature</th><th>Description</th></tr></thead>
+      <tbody>
+        <tr class="group-header"><td colspan="2">Price vs Moving Averages (3)</td></tr>
+        <tr><td>pct_sma10</td><td>% above/below 10-day SMA</td></tr>
+        <tr><td>pct_sma50</td><td>% above/below 50-day SMA</td></tr>
+        <tr><td>pct_sma200</td><td>% above/below 200-day SMA</td></tr>
+
+        <tr class="group-header"><td colspan="2">Trend Slope (3)</td></tr>
+        <tr><td>slope_10d</td><td>OLS slope of log-price over 10 days, normalized by price level</td></tr>
+        <tr><td>slope_50d</td><td>OLS slope over 50 days</td></tr>
+        <tr><td>slope_200d</td><td>OLS slope over 200 days</td></tr>
+
+        <tr class="group-header"><td colspan="2">Log Returns (6)</td></tr>
+        <tr><td>log_ret_5d</td><td>log(close / close[−5d])</td></tr>
+        <tr><td>log_ret_20d</td><td>log(close / close[−20d])</td></tr>
+        <tr><td>log_ret_60d</td><td>log(close / close[−60d])</td></tr>
+        <tr><td>log_ret_126d</td><td>log(close / close[−126d]) — 6-month</td></tr>
+        <tr><td>log_ret_252d</td><td>log(close / close[−252d]) — 12-month</td></tr>
+        <tr><td>log_ret_756d</td><td>log(close / close[−756d]) — 3-year</td></tr>
+
+        <tr class="group-header"><td colspan="2">Momentum Quality (2)</td></tr>
+        <tr><td>momentum_sharpe</td><td>Mean daily log return / std dev over trailing 252d (annualized risk-adjusted momentum)</td></tr>
+        <tr><td>trend_accel</td><td>Difference between short-term and long-term slope — is trend accelerating?</td></tr>
+
+        <tr class="group-header"><td colspan="2">Price vs Range (3)</td></tr>
+        <tr><td>pct_52w_high</td><td>% below the 52-week high</td></tr>
+        <tr><td>pct_52w_low</td><td>% above the 52-week low</td></tr>
+        <tr><td>pct_ath</td><td>% below all-time high in the price history</td></tr>
+
+        <tr class="group-header"><td colspan="2">Volatility (2)</td></tr>
+        <tr><td>vol_20d</td><td>Annualized realized volatility over 20 days (std dev of daily log returns × √252)</td></tr>
+        <tr><td>vol_60d</td><td>Same over 60 days</td></tr>
+
+        <tr class="group-header"><td colspan="2">Liquidity (2)</td></tr>
+        <tr><td>log_dollar_vol_20d</td><td>log(average daily dollar volume over 20 days)</td></tr>
+        <tr><td>dollar_vol_rel_20d</td><td>Today's dollar volume relative to 20-day average (turnover spike detector)</td></tr>
+
+        <tr class="group-header"><td colspan="2">Earnings Timing (3)</td></tr>
+        <tr><td>days_since_earnings</td><td>Trading days since most recent earnings event (NaN if &gt; 20 days)</td></tr>
+        <tr><td>days_until_earnings</td><td>Calendar days to next expected earnings date</td></tr>
+        <tr><td>days_to_next_earnings</td><td>Normalized version: days_until_earnings / 91 (fraction of quarter elapsed)</td></tr>
+
+        <tr class="group-header"><td colspan="2">Market Regime — SPY (5)</td></tr>
+        <tr><td>spy_ret_5d</td><td>SPY 5-day log return (short-term market direction)</td></tr>
+        <tr><td>spy_ret_20d</td><td>SPY 20-day log return</td></tr>
+        <tr><td>spy_vol_20d</td><td>SPY 20-day annualized volatility (market stress proxy)</td></tr>
+        <tr><td>spy_pct_above_sma200</td><td>SPY % above/below its 200-day SMA</td></tr>
+        <tr><td>spy_pct_above_sma50</td><td>SPY % above/below its 50-day SMA</td></tr>
+
+        <tr class="group-header"><td colspan="2">Market Breadth (2)</td></tr>
+        <tr><td>mkt_breadth_sma200</td><td>% of S&amp;P 500 constituents trading above their 200-day SMA</td></tr>
+        <tr><td>mkt_breadth_change_20d</td><td>20-day change in that breadth reading (improving vs deteriorating)</td></tr>
+
+        <tr class="group-header"><td colspan="2">Sector Relative Performance (7)</td></tr>
+        <tr><td>sector_ret_20d</td><td>Equal-weight sector return over 20 days</td></tr>
+        <tr><td>sector_vs_spy_20d</td><td>Sector return minus SPY return over 20 days</td></tr>
+        <tr><td>sector_ret_rank</td><td>Sector's 20-day return rank among all sectors (0=worst, 1=best)</td></tr>
+        <tr><td>sector_ret_60d</td><td>Equal-weight sector return over 60 days</td></tr>
+        <tr><td>stock_vs_sector_20d</td><td>Stock's 20-day return minus its sector's 20-day return</td></tr>
+        <tr><td>sector_ret_126d</td><td>Equal-weight sector return over 126 days (6-month)</td></tr>
+        <tr><td>stock_vs_sector_126d</td><td>Stock's 126-day return minus its sector's 126-day return</td></tr>
+
+        <tr class="group-header"><td colspan="2">Universe Membership (1)</td></tr>
+        <tr><td>in_sp500</td><td>1 if S&amp;P 500 constituent, 0 if S&amp;P 400</td></tr>
+
+        <tr class="group-header"><td colspan="2">Earnings Fundamentals (6)</td></tr>
+        <tr><td>eps_surprise_pct</td><td>(Actual EPS − Consensus EPS) / |Consensus EPS| at most recent earnings</td></tr>
+        <tr><td>earn_ret_5d</td><td>log return from earnings date close to close+5 (PEAD initial move)</td></tr>
+        <tr><td>ni_yoy_growth</td><td>Year-over-year net income growth (most recent vs same quarter prior year)</td></tr>
+        <tr><td>rev_yoy_growth</td><td>Year-over-year revenue growth</td></tr>
+        <tr><td>ni_qoq_growth</td><td>Quarter-over-quarter net income growth — captures current trajectory (clipped ±3)</td></tr>
+        <tr><td>ni_acceleration</td><td>Change in YoY NI growth rate (second derivative — is growth accelerating?), clipped ±3</td></tr>
+
+        <tr class="group-header"><td colspan="2">Post-Earnings Drift (1)</td></tr>
+        <tr><td>earn_ret_5d_to_20d</td><td>log(close[earn+20] / close[earn+5]) — PEAD continuation after initial move. Masked to NaN within 20 trading days of earnings.</td></tr>
+
+        <tr class="group-header"><td colspan="2">Categorical (1)</td></tr>
+        <tr><td>sector</td><td>GICS sector (XGBoost native categorical encoding)</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ── 13F ───────────────────────────────────────────────────────── -->
+  <div class="section" id="thirteen-f">
+    <div class="section-title">13F — Institutional Holdings <span class="badge badge-stub">Planned</span></div>
+    <div class="section-sub">Strategy (planned)</div>
+    <p>Will track SEC EDGAR 13F quarterly filings from a curated list of fund managers. Signals will be based on new positions, position increases, and consensus buys across multiple tracked filers.</p>
+    <p style="color:#8b949e;font-size:0.82rem;margin-top:0.5rem">Not yet implemented.</p>
+  </div>
+
+  <!-- ── Insider Buys ──────────────────────────────────────────────── -->
+  <div class="section" id="insider-buys">
+    <div class="section-title">Insider Buys — Form 4 Signals <span class="badge badge-stub">Planned</span></div>
+    <div class="section-sub">Strategy (planned)</div>
+    <p>Will screen SEC Form 4 filings for open-market purchases by corporate insiders (officers and directors). Signals will weight by purchase size relative to the insider's existing holdings, recency, and clustering — multiple insiders buying simultaneously is a stronger signal than a single transaction.</p>
+    <p style="color:#8b949e;font-size:0.82rem;margin-top:0.5rem">Not yet implemented.</p>
+  </div>
+
+</body>
+</html>

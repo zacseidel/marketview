@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>marketview — About</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #0d1117; color: #c9d1d9; padding: 1.5rem;
+      max-width: 760px;
+    }
+    .header {
+      display: flex; align-items: baseline; justify-content: space-between;
+      margin-bottom: 0.5rem; flex-wrap: wrap; gap: 0.5rem;
+    }
+    .header h1 { font-size: 1.5rem; font-weight: 700; color: #e6edf3; }
+    nav { font-size: 0.82rem; margin-bottom: 1.75rem; }
+    nav a { color: #58a6ff; text-decoration: none; }
+    nav span { color: #30363d; }
+    h2 {
+      font-size: 0.7rem; font-weight: 600; color: #8b949e;
+      text-transform: uppercase; letter-spacing: 0.08em;
+      margin: 1.75rem 0 0.6rem;
+    }
+    h2:first-of-type { margin-top: 0; }
+    p { font-size: 0.9rem; line-height: 1.6; color: #c9d1d9; margin-bottom: 0.6rem; }
+    .disclaimer {
+      background: #161b22; border: 1px solid #30363d;
+      border-left: 3px solid #f85149;
+      border-radius: 6px; padding: 1rem 1.1rem;
+      margin-bottom: 1rem;
+    }
+    .disclaimer p { margin-bottom: 0; }
+    dl { font-size: 0.875rem; }
+    dt { font-weight: 600; color: #e6edf3; margin-top: 0.6rem; }
+    dd { color: #8b949e; margin-left: 0; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>marketview</h1>
+  </div>
+  <nav>
+    <a href="index.html">Home</a>
+    <span> · </span>
+    <a href="models.html">Models</a>
+    <span> · </span>
+    <a href="about.html">About</a>
+  </nav>
+
+  <h2>What is this?</h2>
+  <p>
+    marketview is a personal hobby project — a stock screening and model-tracking tool built
+    for fun and learning. It runs a handful of systematic models against the S&amp;P 500 and
+    S&amp;P 400 universe twice a week and publishes the results here.
+  </p>
+  <p>
+    The models range from simple rule-based screens (momentum, buyback yield, mean reversion)
+    to a gradient-boosted machine learning model trained on ten years of price and earnings history.
+    None of this constitutes a trading system or a portfolio — it is exploratory research only.
+  </p>
+
+  <h2>Disclaimer</h2>
+  <div class="disclaimer">
+    <p>
+      <strong style="color:#f85149">This site is not investment advice.</strong>
+      Nothing published here constitutes a recommendation to buy, sell, or hold any security.
+      The models, signals, and commentary are for educational and entertainment purposes only.
+      Past model performance does not guarantee future results. All investing involves risk,
+      including the possible loss of principal. Do your own research and consult a qualified
+      financial advisor before making any investment decisions.
+    </p>
+  </div>
+  <p>
+    This project has no affiliation with any financial institution, brokerage, or data vendor.
+    It is maintained by a single individual as a personal learning exercise.
+  </p>
+
+  <h2>Data Sources</h2>
+  <dl>
+    <dt>Price &amp; volume data</dt>
+    <dd>Polygon.io — daily OHLCV bars for S&amp;P 500 + S&amp;P 400 universe</dd>
+    <dt>Index composition</dt>
+    <dd>Wikipedia — weekly scrape of S&amp;P 500 and S&amp;P 400 constituent lists</dd>
+    <dt>Fundamentals</dt>
+    <dd>Polygon.io — quarterly financials (shares outstanding, revenue, net income)</dd>
+    <dt>Earnings events</dt>
+    <dd>Polygon.io — EPS surprise, revenue growth, post-earnings price moves</dd>
+    <dt>Institutional filings (future)</dt>
+    <dd>SEC EDGAR — 13F quarterly holdings disclosures</dd>
+    <dt>Insider transactions (future)</dt>
+    <dd>SEC EDGAR — Form 4 open-market purchase filings</dd>
+  </dl>
+
+  <h2>Technology</h2>
+  <dl>
+    <dt>Language</dt>
+    <dd>Python 3.11</dd>
+    <dt>ML model</dt>
+    <dd>XGBoost (gradient-boosted trees), trained locally on 10 years of daily price history</dd>
+    <dt>Pipeline</dt>
+    <dd>GitHub Actions — runs Tuesday and Friday at 11:00 AM MT</dd>
+    <dt>Hosting</dt>
+    <dd>GitHub Pages — static HTML, no server-side code</dd>
+  </dl>
+</body>
+</html>

@@ -65,9 +65,19 @@ def reconcile() -> dict:
         log.info("reconcile.new_index_member", ticker=ticker, tier=tier)
         if ticker in constituents:
             # Already in universe (broad) — upgrade tier
+            old_tier = constituents[ticker].get("tier", "broad")
             constituents[ticker]["tier"] = tier
+            constituents[ticker]["tier_change_date"] = today
+            constituents[ticker]["tier_change_from"] = old_tier
         else:
-            # Brand new — queue details fetch
+            # Brand new — queue details fetch; added_date set here so the dashboard
+            # can show it as a new addition before details are fetched
+            constituents[ticker] = {
+                "ticker": ticker,
+                "tier": tier,
+                "status": "active",
+                "added_date": today,
+            }
             queue.enqueue(
                 task_type="ticker_details",
                 ticker=ticker,
@@ -81,6 +91,9 @@ def reconcile() -> dict:
         if ticker in constituents and constituents[ticker].get("status") == "active":
             old_tier = constituents[ticker].get("tier", "broad")
             constituents[ticker]["tier"] = "broad"
+            constituents[ticker]["removed_date"] = today
+            constituents[ticker]["tier_change_date"] = today
+            constituents[ticker]["tier_change_from"] = old_tier
             log.info("reconcile.tier_downgraded", ticker=ticker, old_tier=old_tier, new_tier="broad")
 
     # Update tier for all tickers still in index (in case tier changed sp500↔sp400)

@@ -50,7 +50,7 @@ def _load_universe_stats() -> dict:
 
 def _load_benchmarks() -> dict:
     """
-    Load close + 5d and 252d log returns for SPY and QQQ.
+    Load close + 5d and 252d log returns for SPY, QQQ, and TMFC.
     Tries recent_prices.parquet first (has full history), then falls back to price files.
     """
     def _build_entry(closes: list[float], date_str: str) -> dict:
@@ -63,8 +63,8 @@ def _load_benchmarks() -> dict:
         try:
             import pandas as pd
             df = pd.read_parquet(_RECENT_PRICES_FILE)
-            out: dict = {"date": None, "spy": None, "qqq": None}
-            for ticker, key in (("SPY", "spy"), ("QQQ", "qqq")):
+            out: dict = {"date": None, "spy": None, "qqq": None, "tmfc": None}
+            for ticker, key in (("SPY", "spy"), ("QQQ", "qqq"), ("TMFC", "tmfc")):
                 t = df[df["ticker"] == ticker].sort_values("date").reset_index(drop=True)
                 if len(t) < 2:
                     continue
@@ -81,6 +81,7 @@ def _load_benchmarks() -> dict:
     files = sorted(f for f in _PRICES_DIR.glob("*.json") if f.stem[0].isdigit())
     spy_closes: list[float] = []
     qqq_closes: list[float] = []
+    tmfc_closes: list[float] = []
     last_date: str | None = None
     for f in files[-253:]:
         with open(f) as fp:
@@ -90,11 +91,14 @@ def _load_benchmarks() -> dict:
             last_date = f.stem
         if "QQQ" in lookup:
             qqq_closes.append(lookup["QQQ"]["close"])
+        if "TMFC" in lookup:
+            tmfc_closes.append(lookup["TMFC"]["close"])
 
     return {
         "date": last_date,
         "spy": _build_entry(spy_closes, last_date) if spy_closes else None,
         "qqq": _build_entry(qqq_closes, last_date) if qqq_closes else None,
+        "tmfc": _build_entry(tmfc_closes, last_date) if tmfc_closes else None,
     }
 
 
@@ -143,7 +147,7 @@ def _load_latest_model_eval(price_changes: dict[str, float], as_of: str | None =
     models: dict[str, dict] = {}
     for json_file in sorted(latest_dir.glob("*.json")):
         model_name = json_file.stem
-        if model_name.endswith("_ranks"):
+        if model_name.endswith("_ranks") or model_name.endswith("_universe"):
             continue
         with open(json_file) as f:
             holdings = json.load(f)
@@ -182,7 +186,7 @@ def _load_all_model_holdings(as_of: str | None = None) -> tuple[str | None, dict
     result: dict[str, list[dict]] = {}
 
     for json_file in sorted(latest_dir.glob("*.json")):
-        if json_file.stem.endswith("_ranks"):
+        if json_file.stem.endswith("_ranks") or json_file.stem.endswith("_universe"):
             continue
         with open(json_file) as f:
             holdings = json.load(f)
@@ -192,6 +196,91 @@ def _load_all_model_holdings(as_of: str | None = None) -> tuple[str | None, dict
     return latest_dir.name, result
 
 
+
+
+def _load_universe_changes(lookback_days: int = 30) -> dict:
+    """
+    Returns recent S&P index additions/removals and megacap (Munger top-100) entry/exit.
+
+    Index changes sourced from constituents.json added_date / removed_date fields.
+    Megacap changes sourced by diffing the two most recent munger_universe.json sidecars.
+    """
+    from datetime import date, timedelta
+    cutoff = (date.today() - timedelta(days=lookback_days)).isoformat()
+
+    sp500_added: list[dict] = []
+    sp400_added: list[dict] = []
+    index_removed: list[dict] = []
+    sp500_to_sp400: list[dict] = []
+    sp400_to_sp500: list[dict] = []
+
+    if _UNIVERSE_FILE.exists():
+        with open(_UNIVERSE_FILE) as f:
+            constituents = json.load(f)
+        for ticker, r in constituents.items():
+            entry = {"ticker": ticker, "name": r.get("name", "")}
+            added = r.get("added_date", "")
+            removed = r.get("removed_date", "")
+            change_date = r.get("tier_change_date", "")
+            change_from = r.get("tier_change_from", "")
+            tier = r.get("tier", "")
+
+            if added >= cutoff and r.get("status") == "active":
+                if tier == "sp500":
+                    sp500_added.append({**entry, "date": added})
+                elif tier == "sp400":
+                    sp400_added.append({**entry, "date": added})
+
+            if removed and removed >= cutoff:
+                index_removed.append({**entry, "date": removed, "from_tier": change_from or tier})
+
+            if change_date >= cutoff and change_from and change_from != tier:
+                if change_from == "sp400" and tier == "sp500":
+                    sp400_to_sp500.append({**entry, "date": change_date})
+                elif change_from == "sp500" and tier == "sp400":
+                    sp500_to_sp400.append({**entry, "date": change_date})
+
+    # Megacap diff: compare two most recent munger_universe.json sidecars
+    megacap_entered: list[dict] = []
+    megacap_exited: list[dict] = []
+
+    if _MODELS_DIR.exists():
+        universe_files = sorted(
+            p for p in _MODELS_DIR.glob("*/munger_universe.json")
+            if p.parent.name[0].isdigit()
+        )
+        if len(universe_files) >= 2:
+            with open(universe_files[-2]) as f:
+                prev = {r["ticker"]: r for r in json.load(f)}
+            with open(universe_files[-1]) as f:
+                curr = {r["ticker"]: r for r in json.load(f)}
+            curr_date = universe_files[-1].parent.name
+            prev_date = universe_files[-2].parent.name
+
+            for ticker, rec in curr.items():
+                if ticker not in prev:
+                    megacap_entered.append({"ticker": ticker, "name": rec.get("name", ""), "rank": rec["rank"], "date": curr_date})
+            for ticker, rec in prev.items():
+                if ticker not in curr:
+                    megacap_exited.append({"ticker": ticker, "name": rec.get("name", ""), "prev_rank": rec["rank"], "date": curr_date})
+        elif len(universe_files) == 1:
+            prev_date = curr_date = None
+        else:
+            prev_date = curr_date = None
+    else:
+        prev_date = curr_date = None
+
+    return {
+        "sp500_added": sorted(sp500_added, key=lambda x: x["date"], reverse=True),
+        "sp400_added": sorted(sp400_added, key=lambda x: x["date"], reverse=True),
+        "index_removed": sorted(index_removed, key=lambda x: x["date"], reverse=True),
+        "sp400_to_sp500": sorted(sp400_to_sp500, key=lambda x: x["date"], reverse=True),
+        "sp500_to_sp400": sorted(sp500_to_sp400, key=lambda x: x["date"], reverse=True),
+        "megacap_entered": megacap_entered,
+        "megacap_exited": megacap_exited,
+        "megacap_as_of": curr_date,
+        "megacap_prev": prev_date,
+    }
 
 
 def _load_past_reports(limit: int = 10) -> list[dict]:
@@ -369,14 +458,107 @@ def _render_confluence(all_holdings: dict[str, list[dict]]) -> str:
 
 
 
-def _render_past_reports_card(reports: list[dict]) -> str:
+def _render_universe_changes_card(changes: dict) -> str:
+    def _change_rows(items: list[dict], date_key: str = "date", extra_col: str | None = None) -> str:
+        if not items:
+            return '<tr><td colspan="3" class="muted small">None in last 30 days</td></tr>'
+        rows = ""
+        for item in items:
+            name = item.get("name", "") or ""
+            name_str = f'<span class="muted small"> {name[:40]}</span>' if name else ""
+            extra = f'<td class="muted small">{item.get(extra_col, "")}</td>' if extra_col else ""
+            rows += (
+                f'<tr>'
+                f'<td class="ticker">{item["ticker"]}{name_str}</td>'
+                f'<td class="muted small">{item.get(date_key, "")}</td>'
+                f'{extra}'
+                f'</tr>'
+            )
+        return rows
+
+    # Index change sections
+    sp500_add_rows  = _change_rows(changes["sp500_added"])
+    sp400_add_rows  = _change_rows(changes["sp400_added"])
+    removed_rows    = _change_rows(changes["index_removed"], extra_col="from_tier")
+    promoted_rows   = _change_rows(changes["sp400_to_sp500"])
+    demoted_rows    = _change_rows(changes["sp500_to_sp400"])
+
+    # Megacap section
+    as_of    = changes.get("megacap_as_of") or ""
+    prev     = changes.get("megacap_prev") or ""
+    mc_label = f"{prev} → {as_of}" if prev and as_of else (as_of or "—")
+
+    if not as_of:
+        mc_body = '<tr><td colspan="3" class="muted small">No megacap sidecar yet — run the models first</td></tr>'
+    elif not prev:
+        mc_body = f'<tr><td colspan="3" class="muted small">Only one run available ({as_of}) — need two to diff</td></tr>'
+    else:
+        entered_rows = _change_rows(changes["megacap_entered"], extra_col="rank")
+        exited_rows  = _change_rows(changes["megacap_exited"], date_key="date", extra_col="prev_rank")
+        if not changes["megacap_entered"] and not changes["megacap_exited"]:
+            mc_body = f'<tr><td colspan="3" class="muted small">No changes between {prev} and {as_of}</td></tr>'
+        else:
+            mc_body = (
+                f'<tr><td colspan="3" class="muted small" style="padding-top:0.6rem"><strong style="color:#e6edf3">Entered top 100</strong></td></tr>'
+                + entered_rows
+                + f'<tr><td colspan="3" class="muted small" style="padding-top:0.6rem"><strong style="color:#e6edf3">Exited top 100</strong></td></tr>'
+                + exited_rows
+            )
+
+    return f"""
+    <div class="card wide">
+      <h2>Universe Changes</h2>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem">
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">S&amp;P 500 Additions</div>
+          <table><tbody>{sp500_add_rows}</tbody></table>
+        </div>
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">S&amp;P 400 Additions</div>
+          <table><tbody>{sp400_add_rows}</tbody></table>
+        </div>
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">Index Removals</div>
+          <table>
+            <thead><tr><td class="muted small">Ticker</td><td class="muted small">Date</td><td class="muted small">Was In</td></tr></thead>
+            <tbody>{removed_rows}</tbody>
+          </table>
+        </div>
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">Promotions (400→500)</div>
+          <table><tbody>{promoted_rows}</tbody></table>
+        </div>
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">Demotions (500→400)</div>
+          <table><tbody>{demoted_rows}</tbody></table>
+        </div>
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">Megacap Top 100 — {mc_label}</div>
+          <table>
+            <thead><tr><td class="muted small">Ticker</td><td class="muted small">Date</td><td class="muted small">Rank</td></tr></thead>
+            <tbody>{mc_body}</tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>"""
+
+
+def _render_past_reports_card(reports: list[dict], path_prefix: str = "reports/") -> str:
     if not reports:
         return ""
     rows = ""
     for r in reports:
+        href = f'{path_prefix}{r["date"]}.html'
         rows += (
             f'<tr><td>'
-            f'<a href="{r["path"]}" style="color:#58a6ff;text-decoration:none">{r["date"]}</a>'
+            f'<a href="{href}" style="color:#58a6ff;text-decoration:none">{r["date"]}</a>'
             f'</td></tr>'
         )
     return f"""
@@ -390,6 +572,18 @@ def _render_past_reports_card(reports: list[dict]) -> str:
 # HTML assembly
 # ---------------------------------------------------------------------------
 
+def _nav_html(base: str = "") -> str:
+    return (
+        f'<nav style="font-size:0.82rem;margin-bottom:1.25rem">'
+        f'<a href="{base}index.html" style="color:#58a6ff;text-decoration:none">Home</a>'
+        f'<span style="color:#30363d"> · </span>'
+        f'<a href="{base}models.html" style="color:#58a6ff;text-decoration:none">Models</a>'
+        f'<span style="color:#30363d"> · </span>'
+        f'<a href="{base}about.html" style="color:#58a6ff;text-decoration:none">About</a>'
+        f'</nav>'
+    )
+
+
 def _build_html(
     generated_at: str,
     universe: dict,
@@ -398,11 +592,15 @@ def _build_html(
     all_holdings: dict[str, list[dict]],
     price_changes: dict[str, float],
     past_reports: list[dict],
+    universe_changes: dict,
+    reports_path_prefix: str = "reports/",
+    base_path: str = "",
 ) -> str:
 
     market_rows = (
         _render_market_row("SPY", market.get("spy"))
         + _render_market_row("QQQ", market.get("qqq"))
+        + _render_market_row("TMFC", market.get("tmfc"))
     )
     market_date = market.get("date") or "—"
 
@@ -422,8 +620,9 @@ def _build_html(
     else:
         holdings_cards = '<div class="card wide"><h2>Model Signals</h2><p class="muted">No model evaluations yet</p></div>'
 
-    confluence_card   = _render_confluence(all_holdings)
-    past_reports_card = _render_past_reports_card(past_reports)
+    confluence_card        = _render_confluence(all_holdings)
+    past_reports_card      = _render_past_reports_card(past_reports, path_prefix=reports_path_prefix)
+    universe_changes_card  = _render_universe_changes_card(universe_changes)
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -483,6 +682,7 @@ def _build_html(
     <h1>marketview</h1>
     <span class="meta">Updated {generated_at}</span>
   </div>
+  {_nav_html(base_path)}
 
   <div class="grid">
 
@@ -514,6 +714,9 @@ def _build_html(
     <!-- Past Reports -->
     {past_reports_card}
 
+    <!-- Universe Changes -->
+    {universe_changes_card}
+
     <!-- Model Overview Summary -->
     <div class="card wide">
       <h2>Model Overview — {eval_date}</h2>
@@ -544,32 +747,97 @@ def _build_html(
 # Entry point
 # ---------------------------------------------------------------------------
 
+def _build_index_html(generated_at: str, past_reports: list[dict]) -> str:
+    """Simple landing page — just a list of past reports with links."""
+    rows = ""
+    for r in past_reports:
+        rows += (
+            f'<tr><td>'
+            f'<a href="reports/{r["date"]}.html" style="color:#58a6ff;text-decoration:none">'
+            f'{r["date"]}</a>'
+            f'</td></tr>'
+        )
+    if not rows:
+        rows = '<tr><td class="muted">No reports yet</td></tr>'
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>marketview</title>
+  <style>
+    *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
+    body {{
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #0d1117; color: #c9d1d9; padding: 1.5rem;
+    }}
+    .header {{
+      display: flex; align-items: baseline; justify-content: space-between;
+      margin-bottom: 1.5rem; flex-wrap: wrap; gap: 0.5rem;
+    }}
+    .header h1 {{ font-size: 1.5rem; font-weight: 700; color: #e6edf3; }}
+    .header .meta {{ font-size: 0.8rem; color: #8b949e; }}
+    .card {{
+      background: #161b22; border: 1px solid #30363d;
+      border-radius: 8px; padding: 1rem; max-width: 360px;
+    }}
+    .card h2 {{
+      font-size: 0.7rem; font-weight: 600; color: #8b949e;
+      text-transform: uppercase; letter-spacing: 0.08em;
+      margin-bottom: 0.75rem;
+    }}
+    table {{ width: 100%; border-collapse: collapse; font-size: 0.875rem; }}
+    td {{ padding: 0.4rem 0.5rem; border-bottom: 1px solid #21262d; }}
+    tr:last-child td {{ border-bottom: none; }}
+    .muted {{ color: #8b949e; }}
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>marketview</h1>
+    <span class="meta">Updated {generated_at}</span>
+  </div>
+  {_nav_html()}
+  <div class="card">
+    <h2>Past Reports</h2>
+    <table><tbody>{rows}</tbody></table>
+  </div>
+</body>
+</html>"""
+
+
 def generate_daily_dashboard(as_of_date: str | None = None) -> None:
     _DOCS_DIR.mkdir(exist_ok=True)
     reports_dir = _DOCS_DIR / "reports"
     reports_dir.mkdir(exist_ok=True)
 
-    generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    universe     = _load_universe_stats()
-    market       = _load_benchmarks()
-    price_changes = _load_week_price_changes(as_of=as_of_date)
-    model_eval   = _load_latest_model_eval(price_changes, as_of=as_of_date)
+    generated_at     = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    universe         = _load_universe_stats()
+    market           = _load_benchmarks()
+    price_changes    = _load_week_price_changes(as_of=as_of_date)
+    model_eval       = _load_latest_model_eval(price_changes, as_of=as_of_date)
     eval_date, all_holdings = _load_all_model_holdings(as_of=as_of_date)
-    past_reports = _load_past_reports()
+    past_reports     = _load_past_reports()
+    universe_changes = _load_universe_changes()
 
-    html = _build_html(
-        generated_at, universe, market, model_eval,
-        all_holdings, price_changes, past_reports,
-    )
+    index_html = _build_index_html(generated_at, past_reports)
 
     out = _DOCS_DIR / "index.html"
-    out.write_text(html)
+    out.write_text(index_html)
     log.info("dashboard.generated", path=str(out), universe=universe["total"], eval_date=eval_date)
 
-    # Write dated archive snapshot
+    # Write dated archive snapshot — past-report links use filename-only (same directory)
     if eval_date and eval_date != "—":
+        archive_html = _build_html(
+            generated_at, universe, market, model_eval,
+            all_holdings, price_changes, past_reports,
+            universe_changes=universe_changes,
+            reports_path_prefix="",
+            base_path="../",
+        )
         archive = reports_dir / f"{eval_date}.html"
-        archive.write_text(html)
+        archive.write_text(archive_html)
         log.info("dashboard.archived", path=str(archive))
 
 

@@ -23,7 +23,7 @@ _PRICES_DIR = Path("data.nosync/prices")
 _PRICES_PARQUET = Path("data.nosync/prices/prices.parquet")
 _UNIVERSE_FILE = Path("data.nosync/universe/constituents.json")
 _SPLIT_THRESHOLD = 0.40  # ±40% single-day move flags a potential split
-_BENCHMARK_TICKERS = {"SPY", "QQQ"}  # always stored alongside universe tickers
+_BENCHMARK_TICKERS = {"SPY", "QQQ", "TMFC"}  # always stored alongside universe tickers
 
 
 @dataclass

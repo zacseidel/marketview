@@ -199,5 +199,32 @@ class RepurchaseModel(SelectionModel):
                 metadata=meta,
             ))
 
+        # Check previously-held tickers that weren't re-picked for EMA21 violations.
+        # If EMA21 is broken → immediate sell. If still above EMA21 but dropped from
+        # the top-N ranking → let the time-based exit handle it (no explicit sell here).
+        prev_tickers: set[str] = set(config.get("prev_tickers", []))
+        re_picked = {h.ticker for h in holdings}
+        for ticker in prev_tickers - re_picked:
+            try:
+                prices = dal.get_prices(ticker, lookback_days=63)
+                if prices.empty or "close" not in prices.columns:
+                    continue
+                closes = prices["close"].dropna().tolist()
+                ema21 = _compute_ema(closes, _EMA_PERIOD)
+                if ema21 is None:
+                    continue
+                current_price = closes[-1]
+                if current_price <= ema21:
+                    holdings.append(HoldingRecord(
+                        model="repurchase",
+                        eval_date=eval_date,
+                        ticker=ticker,
+                        conviction=0.0,
+                        rationale=f"EMA{_EMA_PERIOD} exit: ${current_price:.2f} ≤ EMA ${ema21:.2f}",
+                        status="sell",
+                    ))
+            except Exception as exc:
+                log.debug("repurchase.ema_exit_check_error", ticker=ticker, error=str(exc))
+
         log.info("repurchase.complete", candidates=len(candidates), selected=len(holdings), total_elapsed_s=round(time.perf_counter() - t_start, 2))
         return holdings
