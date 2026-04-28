@@ -76,7 +76,7 @@ def _get_tracked_tickers() -> set[str]:
         )
         if eval_dirs:
             for fpath in eval_dirs[-1].glob("*.json"):
-                if fpath.stem.endswith("_ranks"):
+                if fpath.stem.endswith("_ranks") or fpath.stem.endswith("_universe") or fpath.stem.endswith("_overflow"):
                     continue
                 with open(fpath) as f:
                     holdings = json.load(f)

@@ -1,11 +1,11 @@
 [
   {
     "ticker": "BA",
-    "period": "TTM 2025",
-    "filing_date": "2026-01-30",
-    "shares_outstanding": 762300000.0,
-    "revenue": 89463000000.0,
-    "net_income": 2238000000.0,
+    "period": "Q1 2026",
+    "filing_date": "2026-04-22",
+    "shares_outstanding": 788000000.0,
+    "revenue": 22217000000.0,
+    "net_income": -7000000.0,
     "market_cap": null
   },
   {

@@ -36,11 +36,6 @@ jobs:
           POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
         run: python -m src.selection.runner
 
-      - name: Update model scorecards
-        env:
-          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
-        run: python -m src.tracking.model_scorecard
-
       - name: Regenerate daily dashboard
         env:
           POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
@@ -51,8 +46,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.nosync/models/ data.nosync/prices/ data.nosync/queue/ \
-                  data.nosync/strategy_observations/theoretical/ \
-                  decisions/pending/ docs/
+                  data.nosync/earnings/ docs/
           git diff --staged --quiet || git commit -m "chore: trade cycle $(date -u +%Y-%m-%d) [skip ci]"
           git checkout -- . && git pull --rebase origin main
           git push

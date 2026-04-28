@@ -10,7 +10,7 @@ models:
     description: "Top 5 S&P 500 tickers by trailing 12-month return (252 trading days), with rank-stability filter (rank must not drop week-over-week)"
     params:
       max_holdings: 5
-      time_based_exit_days: 10
+      exit_mode: immediate
 
   munger:
     enabled: true
@@ -22,8 +22,8 @@ models:
       sma_long: 200
       ema_short: 15
       dip_lookback: 21
-      max_holdings: 5
-      time_based_exit_days: 10
+      max_holdings: 30
+      exit_mode: immediate
 
   repurchase:
     enabled: true
@@ -32,7 +32,7 @@ models:
     description: "Top 5 by trailing-12-month share buyback % (shares repurchased / shares outstanding); must be above 21-day EMA. Sell if drops out of top 5 or below EMA. NOTE: currently runs on S&P 400 universe — will expand to S&P 500 once fundamentals bulk fetch is run."
     params:
       max_holdings: 5
-      time_based_exit_days: 10
+      exit_mode: immediate
 
   buyback:
     enabled: false
@@ -53,7 +53,7 @@ models:
     params:
       watchlist_path: "config/watchlist.yaml"
       max_holdings: 5
-      time_based_exit_days: 10
+      exit_mode: immediate
 
   quant_gbm:
     enabled: false
@@ -63,7 +63,7 @@ models:
     params:
       model: "gbm"
       max_holdings: 5
-      time_based_exit_days: 10
+      exit_mode: immediate
 
   quant_gbm_v3:
     enabled: false
@@ -72,7 +72,7 @@ models:
     description: "LightGBM v3: 28 technical (incl. log_ret_756d) + buyback + earnings + SPY market state + sector features; 10d forward log return target; trained on 10yr history. Val Sharpe: 1.125, excess return +0.84%/period vs SPY."
     params:
       max_holdings: 5
-      time_based_exit_days: 10   # sell exactly 10 trading days after new_buy
+      exit_mode: immediate
 
   quant_gbm_v4:
     enabled: false
@@ -81,7 +81,7 @@ models:
     description: "XGBoost v4: 35 features (slope/R² regressions, dollar volume, earnings timing, sector 126d, in_sp500); Thursday-weekly raw 5d return target; 5d forward window. Friday cycle only. Superseded by quant_gbm_v5."
     params:
       max_holdings: 5
-      time_based_exit_days: 10
+      exit_mode: immediate
 
   quant_gbm_v5:
     enabled: false
@@ -90,7 +90,7 @@ models:
     description: "XGBoost v5: 45 features — full union of v3+v4b (tech + slope/R² + dollar vol + earnings fundamentals + buyback + sector 20d+126d + in_sp500); Thursday-weekly raw 5d return target. Val ICIR: 2.792, Sharpe: 4.369. Friday cycle only. Superseded by v6."
     params:
       max_holdings: 5
-      time_based_exit_days: 10
+      exit_mode: immediate
 
   quant_gbm_v6:
     enabled: false
@@ -99,7 +99,7 @@ models:
     description: "XGBoost v6: 44 features — v5 cleaned (R²/buyback/log_price dropped) + expanded market regime (SPY×5 + breadth×2) + richer sector (20d/60d/126d); Thursday-weekly raw 5d return target. Val ICIR: 2.431, Sharpe: 4.607. Friday cycle only."
     params:
       max_holdings: 5
-      time_based_exit_days: 10
+      exit_mode: immediate
 
   quant_gbm_v7:
     enabled: true
@@ -108,7 +108,7 @@ models:
     description: "XGBoost v7: 47 features — v6 + ni_qoq_growth (clipped ±3) + ni_acceleration (clipped ±3) + earn_ret_5d_to_20d (leakage-masked); Thursday-weekly raw 5d return target. Val ICIR: 2.983, Sharpe: 4.338. Friday cycle only."
     params:
       max_holdings: 5
-      time_based_exit_days: 10
+      exit_mode: immediate
 
   thirteen_f:
     enabled: false

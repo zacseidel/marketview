@@ -157,7 +157,7 @@ def _print_recommendations() -> None:
     ticker_models: dict[str, list[str]] = {}
 
     for json_file in sorted(latest.glob("*.json")):
-        if json_file.stem.endswith("_ranks") or json_file.stem.endswith("_universe"):
+        if json_file.stem.endswith("_ranks") or json_file.stem.endswith("_universe") or json_file.stem.endswith("_overflow"):
             continue
         with open(json_file) as f:
             holdings = json.load(f)
@@ -179,7 +179,8 @@ def _print_recommendations() -> None:
         print(f"\n{header}  {counts}")
 
         status_label = {"new_buy": "NEW ", "hold": "HOLD", "sell": "SELL"}
-        for h in sorted(active, key=lambda x: -x.get("conviction", 0)):
+        sort_key = (lambda x: x["ticker"]) if json_file.stem == "munger" else (lambda x: -x.get("conviction", 0))
+        for h in sorted(active, key=sort_key):
             status = status_label.get(h.get("status", "hold"), "    ")
             rat = h.get("rationale", "")[:62]
             ret = week_rets.get(h["ticker"])
@@ -198,6 +199,17 @@ def _print_recommendations() -> None:
             ret = week_rets.get(ticker)
             ret_str = f" {ret:+.1%}" if ret is not None else ""
             print(f"    {ticker}{ret_str}  —  {', '.join(sorted(mods))}")
+
+    # Munger overflow: qualifiers dropped by max_holdings cap
+    overflow_file = latest / "munger_overflow.json"
+    if overflow_file.exists():
+        with open(overflow_file) as f:
+            overflow = json.load(f)
+        dropped = overflow.get("dropped", [])
+        if dropped:
+            cap = overflow.get("cap", "?")
+            tickers = ", ".join(r["ticker"] for r in dropped)
+            print(f"\n  Note (Munger): {len(dropped)} qualifier(s) dropped by {cap}-ticker cap — {tickers}")
 
     print(f"\n{'═'*64}\n")
 

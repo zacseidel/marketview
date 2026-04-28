@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>marketview</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #0d1117; color: #c9d1d9; padding: 1.5rem;
+    }
+    .header {
+      display: flex; align-items: baseline; justify-content: space-between;
+      margin-bottom: 1.5rem; flex-wrap: wrap; gap: 0.5rem;
+    }
+    .header h1 { font-size: 1.5rem; font-weight: 700; color: #e6edf3; }
+    .header .meta { font-size: 0.8rem; color: #8b949e; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 1rem;
+    }
+    .card {
+      background: #161b22; border: 1px solid #30363d;
+      border-radius: 8px; padding: 1rem;
+    }
+    .card h2 {
+      font-size: 0.7rem; font-weight: 600; color: #8b949e;
+      text-transform: uppercase; letter-spacing: 0.08em;
+      margin-bottom: 0.75rem;
+    }
+    .card.wide { grid-column: 1 / -1; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+    td { padding: 0.4rem 0.5rem; border-bottom: 1px solid #21262d; vertical-align: middle; }
+    tr:last-child td { border-bottom: none; }
+    .ticker { font-weight: 600; color: #e6edf3; font-family: monospace; }
+    .muted { color: #8b949e; }
+    .small { font-size: 0.78rem; }
+    .stat-row {
+      display: flex; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 0.5rem;
+    }
+    .stat { text-align: center; }
+    .stat .value { font-size: 1.5rem; font-weight: 700; color: #e6edf3; }
+    .stat .label { font-size: 0.7rem; color: #8b949e; text-transform: uppercase; }
+    .section-header {
+      font-size: 1rem; font-weight: 600; color: #e6edf3;
+      margin: 1.5rem 0 0.75rem; padding-bottom: 0.4rem;
+      border-bottom: 1px solid #30363d;
+      grid-column: 1 / -1;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>marketview</h1>
+    <span class="meta">Updated 2026-04-28 18:01 UTC</span>
+  </div>
+  <nav style="font-size:0.82rem;margin-bottom:1.25rem"><a href="../index.html" style="color:#58a6ff;text-decoration:none">Home</a><span style="color:#30363d"> · </span><a href="../models.html" style="color:#58a6ff;text-decoration:none">Models</a><span style="color:#30363d"> · </span><a href="../about.html" style="color:#58a6ff;text-decoration:none">About</a></nav>
+
+  <div class="grid">
+
+    <!-- Universe -->
+    <div class="card">
+      <h2>Universe</h2>
+      <div class="stat-row">
+        <div class="stat"><div class="value">901</div><div class="label">Total</div></div>
+        <div class="stat"><div class="value">501</div><div class="label">S&amp;P 500</div></div>
+        <div class="stat"><div class="value">400</div><div class="label">S&amp;P 400</div></div>
+        <div class="stat"><div class="value">0</div><div class="label">Broad</div></div>
+      </div>
+    </div>
+
+    <!-- Market -->
+    <div class="card">
+      <h2>Market — 2026-04-27</h2>
+      <table>
+        <thead><tr>
+          <td class="muted small">Ticker</td>
+          <td class="muted small">Close</td>
+          <td class="muted small">5d</td>
+          <td class="muted small">12m</td>
+        </tr></thead>
+        <tbody><tr><td class="ticker">SPY</td><td>$715.17</td><td><span style="color:#3fb950">+0.91%</span></td><td><span style="color:#3fb950">+31.93%</span></td></tr><tr><td class="ticker">QQQ</td><td>$664.23</td><td><span style="color:#3fb950">+2.66%</span></td><td><span style="color:#3fb950">+35.51%</span></td></tr><tr><td class="ticker">TMFC</td><td>$74.29</td><td><span class="muted">—</span></td><td><span class="muted">—</span></td></tr></tbody>
+      </table>
+    </div>
+
+    <!-- Past Reports -->
+    
+    <div class="card">
+      <h2>Past Reports</h2>
+      <table><tbody><tr><td><a href="2026-04-27.html" style="color:#58a6ff;text-decoration:none">2026-04-27</a></td></tr><tr><td><a href="2026-04-24.html" style="color:#58a6ff;text-decoration:none">2026-04-24</a></td></tr><tr><td><a href="2026-04-21.html" style="color:#58a6ff;text-decoration:none">2026-04-21</a></td></tr><tr><td><a href="2026-04-17.html" style="color:#58a6ff;text-decoration:none">2026-04-17</a></td></tr></tbody></table>
+    </div>
+
+    <!-- Universe Changes -->
+    
+    <div class="card wide">
+      <h2>Universe Changes</h2>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem">
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">S&amp;P 500 Additions</div>
+          <table><tbody><tr><td colspan="3" class="muted small">None in last 30 days</td></tr></tbody></table>
+        </div>
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">S&amp;P 400 Additions</div>
+          <table><tbody><tr><td colspan="3" class="muted small">None in last 30 days</td></tr></tbody></table>
+        </div>
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">Index Removals</div>
+          <table>
+            <thead><tr><td class="muted small">Ticker</td><td class="muted small">Date</td><td class="muted small">Was In</td></tr></thead>
+            <tbody><tr><td colspan="3" class="muted small">None in last 30 days</td></tr></tbody>
+          </table>
+        </div>
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">Promotions (400→500)</div>
+          <table><tbody><tr><td colspan="3" class="muted small">None in last 30 days</td></tr></tbody></table>
+        </div>
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">Demotions (500→400)</div>
+          <table><tbody><tr><td colspan="3" class="muted small">None in last 30 days</td></tr></tbody></table>
+        </div>
+
+        <div>
+          <div class="muted small" style="font-weight:600;text-transform:uppercase;letter-spacing:0.06em;margin-bottom:0.4rem">Megacap Top 100 — 2026-04-27 → 2026-04-28</div>
+          <table>
+            <thead><tr><td class="muted small">Ticker</td><td class="muted small">Date</td><td class="muted small">Rank</td></tr></thead>
+            <tbody><tr><td colspan="3" class="muted small">No changes between 2026-04-27 and 2026-04-28</td></tr></tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Model Overview Summary -->
+    <div class="card wide">
+      <h2>Model Overview — 2026-04-28</h2>
+      <table>
+        <thead><tr>
+          <td class="muted small">Model</td>
+          <td class="muted small">Holdings</td>
+          <td class="muted small">Avg 1W Log Ret</td>
+          <td class="muted small">Top Picks</td>
+        </tr></thead>
+        <tbody><tr><td class="ticker">momentum</td><td>5</td><td><span style="color:#3fb950;font-family:monospace">+0.0979</span></td><td class="muted small">SNDK, WDC, CIEN, STX, MU</td></tr><tr><td class="ticker">munger</td><td>19 <span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.1rem 0.4rem;font-weight:600">+3 new</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0237</span></td><td class="muted small">QCOM, PANW, CEG, AVGO, NVDA</td></tr><tr><td class="ticker">quant_gbm_v7</td><td>5 <span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.1rem 0.4rem;font-weight:600">+4 new</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0388</span></td><td class="muted small">INTC, AVTR, MU, KD, CVLT</td></tr><tr><td class="ticker">repurchase</td><td>5 <span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.1rem 0.4rem;font-weight:600">+1 new</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0484</span></td><td class="muted small">ASH, WSO, TLN, SNDK, DBX</td></tr><tr><td class="ticker">watchlist</td><td>1</td><td><span style="color:#f85149;font-family:monospace">-0.0201</span></td><td class="muted small">AAPL</td></tr></tbody>
+      </table>
+    </div>
+
+    <!-- Multi-Model Confluence -->
+    
+    <div class="card wide">
+      <h2>Multi-Model Confluence</h2>
+      <table>
+        <thead><tr>
+          <td class="muted small">Ticker</td>
+          <td class="muted small">Model Count</td>
+          <td class="muted small">Models</td>
+        </tr></thead>
+        <tbody><tr><td class="ticker">SNDK</td><td>2</td><td class="muted small">momentum, repurchase</td></tr><tr><td class="ticker">MU</td><td>2</td><td class="muted small">momentum, quant_gbm_v7</td></tr></tbody>
+      </table>
+    </div>
+
+    <!-- Per-Model Signals (one card per model) -->
+    <div class="section-header">Model Signals</div>
+    
+    <div class="card wide">
+      <h2>momentum &nbsp;<span class="muted" style="font-weight:400;text-transform:none;letter-spacing:0">0 new &nbsp;·&nbsp; 5 hold &nbsp;·&nbsp; 0 sell</span></h2>
+      <table>
+        <thead><tr>
+          <td class="muted small">Ticker</td>
+          <td class="muted small">Status</td>
+          <td class="muted small">1W Log Ret</td>
+          <td class="muted small">Rationale</td>
+        </tr></thead>
+        <tbody><tr><td class="ticker">SNDK</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.1588</span></td><td class="muted small">12m log return 358.1%, rank 1/496 (prior rank: 1, change: 0)</td></tr><tr><td class="ticker">WDC</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0687</span></td><td class="muted small">12m log return 241.1%, rank 2/496 (prior rank: 2, change: 0)</td></tr><tr><td class="ticker">CIEN</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0061</span></td><td class="muted small">12m log return 217.0%, rank 3/496 (prior rank: 3, change: 0)</td></tr><tr><td class="ticker">STX</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0989</span></td><td class="muted small">12m log return 208.7%, rank 4/496 (prior rank: 4, change: 0)</td></tr><tr><td class="ticker">MU</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.1568</span></td><td class="muted small">12m log return 206.2%, rank 5/496 (prior rank: 5, change: 0)</td></tr></tbody>
+      </table>
+    </div>
+    <div class="card wide">
+      <h2>munger &nbsp;<span class="muted" style="font-weight:400;text-transform:none;letter-spacing:0">3 new &nbsp;·&nbsp; 16 hold &nbsp;·&nbsp; 2 sell</span></h2>
+      <table>
+        <thead><tr>
+          <td class="muted small">Ticker</td>
+          <td class="muted small">Status</td>
+          <td class="muted small">1W Log Ret</td>
+          <td class="muted small">Rationale</td>
+        </tr></thead>
+        <tbody><tr><td class="ticker">UBER</td><td><span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">NEW</span></td><td><span style="color:#f85149;font-family:monospace">-0.0159</span></td><td class="muted small">Price $76.27 > EMA15 $74.93 (1.8% above); touched SMA200 within last 21d</td></tr><tr><td class="ticker">TSLA</td><td><span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">NEW</span></td><td><span style="color:#f85149;font-family:monospace">-0.0359</span></td><td class="muted small">Price $378.67 > EMA15 $377.63 (0.3% above); touched SMA200 within last 21d</td></tr><tr><td class="ticker">PGR</td><td><span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">NEW</span></td><td><span style="color:#f85149;font-family:monospace">-0.0089</span></td><td class="muted small">Price $201.98 > EMA15 $201.90 (0.0% above); touched SMA200 within last 21d</td></tr><tr><td class="ticker">QCOM</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0886</span></td><td class="muted small">Price $150.26 > EMA15 $136.92 (9.7% above); touched SMA200 within last 21d</td></tr><tr><td class="ticker">PANW</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0757</span></td><td class="muted small">Price $182.90 > EMA15 $171.31 (6.8% above); touched SMA200 within last 21d</td></tr><tr><td class="ticker">CEG</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0917</span></td><td class="muted small">Price $315.17 > EMA15 $295.52 (6.6% above); touched SMA200 within last 21d</td></tr><tr><td class="ticker">AVGO</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0454</span></td><td class="muted small">Hold: $418.20 > EMA15 $391.72 (6.8% above); SMA200 touch window expired</td></tr><tr><td class="ticker">NVDA</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0695</span></td><td class="muted small">Hold: $216.61 > EMA15 $198.07 (9.4% above); SMA200 touch window expired</td></tr><tr><td class="ticker">UNH</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0921</span></td><td class="muted small">Hold: $354.69 > EMA15 $328.54 (8.0% above); SMA200 touch window expired</td></tr><tr><td class="ticker">AMZN</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0504</span></td><td class="muted small">Hold: $261.12 > EMA15 $245.74 (6.3% above); SMA200 touch window expired</td></tr><tr><td colspan="4" class="muted small" style="text-align:center">+ 11 more holdings not shown</td></tr></tbody>
+      </table>
+    </div>
+    <div class="card wide">
+      <h2>quant_gbm_v7 &nbsp;<span class="muted" style="font-weight:400;text-transform:none;letter-spacing:0">4 new &nbsp;·&nbsp; 1 hold &nbsp;·&nbsp; 8 sell</span></h2>
+      <table>
+        <thead><tr>
+          <td class="muted small">Ticker</td>
+          <td class="muted small">Status</td>
+          <td class="muted small">1W Log Ret</td>
+          <td class="muted small">Rationale</td>
+        </tr></thead>
+        <tbody><tr><td class="ticker">INTC</td><td><span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">NEW</span></td><td><span style="color:#3fb950;font-family:monospace">+0.2574</span></td><td class="muted small">Quant v7 (XGB, 5d raw): predicted score 0.0354; earn_ret_5d=-0.036; earn_drift_5_20=+0.142; breadth=+58.718…</td></tr><tr><td class="ticker">MU</td><td><span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">NEW</span></td><td><span style="color:#3fb950;font-family:monospace">+0.1568</span></td><td class="muted small">Quant v7 (XGB, 5d raw): predicted score 0.0277; ni_yoy=+1.998; ni_accel=-0.761; breadth=+58.718; sector_126…</td></tr><tr><td class="ticker">KD</td><td><span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">NEW</span></td><td><span style="color:#f85149;font-family:monospace">-0.0744</span></td><td class="muted small">Quant v7 (XGB, 5d raw): predicted score 0.0273; earn_ret_5d=-0.154; earn_drift_5_20=+0.074; ni_yoy=+1.645; …</td></tr><tr><td class="ticker">CVLT</td><td><span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">NEW</span></td><td><span style="color:#f85149;font-family:monospace">-0.0813</span></td><td class="muted small">Quant v7 (XGB, 5d raw): predicted score 0.0270; earn_ret_5d=-0.092; earn_drift_5_20=+0.078; ni_yoy=+0.037; …</td></tr><tr><td class="ticker">AVTR</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#f85149;font-family:monospace">-0.0644</span></td><td class="muted small">Quant v7 (XGB, 5d raw): predicted score 0.0303; earn_ret_5d=+0.012; earn_drift_5_20=+0.158; ni_yoy=-0.516; …</td></tr><tr><td class="ticker">APP</td><td><span style="background:#3a1f1f;color:#f85149;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">SELL</span></td><td><span style="color:#f85149;font-family:monospace">-0.0645</span></td><td class="muted small">Dropped from model holdings</td></tr><tr><td class="ticker">NOW</td><td><span style="background:#3a1f1f;color:#f85149;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">SELL</span></td><td><span style="color:#f85149;font-family:monospace">-0.0976</span></td><td class="muted small">Dropped from model holdings</td></tr><tr><td class="ticker">OZK</td><td><span style="background:#3a1f1f;color:#f85149;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">SELL</span></td><td><span style="color:#f85149;font-family:monospace">-0.0213</span></td><td class="muted small">Dropped from model holdings</td></tr><tr><td class="ticker">AXON</td><td><span style="background:#3a1f1f;color:#f85149;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">SELL</span></td><td><span style="color:#f85149;font-family:monospace">-0.0029</span></td><td class="muted small">Dropped from model holdings</td></tr><tr><td class="ticker">BLKB</td><td><span style="background:#3a1f1f;color:#f85149;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">SELL</span></td><td><span style="color:#f85149;font-family:monospace">-0.0496</span></td><td class="muted small">Dropped from model holdings</td></tr><tr><td colspan="4" class="muted small" style="text-align:center">+ 3 more holdings not shown</td></tr></tbody>
+      </table>
+    </div>
+    <div class="card wide">
+      <h2>repurchase &nbsp;<span class="muted" style="font-weight:400;text-transform:none;letter-spacing:0">1 new &nbsp;·&nbsp; 4 hold &nbsp;·&nbsp; 1 sell</span></h2>
+      <table>
+        <thead><tr>
+          <td class="muted small">Ticker</td>
+          <td class="muted small">Status</td>
+          <td class="muted small">1W Log Ret</td>
+          <td class="muted small">Rationale</td>
+        </tr></thead>
+        <tbody><tr><td class="ticker">DBX</td><td><span style="background:#1f3a1f;color:#3fb950;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">NEW</span></td><td><span style="color:#f85149;font-family:monospace">-0.0186</span></td><td class="muted small">Repurchase: 18.1% of shares bought back in trailing 12mo (rank 5/5); price +0.1% above 21d EMA</td></tr><tr><td class="ticker">ASH</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#f85149;font-family:monospace">-0.0047</span></td><td class="muted small">Repurchase: 100.0% of shares bought back in trailing 12mo (rank 1/5); price +2.2% above 21d EMA</td></tr><tr><td class="ticker">WSO</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0412</span></td><td class="muted small">Repurchase: 98.8% of shares bought back in trailing 12mo (rank 2/5); price +9.7% above 21d EMA</td></tr><tr><td class="ticker">TLN</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.0654</span></td><td class="muted small">Repurchase: 62.7% of shares bought back in trailing 12mo (rank 3/5); price +7.8% above 21d EMA</td></tr><tr><td class="ticker">SNDK</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#3fb950;font-family:monospace">+0.1588</span></td><td class="muted small">Repurchase: 25.7% of shares bought back in trailing 12mo (rank 4/5); price +23.4% above 21d EMA</td></tr><tr><td class="ticker">GDDY</td><td><span style="background:#3a1f1f;color:#f85149;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">SELL</span></td><td><span style="color:#f85149;font-family:monospace">-0.0378</span></td><td class="muted small">EMA21 exit: $84.36 ≤ EMA $84.60</td></tr></tbody>
+      </table>
+    </div>
+    <div class="card wide">
+      <h2>watchlist &nbsp;<span class="muted" style="font-weight:400;text-transform:none;letter-spacing:0">0 new &nbsp;·&nbsp; 1 hold &nbsp;·&nbsp; 0 sell</span></h2>
+      <table>
+        <thead><tr>
+          <td class="muted small">Ticker</td>
+          <td class="muted small">Status</td>
+          <td class="muted small">1W Log Ret</td>
+          <td class="muted small">Rationale</td>
+        </tr></thead>
+        <tbody><tr><td class="ticker">AAPL</td><td><span style="background:#1c2333;color:#8b949e;border-radius:4px;font-size:0.7rem;padding:0.15rem 0.5rem;font-weight:700">HOLD</span></td><td><span style="color:#f85149;font-family:monospace">-0.0201</span></td><td class="muted small">Manual watchlist. Notes: Example entry — replace with your own tickers and thesis</td></tr></tbody>
+      </table>
+    </div>
+
+  </div>
+</body>
+</html>

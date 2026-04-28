@@ -1,6 +1,15 @@
 [
   {
     "ticker": "PG",
+    "period": "Q3 2026",
+    "filing_date": "2026-04-24",
+    "shares_outstanding": 2416500000.0,
+    "revenue": 21235000000.0,
+    "net_income": 3951000000.0,
+    "market_cap": null
+  },
+  {
+    "ticker": "PG",
     "period": "Q2 2026",
     "filing_date": "2026-01-23",
     "shares_outstanding": 2424000000.0,

@@ -10,8 +10,11 @@ Buy/hold signal (both must be true):
   - Price touched at or below SMA200 at least once in the last 21 trading days
   - Current price is above EMA15
 
+Hold signal (once entered):
+  - Continue holding as long as current price remains above EMA15
+
 Sell signal:
-  - Current price is at or below EMA15
+  - Current price at or below EMA15
 
 Conviction scoring (0–1):
   - How far current price is above EMA15, normalized (5% above = full score)
@@ -62,6 +65,26 @@ def _top100_sp500_tickers(universe_size: int, eval_date: str = "") -> list[str]:
         _save_universe(top, eval_date)
 
     return [v["ticker"] for v in top]
+
+
+def _save_overflow(overflow: list, cap: int, eval_date: str) -> None:
+    """Persist tickers that qualified but were dropped by the max_holdings cap."""
+    out_dir = _MODELS_DIR / eval_date
+    out_dir.mkdir(parents=True, exist_ok=True)
+    path = out_dir / "munger_overflow.json"
+    payload = {
+        "cap": cap,
+        "dropped": [
+            {"ticker": h.ticker, "conviction": h.conviction, "rationale": h.rationale}
+            for h in overflow
+        ],
+    }
+    tmp = path.with_suffix(".tmp")
+    with open(tmp, "w") as f:
+        json.dump(payload, f, indent=2)
+    tmp.replace(path)
+    if payload["dropped"]:
+        log.info("munger.overflow_saved", path=str(path), count=len(payload["dropped"]))
 
 
 def _save_universe(ranked: list[dict], eval_date: str) -> None:
@@ -116,8 +139,7 @@ def _score_ticker(ticker: str, dal: DataAccessLayer, config: dict) -> tuple[floa
 
     rationale = (
         f"Price ${current:.2f} > EMA{ema_short} ${ema15:.2f} "
-        f"({pct_above_ema*100:.1f}% above); "
-        f"touched SMA{sma_long} ${sma200:.2f} within last {dip_lookback}d"
+        f"({pct_above_ema*100:.1f}% above); touched SMA{sma_long} within last {dip_lookback}d"
     )
     metadata = {
         "current_price": round(current, 2),
@@ -161,20 +183,26 @@ class MungerModel(SelectionModel):
 
         holdings.sort(key=lambda h: h.conviction, reverse=True)
         result_list = holdings[:cfg["max_holdings"]]
+        if eval_date:
+            _save_overflow(holdings[cfg["max_holdings"]:], cfg["max_holdings"], eval_date)
 
-        # Check previously-held tickers that weren't re-picked for EMA15 violations.
-        # If EMA15 is broken → immediate sell. If still above EMA15 but the SMA200
-        # touch window expired → let the time-based exit handle it (no explicit sell here).
+        # For previously-held tickers that didn't re-qualify via the entry signal:
+        # hold as long as price stays above EMA15; sell immediately when it breaks.
         prev_tickers: set[str] = set(cfg.get("prev_tickers", []))
         re_picked = {h.ticker for h in result_list}
-        top100_set = set(tickers)
         for ticker in prev_tickers - re_picked:
-            if ticker not in top100_set:
-                continue  # fell out of top-100 universe; time-based exit applies
             try:
                 prices = dal.get_prices(ticker, lookback_days=cfg["sma_long"] + 10)
                 close = prices["close"]
                 if len(close) < 2:
+                    log.warning("munger.insufficient_prices", ticker=ticker, rows=len(close))
+                    result_list.append(HoldingRecord(
+                        model="munger",
+                        eval_date=eval_date,
+                        ticker=ticker,
+                        conviction=0.0,
+                        rationale="Hold: insufficient price data, retaining position",
+                    ))
                     continue
                 current = float(close.iloc[-1])
                 ema15 = _ema(close, cfg["ema_short"])
@@ -187,8 +215,28 @@ class MungerModel(SelectionModel):
                         rationale=f"EMA{cfg['ema_short']} exit: ${current:.2f} ≤ EMA ${ema15:.2f}",
                         status="sell",
                     ))
+                else:
+                    pct_above_ema = (current - ema15) / ema15
+                    conviction = round(min(pct_above_ema / 0.05, 1.0), 3)
+                    result_list.append(HoldingRecord(
+                        model="munger",
+                        eval_date=eval_date,
+                        ticker=ticker,
+                        conviction=conviction,
+                        rationale=(
+                            f"Hold: ${current:.2f} > EMA{cfg['ema_short']} ${ema15:.2f} "
+                            f"({pct_above_ema*100:.1f}% above); SMA200 touch window expired"
+                        ),
+                    ))
             except Exception as exc:
-                log.debug("munger.ema_exit_check_error", ticker=ticker, error=str(exc))
+                log.warning("munger.ema_exit_check_error", ticker=ticker, error=str(exc))
+                result_list.append(HoldingRecord(
+                    model="munger",
+                    eval_date=eval_date,
+                    ticker=ticker,
+                    conviction=0.0,
+                    rationale="Hold: price data unavailable, retaining position",
+                ))
 
         log.info("munger.complete", qualifying=len(holdings), selected=len(result_list))
         return result_list

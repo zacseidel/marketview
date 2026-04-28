@@ -147,7 +147,7 @@ def _load_latest_model_eval(price_changes: dict[str, float], as_of: str | None =
     models: dict[str, dict] = {}
     for json_file in sorted(latest_dir.glob("*.json")):
         model_name = json_file.stem
-        if model_name.endswith("_ranks") or model_name.endswith("_universe"):
+        if model_name.endswith("_ranks") or model_name.endswith("_universe") or model_name.endswith("_overflow"):
             continue
         with open(json_file) as f:
             holdings = json.load(f)
@@ -186,7 +186,7 @@ def _load_all_model_holdings(as_of: str | None = None) -> tuple[str | None, dict
     result: dict[str, list[dict]] = {}
 
     for json_file in sorted(latest_dir.glob("*.json")):
-        if json_file.stem.endswith("_ranks") or json_file.stem.endswith("_universe"):
+        if json_file.stem.endswith("_ranks") or json_file.stem.endswith("_universe") or json_file.stem.endswith("_overflow"):
             continue
         with open(json_file) as f:
             holdings = json.load(f)

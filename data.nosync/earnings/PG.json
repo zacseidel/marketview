@@ -1,6 +1,28 @@
 [
   {
     "ticker": "PG",
+    "period": "Q3 2026",
+    "announcement_date": null,
+    "filing_date": "2026-04-24",
+    "event_date": "2026-04-24",
+    "eps_estimate": null,
+    "eps_actual": null,
+    "eps_surprise_pct": null,
+    "revenue": 21235000000.0,
+    "net_income": 3951000000.0,
+    "shares_outstanding": 2416500000.0,
+    "ni_yoy_growth": -0.1648,
+    "rev_yoy_growth": -0.03,
+    "ni_qoq_growth": -0.0918,
+    "ni_acceleration": -0.2476,
+    "price_on_event_date": null,
+    "price_5d_after": null,
+    "price_20d_after": null,
+    "earn_ret_5d": null,
+    "earn_ret_5d_to_20d": null
+  },
+  {
+    "ticker": "PG",
     "period": "Q2 2026",
     "announcement_date": null,
     "filing_date": "2026-01-23",
