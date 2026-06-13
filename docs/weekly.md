@@ -1,5 +1,5 @@
-# Weekly Model Report — Week ending 2026-06-06
-_Period: 2026-05-31 → 2026-06-06_
+# Weekly Model Report — Week ending 2026-06-13
+_Period: 2026-06-07 → 2026-06-13_
 
 _No model evaluations this week._
-_Generated 2026-06-06_
+_Generated 2026-06-13_
